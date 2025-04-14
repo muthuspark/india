@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alpine on Beautiful India</title>
+    <link>http://localhost:1313/tags/alpine/</link>
+    <description>Recent content in Alpine on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/alpine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gurez Valley: A Paradise for Nature Lovers</title>
+      <link>http://localhost:1313/posts/jammu--kashmir/gurez-valley-a-paradise-for-nature-lovers/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jammu--kashmir/gurez-valley-a-paradise-for-nature-lovers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yusmarg: A Hidden Treasure of Alpine Beauty in Jammu &amp; Kashmir</title>
+      <link>http://localhost:1313/posts/jammu--kashmir/yusmarg-a-hidden-treasure-of-alpine-beauty-in-jammu--kashmir/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jammu--kashmir/yusmarg-a-hidden-treasure-of-alpine-beauty-in-jammu--kashmir/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

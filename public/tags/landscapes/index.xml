@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Landscapes on Beautiful India</title>
+    <link>http://localhost:1313/tags/landscapes/</link>
+    <description>Recent content in Landscapes on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/landscapes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring the Enchanting Landscapes of Kinnaur</title>
+      <link>http://localhost:1313/posts/himachal-pradesh/exploring-the-enchanting-landscapes-of-kinnaur/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/himachal-pradesh/exploring-the-enchanting-landscapes-of-kinnaur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parvati Valley: A Gateway to Spiritual and Natural Beauty</title>
+      <link>http://localhost:1313/posts/himachal-pradesh/parvati-valley-a-gateway-to-spiritual-and-natural-beauty/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/himachal-pradesh/parvati-valley-a-gateway-to-spiritual-and-natural-beauty/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

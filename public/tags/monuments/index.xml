@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monuments on Beautiful India</title>
+    <link>http://localhost:1313/tags/monuments/</link>
+    <description>Recent content in Monuments on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/monuments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gateway of India: An Iconic Landmark of Mumbai</title>
+      <link>http://localhost:1313/posts/maharashtra/gateway-of-india-an-iconic-landmark-of-mumbai/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/maharashtra/gateway-of-india-an-iconic-landmark-of-mumbai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taj Mahal: A Symbol of Love and Architectural Splendor</title>
+      <link>http://localhost:1313/posts/uttar-pradesh/taj-mahal-a-symbol-of-love-and-architectural-splendor/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/uttar-pradesh/taj-mahal-a-symbol-of-love-and-architectural-splendor/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

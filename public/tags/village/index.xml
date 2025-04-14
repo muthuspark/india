@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Village on Beautiful India</title>
+    <link>http://localhost:1313/tags/village/</link>
+    <description>Recent content in Village on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/village/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bylakuppe: A Glimpse into Tibetan Culture in Karnataka</title>
+      <link>http://localhost:1313/posts/karnataka/bylakuppe-a-glimpse-into-tibetan-culture-in-karnataka/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/karnataka/bylakuppe-a-glimpse-into-tibetan-culture-in-karnataka/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dhanushkodi: A Hidden Beach Haven in Tamil Nadu</title>
+      <link>http://localhost:1313/posts/tamil-nadu/dhanushkodi-a-hidden-beach-haven-in-tamil-nadu/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tamil-nadu/dhanushkodi-a-hidden-beach-haven-in-tamil-nadu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exploring the Alpine Village of Malana</title>
+      <link>http://localhost:1313/posts/himachal-pradesh/exploring-the-alpine-village-of-malana/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/himachal-pradesh/exploring-the-alpine-village-of-malana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mawlynnong: The Cleanest Village in Meghalaya</title>
+      <link>http://localhost:1313/posts/meghalaya/mawlynnong-the-cleanest-village-in-meghalaya/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/meghalaya/mawlynnong-the-cleanest-village-in-meghalaya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nagar: A Hidden Gem in the Kullu Valley</title>
+      <link>http://localhost:1313/posts/himachal-pradesh/nagar-a-hidden-gem-in-the-kullu-valley/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/himachal-pradesh/nagar-a-hidden-gem-in-the-kullu-valley/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

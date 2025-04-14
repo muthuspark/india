@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wildlife on Beautiful India</title>
+    <link>http://localhost:1313/tags/wildlife/</link>
+    <description>Recent content in Wildlife on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wildlife/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discover the Natural Beauty of Gavi</title>
+      <link>http://localhost:1313/posts/kerala/discover-the-natural-beauty-of-gavi/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kerala/discover-the-natural-beauty-of-gavi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discover the Wilderness at Pakhui Wildlife Sanctuary, Arunachal Pradesh</title>
+      <link>http://localhost:1313/posts/arunachal-pradesh/discover-the-wilderness-at-pakhui-wildlife-sanctuary-arunachal-pradesh/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/arunachal-pradesh/discover-the-wilderness-at-pakhui-wildlife-sanctuary-arunachal-pradesh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uncover the Legend of Jim Corbett at Kaladungi, Uttarakhand</title>
+      <link>http://localhost:1313/posts/uttarakhand/uncover-the-legend-of-jim-corbett-at-kaladungi-uttarakhand/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/uttarakhand/uncover-the-legend-of-jim-corbett-at-kaladungi-uttarakhand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Valmiki National Park: A Haven for Wildlife in Bihar</title>
+      <link>http://localhost:1313/posts/bihar/valmiki-national-park-a-haven-for-wildlife-in-bihar/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bihar/valmiki-national-park-a-haven-for-wildlife-in-bihar/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

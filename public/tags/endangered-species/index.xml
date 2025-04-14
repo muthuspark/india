@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Endangered-Species on Beautiful India</title>
+    <link>http://localhost:1313/tags/endangered-species/</link>
+    <description>Recent content in Endangered-Species on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/endangered-species/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaziranga National Park: A Sanctuary of Endangered Rhinoceroses</title>
+      <link>http://localhost:1313/posts/assam/kaziranga-national-park-a-sanctuary-of-endangered-rhinoceroses/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/assam/kaziranga-national-park-a-sanctuary-of-endangered-rhinoceroses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keibul Lamjao National Park: A Sanctuary for Endangered Sangai Deer</title>
+      <link>http://localhost:1313/posts/manipur/keibul-lamjao-national-park-a-sanctuary-for-endangered-sangai-deer/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/manipur/keibul-lamjao-national-park-a-sanctuary-for-endangered-sangai-deer/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

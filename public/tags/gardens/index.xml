@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gardens on Beautiful India</title>
+    <link>http://localhost:1313/tags/gardens/</link>
+    <description>Recent content in Gardens on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gardens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chashme Shahi Gardens: A Heavenly Escape in Srinagar</title>
+      <link>http://localhost:1313/posts/jammu--kashmir/chashme-shahi-gardens-a-heavenly-escape-in-srinagar/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jammu--kashmir/chashme-shahi-gardens-a-heavenly-escape-in-srinagar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pinjore Gardens: A Scenic Hill Station in Haryana</title>
+      <link>http://localhost:1313/posts/haryana/pinjore-gardens-a-scenic-hill-station-in-haryana/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/haryana/pinjore-gardens-a-scenic-hill-station-in-haryana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Srinagar: The Paradise of Natural Beauty</title>
+      <link>http://localhost:1313/posts/jammu--kashmir/srinagar-the-paradise-of-natural-beauty/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jammu--kashmir/srinagar-the-paradise-of-natural-beauty/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

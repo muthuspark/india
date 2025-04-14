@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trekking on Beautiful India</title>
+    <link>http://localhost:1313/tags/trekking/</link>
+    <description>Recent content in Trekking on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/trekking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discover the Natural Beauty of Sahyadri Hills in Maharashtra</title>
+      <link>http://localhost:1313/posts/maharashtra/discover-the-natural-beauty-of-sahyadri-hills-in-maharashtra/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/maharashtra/discover-the-natural-beauty-of-sahyadri-hills-in-maharashtra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explore the Scenic Ponmudi Hill Station</title>
+      <link>http://localhost:1313/posts/kerala/explore-the-scenic-ponmudi-hill-station/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kerala/explore-the-scenic-ponmudi-hill-station/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zoji La Pass: A High-Altitude Adventure in the Himalayas</title>
+      <link>http://localhost:1313/posts/jammu--kashmir/zoji-la-pass-a-high-altitude-adventure-in-the-himalayas/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jammu--kashmir/zoji-la-pass-a-high-altitude-adventure-in-the-himalayas/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

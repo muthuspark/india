@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garden on Beautiful India</title>
+    <link>http://localhost:1313/tags/garden/</link>
+    <description>Recent content in Garden on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/garden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chandigarh Rose Garden: A Blooming Paradise</title>
+      <link>http://localhost:1313/posts/chandigarh/chandigarh-rose-garden-a-blooming-paradise/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chandigarh/chandigarh-rose-garden-a-blooming-paradise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mandore Gardens: A Blend of History and Natural Beauty</title>
+      <link>http://localhost:1313/posts/rajasthan/mandore-gardens-a-blend-of-history-and-natural-beauty/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rajasthan/mandore-gardens-a-blend-of-history-and-natural-beauty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shalimar Bagh: A Timeless Beauty in Srinagar</title>
+      <link>http://localhost:1313/posts/jammu--kashmir/shalimar-bagh-a-timeless-beauty-in-srinagar/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jammu--kashmir/shalimar-bagh-a-timeless-beauty-in-srinagar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zakir Hussain Garden: A Modernist Oasis in Chandigarh</title>
+      <link>http://localhost:1313/posts/chandigarh/zakir-hussain-garden-a-modernist-oasis-in-chandigarh/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chandigarh/zakir-hussain-garden-a-modernist-oasis-in-chandigarh/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

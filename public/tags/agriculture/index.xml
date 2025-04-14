@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agriculture on Beautiful India</title>
+    <link>http://localhost:1313/tags/agriculture/</link>
+    <description>Recent content in Agriculture on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/agriculture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agumbe: A Hill Station Surrounded by Lush Coffee Plantations</title>
+      <link>http://localhost:1313/posts/karnataka/agumbe-a-hill-station-surrounded-by-lush-coffee-plantations/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/karnataka/agumbe-a-hill-station-surrounded-by-lush-coffee-plantations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explore the History of Tea at Assam Tea Estate</title>
+      <link>http://localhost:1313/posts/assam/explore-the-history-of-tea-at-assam-tea-estate/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/assam/explore-the-history-of-tea-at-assam-tea-estate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sangla Valley: The Apple Orchard Paradise in Himachal Pradesh</title>
+      <link>http://localhost:1313/posts/himachal-pradesh/sangla-valley-the-apple-orchard-paradise-in-himachal-pradesh/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/himachal-pradesh/sangla-valley-the-apple-orchard-paradise-in-himachal-pradesh/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

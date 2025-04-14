@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sports on Beautiful India</title>
+    <link>http://localhost:1313/tags/sports/</link>
+    <description>Recent content in Sports on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chail Cricket Ground: A High-Altitude Pitch in Himachal Pradesh</title>
+      <link>http://localhost:1313/posts/himachal-pradesh/chail-cricket-ground-a-high-altitude-pitch-in-himachal-pradesh/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/himachal-pradesh/chail-cricket-ground-a-high-altitude-pitch-in-himachal-pradesh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kamshet: A Trekkers Paradise in Maharashtra</title>
+      <link>http://localhost:1313/posts/maharashtra/kamshet-a-trekkers-paradise-in-maharashtra/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/maharashtra/kamshet-a-trekkers-paradise-in-maharashtra/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

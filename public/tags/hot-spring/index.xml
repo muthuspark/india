@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hot-Spring on Beautiful India</title>
+    <link>http://localhost:1313/tags/hot-spring/</link>
+    <description>Recent content in Hot-Spring on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hot-spring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lachen: The Green Valley of Sikkim</title>
+      <link>http://localhost:1313/posts/sikkim/lachen-the-green-valley-of-sikkim/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sikkim/lachen-the-green-valley-of-sikkim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parashuram Kund: The Sacred Hot Spring of Arunachal Pradesh</title>
+      <link>http://localhost:1313/posts/arunachal-pradesh/parashuram-kund-the-sacred-hot-spring-of-arunachal-pradesh/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/arunachal-pradesh/parashuram-kund-the-sacred-hot-spring-of-arunachal-pradesh/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

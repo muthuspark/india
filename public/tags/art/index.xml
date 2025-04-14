@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art on Beautiful India</title>
+    <link>http://localhost:1313/tags/art/</link>
+    <description>Recent content in Art on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ajanta Caves: A Glimpse into Ancient Buddhist Art and Architecture</title>
+      <link>http://localhost:1313/posts/maharashtra/ajanta-caves-a-glimpse-into-ancient-buddhist-art-and-architecture/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/maharashtra/ajanta-caves-a-glimpse-into-ancient-buddhist-art-and-architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brihadeeswarar Temple: The Golden Temple of Tanjore</title>
+      <link>http://localhost:1313/posts/tamil-nadu/brihadeeswarar-temple-the-golden-temple-of-tanjore/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tamil-nadu/brihadeeswarar-temple-the-golden-temple-of-tanjore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ellora Caves are India&#39;s iconic UNESCO World Heritage Site</title>
+      <link>http://localhost:1313/posts/maharashtra/ellora-caves-are-indias-iconic-unesco-world-heritage-site/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/maharashtra/ellora-caves-are-indias-iconic-unesco-world-heritage-site/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rock Garden: A Masterpiece of Stone Sculptures in Chandigarh</title>
+      <link>http://localhost:1313/posts/chandigarh/rock-garden-a-masterpiece-of-stone-sculptures-in-chandigarh/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chandigarh/rock-garden-a-masterpiece-of-stone-sculptures-in-chandigarh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Utsav Rock Garden: A Scenic Retreat in Karnataka</title>
+      <link>http://localhost:1313/posts/karnataka/utsav-rock-garden-a-scenic-retreat-in-karnataka/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/karnataka/utsav-rock-garden-a-scenic-retreat-in-karnataka/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

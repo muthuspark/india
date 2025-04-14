@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Landscape on Beautiful India</title>
+    <link>http://localhost:1313/tags/landscape/</link>
+    <description>Recent content in Landscape on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/landscape/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring the White Sands: A Journey to Rann of Kutch</title>
+      <link>http://localhost:1313/posts/gujarat/exploring-the-white-sands-a-journey-to-rann-of-kutch/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/gujarat/exploring-the-white-sands-a-journey-to-rann-of-kutch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ziro Valley: A Scenic Paradise in Arunachal Pradesh</title>
+      <link>http://localhost:1313/posts/arunachal-pradesh/ziro-valley-a-scenic-paradise-in-arunachal-pradesh/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/arunachal-pradesh/ziro-valley-a-scenic-paradise-in-arunachal-pradesh/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+baseURL = 'https://travels.muthu.co/'
+languageCode = 'en-us'
+title = 'Beautiful India'
+disqusShortname = 'muthuai'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+
+[params]
+  description = 'Pehtheme Hugo Lite: A minimalist Hugo theme, built with TailwindCSS, for efficient performance and minimalism.'
+	mainSections = 'posts'
+  [params.author]
+    name = "Beautiful India"
+    avatar = "/images/avatar.png"
+    bio = "Hi, I’m Amrita Kanakaraj! By day, I’m a globe-trotting adventurer with a knack for finding the best hidden gems (and pastries) in every corner of the world. By night, I’m a flour-dusted home baker, whipping up decadent treats that make my kitchen smell like a Parisian patisserie. When I’m not jet-setting or covered in powdered sugar, you’ll find me blogging about my travel misadventures, sharing recipes that even your grandma would approve of, and proving that life is best lived with a suitcase in one hand and a whisk in the other. Join me as I explore the world, one passport stamp and cupcake at a time! 🌎✨"
+
+
+[security]
+  enableInlineShortcodes = true

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UNESCO World Heritage Site on Beautiful India</title>
+    <link>http://localhost:1313/tags/unesco-world-heritage-site/</link>
+    <description>Recent content in UNESCO World Heritage Site on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/unesco-world-heritage-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chittorgarh Fort: A Symbol of Rajasthani Valour and History</title>
+      <link>http://localhost:1313/posts/rajasthan/chittorgarh-fort-a-symbol-of-rajasthani-valour-and-history/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rajasthan/chittorgarh-fort-a-symbol-of-rajasthani-valour-and-history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jaisalmer Fort: A Slice of History in the Thar Desert</title>
+      <link>http://localhost:1313/posts/rajasthan/jaisalmer-fort-a-slice-of-history-in-the-thar-desert/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rajasthan/jaisalmer-fort-a-slice-of-history-in-the-thar-desert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kanheri Caves: A Glimpse into Ancient Buddhist History</title>
+      <link>http://localhost:1313/posts/maharashtra/kanheri-caves-a-glimpse-into-ancient-buddhist-history/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/maharashtra/kanheri-caves-a-glimpse-into-ancient-buddhist-history/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

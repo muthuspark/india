@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fort on Beautiful India</title>
+    <link>http://localhost:1313/tags/fort/</link>
+    <description>Recent content in Fort on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fort/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explore the historic Kondapalli Fort in Andhra Pradesh</title>
+      <link>http://localhost:1313/posts/andhra-pradesh/explore-the-historic-kondapalli-fort-in-andhra-pradesh/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/andhra-pradesh/explore-the-historic-kondapalli-fort-in-andhra-pradesh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explore the Rich History of Srirangapatna</title>
+      <link>http://localhost:1313/posts/karnataka/explore-the-rich-history-of-srirangapatna/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/karnataka/explore-the-rich-history-of-srirangapatna/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

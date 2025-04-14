@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flowers on Beautiful India</title>
+    <link>http://localhost:1313/tags/flowers/</link>
+    <description>Recent content in Flowers on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/flowers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chandigarh Rose Garden: A Blooming Paradise</title>
+      <link>http://localhost:1313/posts/chandigarh/chandigarh-rose-garden-a-blooming-paradise/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chandigarh/chandigarh-rose-garden-a-blooming-paradise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dzongu: The Scenic Valley of Flowers in Sikkim</title>
+      <link>http://localhost:1313/posts/sikkim/dzongu-the-scenic-valley-of-flowers-in-sikkim/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sikkim/dzongu-the-scenic-valley-of-flowers-in-sikkim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kaas Plateau: The Valley of Flowers in Maharashtra</title>
+      <link>http://localhost:1313/posts/maharashtra/kaas-plateau-the-valley-of-flowers-in-maharashtra/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/maharashtra/kaas-plateau-the-valley-of-flowers-in-maharashtra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Valley of Flowers National Park: A Blooming Paradise in Uttarakhand</title>
+      <link>http://localhost:1313/posts/uttarakhand/valley-of-flowers-national-park-a-blooming-paradise-in-uttarakhand/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/uttarakhand/valley-of-flowers-national-park-a-blooming-paradise-in-uttarakhand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Valley of Flowers: A Carpet of Blooms in Uttarakhand</title>
+      <link>http://localhost:1313/posts/uttarakhand/valley-of-flowers-a-carpet-of-blooms-in-uttarakhand/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/uttarakhand/valley-of-flowers-a-carpet-of-blooms-in-uttarakhand/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

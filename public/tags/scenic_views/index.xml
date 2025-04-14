@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scenic_views on Beautiful India</title>
+    <link>http://localhost:1313/tags/scenic_views/</link>
+    <description>Recent content in Scenic_views on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scenic_views/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kupwara: A Scenic Paradise in Jammu &amp; Kashmir</title>
+      <link>http://localhost:1313/posts/jammu--kashmir/kupwara-a-scenic-paradise-in-jammu--kashmir/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jammu--kashmir/kupwara-a-scenic-paradise-in-jammu--kashmir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Udaipur: The Enchanting City of Lakes in Rajasthan</title>
+      <link>http://localhost:1313/posts/rajasthan/udaipur-the-enchanting-city-of-lakes-in-rajasthan/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rajasthan/udaipur-the-enchanting-city-of-lakes-in-rajasthan/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

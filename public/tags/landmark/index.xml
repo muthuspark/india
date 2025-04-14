@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Landmark on Beautiful India</title>
+    <link>http://localhost:1313/tags/landmark/</link>
+    <description>Recent content in Landmark on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/landmark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hawa Mahal: The Iconic Palace of Winds in Jaipur</title>
+      <link>http://localhost:1313/posts/rajasthan/hawa-mahal-the-iconic-palace-of-winds-in-jaipur/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rajasthan/hawa-mahal-the-iconic-palace-of-winds-in-jaipur/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

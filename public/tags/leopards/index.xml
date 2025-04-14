@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leopards on Beautiful India</title>
+    <link>http://localhost:1313/tags/leopards/</link>
+    <description>Recent content in Leopards on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/leopards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jawai Leopard Reserve: A Wildlife Haven in Rajasthan</title>
+      <link>http://localhost:1313/posts/rajasthan/jawai-leopard-reserve-a-wildlife-haven-in-rajasthan/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rajasthan/jawai-leopard-reserve-a-wildlife-haven-in-rajasthan/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

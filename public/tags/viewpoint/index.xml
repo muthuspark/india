@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viewpoint on Beautiful India</title>
+    <link>http://localhost:1313/tags/viewpoint/</link>
+    <description>Recent content in Viewpoint on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/viewpoint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bekal Fort: A Glimpse into Kerala&#39;s Rich History</title>
+      <link>http://localhost:1313/posts/kerala/bekal-fort-a-glimpse-into-keralas-rich-history/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kerala/bekal-fort-a-glimpse-into-keralas-rich-history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mall Road Offers Scenic City Views</title>
+      <link>http://localhost:1313/posts/uttarakhand/mall-road-offers-scenic-city-views/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/uttarakhand/mall-road-offers-scenic-city-views/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rajmachi Fort: A Majestic Hilltop Fortress in Maharashtra</title>
+      <link>http://localhost:1313/posts/maharashtra/rajmachi-fort-a-majestic-hilltop-fortress-in-maharashtra/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/maharashtra/rajmachi-fort-a-majestic-hilltop-fortress-in-maharashtra/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

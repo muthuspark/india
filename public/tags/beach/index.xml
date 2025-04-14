@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beach on Beautiful India</title>
+    <link>http://localhost:1313/tags/beach/</link>
+    <description>Recent content in Beach on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/beach/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discover Pondicherry - A Blend of French Charm and Indian Culture</title>
+      <link>http://localhost:1313/posts/tamil-nadu/discover-pondicherry---a-blend-of-french-charm-and-indian-culture/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tamil-nadu/discover-pondicherry---a-blend-of-french-charm-and-indian-culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discover the Charm of Udupi</title>
+      <link>http://localhost:1313/posts/karnataka/discover-the-charm-of-udupi/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/karnataka/discover-the-charm-of-udupi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discover the Natural Beauty of Raja Ampat Islands</title>
+      <link>http://localhost:1313/posts/india-ocean/discover-the-natural-beauty-of-raja-ampat-islands/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/india-ocean/discover-the-natural-beauty-of-raja-ampat-islands/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

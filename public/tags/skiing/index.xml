@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skiing on Beautiful India</title>
+    <link>http://localhost:1313/tags/skiing/</link>
+    <description>Recent content in Skiing on Beautiful India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/skiing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auli Ski Resort: Discover the Joy of Winter Sports in the Himalayas</title>
+      <link>http://localhost:1313/posts/uttarakhand/auli-ski-resort-discover-the-joy-of-winter-sports-in-the-himalayas/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/uttarakhand/auli-ski-resort-discover-the-joy-of-winter-sports-in-the-himalayas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explore the Scenic Beauty of Chail in Himachal Pradesh</title>
+      <link>http://localhost:1313/posts/himachal-pradesh/explore-the-scenic-beauty-of-chail-in-himachal-pradesh/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/himachal-pradesh/explore-the-scenic-beauty-of-chail-in-himachal-pradesh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gulmarg: A Skier&#39;s Paradise in Jammu &amp; Kashmir</title>
+      <link>http://localhost:1313/posts/jammu--kashmir/gulmarg-a-skiers-paradise-in-jammu--kashmir/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jammu--kashmir/gulmarg-a-skiers-paradise-in-jammu--kashmir/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
