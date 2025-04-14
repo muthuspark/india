@@ -1,0 +1,5 @@
+# india
+
+```
+hugo server --disableFastRender
+```
