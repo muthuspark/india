@@ -30,3 +30,9 @@ weight = 30
     name = "Muthukrishnan"
     avatar = "/images/avatar.jpg"
     bio = "An engineer from Bangalore, India, with a deep love for the country and its rich cultural heritage. Passionate about exploring and sharing insights rooted in India's traditions, values, and modern growth."
+
+[sitemap]
+  changeFreq = 'weekly'
+  disable = false
+  filename = 'sitemap_index.xml'
+  priority = -1
