@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Majuli on Beautiful India</title>
-    <link>http://localhost:1313/categories/majuli/</link>
-    <description>Recent content in Majuli on Beautiful India</description>
+    <title>Majuli on India</title>
+    <link>https://india.muthu.co/categories/majuli/</link>
+    <description>Recent content in Majuli on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/majuli/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/majuli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Majuli Island: The Cultural Heartbeat of Assam</title>
-      <link>http://localhost:1313/posts/assam/majuli-island-the-cultural-heartbeat-of-assam/</link>
+      <link>https://india.muthu.co/posts/assam/majuli-island-the-cultural-heartbeat-of-assam/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/assam/majuli-island-the-cultural-heartbeat-of-assam/</guid>
+      <guid>https://india.muthu.co/posts/assam/majuli-island-the-cultural-heartbeat-of-assam/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Majuli Island, a mesmerizing river island nestled in the heart of the Brahmaputra River in Assam, India, is a place unlike any other. Located in the district of Majuli, it holds the distinction of being the world&amp;rsquo;s largest river island, a testament to the dynamic power of nature. Majuli is characterized by its constantly shifting landscapes, rich cultural heritage deeply rooted in Vaishnavism, and a vibrant ecosystem. With an average elevation barely above the river&amp;rsquo;s surface, the island is a living, breathing entity, shaped by the monsoons and the mighty Brahmaputra. Nearby popular destinations include Jorhat, the closest city, which serves as the gateway to Majuli. Its unique blend of natural beauty and cultural significance makes Majuli a truly unforgettable destination.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Majuli Island: The Cultural Heartbeat of Assam</title>
+      <link>https://india.muthu.co/posts/places/assam/majuli-island-the-cultural-heartbeat-of-assam/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/assam/majuli-island-the-cultural-heartbeat-of-assam/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Majuli Island, a mesmerizing river island nestled in the heart of the Brahmaputra River in Assam, India, is a place unlike any other. Located in the district of Majuli, it holds the distinction of being the world&amp;rsquo;s largest river island, a testament to the dynamic power of nature. Majuli is characterized by its constantly shifting landscapes, rich cultural heritage deeply rooted in Vaishnavism, and a vibrant ecosystem. With an average elevation barely above the river&amp;rsquo;s surface, the island is a living, breathing entity, shaped by the monsoons and the mighty Brahmaputra. Nearby popular destinations include Jorhat, the closest city, which serves as the gateway to Majuli. Its unique blend of natural beauty and cultural significance makes Majuli a truly unforgettable destination.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bhopal on Beautiful India</title>
-    <link>http://localhost:1313/categories/bhopal/</link>
-    <description>Recent content in Bhopal on Beautiful India</description>
+    <title>Bhopal on India</title>
+    <link>https://india.muthu.co/categories/bhopal/</link>
+    <description>Recent content in Bhopal on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/bhopal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/bhopal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sanchi Stupa: A Glimpse into Ancient Buddhist History</title>
-      <link>http://localhost:1313/posts/madhya-pradesh/sanchi-stupa-a-glimpse-into-ancient-buddhist-history/</link>
+      <link>https://india.muthu.co/posts/madhya-pradesh/sanchi-stupa-a-glimpse-into-ancient-buddhist-history/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/madhya-pradesh/sanchi-stupa-a-glimpse-into-ancient-buddhist-history/</guid>
+      <guid>https://india.muthu.co/posts/madhya-pradesh/sanchi-stupa-a-glimpse-into-ancient-buddhist-history/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The Sanchi Stupa, a UNESCO World Heritage Site, stands as a testament to the grandeur and artistry of ancient Buddhist architecture and the pivotal role it played in the spread of Buddhism. Located in the Raisen District of Madhya Pradesh, India, approximately 46 kilometers (29 miles) northeast of Bhopal, the state&amp;rsquo;s capital, Sanchi sits atop a hill, offering panoramic views of the surrounding countryside. The elevation is around 15 meters. Its proximity to Bhopal makes it easily accessible for day trips and provides a stark contrast to the modern city with its serene and spiritually charged atmosphere. What makes Sanchi unique is its exceptional preservation of early Buddhist art and architecture, including the iconic Great Stupa, intricately carved gateways (toranas), and several other structures reflecting the various stages of Buddhist development in India.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sanchi Stupa: A Glimpse into Ancient Buddhist History</title>
+      <link>https://india.muthu.co/posts/places/madhya-pradesh/sanchi-stupa-a-glimpse-into-ancient-buddhist-history/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/madhya-pradesh/sanchi-stupa-a-glimpse-into-ancient-buddhist-history/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The Sanchi Stupa, a UNESCO World Heritage Site, stands as a testament to the grandeur and artistry of ancient Buddhist architecture and the pivotal role it played in the spread of Buddhism. Located in the Raisen District of Madhya Pradesh, India, approximately 46 kilometers (29 miles) northeast of Bhopal, the state&amp;rsquo;s capital, Sanchi sits atop a hill, offering panoramic views of the surrounding countryside. The elevation is around 15 meters. Its proximity to Bhopal makes it easily accessible for day trips and provides a stark contrast to the modern city with its serene and spiritually charged atmosphere. What makes Sanchi unique is its exceptional preservation of early Buddhist art and architecture, including the iconic Great Stupa, intricately carved gateways (toranas), and several other structures reflecting the various stages of Buddhist development in India.&lt;/p&gt;</description>
     </item>
   </channel>

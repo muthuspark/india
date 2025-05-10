@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sonpur on Beautiful India</title>
-    <link>http://localhost:1313/categories/sonpur/</link>
-    <description>Recent content in Sonpur on Beautiful India</description>
+    <title>Sonpur on India</title>
+    <link>https://india.muthu.co/categories/sonpur/</link>
+    <description>Recent content in Sonpur on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/sonpur/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/sonpur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sonpur Mela: A Glimpse into Ancient Cultural Heritage</title>
-      <link>http://localhost:1313/posts/bihar/sonpur-mela-a-glimpse-into-ancient-cultural-heritage/</link>
+      <link>https://india.muthu.co/posts/bihar/sonpur-mela-a-glimpse-into-ancient-cultural-heritage/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bihar/sonpur-mela-a-glimpse-into-ancient-cultural-heritage/</guid>
+      <guid>https://india.muthu.co/posts/bihar/sonpur-mela-a-glimpse-into-ancient-cultural-heritage/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The Sonpur Mela, also known as the Sonepur Cattle Fair, is a vibrant and historic event held annually in Sonpur, Bihar, India. It is the largest cattle fair in Asia, drawing visitors and traders from across the Indian subcontinent and beyond. Situated on the confluence of the Ganges (Ganga) and Gandak rivers, approximately 25 kilometers northwest of Patna, the capital of Bihar, Sonpur is easily accessible. This unique fair is not just a marketplace but also a significant cultural and social gathering, showcasing a wide variety of animals, handicrafts, and entertainment. It encapsulates a rich tapestry of traditions, reflecting the rural heart of India. The fair&amp;rsquo;s uniqueness lies in its scale, historical significance, and the sheer variety of animals traded, making it a truly unforgettable experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sonpur Mela: A Glimpse into Ancient Cultural Heritage</title>
+      <link>https://india.muthu.co/posts/places/bihar/sonpur-mela-a-glimpse-into-ancient-cultural-heritage/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/bihar/sonpur-mela-a-glimpse-into-ancient-cultural-heritage/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The Sonpur Mela, also known as the Sonepur Cattle Fair, is a vibrant and historic event held annually in Sonpur, Bihar, India. It is the largest cattle fair in Asia, drawing visitors and traders from across the Indian subcontinent and beyond. Situated on the confluence of the Ganges (Ganga) and Gandak rivers, approximately 25 kilometers northwest of Patna, the capital of Bihar, Sonpur is easily accessible. This unique fair is not just a marketplace but also a significant cultural and social gathering, showcasing a wide variety of animals, handicrafts, and entertainment. It encapsulates a rich tapestry of traditions, reflecting the rural heart of India. The fair&amp;rsquo;s uniqueness lies in its scale, historical significance, and the sheer variety of animals traded, making it a truly unforgettable experience.&lt;/p&gt;</description>
     </item>
   </channel>

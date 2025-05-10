@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vailanki on Beautiful India</title>
-    <link>http://localhost:1313/categories/vailanki/</link>
-    <description>Recent content in Vailanki on Beautiful India</description>
+    <title>Vailanki on India</title>
+    <link>https://india.muthu.co/categories/vailanki/</link>
+    <description>Recent content in Vailanki on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/vailanki/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/vailanki/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discover Saputara: Mini Switzerland of Gujarat</title>
-      <link>http://localhost:1313/posts/gujarat/discover-saputara-mini-switzerland-of-gujarat/</link>
+      <link>https://india.muthu.co/posts/gujarat/discover-saputara-mini-switzerland-of-gujarat/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/gujarat/discover-saputara-mini-switzerland-of-gujarat/</guid>
+      <guid>https://india.muthu.co/posts/gujarat/discover-saputara-mini-switzerland-of-gujarat/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Saputara, a charming hill station nestled in the Sahyadri mountain range of the Western Ghats, is the only hill station in the state of Gujarat, India. Located in the Dang district and positioned specifically within the &lt;em&gt;Vailanki&lt;/em&gt; region of Gujarat, Saputara offers a refreshing escape from the scorching heat of the plains. At an elevation of approximately 1,000 meters (3,300 feet) above sea level, it provides cool and pleasant weather throughout most of the year. This picturesque destination is known for its lush green landscapes, serene lakes, dense forests, and vibrant tribal culture. Saputara is about 250 km from Surat and 300 km from Mumbai, making it an accessible weekend getaway. Its unique blend of natural beauty and cultural richness makes Saputara a truly special place to visit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discover Saputara: Mini Switzerland of Gujarat</title>
+      <link>https://india.muthu.co/posts/places/gujarat/discover-saputara-mini-switzerland-of-gujarat/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/gujarat/discover-saputara-mini-switzerland-of-gujarat/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Saputara, a charming hill station nestled in the Sahyadri mountain range of the Western Ghats, is the only hill station in the state of Gujarat, India. Located in the Dang district and positioned specifically within the &lt;em&gt;Vailanki&lt;/em&gt; region of Gujarat, Saputara offers a refreshing escape from the scorching heat of the plains. At an elevation of approximately 1,000 meters (3,300 feet) above sea level, it provides cool and pleasant weather throughout most of the year. This picturesque destination is known for its lush green landscapes, serene lakes, dense forests, and vibrant tribal culture. Saputara is about 250 km from Surat and 300 km from Mumbai, making it an accessible weekend getaway. Its unique blend of natural beauty and cultural richness makes Saputara a truly special place to visit.&lt;/p&gt;</description>
     </item>
   </channel>

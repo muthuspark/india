@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Baripada on Beautiful India</title>
-    <link>http://localhost:1313/categories/baripada/</link>
-    <description>Recent content in Baripada on Beautiful India</description>
+    <title>Baripada on India</title>
+    <link>https://india.muthu.co/categories/baripada/</link>
+    <description>Recent content in Baripada on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/baripada/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/baripada/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explore Baripada: A Trekkers&#39; Paradise in Odisha</title>
-      <link>http://localhost:1313/posts/odisha/explore-baripada-a-trekkers-paradise-in-odisha/</link>
+      <link>https://india.muthu.co/posts/odisha/explore-baripada-a-trekkers-paradise-in-odisha/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/odisha/explore-baripada-a-trekkers-paradise-in-odisha/</guid>
+      <guid>https://india.muthu.co/posts/odisha/explore-baripada-a-trekkers-paradise-in-odisha/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Baripada, a vibrant city nestled in the heart of the Mayurbhanj district in Odisha, India, is a place where history, culture, and natural beauty intertwine. It serves as the district headquarters and is known for its rich tribal heritage, the magnificent Simlipal National Park nearby, and its colorful festivals. Situated in eastern Odisha, Baripada lies approximately 250 kilometers from the state capital, Bhubaneswar, and enjoys an elevation of about 60 meters (197 feet) above sea level. Its proximity to the iconic Simlipal National Park, a haven for diverse flora and fauna, makes it a gateway to an unforgettable natural experience. Baripada is unique due to its strong cultural roots, manifested in the Rath Yatra celebrated here with much grandeur, considered second only to Puri.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Explore Baripada: A Trekkers&#39; Paradise in Odisha</title>
+      <link>https://india.muthu.co/posts/places/odisha/explore-baripada-a-trekkers-paradise-in-odisha/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/odisha/explore-baripada-a-trekkers-paradise-in-odisha/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Baripada, a vibrant city nestled in the heart of the Mayurbhanj district in Odisha, India, is a place where history, culture, and natural beauty intertwine. It serves as the district headquarters and is known for its rich tribal heritage, the magnificent Simlipal National Park nearby, and its colorful festivals. Situated in eastern Odisha, Baripada lies approximately 250 kilometers from the state capital, Bhubaneswar, and enjoys an elevation of about 60 meters (197 feet) above sea level. Its proximity to the iconic Simlipal National Park, a haven for diverse flora and fauna, makes it a gateway to an unforgettable natural experience. Baripada is unique due to its strong cultural roots, manifested in the Rath Yatra celebrated here with much grandeur, considered second only to Puri.&lt;/p&gt;</description>
     </item>
   </channel>

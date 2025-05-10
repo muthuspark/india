@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Surajkund on Beautiful India</title>
-    <link>http://localhost:1313/categories/surajkund/</link>
-    <description>Recent content in Surajkund on Beautiful India</description>
+    <title>Surajkund on India</title>
+    <link>https://india.muthu.co/categories/surajkund/</link>
+    <description>Recent content in Surajkund on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/surajkund/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/surajkund/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Surajkund Mela: A Celebration of Sun Worship in Haryana</title>
-      <link>http://localhost:1313/posts/haryana/surajkund-mela-a-celebration-of-sun-worship-in-haryana/</link>
+      <link>https://india.muthu.co/posts/haryana/surajkund-mela-a-celebration-of-sun-worship-in-haryana/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/haryana/surajkund-mela-a-celebration-of-sun-worship-in-haryana/</guid>
+      <guid>https://india.muthu.co/posts/haryana/surajkund-mela-a-celebration-of-sun-worship-in-haryana/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Surajkund Mela, an annual crafts fair held in Surajkund, Haryana, is a vibrant celebration of Indian culture, handicrafts, and traditions. Located in the Faridabad district of Haryana, it is a short distance from Delhi, making it easily accessible for both domestic and international tourists. &lt;!-- raw HTML omitted --&gt; The mela (fair) is unique in its focus on showcasing the rich tapestry of Indian arts, crafts, and textiles, attracting artisans and craftspeople from all over India and even other countries. It&amp;rsquo;s a dynamic and colorful experience offering a glimpse into the diverse heritage of India.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Surajkund Mela: A Celebration of Sun Worship in Haryana</title>
+      <link>https://india.muthu.co/posts/places/haryana/surajkund-mela-a-celebration-of-sun-worship-in-haryana/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/haryana/surajkund-mela-a-celebration-of-sun-worship-in-haryana/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Surajkund Mela, an annual crafts fair held in Surajkund, Haryana, is a vibrant celebration of Indian culture, handicrafts, and traditions. Located in the Faridabad district of Haryana, it is a short distance from Delhi, making it easily accessible for both domestic and international tourists. &lt;!-- raw HTML omitted --&gt; The mela (fair) is unique in its focus on showcasing the rich tapestry of Indian arts, crafts, and textiles, attracting artisans and craftspeople from all over India and even other countries. It&amp;rsquo;s a dynamic and colorful experience offering a glimpse into the diverse heritage of India.&lt;/p&gt;</description>
     </item>
   </channel>

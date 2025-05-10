@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Science on Beautiful India</title>
-    <link>http://localhost:1313/tags/science/</link>
-    <description>Recent content in Science on Beautiful India</description>
+    <title>Science on India</title>
+    <link>https://india.muthu.co/tags/science/</link>
+    <description>Recent content in Science on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/tags/science/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hanle Observatory: A Glimpse into the Universe from Earth’s Roof Top</title>
-      <link>http://localhost:1313/posts/ladakh/hanle-observatory-a-glimpse-into-the-universe-from-earths-roof-top/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ladakh/hanle-observatory-a-glimpse-into-the-universe-from-earths-roof-top/</guid>
-      <description></description>
+      <title>National Space Day</title>
+      <link>https://india.muthu.co/posts/festivals/national-space-day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/festivals/national-space-day/</guid>
+      <description>&lt;h2 id=&#34;blast-off-to-inspiration-celebrating-indias-national-space-day&#34;&gt;Blast Off to Inspiration: Celebrating India&amp;rsquo;s National Space Day!&lt;/h2&gt;&#xA;&lt;p&gt;For generations, humans have gazed at the cosmos, filled with wonder and a burning desire to understand the mysteries hidden within the starry canvas. In India, this fascination with the universe has deep roots, reflected not just in ancient astronomical texts but also in a rapidly growing modern space program. And now, we have a day to celebrate it all – National Space Day! While perhaps not as ancient as Diwali or Holi, this relatively new addition to India&amp;rsquo;s festival calendar is quickly gaining momentum, fueled by national pride, scientific curiosity, and the sheer awe of space exploration. Come with me as we explore this uniquely modern celebration, delving into its significance and how it ignites the imagination of a nation.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

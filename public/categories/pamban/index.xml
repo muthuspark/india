@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pamban on Beautiful India</title>
-    <link>http://localhost:1313/categories/pamban/</link>
-    <description>Recent content in Pamban on Beautiful India</description>
+    <title>Pamban on India</title>
+    <link>https://india.muthu.co/categories/pamban/</link>
+    <description>Recent content in Pamban on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/pamban/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/pamban/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pamban Bridge: A Gateway Between Land and Sea</title>
-      <link>http://localhost:1313/posts/tamil-nadu/pamban-bridge-a-gateway-between-land-and-sea/</link>
+      <link>https://india.muthu.co/posts/places/tamil-nadu/pamban-bridge-a-gateway-between-land-and-sea/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tamil-nadu/pamban-bridge-a-gateway-between-land-and-sea/</guid>
+      <guid>https://india.muthu.co/posts/places/tamil-nadu/pamban-bridge-a-gateway-between-land-and-sea/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Pamban Bridge, a marvel of engineering, stands as a vital lifeline connecting the mainland of India to Rameswaram Island, located in the Gulf of Mannar, within the state of Tamil Nadu. Situated in the town of Pamban, it&amp;rsquo;s a gateway to one of India&amp;rsquo;s holiest pilgrimage sites and an area steeped in natural beauty. Pamban Bridge, at a modest elevation above sea level, offers stunning views of the turquoise waters of the Palk Strait. It&amp;rsquo;s unique not only for its functionality as a rail and road bridge but also for its historical significance and the breathtaking panorama it offers. The area is known for its unique blend of faith, history, and the vibrant culture of the Tamil people.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pamban Bridge: A Gateway Between Land and Sea</title>
+      <link>https://india.muthu.co/posts/tamil-nadu/pamban-bridge-a-gateway-between-land-and-sea/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/tamil-nadu/pamban-bridge-a-gateway-between-land-and-sea/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Pamban Bridge, a marvel of engineering, stands as a vital lifeline connecting the mainland of India to Rameswaram Island, located in the Gulf of Mannar, within the state of Tamil Nadu. Situated in the town of Pamban, it&amp;rsquo;s a gateway to one of India&amp;rsquo;s holiest pilgrimage sites and an area steeped in natural beauty. Pamban Bridge, at a modest elevation above sea level, offers stunning views of the turquoise waters of the Palk Strait. It&amp;rsquo;s unique not only for its functionality as a rail and road bridge but also for its historical significance and the breathtaking panorama it offers. The area is known for its unique blend of faith, history, and the vibrant culture of the Tamil people.&lt;/p&gt;</description>
     </item>
   </channel>

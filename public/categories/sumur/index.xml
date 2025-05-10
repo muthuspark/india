@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sumur on Beautiful India</title>
-    <link>http://localhost:1313/categories/sumur/</link>
-    <description>Recent content in Sumur on Beautiful India</description>
+    <title>Sumur on India</title>
+    <link>https://india.muthu.co/categories/sumur/</link>
+    <description>Recent content in Sumur on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/sumur/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/sumur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uleytokpo: A Journey into Ancient Buddhist Monastery</title>
-      <link>http://localhost:1313/posts/ladakh/uleytokpo-a-journey-into-ancient-buddhist-monastery/</link>
+      <link>https://india.muthu.co/posts/ladakh/uleytokpo-a-journey-into-ancient-buddhist-monastery/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ladakh/uleytokpo-a-journey-into-ancient-buddhist-monastery/</guid>
+      <guid>https://india.muthu.co/posts/ladakh/uleytokpo-a-journey-into-ancient-buddhist-monastery/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Uleytokpo, a serene village nestled in the heart of Ladakh, India, is a destination that epitomizes the region’s raw beauty and tranquil atmosphere. Situated in the Sumur region, it offers a compelling alternative to the more crowded tourist hubs, providing a glimpse into the authentic Ladakhi lifestyle. Located at an elevation of approximately 10,000 feet (3,048 meters) above sea level, Uleytokpo sits strategically close to some of Ladakh&amp;rsquo;s most iconic locations, including the mesmerizing Magnetic Hill and the confluence of the Indus and Zanskar rivers. What sets Uleytokpo apart is its stunning landscape, characterized by stark mountains, lush green valleys, and the meandering Indus River, creating a picturesque environment that attracts travelers seeking peace and natural splendor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uleytokpo: A Journey into Ancient Buddhist Monastery</title>
+      <link>https://india.muthu.co/posts/places/ladakh/uleytokpo-a-journey-into-ancient-buddhist-monastery/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/ladakh/uleytokpo-a-journey-into-ancient-buddhist-monastery/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Uleytokpo, a serene village nestled in the heart of Ladakh, India, is a destination that epitomizes the region’s raw beauty and tranquil atmosphere. Situated in the Sumur region, it offers a compelling alternative to the more crowded tourist hubs, providing a glimpse into the authentic Ladakhi lifestyle. Located at an elevation of approximately 10,000 feet (3,048 meters) above sea level, Uleytokpo sits strategically close to some of Ladakh&amp;rsquo;s most iconic locations, including the mesmerizing Magnetic Hill and the confluence of the Indus and Zanskar rivers. What sets Uleytokpo apart is its stunning landscape, characterized by stark mountains, lush green valleys, and the meandering Indus River, creating a picturesque environment that attracts travelers seeking peace and natural splendor.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lansdowne on Beautiful India</title>
-    <link>http://localhost:1313/categories/lansdowne/</link>
-    <description>Recent content in Lansdowne on Beautiful India</description>
+    <title>Lansdowne on India</title>
+    <link>https://india.muthu.co/categories/lansdowne/</link>
+    <description>Recent content in Lansdowne on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/lansdowne/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/lansdowne/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lansdowne: A Serene Hill Station in Uttarakhand</title>
-      <link>http://localhost:1313/posts/uttarakhand/lansdowne-a-serene-hill-station-in-uttarakhand/</link>
+      <link>https://india.muthu.co/posts/places/uttarakhand/lansdowne-a-serene-hill-station-in-uttarakhand/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/uttarakhand/lansdowne-a-serene-hill-station-in-uttarakhand/</guid>
+      <guid>https://india.muthu.co/posts/places/uttarakhand/lansdowne-a-serene-hill-station-in-uttarakhand/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Lansdowne, nestled in the Garhwal region of Uttarakhand, India, is a tranquil hill station renowned for its pristine natural beauty and serene environment. Located at an altitude of 1,706 meters (5,600 feet) above sea level, Lansdowne offers a respite from the hustle and bustle of city life. The town is approximately 240 kilometers (150 miles) from Delhi, making it a convenient weekend getaway. Its proximity to other popular destinations like Mussoorie and Nainital allows for a more extensive Uttarakhand itinerary. Lansdowne’s charm lies in its well-preserved colonial architecture, lush oak and pine forests, and the tranquility that permeates its air. It is one of the quietest hill stations in India, a perfect escape for those seeking peace and natural beauty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lansdowne: A Serene Hill Station in Uttarakhand</title>
+      <link>https://india.muthu.co/posts/uttarakhand/lansdowne-a-serene-hill-station-in-uttarakhand/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/uttarakhand/lansdowne-a-serene-hill-station-in-uttarakhand/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Lansdowne, nestled in the Garhwal region of Uttarakhand, India, is a tranquil hill station renowned for its pristine natural beauty and serene environment. Located at an altitude of 1,706 meters (5,600 feet) above sea level, Lansdowne offers a respite from the hustle and bustle of city life. The town is approximately 240 kilometers (150 miles) from Delhi, making it a convenient weekend getaway. Its proximity to other popular destinations like Mussoorie and Nainital allows for a more extensive Uttarakhand itinerary. Lansdowne’s charm lies in its well-preserved colonial architecture, lush oak and pine forests, and the tranquility that permeates its air. It is one of the quietest hill stations in India, a perfect escape for those seeking peace and natural beauty.&lt;/p&gt;</description>
     </item>
   </channel>

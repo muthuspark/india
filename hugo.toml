@@ -1,7 +1,7 @@
-baseURL = 'https://travels.muthu.co/'
+baseURL = 'https://india.muthu.co/'
 languageCode = 'en-us'
-title = 'Beautiful India'
-disqusShortname = 'muthuai'
+title = 'India'
+theme = 'pehtheme-hugo'
 
 [[menus.main]]
 name = 'Home'
@@ -24,13 +24,9 @@ weight = 30
     min = "0.116.0"
 
 [params]
-  description = 'Pehtheme Hugo Lite: A minimalist Hugo theme, built with TailwindCSS, for efficient performance and minimalism.'
+  description = 'India and Hinduism: Discover India’s Culture, Places, and Beyond'
 	mainSections = 'posts'
   [params.author]
-    name = "Beautiful India"
-    avatar = "/images/avatar.png"
-    bio = "Hi, I’m Amrita Kanakaraj! By day, I’m a globe-trotting adventurer with a knack for finding the best hidden gems (and pastries) in every corner of the world. By night, I’m a flour-dusted home baker, whipping up decadent treats that make my kitchen smell like a Parisian patisserie. When I’m not jet-setting or covered in powdered sugar, you’ll find me blogging about my travel misadventures, sharing recipes that even your grandma would approve of, and proving that life is best lived with a suitcase in one hand and a whisk in the other. Join me as I explore the world, one passport stamp and cupcake at a time! 🌎✨"
-
-
-[security]
-  enableInlineShortcodes = true
+    name = "Muthukrishnan"
+    avatar = "/images/avatar.jpg"
+    bio = "An engineer from Bangalore, India, with a deep love for the country and its rich cultural heritage. Passionate about exploring and sharing insights rooted in India's traditions, values, and modern growth."

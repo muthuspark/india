@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gompa on Beautiful India</title>
-    <link>http://localhost:1313/categories/gompa/</link>
-    <description>Recent content in Gompa on Beautiful India</description>
+    <title>Gompa on India</title>
+    <link>https://india.muthu.co/categories/gompa/</link>
+    <description>Recent content in Gompa on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/gompa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/gompa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Valley of Flowers: A Carpet of Blooms in Uttarakhand</title>
-      <link>http://localhost:1313/posts/uttarakhand/valley-of-flowers-a-carpet-of-blooms-in-uttarakhand/</link>
+      <link>https://india.muthu.co/posts/places/uttarakhand/valley-of-flowers-a-carpet-of-blooms-in-uttarakhand/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/uttarakhand/valley-of-flowers-a-carpet-of-blooms-in-uttarakhand/</guid>
+      <guid>https://india.muthu.co/posts/places/uttarakhand/valley-of-flowers-a-carpet-of-blooms-in-uttarakhand/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The Valley of Flowers, a UNESCO World Heritage Site, is a breathtakingly beautiful alpine valley nestled in the heart of the Western Himalayas, specifically within the Chamoli district of Uttarakhand, India. Located near the village of Gompa, which serves as a gateway for trekkers, this vibrant valley explodes with color during the monsoon season, typically from July to September. Situated at an elevation of approximately 3,300 to 4,300 meters (10,800 to 14,100 feet) above sea level, the Valley of Flowers is a part of the Nanda Devi Biosphere Reserve. It is in close proximity to the famous pilgrimage site of Hemkund Sahib and the trekking route to Badrinath. The valley&amp;rsquo;s unique charm lies in its stunning carpet of wildflowers, ranging from orchids and poppies to primulas and marigolds, against the backdrop of snow-capped mountains and pristine glacial streams. This unparalleled natural spectacle draws nature enthusiasts, trekkers, and photographers from all over the globe.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Valley of Flowers: A Carpet of Blooms in Uttarakhand</title>
+      <link>https://india.muthu.co/posts/uttarakhand/valley-of-flowers-a-carpet-of-blooms-in-uttarakhand/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/uttarakhand/valley-of-flowers-a-carpet-of-blooms-in-uttarakhand/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The Valley of Flowers, a UNESCO World Heritage Site, is a breathtakingly beautiful alpine valley nestled in the heart of the Western Himalayas, specifically within the Chamoli district of Uttarakhand, India. Located near the village of Gompa, which serves as a gateway for trekkers, this vibrant valley explodes with color during the monsoon season, typically from July to September. Situated at an elevation of approximately 3,300 to 4,300 meters (10,800 to 14,100 feet) above sea level, the Valley of Flowers is a part of the Nanda Devi Biosphere Reserve. It is in close proximity to the famous pilgrimage site of Hemkund Sahib and the trekking route to Badrinath. The valley&amp;rsquo;s unique charm lies in its stunning carpet of wildflowers, ranging from orchids and poppies to primulas and marigolds, against the backdrop of snow-capped mountains and pristine glacial streams. This unparalleled natural spectacle draws nature enthusiasts, trekkers, and photographers from all over the globe.&lt;/p&gt;</description>
     </item>
   </channel>

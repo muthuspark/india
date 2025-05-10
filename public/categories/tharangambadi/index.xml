@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tharangambadi on Beautiful India</title>
-    <link>http://localhost:1313/categories/tharangambadi/</link>
-    <description>Recent content in Tharangambadi on Beautiful India</description>
+    <title>Tharangambadi on India</title>
+    <link>https://india.muthu.co/categories/tharangambadi/</link>
+    <description>Recent content in Tharangambadi on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/tharangambadi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/tharangambadi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tranquebar: A Glimpse into Colonial History</title>
-      <link>http://localhost:1313/posts/tamil-nadu/tranquebar-a-glimpse-into-colonial-history/</link>
+      <link>https://india.muthu.co/posts/places/tamil-nadu/tranquebar-a-glimpse-into-colonial-history/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tamil-nadu/tranquebar-a-glimpse-into-colonial-history/</guid>
+      <guid>https://india.muthu.co/posts/places/tamil-nadu/tranquebar-a-glimpse-into-colonial-history/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Tranquebar, also known as Tharangambadi, is a captivating coastal town in the Nagapattinam district of Tamil Nadu, India. Perched on the Coromandel Coast, it is a place steeped in history, colonial charm, and tranquil beauty. Situated at sea level, this historic settlement is roughly 280 kilometers south of Chennai and is a convenient day trip from nearby towns like Karaikal and Kumbakonam. Tranquebar is unique due to its well-preserved Danish colonial heritage, offering a glimpse into a bygone era and providing a serene escape from the bustling city life. Its blend of historical monuments, tranquil beaches, and local culture makes it a destination that resonates with history buffs, culture enthusiasts, and those seeking peaceful retreats.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tranquebar: A Glimpse into Colonial History</title>
+      <link>https://india.muthu.co/posts/tamil-nadu/tranquebar-a-glimpse-into-colonial-history/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/tamil-nadu/tranquebar-a-glimpse-into-colonial-history/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Tranquebar, also known as Tharangambadi, is a captivating coastal town in the Nagapattinam district of Tamil Nadu, India. Perched on the Coromandel Coast, it is a place steeped in history, colonial charm, and tranquil beauty. Situated at sea level, this historic settlement is roughly 280 kilometers south of Chennai and is a convenient day trip from nearby towns like Karaikal and Kumbakonam. Tranquebar is unique due to its well-preserved Danish colonial heritage, offering a glimpse into a bygone era and providing a serene escape from the bustling city life. Its blend of historical monuments, tranquil beaches, and local culture makes it a destination that resonates with history buffs, culture enthusiasts, and those seeking peaceful retreats.&lt;/p&gt;</description>
     </item>
   </channel>

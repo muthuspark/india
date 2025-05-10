@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dapoli on Beautiful India</title>
-    <link>http://localhost:1313/categories/dapoli/</link>
-    <description>Recent content in Dapoli on Beautiful India</description>
+    <title>Dapoli on India</title>
+    <link>https://india.muthu.co/categories/dapoli/</link>
+    <description>Recent content in Dapoli on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/dapoli/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/dapoli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discover Dapoli: A Coastal Paradise in Maharashtra</title>
-      <link>http://localhost:1313/posts/maharashtra/discover-dapoli-a-coastal-paradise-in-maharashtra/</link>
+      <link>https://india.muthu.co/posts/maharashtra/discover-dapoli-a-coastal-paradise-in-maharashtra/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/maharashtra/discover-dapoli-a-coastal-paradise-in-maharashtra/</guid>
+      <guid>https://india.muthu.co/posts/maharashtra/discover-dapoli-a-coastal-paradise-in-maharashtra/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Dapoli, nestled along the Konkan coast of Maharashtra, is a serene coastal town renowned for its pristine beaches, lush greenery, and tranquil atmosphere. Situated approximately 215 kilometers south of Mumbai, Dapoli, often referred to as &amp;ldquo;Mini Mahabaleshwar&amp;rdquo; due to its cool climate, sits at an elevation of around 800 feet above sea level. The town provides a perfect escape from the hustle and bustle of city life, offering a blend of natural beauty, historical significance, and a relaxed pace of life. Its proximity to popular tourist destinations like Mumbai, Pune and Goa makes it an accessible yet secluded haven. Dapoli&amp;rsquo;s unique charm lies in its unspoiled beaches, the rich diversity of flora and fauna, and its historical connection to the British colonial era.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discover Dapoli: A Coastal Paradise in Maharashtra</title>
+      <link>https://india.muthu.co/posts/places/maharashtra/discover-dapoli-a-coastal-paradise-in-maharashtra/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/maharashtra/discover-dapoli-a-coastal-paradise-in-maharashtra/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Dapoli, nestled along the Konkan coast of Maharashtra, is a serene coastal town renowned for its pristine beaches, lush greenery, and tranquil atmosphere. Situated approximately 215 kilometers south of Mumbai, Dapoli, often referred to as &amp;ldquo;Mini Mahabaleshwar&amp;rdquo; due to its cool climate, sits at an elevation of around 800 feet above sea level. The town provides a perfect escape from the hustle and bustle of city life, offering a blend of natural beauty, historical significance, and a relaxed pace of life. Its proximity to popular tourist destinations like Mumbai, Pune and Goa makes it an accessible yet secluded haven. Dapoli&amp;rsquo;s unique charm lies in its unspoiled beaches, the rich diversity of flora and fauna, and its historical connection to the British colonial era.&lt;/p&gt;</description>
     </item>
   </channel>

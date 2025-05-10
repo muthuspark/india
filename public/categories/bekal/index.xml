@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bekal on Beautiful India</title>
-    <link>http://localhost:1313/categories/bekal/</link>
-    <description>Recent content in Bekal on Beautiful India</description>
+    <title>Bekal on India</title>
+    <link>https://india.muthu.co/categories/bekal/</link>
+    <description>Recent content in Bekal on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/bekal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/bekal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bekal Fort: A Glimpse into Kerala&#39;s Rich History</title>
-      <link>http://localhost:1313/posts/kerala/bekal-fort-a-glimpse-into-keralas-rich-history/</link>
+      <link>https://india.muthu.co/posts/kerala/bekal-fort-a-glimpse-into-keralas-rich-history/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kerala/bekal-fort-a-glimpse-into-keralas-rich-history/</guid>
+      <guid>https://india.muthu.co/posts/kerala/bekal-fort-a-glimpse-into-keralas-rich-history/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Bekal Fort, a magnificent historical landmark, stands sentinel over the coastline of Kasaragod district in Kerala, India. Situated in Bekal, this imposing fort offers breathtaking views of the Arabian Sea, blending history with stunning natural beauty. Nestled along a dramatic headland, it is a popular destination for tourists seeking a glimpse into Kerala&amp;rsquo;s rich past and a tranquil escape. The fort&amp;rsquo;s elevation, though not significant, provides panoramic perspectives, and its proximity to popular destinations like Mangalore (Karnataka) adds to its accessibility. Bekal Fort is unique for its strategic location, unique architectural design, and the captivating blend of history, culture, and natural splendor it offers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bekal Fort: A Glimpse into Kerala&#39;s Rich History</title>
+      <link>https://india.muthu.co/posts/places/kerala/bekal-fort-a-glimpse-into-keralas-rich-history/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/kerala/bekal-fort-a-glimpse-into-keralas-rich-history/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Bekal Fort, a magnificent historical landmark, stands sentinel over the coastline of Kasaragod district in Kerala, India. Situated in Bekal, this imposing fort offers breathtaking views of the Arabian Sea, blending history with stunning natural beauty. Nestled along a dramatic headland, it is a popular destination for tourists seeking a glimpse into Kerala&amp;rsquo;s rich past and a tranquil escape. The fort&amp;rsquo;s elevation, though not significant, provides panoramic perspectives, and its proximity to popular destinations like Mangalore (Karnataka) adds to its accessibility. Bekal Fort is unique for its strategic location, unique architectural design, and the captivating blend of history, culture, and natural splendor it offers.&lt;/p&gt;</description>
     </item>
   </channel>

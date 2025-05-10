@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conservation on Beautiful India</title>
-    <link>http://localhost:1313/tags/conservation/</link>
-    <description>Recent content in Conservation on Beautiful India</description>
+    <title>Conservation on India</title>
+    <link>https://india.muthu.co/tags/conservation/</link>
+    <description>Recent content in Conservation on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/conservation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/tags/conservation/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Discover the Natural Beauty of Gavi</title>
-      <link>http://localhost:1313/posts/kerala/discover-the-natural-beauty-of-gavi/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kerala/discover-the-natural-beauty-of-gavi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Uncover the Legend of Jim Corbett at Kaladungi, Uttarakhand</title>
-      <link>http://localhost:1313/posts/uttarakhand/uncover-the-legend-of-jim-corbett-at-kaladungi-uttarakhand/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/uttarakhand/uncover-the-legend-of-jim-corbett-at-kaladungi-uttarakhand/</guid>
-      <description></description>
+      <title>Van Mahotsav</title>
+      <link>https://india.muthu.co/posts/festivals/van-mahotsav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/festivals/van-mahotsav/</guid>
+      <description>&lt;h2 id=&#34;plant-a-seed-of-hope-celebrating-van-mahotsav-and-the-green-heart-of-india&#34;&gt;Plant a Seed of Hope: Celebrating Van Mahotsav and the Green Heart of India&lt;/h2&gt;&#xA;&lt;p&gt;Imagine a country pulsing with vibrant life, where the monsoon rains kiss the parched earth, and the air is thick with the scent of wet soil and blooming jasmine. Now, picture communities coming together, hands stained with earth, planting saplings that promise a future of lush forests and clean air. This isn&amp;rsquo;t just a dream; it&amp;rsquo;s the reality of Van Mahotsav, India&amp;rsquo;s annual Festival of Forests. For those of us connected to the earth, or simply yearning for a breath of fresh air, Van Mahotsav is more than just planting trees; it&amp;rsquo;s a pledge to our planet and a celebration of life itself.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

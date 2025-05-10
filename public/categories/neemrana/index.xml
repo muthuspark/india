@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neemrana on Beautiful India</title>
-    <link>http://localhost:1313/categories/neemrana/</link>
-    <description>Recent content in Neemrana on Beautiful India</description>
+    <title>Neemrana on India</title>
+    <link>https://india.muthu.co/categories/neemrana/</link>
+    <description>Recent content in Neemrana on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/neemrana/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/neemrana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neemrana Fort: A Blend of History and Architecture</title>
-      <link>http://localhost:1313/posts/rajasthan/neemrana-fort-a-blend-of-history-and-architecture/</link>
+      <link>https://india.muthu.co/posts/places/rajasthan/neemrana-fort-a-blend-of-history-and-architecture/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rajasthan/neemrana-fort-a-blend-of-history-and-architecture/</guid>
+      <guid>https://india.muthu.co/posts/places/rajasthan/neemrana-fort-a-blend-of-history-and-architecture/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Neemrana, a historical town nestled in the Alwar district of Rajasthan, India, is a captivating blend of ancient history and modern hospitality. Situated approximately 122 km (76 miles) from Delhi and 150 km (93 miles) from Jaipur, it lies at an elevation of about 500 meters (1,640 feet) above sea level, offering a pleasant climate for most of the year. Neemrana is most renowned for its magnificent Neemrana Fort Palace, a heritage hotel that stands as a testament to its rich past. This unique destination, straddling the Delhi-Mumbai Industrial Corridor, offers a distinctive travel experience combining cultural exploration with luxurious relaxation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neemrana Fort: A Blend of History and Architecture</title>
+      <link>https://india.muthu.co/posts/rajasthan/neemrana-fort-a-blend-of-history-and-architecture/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/rajasthan/neemrana-fort-a-blend-of-history-and-architecture/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Neemrana, a historical town nestled in the Alwar district of Rajasthan, India, is a captivating blend of ancient history and modern hospitality. Situated approximately 122 km (76 miles) from Delhi and 150 km (93 miles) from Jaipur, it lies at an elevation of about 500 meters (1,640 feet) above sea level, offering a pleasant climate for most of the year. Neemrana is most renowned for its magnificent Neemrana Fort Palace, a heritage hotel that stands as a testament to its rich past. This unique destination, straddling the Delhi-Mumbai Industrial Corridor, offers a distinctive travel experience combining cultural exploration with luxurious relaxation.&lt;/p&gt;</description>
     </item>
   </channel>

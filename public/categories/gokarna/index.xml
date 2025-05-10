@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gokarna on Beautiful India</title>
-    <link>http://localhost:1313/categories/gokarna/</link>
-    <description>Recent content in Gokarna on Beautiful India</description>
+    <title>Gokarna on India</title>
+    <link>https://india.muthu.co/categories/gokarna/</link>
+    <description>Recent content in Gokarna on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/gokarna/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/gokarna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discover the Enchanting Coastal Town of Gokarna</title>
-      <link>http://localhost:1313/posts/karnataka/discover-the-enchanting-coastal-town-of-gokarna/</link>
+      <link>https://india.muthu.co/posts/karnataka/discover-the-enchanting-coastal-town-of-gokarna/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/karnataka/discover-the-enchanting-coastal-town-of-gokarna/</guid>
+      <guid>https://india.muthu.co/posts/karnataka/discover-the-enchanting-coastal-town-of-gokarna/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Gokarna, a serene coastal town situated in the Uttara Kannada district of Karnataka, India, is a place where spirituality meets the sun, sand, and sea. Nestled on the Arabian Sea coast, Gokarna is approximately 483 kilometers from Bangalore and is a popular destination for both pilgrims and beach lovers. While known as a significant pilgrimage site, its breathtaking beaches and relaxed atmosphere make it a magnet for those seeking tranquility. This unique combination of sacred traditions and natural beauty is what sets Gokarna apart, offering a harmonious blend of cultural and recreational experiences. The town&amp;rsquo;s elevation is relatively low, at sea level, offering easy access to the beaches and surrounding areas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discover the Enchanting Coastal Town of Gokarna</title>
+      <link>https://india.muthu.co/posts/places/karnataka/discover-the-enchanting-coastal-town-of-gokarna/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/karnataka/discover-the-enchanting-coastal-town-of-gokarna/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Gokarna, a serene coastal town situated in the Uttara Kannada district of Karnataka, India, is a place where spirituality meets the sun, sand, and sea. Nestled on the Arabian Sea coast, Gokarna is approximately 483 kilometers from Bangalore and is a popular destination for both pilgrims and beach lovers. While known as a significant pilgrimage site, its breathtaking beaches and relaxed atmosphere make it a magnet for those seeking tranquility. This unique combination of sacred traditions and natural beauty is what sets Gokarna apart, offering a harmonious blend of cultural and recreational experiences. The town&amp;rsquo;s elevation is relatively low, at sea level, offering easy access to the beaches and surrounding areas.&lt;/p&gt;</description>
     </item>
   </channel>

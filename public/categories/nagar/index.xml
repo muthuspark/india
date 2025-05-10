@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nagar on Beautiful India</title>
-    <link>http://localhost:1313/categories/nagar/</link>
-    <description>Recent content in Nagar on Beautiful India</description>
+    <title>Nagar on India</title>
+    <link>https://india.muthu.co/categories/nagar/</link>
+    <description>Recent content in Nagar on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/nagar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/nagar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nagar: A Hidden Gem in the Kullu Valley</title>
-      <link>http://localhost:1313/posts/himachal-pradesh/nagar-a-hidden-gem-in-the-kullu-valley/</link>
+      <link>https://india.muthu.co/posts/himachal-pradesh/nagar-a-hidden-gem-in-the-kullu-valley/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/himachal-pradesh/nagar-a-hidden-gem-in-the-kullu-valley/</guid>
+      <guid>https://india.muthu.co/posts/himachal-pradesh/nagar-a-hidden-gem-in-the-kullu-valley/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Naggar, nestled in the Kullu district of Himachal Pradesh, is a picturesque town steeped in history, culture, and natural beauty. Perched at an altitude of approximately 1,800 meters (5,900 feet) above sea level, it offers stunning panoramic views of the Himalayan peaks. Located about 20 kilometers (12 miles) from the bustling town of Manali, Naggar serves as a tranquil retreat from the more crowded tourist hubs. This charming town is renowned for its ancient castle, vibrant temples, and serene ambiance, making it a perfect destination for history enthusiasts, culture lovers, and nature seekers alike. Its unique blend of historical significance and breathtaking scenery sets it apart, offering an authentic experience of the Himalayan lifestyle.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nagar: A Hidden Gem in the Kullu Valley</title>
+      <link>https://india.muthu.co/posts/places/himachal-pradesh/nagar-a-hidden-gem-in-the-kullu-valley/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/himachal-pradesh/nagar-a-hidden-gem-in-the-kullu-valley/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Naggar, nestled in the Kullu district of Himachal Pradesh, is a picturesque town steeped in history, culture, and natural beauty. Perched at an altitude of approximately 1,800 meters (5,900 feet) above sea level, it offers stunning panoramic views of the Himalayan peaks. Located about 20 kilometers (12 miles) from the bustling town of Manali, Naggar serves as a tranquil retreat from the more crowded tourist hubs. This charming town is renowned for its ancient castle, vibrant temples, and serene ambiance, making it a perfect destination for history enthusiasts, culture lovers, and nature seekers alike. Its unique blend of historical significance and breathtaking scenery sets it apart, offering an authentic experience of the Himalayan lifestyle.&lt;/p&gt;</description>
     </item>
   </channel>

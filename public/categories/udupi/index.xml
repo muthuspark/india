@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Udupi on Beautiful India</title>
-    <link>http://localhost:1313/categories/udupi/</link>
-    <description>Recent content in Udupi on Beautiful India</description>
+    <title>Udupi on India</title>
+    <link>https://india.muthu.co/categories/udupi/</link>
+    <description>Recent content in Udupi on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/udupi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/udupi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discover the Charm of Udupi</title>
-      <link>http://localhost:1313/posts/karnataka/discover-the-charm-of-udupi/</link>
+      <link>https://india.muthu.co/posts/karnataka/discover-the-charm-of-udupi/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/karnataka/discover-the-charm-of-udupi/</guid>
+      <guid>https://india.muthu.co/posts/karnataka/discover-the-charm-of-udupi/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Udupi, a serene coastal town nestled in the Udupi district of Karnataka, India, is a place steeped in spirituality, tradition, and natural beauty. Located on the southwest coast, Udupi overlooks the Arabian Sea, offering a tranquil escape from the bustling city life. The town sits at an elevation of approximately 25 meters (82 feet) above sea level. Its proximity to popular destinations like Mangalore (60 km) and the Western Ghats makes it a convenient and appealing travel destination. Udupi is renowned for its iconic Sri Krishna Matha (temple), its delicious cuisine, and its pristine beaches. The town&amp;rsquo;s unique charm lies in its blend of religious devotion, rich cultural heritage, and stunning coastal landscapes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discover the Charm of Udupi</title>
+      <link>https://india.muthu.co/posts/places/karnataka/discover-the-charm-of-udupi/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/karnataka/discover-the-charm-of-udupi/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Udupi, a serene coastal town nestled in the Udupi district of Karnataka, India, is a place steeped in spirituality, tradition, and natural beauty. Located on the southwest coast, Udupi overlooks the Arabian Sea, offering a tranquil escape from the bustling city life. The town sits at an elevation of approximately 25 meters (82 feet) above sea level. Its proximity to popular destinations like Mangalore (60 km) and the Western Ghats makes it a convenient and appealing travel destination. Udupi is renowned for its iconic Sri Krishna Matha (temple), its delicious cuisine, and its pristine beaches. The town&amp;rsquo;s unique charm lies in its blend of religious devotion, rich cultural heritage, and stunning coastal landscapes.&lt;/p&gt;</description>
     </item>
   </channel>

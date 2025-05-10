@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Palitana on Beautiful India</title>
-    <link>http://localhost:1313/categories/palitana/</link>
-    <description>Recent content in Palitana on Beautiful India</description>
+    <title>Palitana on India</title>
+    <link>https://india.muthu.co/categories/palitana/</link>
+    <description>Recent content in Palitana on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/palitana/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/palitana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Palitana: A Journey Through Timeless Jain Temples</title>
-      <link>http://localhost:1313/posts/gujarat/palitana-a-journey-through-timeless-jain-temples/</link>
+      <link>https://india.muthu.co/posts/gujarat/palitana-a-journey-through-timeless-jain-temples/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/gujarat/palitana-a-journey-through-timeless-jain-temples/</guid>
+      <guid>https://india.muthu.co/posts/gujarat/palitana-a-journey-through-timeless-jain-temples/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Palitana, a city located in the Bhavnagar district of Gujarat, India, is world-renowned as a sacred site for Jains. Situated on the Shatrunjaya Hill, also known as the &amp;ldquo;Hill of Victory,&amp;rdquo; Palitana is home to a vast complex of Jain temples, making it one of the most important pilgrimage sites for Jains worldwide. Its elevation and spiritual significance, combined with its unique architecture, create a captivating atmosphere. Palitana is approximately 51 kilometers (32 miles) southwest of Bhavnagar and is close to other significant Gujarati towns like Ahmedabad. The place is unique due to its imposing temple complex, tranquil atmosphere, and historical importance in Jainism. It is a place where faith, history, and spirituality converge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Palitana: A Journey Through Timeless Jain Temples</title>
+      <link>https://india.muthu.co/posts/places/gujarat/palitana-a-journey-through-timeless-jain-temples/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/gujarat/palitana-a-journey-through-timeless-jain-temples/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Palitana, a city located in the Bhavnagar district of Gujarat, India, is world-renowned as a sacred site for Jains. Situated on the Shatrunjaya Hill, also known as the &amp;ldquo;Hill of Victory,&amp;rdquo; Palitana is home to a vast complex of Jain temples, making it one of the most important pilgrimage sites for Jains worldwide. Its elevation and spiritual significance, combined with its unique architecture, create a captivating atmosphere. Palitana is approximately 51 kilometers (32 miles) southwest of Bhavnagar and is close to other significant Gujarati towns like Ahmedabad. The place is unique due to its imposing temple complex, tranquil atmosphere, and historical importance in Jainism. It is a place where faith, history, and spirituality converge.&lt;/p&gt;</description>
     </item>
   </channel>

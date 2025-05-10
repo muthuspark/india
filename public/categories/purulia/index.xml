@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Purulia on Beautiful India</title>
-    <link>http://localhost:1313/categories/purulia/</link>
-    <description>Recent content in Purulia on Beautiful India</description>
+    <title>Purulia on India</title>
+    <link>https://india.muthu.co/categories/purulia/</link>
+    <description>Recent content in Purulia on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/purulia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/purulia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tarapith: A Pilgrimage to the Sacred Temple of Goddess Tara</title>
-      <link>http://localhost:1313/posts/west-bengal/tarapith-a-pilgrimage-to-the-sacred-temple-of-goddess-tara/</link>
+      <link>https://india.muthu.co/posts/places/west-bengal/tarapith-a-pilgrimage-to-the-sacred-temple-of-goddess-tara/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/west-bengal/tarapith-a-pilgrimage-to-the-sacred-temple-of-goddess-tara/</guid>
+      <guid>https://india.muthu.co/posts/places/west-bengal/tarapith-a-pilgrimage-to-the-sacred-temple-of-goddess-tara/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Tarapith, a sacred town in the Birbhum district of West Bengal, India, is renowned as a significant Hindu pilgrimage site, particularly for the worship of the goddess Tara, a fierce form of the Hindu goddess Shakti. Situated on the banks of the Dwarka River, Tarapith is approximately 260 kilometers (162 miles) northwest of Kolkata. It sits at an elevation of roughly 30 meters (98 feet) above sea level. Its proximity to popular destinations like Shantiniketan (about 65 km or 40 miles away) makes it a part of a wider exploration of Bengal&amp;rsquo;s spiritual and cultural landscape. What sets Tarapith apart is the deeply rooted Tantric traditions associated with the temple, the powerful presence of the goddess, and the vibrant, sometimes intense, atmosphere of the place.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tarapith: A Pilgrimage to the Sacred Temple of Goddess Tara</title>
+      <link>https://india.muthu.co/posts/west-bengal/tarapith-a-pilgrimage-to-the-sacred-temple-of-goddess-tara/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/west-bengal/tarapith-a-pilgrimage-to-the-sacred-temple-of-goddess-tara/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Tarapith, a sacred town in the Birbhum district of West Bengal, India, is renowned as a significant Hindu pilgrimage site, particularly for the worship of the goddess Tara, a fierce form of the Hindu goddess Shakti. Situated on the banks of the Dwarka River, Tarapith is approximately 260 kilometers (162 miles) northwest of Kolkata. It sits at an elevation of roughly 30 meters (98 feet) above sea level. Its proximity to popular destinations like Shantiniketan (about 65 km or 40 miles away) makes it a part of a wider exploration of Bengal&amp;rsquo;s spiritual and cultural landscape. What sets Tarapith apart is the deeply rooted Tantric traditions associated with the temple, the powerful presence of the goddess, and the vibrant, sometimes intense, atmosphere of the place.&lt;/p&gt;</description>
     </item>
   </channel>

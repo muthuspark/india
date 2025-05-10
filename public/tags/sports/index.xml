@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sports on Beautiful India</title>
-    <link>http://localhost:1313/tags/sports/</link>
-    <description>Recent content in Sports on Beautiful India</description>
+    <title>Sports on India</title>
+    <link>https://india.muthu.co/tags/sports/</link>
+    <description>Recent content in Sports on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/tags/sports/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chail Cricket Ground: A High-Altitude Pitch in Himachal Pradesh</title>
-      <link>http://localhost:1313/posts/himachal-pradesh/chail-cricket-ground-a-high-altitude-pitch-in-himachal-pradesh/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/himachal-pradesh/chail-cricket-ground-a-high-altitude-pitch-in-himachal-pradesh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kamshet: A Trekkers Paradise in Maharashtra</title>
-      <link>http://localhost:1313/posts/maharashtra/kamshet-a-trekkers-paradise-in-maharashtra/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/maharashtra/kamshet-a-trekkers-paradise-in-maharashtra/</guid>
-      <description></description>
+      <title>National Sports Day</title>
+      <link>https://india.muthu.co/posts/festivals/national-sports-day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/festivals/national-sports-day/</guid>
+      <description>&lt;h2 id=&#34;bending-it-like-dhyan-chand-celebrating-national-sports-day-in-india&#34;&gt;Bending it Like Dhyan Chand: Celebrating National Sports Day in India&lt;/h2&gt;&#xA;&lt;p&gt;Imagine a day filled with the energy of a thousand running feet, the sharp crack of a hockey stick meeting a ball, and the roar of a crowd cheering on their heroes. That&amp;rsquo;s the essence of National Sports Day in India, celebrated with fervor every year on August 29th. More than just a holiday, it’s a vibrant tribute to the sporting spirit, a reminder of the importance of physical activity, and, most importantly, a birthday celebration for one of India&amp;rsquo;s most beloved legends: Major Dhyan Chand.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kasargod on Beautiful India</title>
-    <link>http://localhost:1313/categories/kasargod/</link>
-    <description>Recent content in Kasargod on Beautiful India</description>
+    <title>Kasargod on India</title>
+    <link>https://india.muthu.co/categories/kasargod/</link>
+    <description>Recent content in Kasargod on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/kasargod/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/kasargod/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discover the Natural Beauty of Gavi</title>
-      <link>http://localhost:1313/posts/kerala/discover-the-natural-beauty-of-gavi/</link>
+      <link>https://india.muthu.co/posts/kerala/discover-the-natural-beauty-of-gavi/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kerala/discover-the-natural-beauty-of-gavi/</guid>
+      <guid>https://india.muthu.co/posts/kerala/discover-the-natural-beauty-of-gavi/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Gavi, nestled in the Kasaragod district of Kerala, is a hidden gem renowned for its untouched natural beauty and serene atmosphere. While the name &amp;ldquo;Gavi&amp;rdquo; might conjure images of a more well-known destination, this locale offers a refreshingly different experience. It&amp;rsquo;s located in the northernmost part of Kerala, offering a unique blend of the state&amp;rsquo;s lush landscapes and the captivating charm of its northern regions. The exact elevation of Gavi, as such a remote area, is not readily available, but it generally conforms to the hilly terrain characteristic of the Western Ghats. Its proximity to other popular tourist spots provides a convenient base for exploring the wider Kasaragod region. What makes Gavi so unique is its promise of tranquility, unspoiled forests, and a chance to reconnect with nature away from the usual tourist crowds, a contrast to the busier experiences offered by popular Kerala destinations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discover the Natural Beauty of Gavi</title>
+      <link>https://india.muthu.co/posts/places/kerala/discover-the-natural-beauty-of-gavi/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/kerala/discover-the-natural-beauty-of-gavi/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Gavi, nestled in the Kasaragod district of Kerala, is a hidden gem renowned for its untouched natural beauty and serene atmosphere. While the name &amp;ldquo;Gavi&amp;rdquo; might conjure images of a more well-known destination, this locale offers a refreshingly different experience. It&amp;rsquo;s located in the northernmost part of Kerala, offering a unique blend of the state&amp;rsquo;s lush landscapes and the captivating charm of its northern regions. The exact elevation of Gavi, as such a remote area, is not readily available, but it generally conforms to the hilly terrain characteristic of the Western Ghats. Its proximity to other popular tourist spots provides a convenient base for exploring the wider Kasaragod region. What makes Gavi so unique is its promise of tranquility, unspoiled forests, and a chance to reconnect with nature away from the usual tourist crowds, a contrast to the busier experiences offered by popular Kerala destinations.&lt;/p&gt;</description>
     </item>
   </channel>

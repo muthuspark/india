@@ -1,75 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cultural on Beautiful India</title>
-    <link>http://localhost:1313/tags/cultural/</link>
-    <description>Recent content in Cultural on Beautiful India</description>
+    <title>Cultural on India</title>
+    <link>https://india.muthu.co/tags/cultural/</link>
+    <description>Recent content in Cultural on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cultural/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/tags/cultural/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Explore the Scenic Beauty of Chail in Himachal Pradesh</title>
-      <link>http://localhost:1313/posts/himachal-pradesh/explore-the-scenic-beauty-of-chail-in-himachal-pradesh/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/himachal-pradesh/explore-the-scenic-beauty-of-chail-in-himachal-pradesh/</guid>
-      <description></description>
+      <title>Karnataka Rajyotsava</title>
+      <link>https://india.muthu.co/posts/festivals/karnataka-rajyotsava/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/festivals/karnataka-rajyotsava/</guid>
+      <description>&lt;h2 id=&#34;karnataka-rajyotsava-a-symphony-in-yellow-and-red-celebrating-a-state-a-spirit-and-a-story&#34;&gt;Karnataka Rajyotsava: A Symphony in Yellow and Red Celebrating a State, a Spirit, and a Story&lt;/h2&gt;&#xA;&lt;p&gt;Imagine a land painted in vibrant strokes of yellow and red, where the air vibrates with the rhythm of drums and the melodies of Kannada songs. Imagine streets adorned with flags, banners, and the beaming faces of its people, all united in a shared sense of pride. This is Karnataka on November 1st, celebrating its formation day, Rajyotsava.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Kashi Vishwanath Temple: A Pilgrimage Destination</title>
-      <link>http://localhost:1313/posts/uttar-pradesh/kashi-vishwanath-temple-a-pilgrimage-destination/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/uttar-pradesh/kashi-vishwanath-temple-a-pilgrimage-destination/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mcleodganj: A Sanctuary of Peace and Spiritualism</title>
-      <link>http://localhost:1313/posts/himachal-pradesh/mcleodganj-a-sanctuary-of-peace-and-spiritualism/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/himachal-pradesh/mcleodganj-a-sanctuary-of-peace-and-spiritualism/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Osian: A Blend of Art and Spirituality in Rajasthan</title>
-      <link>http://localhost:1313/posts/rajasthan/osian-a-blend-of-art-and-spirituality-in-rajasthan/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rajasthan/osian-a-blend-of-art-and-spirituality-in-rajasthan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pushkar: The Sacred Lake Town of Rajasthan</title>
-      <link>http://localhost:1313/posts/rajasthan/pushkar-the-sacred-lake-town-of-rajasthan/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rajasthan/pushkar-the-sacred-lake-town-of-rajasthan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tirupati: Gateway to Divine Blessings</title>
-      <link>http://localhost:1313/posts/andhra-pradesh/tirupati-gateway-to-divine-blessings/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/andhra-pradesh/tirupati-gateway-to-divine-blessings/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tso Kar Lake: A High-Altitude Jewel in Ladakh</title>
-      <link>http://localhost:1313/posts/ladakh/tso-kar-lake-a-high-altitude-jewel-in-ladakh/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ladakh/tso-kar-lake-a-high-altitude-jewel-in-ladakh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Zanskar Valley: A Hidden Paradise in the Trans-Himalayas</title>
-      <link>http://localhost:1313/posts/ladakh/zanskar-valley-a-hidden-paradise-in-the-trans-himalayas/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ladakh/zanskar-valley-a-hidden-paradise-in-the-trans-himalayas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ziro Valley: A Scenic Paradise in Arunachal Pradesh</title>
-      <link>http://localhost:1313/posts/arunachal-pradesh/ziro-valley-a-scenic-paradise-in-arunachal-pradesh/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/arunachal-pradesh/ziro-valley-a-scenic-paradise-in-arunachal-pradesh/</guid>
-      <description></description>
+      <title>Maharashtra Day</title>
+      <link>https://india.muthu.co/posts/festivals/maharashtra-day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/festivals/maharashtra-day/</guid>
+      <description>&lt;h2 id=&#34;maharashtra-day-celebrating-the-soul-of-maharashtra-one-bite-of-puran-poli-at-a-time&#34;&gt;Maharashtra Day: Celebrating the Soul of Maharashtra, One Bite of Puran Poli at a Time&lt;/h2&gt;&#xA;&lt;p&gt;Ever heard of a day dedicated to the spirit of a land? In India, where every corner pulsates with vibrant culture and history, we have many! But today, we&amp;rsquo;re zeroing in on one particularly special occasion: Maharashtra Day, celebrated every year on May 1st. More than just a state holiday, Maharashtra Day, or &lt;em&gt;Maharashtra Diwas&lt;/em&gt; as it&amp;rsquo;s lovingly called, is a powerful reminder of our shared identity, a celebration of our rich heritage, and a day filled with pride for all Maharashtrians, both at home and abroad.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

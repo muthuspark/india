@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kinnaur on Beautiful India</title>
-    <link>http://localhost:1313/categories/kinnaur/</link>
-    <description>Recent content in Kinnaur on Beautiful India</description>
+    <title>Kinnaur on India</title>
+    <link>https://india.muthu.co/categories/kinnaur/</link>
+    <description>Recent content in Kinnaur on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/kinnaur/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/kinnaur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring the Enchanting Landscapes of Kinnaur</title>
-      <link>http://localhost:1313/posts/himachal-pradesh/exploring-the-enchanting-landscapes-of-kinnaur/</link>
+      <link>https://india.muthu.co/posts/himachal-pradesh/exploring-the-enchanting-landscapes-of-kinnaur/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/himachal-pradesh/exploring-the-enchanting-landscapes-of-kinnaur/</guid>
+      <guid>https://india.muthu.co/posts/himachal-pradesh/exploring-the-enchanting-landscapes-of-kinnaur/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Kinnaur, a district in the northeastern part of Himachal Pradesh, India, is a land of dramatic landscapes, deep valleys, and towering snow-capped mountains. It is situated at an average elevation of 2,320 meters (7,610 ft) above sea level and is located close to the Indo-Tibet border.  This high-altitude region is renowned for its stunning natural beauty, rich cultural heritage deeply rooted in Buddhism and Hinduism, and its strategic importance due to its proximity to the international border. Kinnaur offers a unique travel experience, blending adventure with serenity, making it a captivating destination for all types of travelers. It&amp;rsquo;s a gateway to the Spiti Valley and is easily accessible from Shimla, a popular tourist destination. Kinnaur is a haven for those seeking adventure, spiritual growth, and a glimpse into a distinct way of life.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exploring the Enchanting Landscapes of Kinnaur</title>
+      <link>https://india.muthu.co/posts/places/himachal-pradesh/exploring-the-enchanting-landscapes-of-kinnaur/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/himachal-pradesh/exploring-the-enchanting-landscapes-of-kinnaur/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Kinnaur, a district in the northeastern part of Himachal Pradesh, India, is a land of dramatic landscapes, deep valleys, and towering snow-capped mountains. It is situated at an average elevation of 2,320 meters (7,610 ft) above sea level and is located close to the Indo-Tibet border.  This high-altitude region is renowned for its stunning natural beauty, rich cultural heritage deeply rooted in Buddhism and Hinduism, and its strategic importance due to its proximity to the international border. Kinnaur offers a unique travel experience, blending adventure with serenity, making it a captivating destination for all types of travelers. It&amp;rsquo;s a gateway to the Spiti Valley and is easily accessible from Shimla, a popular tourist destination. Kinnaur is a haven for those seeking adventure, spiritual growth, and a glimpse into a distinct way of life.&lt;/p&gt;</description>
     </item>
   </channel>

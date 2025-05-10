@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kalimpong on Beautiful India</title>
-    <link>http://localhost:1313/categories/kalimpong/</link>
-    <description>Recent content in Kalimpong on Beautiful India</description>
+    <title>Kalimpong on India</title>
+    <link>https://india.muthu.co/categories/kalimpong/</link>
+    <description>Recent content in Kalimpong on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/kalimpong/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/kalimpong/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kalimpong: A Scenic Gem in West Bengal</title>
-      <link>http://localhost:1313/posts/west-bengal/kalimpong-a-scenic-gem-in-west-bengal/</link>
+      <link>https://india.muthu.co/posts/places/west-bengal/kalimpong-a-scenic-gem-in-west-bengal/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/west-bengal/kalimpong-a-scenic-gem-in-west-bengal/</guid>
+      <guid>https://india.muthu.co/posts/places/west-bengal/kalimpong-a-scenic-gem-in-west-bengal/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Kalimpong, a serene hill station nestled in the northern part of West Bengal, India, offers breathtaking views of the Himalayas and a unique blend of cultural heritage. Situated in the Kalimpong district, the town is perched at an average elevation of 1,250 meters (4,100 feet), providing a cool and pleasant climate year-round. It&amp;rsquo;s conveniently located, approximately 50 km (31 miles) from Darjeeling and 70 km (43 miles) from Gangtok, making it an ideal stop for travelers exploring the region. Kalimpong is renowned for its colonial-era architecture, Buddhist monasteries, vibrant flower markets, and the warm hospitality of its diverse community, offering a tranquil escape and a culturally enriching experience. Its charm lies in its ability to blend natural beauty with historical significance and a welcoming atmosphere.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kalimpong: A Scenic Gem in West Bengal</title>
+      <link>https://india.muthu.co/posts/west-bengal/kalimpong-a-scenic-gem-in-west-bengal/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/west-bengal/kalimpong-a-scenic-gem-in-west-bengal/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Kalimpong, a serene hill station nestled in the northern part of West Bengal, India, offers breathtaking views of the Himalayas and a unique blend of cultural heritage. Situated in the Kalimpong district, the town is perched at an average elevation of 1,250 meters (4,100 feet), providing a cool and pleasant climate year-round. It&amp;rsquo;s conveniently located, approximately 50 km (31 miles) from Darjeeling and 70 km (43 miles) from Gangtok, making it an ideal stop for travelers exploring the region. Kalimpong is renowned for its colonial-era architecture, Buddhist monasteries, vibrant flower markets, and the warm hospitality of its diverse community, offering a tranquil escape and a culturally enriching experience. Its charm lies in its ability to blend natural beauty with historical significance and a welcoming atmosphere.&lt;/p&gt;</description>
     </item>
   </channel>

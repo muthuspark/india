@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aihole on Beautiful India</title>
-    <link>http://localhost:1313/categories/aihole/</link>
-    <description>Recent content in Aihole on Beautiful India</description>
+    <title>Aihole on India</title>
+    <link>https://india.muthu.co/categories/aihole/</link>
+    <description>Recent content in Aihole on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/aihole/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/aihole/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aihole: Gateway to Karnataka&#39;s Temple Town</title>
-      <link>http://localhost:1313/posts/karnataka/aihole-gateway-to-karnatakas-temple-town/</link>
+      <link>https://india.muthu.co/posts/karnataka/aihole-gateway-to-karnatakas-temple-town/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/karnataka/aihole-gateway-to-karnatakas-temple-town/</guid>
+      <guid>https://india.muthu.co/posts/karnataka/aihole-gateway-to-karnatakas-temple-town/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Aihole, a small town nestled in the Bagalkot district of Karnataka, India, is a treasure trove of ancient architecture and a pivotal site in the evolution of temple construction. Often referred to as the &amp;ldquo;Cradle of Indian Architecture,&amp;rdquo; Aihole boasts over 125 temples scattered across the landscape, showcasing a remarkable range of architectural styles dating back to the Chalukya dynasty. Situated on the banks of the Malaprabha River, Aihole sits at an elevation of approximately 500 meters (1,640 feet). It lies approximately 35 kilometers (22 miles) from Badami and 45 kilometers (28 miles) from Pattadakal, both UNESCO World Heritage Sites, making it an essential stop on any heritage tour of the region. The unique charm of Aihole lies in its diverse and experimental architectural styles, which served as a training ground for the architects who went on to construct some of India&amp;rsquo;s most magnificent temples.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aihole: Gateway to Karnataka&#39;s Temple Town</title>
+      <link>https://india.muthu.co/posts/places/karnataka/aihole-gateway-to-karnatakas-temple-town/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/karnataka/aihole-gateway-to-karnatakas-temple-town/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Aihole, a small town nestled in the Bagalkot district of Karnataka, India, is a treasure trove of ancient architecture and a pivotal site in the evolution of temple construction. Often referred to as the &amp;ldquo;Cradle of Indian Architecture,&amp;rdquo; Aihole boasts over 125 temples scattered across the landscape, showcasing a remarkable range of architectural styles dating back to the Chalukya dynasty. Situated on the banks of the Malaprabha River, Aihole sits at an elevation of approximately 500 meters (1,640 feet). It lies approximately 35 kilometers (22 miles) from Badami and 45 kilometers (28 miles) from Pattadakal, both UNESCO World Heritage Sites, making it an essential stop on any heritage tour of the region. The unique charm of Aihole lies in its diverse and experimental architectural styles, which served as a training ground for the architects who went on to construct some of India&amp;rsquo;s most magnificent temples.&lt;/p&gt;</description>
     </item>
   </channel>

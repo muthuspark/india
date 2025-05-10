@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Munsiyari on Beautiful India</title>
-    <link>http://localhost:1313/categories/munsiyari/</link>
-    <description>Recent content in Munsiyari on Beautiful India</description>
+    <title>Munsiyari on India</title>
+    <link>https://india.muthu.co/categories/munsiyari/</link>
+    <description>Recent content in Munsiyari on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/munsiyari/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/munsiyari/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Munsiyari: A Hidden Gem in Uttarakhand</title>
-      <link>http://localhost:1313/posts/uttarakhand/munsiyari-a-hidden-gem-in-uttarakhand/</link>
+      <link>https://india.muthu.co/posts/places/uttarakhand/munsiyari-a-hidden-gem-in-uttarakhand/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/uttarakhand/munsiyari-a-hidden-gem-in-uttarakhand/</guid>
+      <guid>https://india.muthu.co/posts/places/uttarakhand/munsiyari-a-hidden-gem-in-uttarakhand/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Munsiyari, often referred to as &amp;ldquo;Little Kashmir,&amp;rdquo; is a mesmerizing hill station located in the Pithoragarh district of Uttarakhand, India. Situated at an impressive elevation of approximately 2,298 meters (7,540 feet) above sea level, Munsiyari offers breathtaking panoramic views of the majestic snow-capped peaks of the Himalayas, particularly the Panchachuli range. Its strategic location along the ancient trade route between India and Tibet has imbued it with a unique cultural blend and historical significance. Munsiyari is a haven for nature lovers, adventure seekers, and those looking for a tranquil escape from the bustling city life. Its pristine natural beauty, rich cultural heritage, and opportunities for adventure make it a truly unforgettable destination.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Munsiyari: A Hidden Gem in Uttarakhand</title>
+      <link>https://india.muthu.co/posts/uttarakhand/munsiyari-a-hidden-gem-in-uttarakhand/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/uttarakhand/munsiyari-a-hidden-gem-in-uttarakhand/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Munsiyari, often referred to as &amp;ldquo;Little Kashmir,&amp;rdquo; is a mesmerizing hill station located in the Pithoragarh district of Uttarakhand, India. Situated at an impressive elevation of approximately 2,298 meters (7,540 feet) above sea level, Munsiyari offers breathtaking panoramic views of the majestic snow-capped peaks of the Himalayas, particularly the Panchachuli range. Its strategic location along the ancient trade route between India and Tibet has imbued it with a unique cultural blend and historical significance. Munsiyari is a haven for nature lovers, adventure seekers, and those looking for a tranquil escape from the bustling city life. Its pristine natural beauty, rich cultural heritage, and opportunities for adventure make it a truly unforgettable destination.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,47 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flowers on Beautiful India</title>
-    <link>http://localhost:1313/tags/flowers/</link>
-    <description>Recent content in Flowers on Beautiful India</description>
+    <title>Flowers on India</title>
+    <link>https://india.muthu.co/tags/flowers/</link>
+    <description>Recent content in Flowers on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/flowers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/tags/flowers/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chandigarh Rose Garden: A Blooming Paradise</title>
-      <link>http://localhost:1313/posts/chandigarh/chandigarh-rose-garden-a-blooming-paradise/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chandigarh/chandigarh-rose-garden-a-blooming-paradise/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dzongu: The Scenic Valley of Flowers in Sikkim</title>
-      <link>http://localhost:1313/posts/sikkim/dzongu-the-scenic-valley-of-flowers-in-sikkim/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sikkim/dzongu-the-scenic-valley-of-flowers-in-sikkim/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kaas Plateau: The Valley of Flowers in Maharashtra</title>
-      <link>http://localhost:1313/posts/maharashtra/kaas-plateau-the-valley-of-flowers-in-maharashtra/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/maharashtra/kaas-plateau-the-valley-of-flowers-in-maharashtra/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Valley of Flowers National Park: A Blooming Paradise in Uttarakhand</title>
-      <link>http://localhost:1313/posts/uttarakhand/valley-of-flowers-national-park-a-blooming-paradise-in-uttarakhand/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/uttarakhand/valley-of-flowers-national-park-a-blooming-paradise-in-uttarakhand/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Valley of Flowers: A Carpet of Blooms in Uttarakhand</title>
-      <link>http://localhost:1313/posts/uttarakhand/valley-of-flowers-a-carpet-of-blooms-in-uttarakhand/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/uttarakhand/valley-of-flowers-a-carpet-of-blooms-in-uttarakhand/</guid>
-      <description></description>
+      <title>Vasant</title>
+      <link>https://india.muthu.co/posts/gods/vasant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/gods/vasant/</guid>
+      <description>&lt;h2 id=&#34;vasant-the-god-of-spring-in-hinduism&#34;&gt;Vasant: The God of Spring in Hinduism&lt;/h2&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Vasant, also known as Madhava, is the personification of the spring season (Vasant Ritu) in Hinduism. He is closely associated with Kama, the god of love and desire, embodying the beauty, joy, and renewal that characterize the spring months. While not considered a major deity in the same vein as Vishnu or Shiva, Vasant holds a significant place in Hindu culture as a symbol of prosperity, happiness, and the vibrant rebirth of nature after the winter. He represents the blossoming of both the physical world and the inner self, fostering creativity, love, and spiritual growth. His iconography often includes elements symbolizing growth, fertility, and the vibrant colors of spring.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

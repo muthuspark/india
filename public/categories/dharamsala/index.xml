@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dharamsala on Beautiful India</title>
-    <link>http://localhost:1313/categories/dharamsala/</link>
-    <description>Recent content in Dharamsala on Beautiful India</description>
+    <title>Dharamsala on India</title>
+    <link>https://india.muthu.co/categories/dharamsala/</link>
+    <description>Recent content in Dharamsala on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/dharamsala/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/dharamsala/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explore the Biodiversity of Great Himalayan National Park</title>
-      <link>http://localhost:1313/posts/himachal-pradesh/explore-the-biodiversity-of-great-himalayan-national-park/</link>
+      <link>https://india.muthu.co/posts/himachal-pradesh/explore-the-biodiversity-of-great-himalayan-national-park/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/himachal-pradesh/explore-the-biodiversity-of-great-himalayan-national-park/</guid>
+      <guid>https://india.muthu.co/posts/himachal-pradesh/explore-the-biodiversity-of-great-himalayan-national-park/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The Great Himalayan National Park (GHNP), a UNESCO World Heritage Site, is a pristine wilderness sanctuary located in the Kullu district of Himachal Pradesh, India. Though its administrative offices might be located in Dharamsala, its heart and core area lie further south, in the dramatic landscapes of the Himalayas.  Situated at an altitude ranging from 1,500 to 6,000 meters (4,900 to 19,700 feet), the park is renowned for its exceptional biodiversity and breathtaking scenery. The GHNP is relatively close to popular destinations like Manali and Kullu, making it accessible yet offering a world away from the bustling tourist trails. What makes GHNP truly unique is its remarkable conservation success story, showcasing the preservation of a vast, high-altitude Himalayan ecosystem, and its crucial role in protecting some of the world&amp;rsquo;s most endangered species.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Explore the Biodiversity of Great Himalayan National Park</title>
+      <link>https://india.muthu.co/posts/places/himachal-pradesh/explore-the-biodiversity-of-great-himalayan-national-park/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/himachal-pradesh/explore-the-biodiversity-of-great-himalayan-national-park/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The Great Himalayan National Park (GHNP), a UNESCO World Heritage Site, is a pristine wilderness sanctuary located in the Kullu district of Himachal Pradesh, India. Though its administrative offices might be located in Dharamsala, its heart and core area lie further south, in the dramatic landscapes of the Himalayas.  Situated at an altitude ranging from 1,500 to 6,000 meters (4,900 to 19,700 feet), the park is renowned for its exceptional biodiversity and breathtaking scenery. The GHNP is relatively close to popular destinations like Manali and Kullu, making it accessible yet offering a world away from the bustling tourist trails. What makes GHNP truly unique is its remarkable conservation success story, showcasing the preservation of a vast, high-altitude Himalayan ecosystem, and its crucial role in protecting some of the world&amp;rsquo;s most endangered species.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Malpe on Beautiful India</title>
-    <link>http://localhost:1313/categories/malpe/</link>
-    <description>Recent content in Malpe on Beautiful India</description>
+    <title>Malpe on India</title>
+    <link>https://india.muthu.co/categories/malpe/</link>
+    <description>Recent content in Malpe on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/malpe/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/malpe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>St. Mary’s Island: A Hidden Treasure in Karnataka</title>
-      <link>http://localhost:1313/posts/karnataka/st-marys-island-a-hidden-treasure-in-karnataka/</link>
+      <link>https://india.muthu.co/posts/karnataka/st-marys-island-a-hidden-treasure-in-karnataka/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/karnataka/st-marys-island-a-hidden-treasure-in-karnataka/</guid>
+      <guid>https://india.muthu.co/posts/karnataka/st-marys-island-a-hidden-treasure-in-karnataka/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;St. Mary&amp;rsquo;s Island, also known as Coconut Island and Thonsepar, is a set of four small islands in the Arabian Sea off the coast of Malpe, Karnataka, India. These islands, known for their unique geological formations of basalt rocks crystallized into columnar shapes, are a geological marvel and a haven of tranquility. Located approximately 4 km from Malpe, they are a popular day trip destination for tourists and researchers alike. With no significant elevation, these islands are renowned for their pristine beaches, clear waters, and the mesmerizing views they offer, particularly at sunset. St. Mary&amp;rsquo;s Island is a designated National Geological Monument, recognized by the Geological Survey of India.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>St. Mary’s Island: A Hidden Treasure in Karnataka</title>
+      <link>https://india.muthu.co/posts/places/karnataka/st-marys-island-a-hidden-treasure-in-karnataka/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/karnataka/st-marys-island-a-hidden-treasure-in-karnataka/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;St. Mary&amp;rsquo;s Island, also known as Coconut Island and Thonsepar, is a set of four small islands in the Arabian Sea off the coast of Malpe, Karnataka, India. These islands, known for their unique geological formations of basalt rocks crystallized into columnar shapes, are a geological marvel and a haven of tranquility. Located approximately 4 km from Malpe, they are a popular day trip destination for tourists and researchers alike. With no significant elevation, these islands are renowned for their pristine beaches, clear waters, and the mesmerizing views they offer, particularly at sunset. St. Mary&amp;rsquo;s Island is a designated National Geological Monument, recognized by the Geological Survey of India.&lt;/p&gt;</description>
     </item>
   </channel>

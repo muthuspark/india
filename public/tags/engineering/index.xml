@@ -1,40 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Engineering on Beautiful India</title>
-    <link>http://localhost:1313/tags/engineering/</link>
-    <description>Recent content in Engineering on Beautiful India</description>
+    <title>Engineering on India</title>
+    <link>https://india.muthu.co/tags/engineering/</link>
+    <description>Recent content in Engineering on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hirakud Dam: A Testament to Ancient Engineering Marvel</title>
-      <link>http://localhost:1313/posts/odisha/hirakud-dam-a-testament-to-ancient-engineering-marvel/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/odisha/hirakud-dam-a-testament-to-ancient-engineering-marvel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Living Root Bridges of Meghalaya: A Unique Natural Wonder</title>
-      <link>http://localhost:1313/posts/meghalaya/living-root-bridges-of-meghalaya-a-unique-natural-wonder/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/meghalaya/living-root-bridges-of-meghalaya-a-unique-natural-wonder/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pamban Bridge: A Gateway Between Land and Sea</title>
-      <link>http://localhost:1313/posts/tamil-nadu/pamban-bridge-a-gateway-between-land-and-sea/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tamil-nadu/pamban-bridge-a-gateway-between-land-and-sea/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tehri Dam: A Majestic Engineering Marvel in Uttarakhand</title>
-      <link>http://localhost:1313/posts/uttarakhand/tehri-dam-a-majestic-engineering-marvel-in-uttarakhand/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/uttarakhand/tehri-dam-a-majestic-engineering-marvel-in-uttarakhand/</guid>
-      <description></description>
+      <title>Engineer&#39;s Day</title>
+      <link>https://india.muthu.co/posts/festivals/engineers-day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/festivals/engineers-day/</guid>
+      <description>&lt;h2 id=&#34;building-india-honoring-the-builder-celebrating-engineers-day&#34;&gt;Building India, Honoring the Builder: Celebrating Engineer&amp;rsquo;s Day&lt;/h2&gt;&#xA;&lt;p&gt;Have you ever paused to consider the incredible feats of engineering that shape our world? From the towering skyscrapers that pierce the clouds to the intricate network of roads and bridges that connect us, engineering is the silent force driving progress. And in India, we dedicate a special day to celebrate these innovators and, most importantly, to honor the father of Indian Engineering, Sir Mokshagundam Visvesvaraya, affectionately known as Sir M.V.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

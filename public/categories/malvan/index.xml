@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Malvan on Beautiful India</title>
-    <link>http://localhost:1313/categories/malvan/</link>
-    <description>Recent content in Malvan on Beautiful India</description>
+    <title>Malvan on India</title>
+    <link>https://india.muthu.co/categories/malvan/</link>
+    <description>Recent content in Malvan on India</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/malvan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://india.muthu.co/categories/malvan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tarkarli Beach: A Paradise for Nature Lovers</title>
-      <link>http://localhost:1313/posts/maharashtra/tarkarli-beach-a-paradise-for-nature-lovers/</link>
+      <link>https://india.muthu.co/posts/maharashtra/tarkarli-beach-a-paradise-for-nature-lovers/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/maharashtra/tarkarli-beach-a-paradise-for-nature-lovers/</guid>
+      <guid>https://india.muthu.co/posts/maharashtra/tarkarli-beach-a-paradise-for-nature-lovers/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Tarkarli Beach, a pristine stretch of coastline nestled in the Konkan region of Maharashtra, India, is a jewel of the Arabian Sea. Located in the Malvan taluka of the Sindhudurg district, Tarkarli captivates visitors with its serene beauty, crystal-clear waters, and a vibrant local culture. The beach is approximately 546 kilometers (339 miles) from Mumbai, Maharashtra&amp;rsquo;s capital city. Tarkarli is renowned for its long coastline, shallow waters, and the spectacular Sindhudurg Fort, a sea fort built by Chhatrapati Shivaji Maharaj. This blend of natural beauty, historical significance, and a tranquil environment makes Tarkarli a sought-after destination for tourists and travelers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tarkarli Beach: A Paradise for Nature Lovers</title>
+      <link>https://india.muthu.co/posts/places/maharashtra/tarkarli-beach-a-paradise-for-nature-lovers/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://india.muthu.co/posts/places/maharashtra/tarkarli-beach-a-paradise-for-nature-lovers/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Tarkarli Beach, a pristine stretch of coastline nestled in the Konkan region of Maharashtra, India, is a jewel of the Arabian Sea. Located in the Malvan taluka of the Sindhudurg district, Tarkarli captivates visitors with its serene beauty, crystal-clear waters, and a vibrant local culture. The beach is approximately 546 kilometers (339 miles) from Mumbai, Maharashtra&amp;rsquo;s capital city. Tarkarli is renowned for its long coastline, shallow waters, and the spectacular Sindhudurg Fort, a sea fort built by Chhatrapati Shivaji Maharaj. This blend of natural beauty, historical significance, and a tranquil environment makes Tarkarli a sought-after destination for tourists and travelers.&lt;/p&gt;</description>
     </item>
   </channel>

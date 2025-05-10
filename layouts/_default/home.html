@@ -38,11 +38,11 @@
 
 <section class="mb-16">
 
-    {{ $cat := "Arunachal Pradesh" }}
+    {{ $cat := "hindu-gods-and-goddesses" }}
 
     <div class="flex items-center mb-6">
 
-      <h2 class="text-3xl md:text-4xl font-bold mr-auto">{{ $cat | humanize }}</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mr-auto">Hindu Gods and Goddesses</h2>
 
       <a class="border rounded-full py-2 px-4 md:px-6 hover:bg-blue-100" href="{{ printf "/categories/%s" $cat | absURL }}">View All</a>
     </div>
@@ -57,17 +57,63 @@
 
     </div>
 
-  </section>
+</section>
+
+<section class="mb-16">
+
+  {{ $cat := "festivals" }}
+
+  <div class="flex items-center mb-6">
+
+    <h2 class="text-3xl md:text-4xl font-bold mr-auto">Indian Festivals</h2>
+
+    <a class="border rounded-full py-2 px-4 md:px-6 hover:bg-blue-100" href="{{ printf "/categories/%s" $cat | absURL }}">View All</a>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
+
+  {{ range where .Site.RegularPages "Params.categories" "intersect" (slice $cat ) | first 3 }}
+
+    {{- partial "content/card" . -}}
+
+  {{ end }}
+
+  </div>
+
+</section>
+
+<section class="mb-16">
+
+  {{ $cat := "places" }}
+
+  <div class="flex items-center mb-6">
+
+    <h2 class="text-3xl md:text-4xl font-bold mr-auto">Beautiful Places In India</h2>
+
+    <a class="border rounded-full py-2 px-4 md:px-6 hover:bg-blue-100" href="{{ printf "/categories/%s" $cat | absURL }}">View All</a>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-x-6 gap-y-10">
+
+  {{ range where .Site.RegularPages "Params.categories" "intersect" (slice $cat ) | first 3 }}
+
+    {{- partial "content/card" . -}}
+
+  {{ end }}
+
+  </div>
+
+</section>
 
 <!-- / End category post --> 
-<hr class="my-8">
+<!-- <hr class="my-8"> -->
 <!-- Start recent post  -->
 
   <section class="mb-16">
 
     <div class="flex items-center mb-6">
 
-      <h2 class="text-3xl md:text-4xl font-bold mr-auto">More Beautiful Places</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mr-auto">All Posts</h2>
 
     </div>
 
@@ -98,7 +144,7 @@
   </section>
 
 <!-- / End recent post  -->
-
-  {{- partial "content/newsletter.html" . -}}
+<!-- 
+  {{- partial "content/newsletter.html" . -}} -->
 
 {{ end }}
