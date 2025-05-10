@@ -23,12 +23,12 @@ The history of Lavasa is relatively recent. The concept was conceived and develo
 
 ### **Natural Beauty**
 
-Lavasa's main draw is its stunning natural surroundings.  The city is designed to integrate with the undulating hills and valleys of the Sahyadri range. <img src="placeholder_image_lavasa_landscape.jpg" alt="Lavasa Landscape"> The Warasgaon Lake, also known as the Varasgaon Dam, is a prominent feature, creating a picturesque backdrop for the city. The lush green hills, especially during the monsoon season, provide a vibrant visual experience. Several viewpoints along the city's periphery offer panoramic views of the lake and the surrounding landscapes.  The area boasts numerous waterfalls, streams, and trails that allow visitors to connect with nature. The natural beauty is one of the strongest selling points of the place, and it's why many visit.
+Lavasa's main draw is its stunning natural surroundings.  The city is designed to integrate with the undulating hills and valleys of the Sahyadri range.  The Warasgaon Lake, also known as the Varasgaon Dam, is a prominent feature, creating a picturesque backdrop for the city. The lush green hills, especially during the monsoon season, provide a vibrant visual experience. Several viewpoints along the city's periphery offer panoramic views of the lake and the surrounding landscapes.  The area boasts numerous waterfalls, streams, and trails that allow visitors to connect with nature. The natural beauty is one of the strongest selling points of the place, and it's why many visit.
 
 ### **Must-Visit Attractions**
 
 The attractions in Lavasa primarily revolve around its planned layout and recreational facilities. 
-*   **Lakeshore Promenade:** <img src="placeholder_image_lakeshore_promenade.jpg" alt="Lakeshore Promenade">  A central feature of Lavasa, the promenade offers scenic views of the lake, with several shops, restaurants, and cafes lining the waterside.
+*   **Lakeshore Promenade:**   A central feature of Lavasa, the promenade offers scenic views of the lake, with several shops, restaurants, and cafes lining the waterside.
 *   **The Promenade:** This features shops, cafes, and restaurants offering diverse cuisines. The architecture reflects a European style, creating a unique atmosphere.
 *   **Temghar Dam:** This is another dam near Lavasa. You might enjoy the views and serenity here.
 *   **Indoor Sports Complex:** This complex is designed to cater to diverse sports.
@@ -58,7 +58,7 @@ Lavasa offers a wide array of culinary options, from Indian to continental cuisi
 *   **Street Food:** Some stalls on the promenade may offer street food, including local snacks and beverages.
 *   **Local Flavors:** If you venture outside the Lavasa area, you might find local restaurants serving Maharashtrian cuisine.
 
-<img src="placeholder_image_lavasa_food.jpg" alt="Lavasa Food">
+
 
 ### **Flora and Fauna**
 
@@ -82,7 +82,7 @@ The best time to visit Lavasa is during the post-monsoon and winter seasons, fro
 
 Lavasa offers a range of accommodation options, including:
 
-*   **Luxury Resorts:** Several high-end resorts offer luxurious rooms, swimming pools, spas, and other amenities. <img src="placeholder_image_lavasa_resort.jpg" alt="Lavasa Resort">
+*   **Luxury Resorts:** Several high-end resorts offer luxurious rooms, swimming pools, spas, and other amenities. 
 *   **Hotels:**  Various hotels provide comfortable rooms and convenient services.
 *   **Villas and Apartments:**  Some options include villas and apartments that can be rented, ideal for larger groups or families.
 *   **Budget Stays:**  Options such as budget-friendly guesthouses and homestays might be found in nearby villages.

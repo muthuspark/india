@@ -17,7 +17,7 @@ tags:
 
 The Imphal War Cemetery, a poignant and well-maintained site, stands as a solemn memorial to the Allied soldiers who lost their lives during the fierce battles of World War II in the Imphal region of Manipur, India. Located in the heart of Imphal, the capital city of Manipur, it offers a quiet sanctuary for reflection and remembrance. The cemetery lies at an elevation of approximately 800 meters (2,625 feet) above sea level and is easily accessible from other key destinations within the state. Its unique significance lies in its role as a lasting tribute to courage, sacrifice, and the enduring spirit of those who fought in one of the most critical theaters of the Second World War. The meticulously kept grounds and the somber atmosphere provide a powerful and moving experience for visitors.
 
-<img src="placeholder_image_imphal_war_cemetery_intro.jpg" alt="Imphal War Cemetery - Introduction Image">
+
 
 ### **History and Cultural Heritage**
 
@@ -25,7 +25,7 @@ The Imphal War Cemetery is a direct consequence of the pivotal Battle of Imphal,
 
 The cemetery holds the remains of 1,600 soldiers, mainly from the United Kingdom, India, and Africa. The inscriptions on the headstones serve as a testament to their lives and valor. The CWGC meticulously maintains the cemetery, which reflects its commitment to ensuring that these individuals are never forgotten. While the cemetery itself is not a site of cultural heritage in the traditional sense of Manipur's ethnic groups, its presence honors a crucial moment in world history and connects Imphal to a global narrative of courage, sacrifice and international alliances. The cemetery stands as a symbol of unity and remembrance amidst a vibrant cultural landscape.
 
-<img src="placeholder_image_imphal_war_cemetery_history.jpg" alt="Imphal War Cemetery - History Image">
+
 
 ### **Natural Beauty**
 
@@ -33,16 +33,16 @@ Nestled in the verdant hills of Manipur, the Imphal War Cemetery benefits from t
 
 The surrounding hills are often covered in a misty veil, creating an ethereal atmosphere, especially during the monsoon season. Visitors can enjoy panoramic views of the surrounding areas, including the Imphal valley, from vantage points nearby. Though the cemetery's primary focus is memorialization, it’s location within this natural setting offers visitors a moment of peace and reflection, away from the bustling city. The area is dotted with viewpoints and trails, encouraging appreciation of the state's rich natural offerings.
 
-<img src="placeholder_image_imphal_war_cemetery_natural_beauty.jpg" alt="Imphal War Cemetery - Natural Beauty Image">
+
 
 ### **Must-Visit Attractions**
 
 The primary attraction at this location is, of course, the Imphal War Cemetery itself. However, visitors may also consider other locations in Imphal and its vicinity:
 
-*   **Kangla Fort:** A historical fort, and significant heritage site of Manipur, with strong royal connections. <img src="placeholder_image_kangla_fort.jpg" alt="Kangla Fort Image">
+*   **Kangla Fort:** A historical fort, and significant heritage site of Manipur, with strong royal connections. 
 *   **Shree Govindajee Temple:** A prominent Hindu temple, located in Imphal, dedicated to Lord Krishna.
 *   **Manipur State Museum:** Provides insight into the history, culture, and the rich traditions of Manipur.
-*   **Loktak Lake:** A large freshwater lake, with the unique floating phumdis (decomposing vegetation), and home to the Keibul Lamjao National Park, the only floating national park in the world, and home to the endangered Sangai deer. <img src="placeholder_image_loktak_lake.jpg" alt="Loktak Lake Image">
+*   **Loktak Lake:** A large freshwater lake, with the unique floating phumdis (decomposing vegetation), and home to the Keibul Lamjao National Park, the only floating national park in the world, and home to the endangered Sangai deer. 
 *   **Ima Keithel (Mother's Market):** An all-women market, a unique cultural and social landmark.
 
 ### **Adventure Activities**
@@ -72,7 +72,7 @@ Manipur’s cuisine is distinct and flavorful. Here are some culinary delights t
 
 There are numerous local restaurants, cafes, and food stalls in Imphal where one can find these local specialities.
 
-<img src="placeholder_image_manipuri_cuisine.jpg" alt="Manipuri Cuisine Image">
+
 
 ### **Flora and Fauna**
 

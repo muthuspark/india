@@ -25,7 +25,7 @@ The history of Chail is intertwined with the Maharaja of Patiala, Bhupinder Sing
 
 Chail is blessed with stunning natural beauty. The area is covered with dense forests of pine and deodar trees. The landscape is characterized by rolling hills, deep valleys, and breathtaking vistas. The presence of the Shivalik ranges contributes to the magnificent panoramic views.
 
-<img src="placeholder_image_chail_landscape.jpg" alt="Chail Landscape">
+
 
 The most prominent natural feature is the expansive views available from numerous vantage points. Visitors can enjoy the pristine air, the refreshing environment, and the serenity of the surroundings, which offer a perfect opportunity for nature lovers and photographers alike. The Chail Wildlife Sanctuary, home to various species of flora and fauna, adds to the area's natural richness.
 
@@ -34,12 +34,12 @@ The most prominent natural feature is the expansive views available from numerou
 Chail has several significant attractions that draw tourists:
 
 1.  **Chail Palace**: This architectural marvel was built by the Maharaja of Patiala and is a grand testament to the royal legacy.
-    <img src="placeholder_image_chail_palace.jpg" alt="Chail Palace">
+    
 2.  **Chail Cricket Ground**: Located at the highest altitude in the world, this cricket ground is an unparalleled attraction, offering spectacular views.
-    <img src="placeholder_image_chail_cricket_ground.jpg" alt="Chail Cricket Ground">
+    
 3.  **Sidh Baba ka Mandir**: A temple located in the middle of the cricket ground, with an interesting legend attached to it.
 4.  **Chail Wildlife Sanctuary**: Explore the diverse flora and fauna, offering an adventurous experience.
-    <img src="placeholder_image_chail_wildlife_sanctuary.jpg" alt="Chail Wildlife Sanctuary">
+    
 5.  **Kali Ka Tibba**: This temple dedicated to Goddess Kali offers panoramic views of the surrounding area.
 
 ### **Adventure Activities**
@@ -59,7 +59,7 @@ Chail does not have large, bustling markets. However, you can find small shops a
 
 The cuisine in Chail primarily consists of North Indian and Himachali dishes. The region's restaurants and cafes offer a range of culinary experiences.
 
-<img src="placeholder_image_chail_food.jpg" alt="Chail Food">
+
 
 *   **Must-Try Dishes:** Try local specialties like Sidu (a steamed bread), Chha Gosht (a meat curry), and the traditional Thukpa.
 *   **Popular Restaurants:** The Chail Palace hotel and other local restaurants serve a variety of dishes.

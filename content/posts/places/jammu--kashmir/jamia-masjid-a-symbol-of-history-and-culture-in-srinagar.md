@@ -32,7 +32,7 @@ While the Jamia Masjid itself is an architectural marvel, its location within th
 
 The Jamia Masjid itself is the primary attraction. Its architectural design, a beautiful fusion of Persian, Timurid, and Indo-Saracenic styles, is a sight to behold. The mosque features a spacious courtyard, surrounded by towering wooden pillars and arched doorways. The main prayer hall is equally impressive, with intricate carvings and a capacity to accommodate thousands of worshippers.
 
-<img src="placeholder_image_jamia_masjid_exterior.jpg" alt="Exterior view of Jamia Masjid">
+
 
 Other nearby attractions include:
 
@@ -71,7 +71,7 @@ Kashmiri cuisine is known for its rich flavors and aromatic spices. Some must-tr
 *   **Dum Aloo:** Potatoes cooked in a thick gravy.
 *   **Kahwa:** A traditional green tea infused with saffron, almonds, and spices.
 
-<img src="placeholder_image_kashmiri_cuisine.jpg" alt="Picture of a variety of Kashmiri dishes">
+
 
 Visitors can find numerous restaurants and food stalls in the area offering authentic Kashmiri cuisine. Street food options, such as kebabs, seekh, and various types of local bread, are also popular.
 
@@ -79,7 +79,7 @@ Visitors can find numerous restaurants and food stalls in the area offering auth
 
 The area, specifically the broader Kashmir Valley, is known for its diverse flora and fauna. While in Srinagar, one may not directly encounter wildlife around the mosque, but a short drive will take you to areas with rich biodiversity.
 
-<img src="placeholder_image_flora_fauna.jpg" alt="A picture showcasing the flora and fauna of the region">
+
 
 *   **Chinar Trees:** The iconic chinar trees are a prominent feature of the landscape.
 *   **Dal Lake:** Abundant with aquatic plant life and bird species, especially during the migratory season.
@@ -108,7 +108,7 @@ Srinagar offers a wide range of accommodation options to suit every budget.
 *   **Mid-Range Hotels:** Numerous hotels and guesthouses are available in the city center and around Dal Lake.
 *   **Budget Stays:** Hostels, budget hotels, and guesthouses offer affordable options for backpackers and budget travelers.
 *   **Houseboats:** Unique houseboat stays on Dal Lake provide an unforgettable experience.
-<img src="placeholder_image_accommodation.jpg" alt="Picture showcasing accommodation options">
+
 
 ### **Offbeat Experiences**
 

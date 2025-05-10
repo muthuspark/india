@@ -27,7 +27,7 @@ The cultural impact has been significant. While the dam is a symbol of modern pr
 
 The natural beauty of the Tehri Dam region is simply spectacular. The dam itself is a dramatic sight, with the immense reservoir of Tehri Lake stretching for miles, surrounded by the imposing peaks of the Garhwal Himalayas. The area's landscape is characterized by rugged terrain, verdant valleys, and dense forests, creating a visual symphony of nature.
 
-<img src="placeholder_image_lake_view.jpg" alt="A panoramic view of Tehri Lake surrounded by mountains." >
+
 
 The viewpoints around New Tehri offer breathtaking panoramic vistas. The sunset and sunrise over the lake are particularly mesmerizing. The nearby Surkanda Devi Temple, perched atop a hill, provides an excellent vantage point for observing the surrounding valleys and the snow-capped mountains. The region is blessed with a rich ecosystem; one can often spot various species of birds and, if lucky, encounter wildlife in the surrounding forests. The clear mountain air and serene ambiance add to the area's charm, making it a perfect escape for nature lovers and photography enthusiasts.
 
@@ -37,7 +37,7 @@ Beyond the dam itself, several attractions in and around Tehri offer diverse exp
 
 *   **Tehri Dam:** This is the primary attraction. Visitors can enjoy the panoramic views from the dam, take boat rides in the lake, and get a sense of its engineering marvel.
 
-<img src="placeholder_image_Tehri_Dam_view.jpg" alt="Close-up view of the Tehri Dam." >
+
 
 *   **New Tehri:** The planned town offers modern amenities and scenic views. It is a good place to explore local shops, restaurants, and accommodations.
 *   **Chandrabadni Temple:** This ancient temple dedicated to Goddess Chandrabadni is located on a hilltop, offering panoramic views of the Himalayas and the Tehri Lake.
@@ -63,7 +63,7 @@ New Tehri and the surrounding areas are known for their local markets and handic
 *   **Local Handicrafts:** The region is known for its traditional Garhwali crafts. Visitors can find items like woolen shawls, handcrafted jewelry, wooden artifacts, and local textiles.
 *   **Souvenirs:** Markets offer a variety of souvenirs, including local spices, honey, and herbal products.
 
-<img src="placeholder_image_local_handicraft.jpg" alt="An image showcasing local handicrafts." >
+
 
 The markets are also great places to interact with local artisans and learn about the regional crafts.
 
@@ -108,7 +108,7 @@ Tehri and its surrounding areas offer a range of accommodation options to suit a
 *   **Resorts:** Some resorts are located near the lake, providing comfortable stays with modern amenities.
 *   **Camping:** Several campsites are available, offering camping experiences with various adventure activities.
 
-<img src="placeholder_image_hotel_stay.jpg" alt="A hotel or resort with a stunning view." >
+
 
 ### **Offbeat Experiences**
 

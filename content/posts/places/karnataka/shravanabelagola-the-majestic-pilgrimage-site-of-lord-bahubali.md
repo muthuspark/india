@@ -26,7 +26,7 @@ Culturally, Shravanabelagola is synonymous with Jainism. The Mahamastakabhisheka
 
 ### **Natural Beauty**
 
-Shravanabelagola is cradled amidst the verdant hills of the Western Ghats, offering a picturesque landscape. The town is characterized by rocky outcrops and hills, notably the two hills, Chandragiri and Vindhyagiri, upon which many of the temples are situated. <img src="placeholder_image_natural_beauty.jpg" alt="Image of the landscape surrounding Shravanabelagola, featuring hills and natural features."/> The ascent to Vindhyagiri, where the Gommateshwara statue resides, offers stunning panoramic views of the surrounding countryside, including the tranquil tanks and the sprawling settlement below. The natural environment is a blend of granite formations and pockets of greenery, creating a serene atmosphere that complements the spiritual essence of the place.
+Shravanabelagola is cradled amidst the verdant hills of the Western Ghats, offering a picturesque landscape. The town is characterized by rocky outcrops and hills, notably the two hills, Chandragiri and Vindhyagiri, upon which many of the temples are situated.  The ascent to Vindhyagiri, where the Gommateshwara statue resides, offers stunning panoramic views of the surrounding countryside, including the tranquil tanks and the sprawling settlement below. The natural environment is a blend of granite formations and pockets of greenery, creating a serene atmosphere that complements the spiritual essence of the place.
 
 ### **Must-Visit Attractions**
 
@@ -39,7 +39,7 @@ Besides Gommateshwara, several other attractions are worth exploring:
 *   **Chennanna Basadi:** Another notable temple with fine architectural details.
 *   **Akhanda Bagilu (Unbroken Gate):** A large monolithic structure at the foot of Vindhyagiri hill.
 *   **Tyagada Brahma Stambha:** A tall pillar erected in honor of the ascetics.
-*   <img src="placeholder_image_gommateshwara_statue.jpg" alt="Image of the Gommateshwara statue."/>
+*   
 
 ### **Adventure Activities**
 
@@ -56,7 +56,7 @@ While Shravanabelagola is not a major shopping destination, it offers small loca
 *   **Religious Artifacts:** Statues, images, and other items related to Jainism.
 *   **Souvenirs:** Small keepsakes to commemorate the visit.
 *   **Handicrafts:** Some stalls might offer local handicrafts, although the selection is limited.
-*   <img src="placeholder_image_local_market.jpg" alt="Image of a local market, showcasing religious artifacts and souvenirs."/>
+*   
 
 ### **Food and Cuisine**
 
@@ -65,7 +65,7 @@ The local cuisine primarily features South Indian vegetarian dishes. Visitors ca
 *   **Traditional South Indian Meals:** Dosa, idli, vada, rice, sambar, and rasam are widely available.
 *   **Local Snacks:** Try the local snacks and sweets, which reflect the region's flavors.
 *   **Restaurants and Cafes:** Several restaurants and cafes near the main attractions cater to visitors.
-*   <img src="placeholder_image_local_food.jpg" alt="Image of typical South Indian food available in Shravanabelagola."/>
+*   
 
 ### **Flora and Fauna**
 
@@ -82,7 +82,7 @@ The ideal time to visit Shravanabelagola is during the cooler months, from Octob
 *   **By Road:** Shravanabelagola is accessible by road via NH75. It is well-connected to Bangalore, Mysore, and other major cities.
     *   From Bangalore: Approximately 150 km, a drive of about 3 hours.
     *   From Mysore: Approximately 90 km, a drive of about 2 hours.
-    *   <img src="placeholder_image_road_to_shravanabelagola.jpg" alt="Image showing the road to Shravanabelagola."/>
+    *   
 
 ### **Accommodation Options**
 

@@ -19,11 +19,11 @@ Jawai Leopard Reserve, a breathtaking landscape teeming with wildlife and steepe
 
 ### **History and Cultural Heritage**
 
-The history of the Jawai region is intrinsically linked to the local Rabari tribe, a nomadic pastoral community who have coexisted with the leopards and other wildlife for centuries. This area holds deep cultural significance for the Rabari people, whose traditions and customs are interwoven with the land. The presence of ancient temples, such as the Ranakpur Jain Temple, a stunning example of Jain architecture located nearby, points to a rich historical legacy. <img src="placeholder_image_1.jpg" alt="Ranakpur Jain Temple" width="500"> The Jawai Bandh, an impressive dam built across the Jawai River, is a testament to the region’s development and offers a source of water for both the people and the wildlife. The landscape itself has witnessed centuries of human and animal interaction, creating a unique environment where humans, nature, and wildlife have coexisted for generations. The strong connection of the Rabari community with the leopards, often considered protectors of their livestock, is a unique cultural facet that adds to the mystique of the area.
+The history of the Jawai region is intrinsically linked to the local Rabari tribe, a nomadic pastoral community who have coexisted with the leopards and other wildlife for centuries. This area holds deep cultural significance for the Rabari people, whose traditions and customs are interwoven with the land. The presence of ancient temples, such as the Ranakpur Jain Temple, a stunning example of Jain architecture located nearby, points to a rich historical legacy.  The Jawai Bandh, an impressive dam built across the Jawai River, is a testament to the region’s development and offers a source of water for both the people and the wildlife. The landscape itself has witnessed centuries of human and animal interaction, creating a unique environment where humans, nature, and wildlife have coexisted for generations. The strong connection of the Rabari community with the leopards, often considered protectors of their livestock, is a unique cultural facet that adds to the mystique of the area.
 
 ### **Natural Beauty**
 
-Jawai Leopard Reserve is characterized by its dramatic landscape. The rugged terrain is dominated by granite hills and outcrops, interspersed with scrub vegetation. The majestic Jawai Bandh, the largest dam in Western Rajasthan, serves as a focal point, creating a vast reservoir that attracts a variety of bird species and wildlife. <img src="placeholder_image_2.jpg" alt="Jawai Bandh" width="500"> The surrounding hills offer numerous vantage points for breathtaking views of the landscape. Visitors can enjoy panoramic views of the dam and the surrounding area, especially during sunrise and sunset. The terrain creates a unique ecosystem, supporting diverse flora and fauna, making it a paradise for nature enthusiasts.
+Jawai Leopard Reserve is characterized by its dramatic landscape. The rugged terrain is dominated by granite hills and outcrops, interspersed with scrub vegetation. The majestic Jawai Bandh, the largest dam in Western Rajasthan, serves as a focal point, creating a vast reservoir that attracts a variety of bird species and wildlife.  The surrounding hills offer numerous vantage points for breathtaking views of the landscape. Visitors can enjoy panoramic views of the dam and the surrounding area, especially during sunrise and sunset. The terrain creates a unique ecosystem, supporting diverse flora and fauna, making it a paradise for nature enthusiasts.
 
 ### **Must-Visit Attractions**
 
@@ -31,7 +31,7 @@ The primary attraction of Jawai is undoubtedly its population of leopards. The r
 
 *   **Jawai Bandh:** Visit the imposing dam, a picturesque spot for birdwatching and enjoying the scenic beauty of the region.
 *   **Dev Giri Temple:** Explore this ancient temple located atop a hill, offering scenic views.
-*   **Kumbhalgarh Fort:** Though a bit further away, a day trip to this UNESCO World Heritage Site, known for its massive fortifications, can be a rewarding experience. <img src="placeholder_image_3.jpg" alt="Kumbhalgarh Fort" width="500">
+*   **Kumbhalgarh Fort:** Though a bit further away, a day trip to this UNESCO World Heritage Site, known for its massive fortifications, can be a rewarding experience. 
 *   **Local Villages:** Interact with the Rabari community and experience their unique lifestyle and traditions.
 
 ### **Adventure Activities**
@@ -81,7 +81,7 @@ The best time to visit Jawai is during the cooler months, from **October to Marc
 
 *   **Nearest Airport:** Jodhpur Airport (JDH) is the nearest airport, approximately 160 kilometers (99 miles) away. From there, you can hire a taxi or rent a car to reach Jawai.
 *   **Nearest Railway Station:** Falna Railway Station and Jawai Bandh Railway Station are nearby, offering connectivity to major cities.
-*   **Road:** Jawai is well-connected by road. It's a comfortable drive from Jodhpur (approx. 3 hours), Udaipur (approx. 3-4 hours), and other major cities in Rajasthan. <img src="placeholder_image_4.jpg" alt="Road travel in Rajasthan" width="500">
+*   **Road:** Jawai is well-connected by road. It's a comfortable drive from Jodhpur (approx. 3 hours), Udaipur (approx. 3-4 hours), and other major cities in Rajasthan. 
 
 ### **Accommodation Options**
 

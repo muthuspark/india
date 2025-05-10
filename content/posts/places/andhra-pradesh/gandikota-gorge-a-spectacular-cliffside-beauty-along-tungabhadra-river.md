@@ -27,7 +27,7 @@ The cultural landscape is dotted with historical landmarks like the Gandikota Fo
 
 ### **Natural Beauty**
 
-The heart of Gandikota's allure lies in its exceptional natural beauty. The most striking feature is, undoubtedly, the deep gorge carved by the Pennar River. The towering cliffs, composed of red granite, create a dramatic contrast with the emerald green waters of the river below. The geological formations are a visual feast, with patterns and textures sculpted by centuries of erosion. <img src="placeholder_image_gorge_view.jpg" alt="Gandikota Gorge - View">
+The heart of Gandikota's allure lies in its exceptional natural beauty. The most striking feature is, undoubtedly, the deep gorge carved by the Pennar River. The towering cliffs, composed of red granite, create a dramatic contrast with the emerald green waters of the river below. The geological formations are a visual feast, with patterns and textures sculpted by centuries of erosion. 
 
 The best vantage points to appreciate this majestic scenery are the viewpoints within the fort and along the cliff edges (exercise extreme caution while approaching the edge). The setting sun paints the cliffs with vibrant hues of orange and red, offering spectacular views. The surrounding landscape is characterized by arid terrain with sparse vegetation, adding to the stark beauty of the location. The Pennar River, meandering through the gorge, creates a natural oasis, supporting a diverse ecosystem. The open skies at night offer a stunning display of stars and the milky way, perfect for astrophotography and stargazing.
 
@@ -35,7 +35,7 @@ The best vantage points to appreciate this majestic scenery are the viewpoints w
 
 The primary attraction in Gandikota is the Fort, a sprawling complex containing several historically and architecturally significant sites.
 
-*   **Gandikota Fort:** Explore the fort's ramparts, bastions, and gates. Witness the remnants of its defensive structures and admire the panoramic views of the gorge. <img src="placeholder_image_gandikota_fort.jpg" alt="Gandikota Fort">
+*   **Gandikota Fort:** Explore the fort's ramparts, bastions, and gates. Witness the remnants of its defensive structures and admire the panoramic views of the gorge. 
 *   **Jama Masjid:** Admire the impressive architecture of the Jama Masjid, a testament to the Islamic influence in the region.
 *   **Ranganatha Swamy Temple:** Visit the temple dedicated to Lord Vishnu, showcasing intricate carvings and traditional South Indian architecture.
 *   **Charminar (Granite):** A small structure reminiscent of the famous Charminar in Hyderabad, constructed from granite.

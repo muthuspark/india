@@ -27,13 +27,13 @@ The hills derive their name from the Sufi saint Baba Budan, who is believed to h
 ### **Natural Beauty**
 
 Baba Budangiri is a visual feast for nature enthusiasts. The landscape is characterized by verdant hills, dense forests, and picturesque valleys. The hills are part of the Western Ghats, a UNESCO World Heritage Site known for its rich biodiversity. The area is covered with lush green forests, interspersed with coffee plantations, creating a stunning contrast of colors.
- <img src="placeholder_image_mountain_landscape.jpg" alt="Mountain Landscape" width="600">
+ 
 The region offers several viewpoints from where you can enjoy panoramic views of the surrounding landscape.  The sunsets and sunrises from these vantage points are particularly mesmerizing. The hills are home to several streams and waterfalls, adding to the natural splendor of the region. The surrounding forests offer a variety of flora, including evergreen trees, shrubs, and flowering plants.
 
 ### **Must-Visit Attractions**
 
 The primary attraction is the shrine of Baba Budan, where devotees offer prayers and pay their respects. The cave where Baba Budan is believed to have meditated is also a significant site. 
- <img src="placeholder_image_shrine.jpg" alt="Shrine" width="600">
+ 
 Other notable places to visit include:
 
 *   **Mullayanagiri Peak:**  The highest peak in Karnataka (approximately 2,000 meters), providing a breathtaking view of the surrounding hills and valleys.
@@ -84,7 +84,7 @@ The ideal time to visit Baba Budangiri is during the winter months, from Septemb
 *   **By Air:** The nearest airport is Mangalore International Airport, approximately 170 km away. From the airport, you can hire a taxi or take a bus to Chikmagalur.
 *   **By Rail:** The nearest railway station is Kadur, approximately 40 km away. From Kadur, you can hire a taxi or take a bus to Chikmagalur.
 *   **By Road:** Chikmagalur is well-connected by road to major cities in Karnataka and neighboring states. You can reach the area by bus or car. From Chikmagalur, you can hire a taxi or use local transport to reach Baba Budangiri.
- <img src="placeholder_image_road.jpg" alt="Road" width="600">
+ 
 
 ### **Accommodation Options**
 
@@ -93,7 +93,7 @@ Chikmagalur offers a wide range of accommodation options to suit various budgets
 *   **Resorts:** Several resorts located in the surrounding areas provide a luxurious experience, surrounded by nature.
 *   **Homestays:** Experience the local culture by staying in homestays, offering a personalized touch and home-cooked meals.
 *   **Budget Stays:** Many budget-friendly guesthouses and lodges are available in the area.
- <img src="placeholder_image_hotel.jpg" alt="Hotel" width="600">
+ 
 
 ### **Offbeat Experiences**
 

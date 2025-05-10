@@ -23,15 +23,15 @@ The history of Kaladungi and the Jim Corbett Museum is inextricably linked to th
 
 ### **Natural Beauty**
 
-Kaladungi is situated in the foothills of the Kumaon region, surrounded by the lush greenery of the Shivalik range. The landscape is characterized by dense forests, rolling hills, and valleys, typical of the lower Himalayan belt. The area provides a serene and picturesque backdrop, ideal for nature walks and relaxation. The climate is generally pleasant throughout the year, with cooler temperatures in winter and a comfortable warmth during the summer months. <img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty"> From viewpoints around Kaladungi, visitors can enjoy panoramic vistas of the surrounding hills and experience the tranquility of the region. The proximity to Jim Corbett National Park allows for exploration of a richer biodiversity.
+Kaladungi is situated in the foothills of the Kumaon region, surrounded by the lush greenery of the Shivalik range. The landscape is characterized by dense forests, rolling hills, and valleys, typical of the lower Himalayan belt. The area provides a serene and picturesque backdrop, ideal for nature walks and relaxation. The climate is generally pleasant throughout the year, with cooler temperatures in winter and a comfortable warmth during the summer months.  From viewpoints around Kaladungi, visitors can enjoy panoramic vistas of the surrounding hills and experience the tranquility of the region. The proximity to Jim Corbett National Park allows for exploration of a richer biodiversity.
 
 ### **Must-Visit Attractions**
 
-The primary attraction in Kaladungi is, without a doubt, the **Jim Corbett Museum**. <img src="placeholder_image_jim_corbett_museum.jpg" alt="Jim Corbett Museum"> This museum is a treasure trove of information about Corbett's life and work. Visitors can explore the house, which has been carefully preserved to reflect its original state. The museum houses personal belongings, including his hunting equipment, trophies, photographs, books, and correspondence, providing a comprehensive insight into his life and times. The museum is a must-visit for those interested in wildlife, conservation, or the history of the region. While in Kaladungi, many visitors also choose to visit the nearby Jim Corbett National Park, which can be accessed from various gates near the town. There are also several temples and scenic spots around Kaladungi that offer further exploration opportunities.
+The primary attraction in Kaladungi is, without a doubt, the **Jim Corbett Museum**.  This museum is a treasure trove of information about Corbett's life and work. Visitors can explore the house, which has been carefully preserved to reflect its original state. The museum houses personal belongings, including his hunting equipment, trophies, photographs, books, and correspondence, providing a comprehensive insight into his life and times. The museum is a must-visit for those interested in wildlife, conservation, or the history of the region. While in Kaladungi, many visitors also choose to visit the nearby Jim Corbett National Park, which can be accessed from various gates near the town. There are also several temples and scenic spots around Kaladungi that offer further exploration opportunities.
 
 ### **Adventure Activities**
 
-While Kaladungi itself doesn't offer a wide range of adventure activities, its proximity to Jim Corbett National Park opens doors to numerous thrilling experiences. **Jeep Safaris** are the most popular way to explore the park, allowing visitors to spot various wildlife, including the elusive Bengal tiger, elephants, deer, and numerous bird species. <img src="placeholder_image_jeep_safari.jpg" alt="Jeep Safari"> **Nature walks** are another option, providing an opportunity to experience the park's diverse flora and fauna up close. Those interested in longer experiences can consider **camping** in the park, with necessary permissions and under the supervision of qualified guides. Adventure activities in the park must be booked in advance, keeping in mind the guidelines and rules.
+While Kaladungi itself doesn't offer a wide range of adventure activities, its proximity to Jim Corbett National Park opens doors to numerous thrilling experiences. **Jeep Safaris** are the most popular way to explore the park, allowing visitors to spot various wildlife, including the elusive Bengal tiger, elephants, deer, and numerous bird species.  **Nature walks** are another option, providing an opportunity to experience the park's diverse flora and fauna up close. Those interested in longer experiences can consider **camping** in the park, with necessary permissions and under the supervision of qualified guides. Adventure activities in the park must be booked in advance, keeping in mind the guidelines and rules.
 
 ### **Local Markets and Handicrafts**
 
@@ -43,11 +43,11 @@ The food scene in Kaladungi primarily revolves around simple, home-style cooking
 
 ### **Flora and Fauna**
 
-Kaladungi benefits from its location near Jim Corbett National Park, a biodiversity hotspot renowned for its diverse flora and fauna. The park is home to a wide variety of tree species, including sal, sheesham, and teak. The park's animal life includes the Bengal tiger, Indian elephant, leopard, various species of deer, and a wide array of bird species, making it a paradise for bird watchers. <img src="placeholder_image_wildlife.jpg" alt="Wildlife"> The area surrounding Kaladungi also supports a rich ecosystem, including a variety of reptiles, amphibians, and invertebrates.
+Kaladungi benefits from its location near Jim Corbett National Park, a biodiversity hotspot renowned for its diverse flora and fauna. The park is home to a wide variety of tree species, including sal, sheesham, and teak. The park's animal life includes the Bengal tiger, Indian elephant, leopard, various species of deer, and a wide array of bird species, making it a paradise for bird watchers.  The area surrounding Kaladungi also supports a rich ecosystem, including a variety of reptiles, amphibians, and invertebrates.
 
 ### **Best Time to Visit**
 
-The ideal time to visit Kaladungi and the Jim Corbett Museum is during the **winter and spring months**, from **October to March**. The weather is pleasant during this period, with cool temperatures and clear skies, perfect for exploring the museum and the surrounding areas. The summer months can be hot, so it is advisable to avoid visiting from April to June, while the monsoon season (July to September) brings heavy rainfall, which can sometimes disrupt travel plans and restrict safari access. <img src="placeholder_image_best_time_to_visit.jpg" alt="Best Time to Visit">
+The ideal time to visit Kaladungi and the Jim Corbett Museum is during the **winter and spring months**, from **October to March**. The weather is pleasant during this period, with cool temperatures and clear skies, perfect for exploring the museum and the surrounding areas. The summer months can be hot, so it is advisable to avoid visiting from April to June, while the monsoon season (July to September) brings heavy rainfall, which can sometimes disrupt travel plans and restrict safari access. 
 
 ### **How to Reach**
 
@@ -57,7 +57,7 @@ The ideal time to visit Kaladungi and the Jim Corbett Museum is during the **win
 
 ### **Accommodation Options**
 
-While Kaladungi itself has limited accommodation options, visitors have several choices nearby. There are hotels, resorts, and guest houses in Ramnagar, just a short distance from Kaladungi, ranging from budget-friendly to mid-range options. Those seeking luxury experiences can consider staying in resorts closer to the Jim Corbett National Park. <img src="placeholder_image_accommodation.jpg" alt="Accommodation"> For budget travelers, there are also guesthouses and homestays in nearby towns.
+While Kaladungi itself has limited accommodation options, visitors have several choices nearby. There are hotels, resorts, and guest houses in Ramnagar, just a short distance from Kaladungi, ranging from budget-friendly to mid-range options. Those seeking luxury experiences can consider staying in resorts closer to the Jim Corbett National Park.  For budget travelers, there are also guesthouses and homestays in nearby towns.
 
 ### **Offbeat Experiences**
 

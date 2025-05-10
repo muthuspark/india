@@ -23,7 +23,7 @@ The history of Qila Mubarak is deeply intertwined with the rise of the Phulkian 
 
 The complex is more than just a fort; it’s a repository of cultural heritage. It houses several important structures, including the *Darbar Hall*, where the Maharajas held their court, and the *Moti Bagh Palace*, a residential palace that showcases intricate artwork and architectural details. The fort played a crucial role in the resistance against British rule and in the subsequent integration of princely states into independent India. Numerous festivals and traditions were celebrated within the fort's walls, offering glimpses into the royal lifestyle. The fort's architecture, including the *Qila Androon* or the inner fort, which houses the *Durbar Hall* and *Sheesh Mahal*, is a striking example of Sikh architectural design.
 
-<placeholder image tag for historical image of Qila Mubarak or Maharaja >
+
 
 ### **Natural Beauty**
 
@@ -31,7 +31,7 @@ While Patiala is primarily known for its cultural heritage, the surrounding plai
 
 The natural beauty is best appreciated by visiting the nearby gardens and green spaces that have been created in the city. Though not directly natural landscapes, the well-maintained gardens, such as the *Kali Mata Mandir Garden* and the *Moti Bagh Garden*, offer a serene escape from the bustling city life and provide beautiful views of the surrounding cityscape.
 
-<placeholder image tag for image showcasing the surrounding agricultural landscape.>
+
 
 ### **Must-Visit Attractions**
 
@@ -43,7 +43,7 @@ Qila Mubarak itself is the primary attraction, consisting of several buildings o
 *   **Moti Bagh Palace:** This residential palace, though partly destroyed, offers a glimpse into the royal living standards. The gardens surrounding the palace are also worth exploring.
 *   **Baradari Gardens:** Located in the city, these gardens showcase the beauty of the region’s flora.
 
-<placeholder image tag for Qila Mubarak inner architecture (Sheesh Mahal, Darbar Hall)>
+
 
 ### **Adventure Activities**
 
@@ -60,7 +60,7 @@ Patiala is a shopper's paradise, particularly known for its traditional Punjabi 
 *   **Handicrafts:** Visitors can find beautiful textiles, including phulkari embroidery, which is a unique craft of Punjab. You can also purchase traditional juttis (footwear), bangles, and other accessories.
 *   **Patiala Salwar Suits:** No trip to Patiala is complete without buying the famous Patiala salwar suits, known for their loose, pleated style.
 
-<placeholder image tag for image of Patiala Salwar or Phulkari embroidery.>
+
 
 ### **Food and Cuisine**
 
@@ -70,7 +70,7 @@ Punjabi cuisine is famous for its rich flavors and hearty dishes. Patiala offers
 *   **Street Food:** The street food scene is vibrant. Must-try items include *gol gappe* (pani puri), *aloo tikki*, and various types of parathas.
 *   **Restaurants and Cafes:** Patiala has numerous restaurants and cafes that serve both local and international cuisines. Popular places include those serving authentic Punjabi dishes and those offering modern interpretations of the regional cuisine.
 
-<placeholder image tag for food photography, showcasing Punjabi dishes like sarson da saag, makki di roti, and chhole bhature.>
+
 
 ### **Flora and Fauna**
 

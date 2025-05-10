@@ -28,7 +28,7 @@ The cultural heritage of Ranikhet is primarily reflected in its traditions and s
 
 Ranikhet is a visual feast for nature lovers. The town offers unparalleled views of the snow-capped peaks of the Himalayas, including the majestic Nanda Devi, Trishul, and Chaukhamba. The landscape is dominated by rolling hills, lush pine and oak forests, and vast meadows that are a vibrant green during the monsoon and post-monsoon seasons.
 
-<img src="placeholder_image_Ranikhet_Mountains.jpg" alt="Panoramic view of the Himalayan ranges from Ranikhet" width="600">
+
 
 Several viewpoints offer breathtaking panoramas. The Chaubatia Gardens, famous for its orchards, provides stunning views of the Himalayan range. The Upat Golf Course, one of the highest in Asia, is set amidst stunning natural beauty. These locations offer visitors a chance to immerse themselves in the beauty of the surroundings and capture unforgettable moments.
 
@@ -38,10 +38,10 @@ The natural environment of Ranikhet is ideal for nature walks and exploration. T
 
 Ranikhet offers a blend of historical, religious, and natural attractions.
 
-*   **Chaubatia Gardens:** Famous for its apple orchards and panoramic views of the Himalayas. <img src="placeholder_image_Chaubatia_Gardens.jpg" alt="Chaubatia Gardens" width="400">
+*   **Chaubatia Gardens:** Famous for its apple orchards and panoramic views of the Himalayas. 
 *   **Jhula Devi Temple:** A significant religious site with numerous bells, dedicated to Goddess Durga.
 *   **Upat Golf Course:** A picturesque golf course set amidst the beauty of nature.
-*   **Kumaon Regimental Centre Museum:** This museum showcases the history and achievements of the Kumaon Regiment. <img src="placeholder_image_Kumaon_Regimental_Centre_Museum.jpg" alt="Kumaon Regimental Centre Museum" width="400">
+*   **Kumaon Regimental Centre Museum:** This museum showcases the history and achievements of the Kumaon Regiment. 
 *   **Mankameshwar Temple:** A popular temple, built by the Kumaon Regiment.
 *   **Haidakhan Temple:** Located a few kilometers away from Ranikhet, this temple offers a serene atmosphere.
 
@@ -70,7 +70,7 @@ The local cuisine of Ranikhet features simple yet delicious dishes, with a focus
 *   **Street Food:** You'll find some local snacks and street food in the markets.
 *   **Restaurants and Cafes:** Numerous restaurants and cafes serve Indian and international cuisine, with many focusing on Kumaoni dishes.
 
-<img src="placeholder_image_Local_cuisine_Ranikhet.jpg" alt="Local cuisine" width="400">
+
 
 ### **Flora and Fauna**
 
@@ -100,7 +100,7 @@ Ranikhet offers a range of accommodation options:
 *   **Homestays:** Numerous homestays allow you to experience local hospitality.
 *   **Resorts:** Several resorts offer a comfortable stay amidst nature.
 
-<img src="placeholder_image_Hotel_Ranikhet.jpg" alt="Hotel" width="400">
+
 
 ### **Offbeat Experiences**
 

@@ -28,7 +28,7 @@ Culturally, Dehradun is a melting pot of various communities, reflecting its his
 
 Dehradun is blessed with an abundance of natural beauty. The Doon Valley is known for its lush green landscapes, fertile plains, and a temperate climate. The surrounding hills are covered with dense forests, offering breathtaking views. The city benefits from the waters of the rivers, including the Ganges and Yamuna, as well as the seasonal Rispana and Bindal rivers. 
 
-<img src="placeholder_image_dehradun_natural_beauty.jpg" alt="Dehradun Natural Beauty" width="600" height="400">
+
 
 Prominent viewpoints include the top of Tapkeshwar Temple, and the drive up to Mussoorie offers stunning vistas. The city is known for its salubrious climate, which, coupled with the natural beauty, makes it a perfect location for a getaway. The Rajaji National Park, located nearby, offers a glimpse of the region's wildlife and natural beauty.
 
@@ -37,7 +37,7 @@ Prominent viewpoints include the top of Tapkeshwar Temple, and the drive up to M
 Dehradun offers a plethora of attractions catering to diverse interests:
 
 *   **Tapkeshwar Temple:** A revered Shiva temple located inside a cave, where water drips continuously on the Shivalinga.
-*   **Forest Research Institute (FRI):** <img src="placeholder_image_fri_dehradun.jpg" alt="FRI Dehradun" width="600" height="400"> A historic institute with stunning colonial architecture and vast grounds.
+*   **Forest Research Institute (FRI):**  A historic institute with stunning colonial architecture and vast grounds.
 *   **Robber's Cave (Guchu Pani):** A natural cave formation where a stream flows through, offering a unique experience.
 *   **Sahastradhara:**  A scenic spot where water drips from limestone formations, creating a natural spring.
 *   **Mindrolling Monastery:** One of the largest Tibetan monasteries in India, known for its stunning architecture and serene atmosphere.
@@ -78,7 +78,7 @@ Dehradun's cuisine is a delightful blend of North Indian, Tibetan, and local inf
 
 Dehradun and its surrounding regions are rich in biodiversity.
 
-*   **Rajaji National Park:** <img src="placeholder_image_rajaji_national_park.jpg" alt="Rajaji National Park" width="600" height="400"> This protected area is home to a variety of wildlife, including elephants, tigers, leopards, deer, and a wide range of bird species.
+*   **Rajaji National Park:**  This protected area is home to a variety of wildlife, including elephants, tigers, leopards, deer, and a wide range of bird species.
 *   **Forests:** The forests surrounding Dehradun support a diverse range of flora and fauna, including various species of trees, plants, and animals.
 *   **Botanical Gardens:** While not directly in Dehradun, there are nearby options in Mussoorie and other locations for admiring the local plants.
 *   **Birdwatching:** Several areas around Dehradun are great for birdwatching.

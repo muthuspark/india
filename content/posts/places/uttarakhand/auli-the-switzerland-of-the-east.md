@@ -30,7 +30,7 @@ The closest town, Joshimath, plays a pivotal role in Hinduism, being the winter 
 
 Auli is a visual paradise, offering panoramic views of the Himalayas that are unparalleled. The landscape is dominated by snow-capped peaks, lush green meadows (during the non-winter months), and dense coniferous forests. The star attraction is the majestic view of the Nanda Devi, India's second-highest mountain, along with other prominent peaks like Kamet, Dunagiri, and Mana Parvat.
 
-<img src="placeholder_image_auli_mountain_view.jpg" alt="Panoramic view of the Himalayas from Auli">
+
 
 The high altitude also provides breathtaking views of the surrounding valleys. The slopes of Auli are covered with a thick blanket of snow during winter, transforming the landscape into a skier's dream. In the summer and autumn, the snow melts away, revealing vibrant green meadows, blooming wildflowers, and clear blue skies. The natural environment is pristine, offering various hiking trails, offering excellent opportunity to immerse in the natural beauty of the region. The Ropeway journey offers a scenic passage across the mountains.
 
@@ -40,19 +40,19 @@ While Auli itself primarily offers skiing and mountain views, it's a gateway to 
 
 *   **Auli Ropeway:** The longest cable car in Asia, providing a scenic ride from Joshimath to Auli, offering breathtaking views of the surrounding mountains and valleys.
 
-<img src="placeholder_image_auli_ropeway.jpg" alt="Auli Ropeway">
+
 
 *   **Gurso Bugyal:** A beautiful meadow located a short trek from Auli, offering stunning views of the Himalayas and a serene environment.
 
-<img src="placeholder_image_gurso_bugyal.jpg" alt="Gurso Bugyal">
+
 
 *   **Chattrakund Lake:** A small, serene lake located nearby, offering a tranquil environment, set amidst stunning natural beauty.
 
-<img src="placeholder_image_chattrakund_lake.jpg" alt="Chattrakund Lake">
+
 
 *   **Joshimath:** The gateway to Auli and a major religious site, featuring the ancient Narasimha Temple and other significant sites.
 
-<img src="placeholder_image_joshimath_temple.jpg" alt="Temple in Joshimath">
+
 
 *   **Nanda Devi National Park:** While the actual park isn’t directly accessible from Auli, the peak of Nanda Devi is visible from here. This park is a UNESCO World Heritage Site, known for its rich biodiversity and natural beauty (access is generally via permits and trekking).
 

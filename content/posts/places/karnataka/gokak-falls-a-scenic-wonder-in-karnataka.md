@@ -22,7 +22,7 @@ The region surrounding Gokak Falls has a rich historical background, marked by i
 
 ### **Natural Beauty**
 
-Gokak Falls is a prime example of nature's breathtaking artistry. The Ghataprabha River plunges over a high cliff of hard sandstone, creating a dramatic scene. The waterfall is flanked by lush green landscapes, particularly during and after the monsoon. The surrounding area features rolling hills and fertile farmlands, creating a serene and idyllic setting. The mist rising from the falls often creates a rainbow effect, adding to the magic of the place. A suspension bridge built across the gorge offers panoramic views of the falls and the surrounding landscape. <image placeholder="Gokak_Falls_Landscape.jpg"> is a placeholder for an image of the overall landscape, showing the surrounding hills and the river.
+Gokak Falls is a prime example of nature's breathtaking artistry. The Ghataprabha River plunges over a high cliff of hard sandstone, creating a dramatic scene. The waterfall is flanked by lush green landscapes, particularly during and after the monsoon. The surrounding area features rolling hills and fertile farmlands, creating a serene and idyllic setting. The mist rising from the falls often creates a rainbow effect, adding to the magic of the place. A suspension bridge built across the gorge offers panoramic views of the falls and the surrounding landscape.  is a placeholder for an image of the overall landscape, showing the surrounding hills and the river.
 
 ### **Must-Visit Attractions**
 
@@ -62,6 +62,6 @@ For a unique experience, consider visiting nearby villages to experience the loc
 
 ### **Conclusion**
 
-Gokak Falls is more than just a waterfall; it's an experience that combines natural beauty, cultural richness, and serene tranquility. The mesmerizing cascade of the Ghataprabha River and the lush green landscape create a perfect escape from the hustle and bustle of city life. <image placeholder="Gokak_Falls_Panoramic.jpg"> is a placeholder for a panoramic view of the falls. Whether you're an adventure enthusiast, a nature lover, or simply seeking a peaceful getaway, Gokak Falls promises a memorable and enriching experience. Embrace the beauty, the culture, and the history of this captivating destination.
+Gokak Falls is more than just a waterfall; it's an experience that combines natural beauty, cultural richness, and serene tranquility. The mesmerizing cascade of the Ghataprabha River and the lush green landscape create a perfect escape from the hustle and bustle of city life.  is a placeholder for a panoramic view of the falls. Whether you're an adventure enthusiast, a nature lover, or simply seeking a peaceful getaway, Gokak Falls promises a memorable and enriching experience. Embrace the beauty, the culture, and the history of this captivating destination.
 
 

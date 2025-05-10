@@ -34,13 +34,13 @@ The landscape around Khajuraho is characterized by a relatively flat terrain dot
 The temples of Khajuraho are the undisputed must-visit attractions. The temples are divided into three groups: Western, Eastern, and Southern. Each group showcases distinct architectural features and themes.
 
 *   **Western Group:** This group houses the most famous and well-preserved temples, including:
-    *   **Kandariya Mahadeva Temple:** The largest and most ornate temple, known for its intricate carvings and imposing structure. <img src="placeholder_image_kandariya_mahadeva.jpg" alt="Kandariya Mahadeva Temple">
-    *   **Lakshmana Temple:** This temple is dedicated to Lord Vishnu and is renowned for its well-preserved carvings, including scenes from the Ramayana. <img src="placeholder_image_lakshmana_temple.jpg" alt="Lakshmana Temple">
+    *   **Kandariya Mahadeva Temple:** The largest and most ornate temple, known for its intricate carvings and imposing structure. 
+    *   **Lakshmana Temple:** This temple is dedicated to Lord Vishnu and is renowned for its well-preserved carvings, including scenes from the Ramayana. 
     *   **Matangeshwar Temple:** An active temple dedicated to Lord Shiva and is a place of worship.
 *   **Eastern Group:** This group includes both Hindu and Jain temples:
     *   **Parsvanatha Temple:** The largest Jain temple.
     *   **Ghantai Temple:** Known for its elaborate bell-and-chain motifs.
-*   **Southern Group:** The temples in this group include the Duladeo Temple and the Chaturbhuj Temple, with a mix of intricate carvings and religious significance. <img src="placeholder_image_duladeo_temple.jpg" alt="Duladeo Temple">
+*   **Southern Group:** The temples in this group include the Duladeo Temple and the Chaturbhuj Temple, with a mix of intricate carvings and religious significance. 
 
 The Khajuraho Archaeological Museum is another place that is worth visiting, which displays sculptures, artifacts, and other antiquities related to the temples and the Chandela dynasty.
 
@@ -80,7 +80,7 @@ The Khajuraho region has a mix of flora and fauna, but it is not particularly kn
 The best time to visit Khajuraho is during the cooler months, from **October to March**.
 
 *   **Climate:** The weather is pleasant during these months, with comfortable temperatures ideal for exploring the temples and outdoor activities.
-*   **Festivals:** Khajuraho Dance Festival, held annually in February, is a major cultural event that draws visitors from around the world. <img src="placeholder_image_khajuraho_dance_festival.jpg" alt="Khajuraho Dance Festival">
+*   **Festivals:** Khajuraho Dance Festival, held annually in February, is a major cultural event that draws visitors from around the world. 
 
 ### **How to Reach**
 

@@ -29,7 +29,7 @@ The temples' cultural significance extends beyond religious practice, forming a 
 
 The Jageshwar Temples are cradled by the dense Deodar forests of the Himalayan foothills, creating a breathtaking panorama. The landscape is characterized by lush greenery, with towering trees that provide a calming ambience. The river Jat Ganga flows nearby, adding to the beauty and serenity of the area.
 
-<img src="placeholder_image_jageshwar_landscape.jpg" alt="Scenic view of the forested Jageshwar valley">
+
 
 The valley offers several viewpoints that provide panoramic views of the surrounding mountains and verdant valleys, especially during clear weather. Visitors can enjoy nature walks along trails that wind through the forests. The natural environment around Jageshwar is ideal for nature enthusiasts and photographers, with abundant opportunities to witness the beauty of the Himalayan ecosystem.
 
@@ -44,7 +44,7 @@ The Jageshwar Temples complex includes a large number of temples, the most impor
 *   **Chandi Temple:** Offers a different architectural style and is part of the larger complex.
 *   **Kedareshwar Temple:** This temple, located within the complex, has unique carvings and architectural features.
 
-<img src="placeholder_image_jageshwar_temple_complex.jpg" alt="Panoramic view of the Jageshwar Temple complex">
+
 
 Beyond the individual temples, the entire complex is an architectural marvel, offering a glimpse into the design aesthetics of the time. Each temple is characterized by intricate stone carvings, detailed sculptures, and distinctive architectural features.
 
@@ -64,7 +64,7 @@ The small town of Jageshwar lacks a large market. However, visitors can often fi
 *   **Religious Offerings:** Shops near the temples sell religious offerings and souvenirs, including small idols and pictures of deities.
 *   **Pottery and Handicrafts:** Although not widely available, some villages around Jageshwar may offer local pottery and handicrafts.
 
-<img src="placeholder_image_jageshwar_local_market.jpg" alt="A small local market near the Jageshwar Temples, selling souvenirs and religious items">
+
 
 ### **Food and Cuisine**
 
@@ -74,7 +74,7 @@ The local cuisine of Jageshwar is a reflection of the Kumaoni culinary tradition
 *   **Traditional Dishes:** Many restaurants and roadside eateries offer authentic Kumaoni Thalis, which include a variety of local dishes.
 *   **Restaurants and Cafes:** There are a few small eateries and cafes near the temples that serve simple, tasty meals. Options range from basic vegetarian fare to more elaborate dishes.
 
-<img src="placeholder_image_jageshwar_local_cuisine.jpg" alt="A typical Kumaoni Thali, showcasing local dishes from the Jageshwar region.">
+
 
 ### **Flora and Fauna**
 

@@ -25,7 +25,7 @@ The history of Orchha Fort is intricately linked to the rise and fall of the Bun
 
 The fort complex served as the seat of Bundela power and witnessed numerous historical events, including sieges, battles, and royal ceremonies. Orchha's cultural heritage is rich, with its temples, palaces, and cenotaphs reflecting the Bundela rulers' deep devotion to religion and patronage of the arts. The Ram Raja Temple, the only temple where Rama is worshipped as a king, and the Lakshmi Narayan Temple, famous for its murals, are testaments to the religious fervor and artistic brilliance of the era. The annual Ram Navami festival, celebrated with great pomp and show, is a major cultural event in Orchha, attracting pilgrims from far and wide.
 
-<img src="placeholder_image_history_cultural_heritage.jpg" alt="Orchha Fort historical murals">
+
 
 ### **Natural Beauty**
 
@@ -33,16 +33,16 @@ Orchha's natural beauty is enhanced by its strategic location on the banks of th
 
 The lush vegetation around the fort provides a habitat for various bird species, making it a great location for nature walks and bird-watching.
 
-<img src="placeholder_image_natural_beauty.jpg" alt="Betwa River flowing near Orchha Fort">
+
 
 ### **Must-Visit Attractions**
 
 Orchha Fort houses several key attractions that showcase its architectural and historical significance.
 
-*   **Jehangir Mahal:** This palace, built by Bir Singh Deo to commemorate Mughal Emperor Jehangir's visit, is a stunning example of Mughal and Rajput architectural fusion. <img src="placeholder_image_jehangir_mahal.jpg" alt="Jehangir Mahal">
+*   **Jehangir Mahal:** This palace, built by Bir Singh Deo to commemorate Mughal Emperor Jehangir's visit, is a stunning example of Mughal and Rajput architectural fusion. 
 *   **Raj Mahal:** Known for its vibrant murals depicting religious and mythological scenes, this palace offers a fascinating glimpse into the Bundela rulers' cultural and religious practices.
-*   **Raja Ram Temple:** This is the only temple in India where Lord Rama is worshipped as a king. <img src="placeholder_image_ram_raja_temple.jpg" alt="Ram Raja Temple">
-*   **Lakshmi Narayan Temple:** Famous for its colorful murals that depict scenes from the Ramayana, Mahabharata, and other religious narratives. <img src="placeholder_image_lakshmi_narayan_temple.jpg" alt="Lakshmi Narayan Temple">
+*   **Raja Ram Temple:** This is the only temple in India where Lord Rama is worshipped as a king. 
+*   **Lakshmi Narayan Temple:** Famous for its colorful murals that depict scenes from the Ramayana, Mahabharata, and other religious narratives. 
 *   **Chaturbhuj Temple:** This temple's unique design and architectural details are worth exploring.
 *   **Cenotaphs (Chhatris):** Situated along the Betwa River, these memorial structures mark the cremation sites of the Bundela rulers and offer stunning views of the river.
 

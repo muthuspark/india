@@ -25,11 +25,11 @@ Neil Island, unlike some of the larger Andaman Islands, doesn’t boast a long, 
 
 Neil Island's natural beauty is its main draw. The landscape is dominated by stunning beaches, turquoise waters, and dense tropical vegetation. The island is relatively small, making it easy to explore its diverse environments.
 
-*   **Beaches:** The island is renowned for its pristine beaches, each with its unique character. Bharatpur Beach is famous for its shallow waters and vibrant coral reefs, ideal for snorkeling and glass-bottom boat rides. Laxmanpur Beach is known for its stunning sunset views and natural rock formations. Sitapur Beach is located on the eastern coast and is popular for sunrise views. <img src = "placeholder image tag for beaches">
+*   **Beaches:** The island is renowned for its pristine beaches, each with its unique character. Bharatpur Beach is famous for its shallow waters and vibrant coral reefs, ideal for snorkeling and glass-bottom boat rides. Laxmanpur Beach is known for its stunning sunset views and natural rock formations. Sitapur Beach is located on the eastern coast and is popular for sunrise views. 
 
 *   **Natural Features:** The island is known for its natural rock formations and is surrounded by vibrant coral reefs. The low-lying nature of the island, coupled with the surrounding tropical vegetation, creates a picturesque environment.
 
-*   **Viewpoints:** The best viewpoints are found at the beaches, especially during sunrise and sunset. Sitapur Beach offers spectacular sunrise vistas, while Laxmanpur Beach is ideal for sunset viewing. <img src = "placeholder image tag for sunset at Laxmanpur beach">
+*   **Viewpoints:** The best viewpoints are found at the beaches, especially during sunrise and sunset. Sitapur Beach offers spectacular sunrise vistas, while Laxmanpur Beach is ideal for sunset viewing. 
 
 *   **Parks and Reserves:** While Neil Island doesn't have dedicated national parks or reserves, the entire island ecosystem is rich in biodiversity. The coral reefs surrounding the island are marine life reserves, protected to preserve their unique ecosystems.
 
@@ -37,11 +37,11 @@ Neil Island's natural beauty is its main draw. The landscape is dominated by stu
 
 Neil Island offers a range of attractions, catering to various interests:
 
-*   **Bharatpur Beach:** This beach is a hub for water sports and snorkeling, famous for its shallow waters and colorful coral reefs. Glass-bottom boat rides offer a glimpse into the underwater world for those who prefer not to get wet. <img src = "placeholder image tag for Bharatpur Beach">
+*   **Bharatpur Beach:** This beach is a hub for water sports and snorkeling, famous for its shallow waters and colorful coral reefs. Glass-bottom boat rides offer a glimpse into the underwater world for those who prefer not to get wet. 
 
 *   **Laxmanpur Beach:** Known for its beautiful sunsets, this beach is ideal for leisurely strolls and relaxation. The natural rock formations and secluded atmosphere make it a perfect spot for photography and contemplation.
 
-*   **Sitapur Beach:** This beach, also known as the "Sunrise Beach," offers breathtaking views of the sunrise. The clear waters and quiet surroundings provide a serene experience. <img src = "placeholder image tag for Sitapur Beach sunrise">
+*   **Sitapur Beach:** This beach, also known as the "Sunrise Beach," offers breathtaking views of the sunrise. The clear waters and quiet surroundings provide a serene experience. 
 
 *   **Howrah Bridge:** This natural rock formation, shaped like a bridge, is a unique attraction that can be accessed during low tide. The intricate formations and the clear water surrounding the bridge provide a great backdrop for photography and exploration.
 
@@ -79,7 +79,7 @@ Neil Island's cuisine is a delightful mix of local flavors and fresh seafood:
 
 *   **Street Food:** There is limited street food available, but you can find some food stalls offering snacks and light meals.
 
-*   **Restaurants and Cafes:** Several restaurants and cafes offer a range of cuisines, from Indian and continental to seafood specialties. Most restaurants are located near the beaches and provide scenic dining experiences. <img src = "placeholder image tag for food at Neil Island">
+*   **Restaurants and Cafes:** Several restaurants and cafes offer a range of cuisines, from Indian and continental to seafood specialties. Most restaurants are located near the beaches and provide scenic dining experiences. 
 
 ### **Flora and Fauna**
 
@@ -131,7 +131,7 @@ Enhance your Neil Island experience with these offbeat suggestions:
 
 *   **Photography:** Capture the beauty of the island through photography, with the stunning beaches, rock formations, and natural landscapes providing numerous opportunities.
 
-*   **Sunset watching at Laxmanpur beach:** <img src = "placeholder image tag for people watching sunset">
+*   **Sunset watching at Laxmanpur beach:** 
 
 ### **Conclusion**
 

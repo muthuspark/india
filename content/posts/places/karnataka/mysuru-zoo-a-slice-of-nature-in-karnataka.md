@@ -18,18 +18,18 @@ The Mysuru Zoo, officially known as the Sri Chamarajendra Zoological Gardens, is
 
 ### **History and Cultural Heritage**
 
-The Sri Chamarajendra Zoological Gardens has a rich history dating back to 1892. It was established by the then Maharaja of Mysore, Sri Chamaraja Wodeyar X. Initially, the zoo was relatively small, featuring a collection of animals housed within the palace grounds. It gradually expanded, acquiring more land and animals, and evolving into a significant zoological institution. The zoo played a crucial role in the conservation of wildlife and became an important source of knowledge regarding animal behavior and care. Over the years, the zoo faced challenges such as lack of funds, lack of knowledge in animal upkeep etc. however with changing times and advent of new techniques, the zoo made a comeback. The zoo's location within Mysuru contributes to the city's cultural heritage, as it is often a place of leisure and cultural experiences for locals. The zoo's long history ties in with the larger history of the Wodeyar dynasty, the rulers of Mysore, contributing to the cultural landscape of the city. There are no specific festivals celebrated at the zoo, but its presence makes it a popular destination during Mysuru's famous Dasara festival, with increased visitor traffic. <image placeholder>
+The Sri Chamarajendra Zoological Gardens has a rich history dating back to 1892. It was established by the then Maharaja of Mysore, Sri Chamaraja Wodeyar X. Initially, the zoo was relatively small, featuring a collection of animals housed within the palace grounds. It gradually expanded, acquiring more land and animals, and evolving into a significant zoological institution. The zoo played a crucial role in the conservation of wildlife and became an important source of knowledge regarding animal behavior and care. Over the years, the zoo faced challenges such as lack of funds, lack of knowledge in animal upkeep etc. however with changing times and advent of new techniques, the zoo made a comeback. The zoo's location within Mysuru contributes to the city's cultural heritage, as it is often a place of leisure and cultural experiences for locals. The zoo's long history ties in with the larger history of the Wodeyar dynasty, the rulers of Mysore, contributing to the cultural landscape of the city. There are no specific festivals celebrated at the zoo, but its presence makes it a popular destination during Mysuru's famous Dasara festival, with increased visitor traffic. 
 
 ### **Natural Beauty**
 
-While located within the city, the Mysuru Zoo provides a serene and green environment. The zoo is well-maintained, with lush vegetation and carefully designed enclosures that aim to replicate natural habitats for its inhabitants. The city of Mysuru, which the zoo calls home, is known for its well-planned layouts and gardens. The Zoo's location itself creates a sense of calm amidst the busy urban landscape. Visitors can enjoy pleasant walks through the pathways, enjoying the shade provided by trees and the refreshing atmosphere. The zoo is not surrounded by mountains or forests in a direct way, but the city's beautiful urban planning contributes to the aesthetics of the place. The Zoo boasts of beautiful landscaping and well-maintained grounds, providing an oasis within the city. <image placeholder>
+While located within the city, the Mysuru Zoo provides a serene and green environment. The zoo is well-maintained, with lush vegetation and carefully designed enclosures that aim to replicate natural habitats for its inhabitants. The city of Mysuru, which the zoo calls home, is known for its well-planned layouts and gardens. The Zoo's location itself creates a sense of calm amidst the busy urban landscape. Visitors can enjoy pleasant walks through the pathways, enjoying the shade provided by trees and the refreshing atmosphere. The zoo is not surrounded by mountains or forests in a direct way, but the city's beautiful urban planning contributes to the aesthetics of the place. The Zoo boasts of beautiful landscaping and well-maintained grounds, providing an oasis within the city. 
 
 ### **Must-Visit Attractions**
 
 The primary attraction within this area is, of course, the Mysuru Zoo itself. The zoo houses a vast array of animal species from around the world, including mammals, birds, reptiles, and amphibians. Popular exhibits include the tiger enclosure, the lion enclosure, the giraffe enclosure, and the primate enclosures. The zoo has also been a pioneer in providing enclosures that are as close to the animal's natural habitat. The zoo is known for its collection of elephants, various species of deer, and a diverse collection of birds. Visitors are sure to be amazed and educated by the diversity of wildlife on display.
 
 The zoo also includes the Chamundi Hill View, which provides visitors a wonderful view of the city below.
-<image placeholder>
+
 
 ### **Adventure Activities**
 
@@ -37,7 +37,7 @@ Within the boundaries of the Mysuru Zoo, the primary activity is leisurely explo
 
 ### **Local Markets and Handicrafts**
 
-While there are no markets inside the zoo, the city of Mysuru itself is famous for its traditional markets and handicrafts. Visitors can explore the Devaraja Market, known for its vibrant flower stalls, spices, fruits, and vegetables. Another famous market to visit is the Cauvery Handicrafts Emporium, offering a wide array of sandalwood products, silk sarees, and other local handicrafts. Mysuru is particularly renowned for its silk sarees, sandalwood carvings, incense sticks, and traditional jewelry. These markets provide excellent opportunities to purchase souvenirs and experience the local culture. <image placeholder>
+While there are no markets inside the zoo, the city of Mysuru itself is famous for its traditional markets and handicrafts. Visitors can explore the Devaraja Market, known for its vibrant flower stalls, spices, fruits, and vegetables. Another famous market to visit is the Cauvery Handicrafts Emporium, offering a wide array of sandalwood products, silk sarees, and other local handicrafts. Mysuru is particularly renowned for its silk sarees, sandalwood carvings, incense sticks, and traditional jewelry. These markets provide excellent opportunities to purchase souvenirs and experience the local culture. 
 
 ### **Food and Cuisine**
 
@@ -64,7 +64,7 @@ Mysuru offers a wide range of accommodation options to suit different budgets an
 *   **Budget:** There are numerous budget hotels and guesthouses in Mysuru, providing comfortable and affordable stays.
 *   **Mid-Range:** Numerous hotels and resorts offer comfortable rooms and amenities.
 *   **Luxury:** For a more luxurious experience, visitors can choose from heritage hotels and resorts.
-*   **Heritage Properties:** Several heritage hotels and resorts are located in the area, offering unique stays in historic buildings. <image placeholder>
+*   **Heritage Properties:** Several heritage hotels and resorts are located in the area, offering unique stays in historic buildings. 
 
 ### **Offbeat Experiences**
 

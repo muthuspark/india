@@ -22,7 +22,7 @@ Mount Abu Wildlife Sanctuary, a verdant oasis nestled in the Aravalli Range of R
 
 The history of Mount Abu is intertwined with its religious significance, particularly for the Jain community. The area has been a place of pilgrimage for centuries, with several magnificent Jain temples, most notably the Dilwara Temples, dating back to the 11th and 13th centuries. The Dilwara Temples are architectural marvels, showcasing intricate marble carvings and a testament to the artistic prowess of the artisans of that era.
 
-<img src="placeholder_image_dilwara_temples.jpg" alt="Dilwara Temples, Mount Abu" width="600">
+
 
 The region also holds historical significance as a retreat for the Rajput rulers of Rajasthan, offering a respite from the heat and a place for strategic planning. The presence of the British further shaped the region, leaving behind colonial-era architecture that adds to the charm of Mount Abu. The local culture is a vibrant blend of Rajasthani traditions and the influences of its Jain population, evident in the festivals, cuisine, and the overall ambiance of the area.
 
@@ -32,7 +32,7 @@ Key events in Mount Abu's history include its role as a summer retreat for the B
 
 Mount Abu Wildlife Sanctuary is characterized by its diverse landscape, ranging from dense forests to rocky terrain. The sanctuary encompasses the highest peak in the Aravalli Range, Guru Shikhar, offering panoramic views of the surrounding countryside. The area is dotted with various viewpoints, such as Sunset Point and Honeymoon Point, where visitors can witness the breathtaking beauty of the sunsets and enjoy stunning vistas.
 
-<img src="placeholder_image_guru_shikhar_view.jpg" alt="Guru Shikhar Viewpoint, Mount Abu" width="600">
+
 
 The lush green forests of the sanctuary contrast sharply with the arid landscapes of the surrounding regions, creating a unique microclimate. The sanctuary is home to several natural attractions, including the tranquil Nakki Lake, a picturesque body of water perfect for boating and relaxation. The landscape supports a variety of flora and fauna, contributing to the unique ecological richness of the area.
 
@@ -42,19 +42,19 @@ Mount Abu offers a plethora of attractions, catering to diverse interests. Key a
 
 *   **Dilwara Temples:** The aforementioned exquisitely carved Jain temples, showcasing unparalleled architectural details.
 
-<img src="placeholder_image_dilwara_temples_inside.jpg" alt="Inside Dilwara Temples, Mount Abu" width="600">
+
 
 *   **Nakki Lake:** A serene lake surrounded by hills and offering boating facilities.
 
-<img src="placeholder_image_nakki_lake.jpg" alt="Nakki Lake, Mount Abu" width="600">
+
 
 *   **Guru Shikhar:** The highest peak in the Aravalli Range, offering panoramic views.
 
-<img src="placeholder_image_guru_shikhar.jpg" alt="Guru Shikhar, Mount Abu" width="600">
+
 
 *   **Sunset Point:** A popular spot to witness the stunning sunset over the hills.
 
-<img src="placeholder_image_sunset_point.jpg" alt="Sunset Point, Mount Abu" width="600">
+
 
 *   **Honeymoon Point:** A picturesque viewpoint offering romantic views, especially during the monsoon season.
 *   **Mount Abu Wildlife Sanctuary:** The sanctuary itself, offering opportunities for nature walks and wildlife viewing.
@@ -114,7 +114,7 @@ Mount Abu Wildlife Sanctuary is a biodiversity hotspot, home to diverse flora an
 
 The sanctuary is protected and managed to conserve its rich biodiversity.
 
-<img src="placeholder_image_wildlife_sanctuary.jpg" alt="Wildlife Sanctuary, Mount Abu" width="600">
+
 
 ### **Best Time to Visit**
 

@@ -16,7 +16,7 @@ tags:
 
 Sukhna Lake, a serene reservoir nestled in the foothills of the Shivalik range in Chandigarh, India, is a testament to human ingenuity and a haven for nature lovers. Located within the Union Territory of Chandigarh, Sukhna Lake provides a tranquil escape from the city's bustling life. It sits at an elevation of approximately 350 meters (1,150 feet) and is easily accessible from the city center. The lake is strategically positioned near other prominent Chandigarh landmarks, making it a central and accessible destination. What sets Sukhna Lake apart is its unique blend of natural beauty and human-made charm. It is a sanctuary for migratory birds, a popular spot for recreation, and a significant contributor to the city's ecosystem, serving as a natural cooling agent and a source of water conservation.
 
-<img src="placeholder_image_Sukhna_Lake_Overview.jpg" alt="Overview of Sukhna Lake">
+
 
 ### **History and Cultural Heritage**
 
@@ -24,7 +24,7 @@ Sukhna Lake was created in 1958 by Le Corbusier and P. L. Varma, the architects 
 
 ### **Natural Beauty**
 
-The landscape surrounding Sukhna Lake is characterized by its gentle slopes and the backdrop of the Shivalik hills. The lake itself is a picturesque expanse of water that reflects the sky and the surrounding greenery. The banks of the lake are lined with a variety of trees, including eucalyptus and acacia, which provide shade and habitat for numerous species of birds. <img src="placeholder_image_Sukhna_Lake_Sunset.jpg" alt="Sunset at Sukhna Lake">
+The landscape surrounding Sukhna Lake is characterized by its gentle slopes and the backdrop of the Shivalik hills. The lake itself is a picturesque expanse of water that reflects the sky and the surrounding greenery. The banks of the lake are lined with a variety of trees, including eucalyptus and acacia, which provide shade and habitat for numerous species of birds. 
 Several vantage points along the promenade offer stunning views, especially during sunrise and sunset, when the changing light transforms the landscape. The natural environment around the lake is carefully maintained, with landscaped gardens and walking paths that enhance the overall aesthetic. The lake and its surroundings are maintained with a strong emphasis on cleanliness and preservation of its natural beauty.
 
 ### **Must-Visit Attractions**
@@ -37,11 +37,11 @@ Sukhna Lake primarily offers recreational activities rather than high-octane adv
 
 ### **Local Markets and Handicrafts**
 
-Chandigarh is known for its modern shopping centers and markets, however, there are craft stores and government emporiums in the city where you can find local handicrafts. <img src="placeholder_image_Chandigarh_Shopping.jpg" alt="Shopping scene at Chandigarh"> These markets often feature handloom textiles, traditional jewelry, and decorative items. While Sukhna Lake itself doesn't have a dedicated market, the nearby Sector 17 market is a popular shopping destination, offering a variety of clothing, accessories, and souvenirs. The city is also known for its Punjab-style phulkari embroidery and other crafts.
+Chandigarh is known for its modern shopping centers and markets, however, there are craft stores and government emporiums in the city where you can find local handicrafts.  These markets often feature handloom textiles, traditional jewelry, and decorative items. While Sukhna Lake itself doesn't have a dedicated market, the nearby Sector 17 market is a popular shopping destination, offering a variety of clothing, accessories, and souvenirs. The city is also known for its Punjab-style phulkari embroidery and other crafts.
 
 ### **Food and Cuisine**
 
-Chandigarh offers a diverse culinary scene, reflecting the flavors of Punjab and the wider Indian cuisine. The local food scene is a delightful experience, with options ranging from street food to fine dining. Traditional Punjabi dishes such as butter chicken, dal makhani, parathas, and sarson da saag are widely available. Street food is a popular choice, with vendors offering snacks such as chhole bhature, gol gappe, and various types of chaat. <img src="placeholder_image_Chandigarh_Food.jpg" alt="Popular Food items in Chandigarh"> Popular restaurants and food stalls around Sukhna Lake and throughout Chandigarh cater to various tastes, providing a wide array of dining options. Visitors can also explore local cafes for coffee, tea, and light snacks while enjoying the serene ambiance.
+Chandigarh offers a diverse culinary scene, reflecting the flavors of Punjab and the wider Indian cuisine. The local food scene is a delightful experience, with options ranging from street food to fine dining. Traditional Punjabi dishes such as butter chicken, dal makhani, parathas, and sarson da saag are widely available. Street food is a popular choice, with vendors offering snacks such as chhole bhature, gol gappe, and various types of chaat.  Popular restaurants and food stalls around Sukhna Lake and throughout Chandigarh cater to various tastes, providing a wide array of dining options. Visitors can also explore local cafes for coffee, tea, and light snacks while enjoying the serene ambiance.
 
 ### **Flora and Fauna**
 
@@ -63,7 +63,7 @@ Chandigarh offers a wide range of accommodation options to suit all budgets and 
 - **Budget Hotels and Guesthouses:** Budget-friendly options are available for travelers looking for cost-effective lodging.
 - **Service Apartments:** These are ideal for longer stays, offering the comfort of a home with hotel-like services.
 
-<img src="placeholder_image_Chandigarh_Hotel.jpg" alt="Hotel in Chandigarh">
+
 Accommodation options are available throughout the city, with some located near Sukhna Lake, offering easy access to the lake and its recreational facilities.
 
 ### **Offbeat Experiences**

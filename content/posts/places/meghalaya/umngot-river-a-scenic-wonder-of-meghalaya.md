@@ -29,7 +29,7 @@ The cultural heart of the region is the vibrant traditions of the Khasi and Jain
 The local communities maintain their unique traditions, including matrilineal societies where inheritance and lineage are traced through the mother’s line. This cultural aspect is distinct and offers a fascinating contrast to other parts of India.
 
 While there aren't significant historical landmarks located directly *on* the river, the surrounding villages and towns often possess structures and sites that reflect the historical and cultural evolution of the area. These can include traditional village architecture, community halls, and local temples that reflect the local customs.
-<img src="placeholder_image_historical_landmark.jpg" alt="A view of a traditional village" width="600" height="400">
+
 
 ###  **Natural Beauty**
 
@@ -38,19 +38,19 @@ The landscape surrounding the Umngot River is characterized by lush, verdant hil
 The best way to experience the views of the region is to take a boat ride on the Umngot River. The clarity of the water offers a surreal experience, allowing visitors to witness the underwater world as if the boat is floating on glass. Several viewpoints along the riverbanks and the adjacent hills offer panoramic vistas of the valley, the river, and the surrounding landscapes. One of the most popular spots is near Dawki bridge, where the river’s beauty is at its peak.
 
 The area is rich in biodiversity. While not officially designated as a national park, the surrounding forests and hills offer a habitat to diverse species of flora and fauna. Birdwatchers often find this area a rewarding location to spot various bird species.
-<img src="placeholder_image_Umngot_river_landscape.jpg" alt="A view of the Umngot river" width="600" height="400">
-<img src="placeholder_image_viewpoint.jpg" alt="Viewpoint overlooking the river" width="600" height="400">
+
+
 
 ### **Must-Visit Attractions**
 
 The primary attraction is, of course, the Umngot River itself. However, the area around Dawki offers other interesting places to explore:
 
 *   **Dawki Bridge:** This is a suspension bridge over the Umngot River. It offers stunning views and is a hub of activity, serving as the gateway to the river experience.
-<img src="placeholder_image_Dawki_Bridge.jpg" alt="View of the Dawki Bridge" width="600" height="400">
+
 *   **Shnongpdeng:** A small village near the Umngot, Shnongpdeng is an adventure hub. It offers opportunities for water sports, camping, and experiencing the local culture.
 *   **Bangladesh Border:** Being located on the border, you can visit the India-Bangladesh border crossing, experiencing a unique perspective on international boundaries and the surrounding local life. Note that border crossing is usually not permitted, but a view of the border is often possible.
 *   **Riwai Living Root Bridge:** Located near the area, this is a natural bridge made from the roots of living trees. It is a marvel of human ingenuity and natural adaptation.
-<img src="placeholder_image_living_root_bridge.jpg" alt="View of the living root bridge" width="600" height="400">
+
 
 ### **Adventure Activities**
 
@@ -63,7 +63,7 @@ The Umngot River and its surroundings offer a wide array of adventure activities
 *   **Camping:** Several campsites along the river offer a chance to spend the night under the stars, surrounded by the natural beauty of the area.
 *   **Trekking:** The surrounding hills and forests offer opportunities for trekking and hiking, allowing visitors to explore the region's natural beauty.
 *   **Zip-lining:** Many adventure tour operators offer zip-lining experiences across the river.
-<img src="placeholder_image_kayaking.jpg" alt="Kayaking on the river" width="600" height="400">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -90,7 +90,7 @@ The region around the Umngot River supports a diverse ecosystem. While not speci
 *   **Birds:** The area is a good place for bird-watching, with a variety of species.
 *   **Aquatic Life:** The Umngot River itself is home to various species of fish. The crystal-clear water allows for excellent visibility, making it easy to observe the aquatic life.
 *   **Mammals:** While not as prominent as the avian life, the area is also home to mammals like monkeys and various forest animals.
-<img src="placeholder_image_birdwatching.jpg" alt="Bird watching in the area" width="600" height="400">
+
 
 ### **Best Time to Visit**
 
@@ -116,7 +116,7 @@ Accommodation options around the Umngot River cater to a range of budgets:
 *   **Homestays:** Many families in the area offer homestays, allowing visitors to experience local culture and hospitality.
 *   **Campsites:** Several campsites offer overnight stays in close proximity to the river, providing an immersive nature experience.
 *   **Resorts and Hotels:** Though not directly at the river's edge, various resorts and hotels are available in the Shillong area, providing comfortable stays and easy access to the Umngot River.
-<img src="placeholder_image_homestay.jpg" alt="Homestay option near the river" width="600" height="400">
+
 
 ### **Offbeat Experiences**
 

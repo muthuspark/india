@@ -18,7 +18,7 @@ tags:
 
 Vellore Fort, a magnificent 16th-century fort located in the heart of Vellore, Tamil Nadu, stands as a testament to the region's rich history and strategic importance. Situated approximately 145 kilometers west of Chennai, the fort is easily accessible and a popular destination for history buffs, architecture enthusiasts, and casual tourists alike. Vellore Fort, with its imposing structure and historical significance, offers a captivating journey through time, showcasing the architectural prowess and military strategies of bygone eras. It's a prime example of the region's cultural legacy.
 
-<img src="placeholder_vellore_fort_overview.jpg" alt="Vellore Fort - Overview" style="width: 100%;">
+
 
 ### **History and Cultural Heritage**
 
@@ -28,13 +28,13 @@ A significant event occurred in 1806, when the Vellore Mutiny, a violent uprisin
 
 The fort houses several important religious and historical sites. The most prominent is the Jalakandeswarar Temple, dedicated to Lord Shiva, known for its intricate carvings. Also within the fort are the tombs of the family of the last Nayak ruler of Madurai and a Christian church built by the British. The fort, therefore, represents a confluence of different cultures and religions, reflecting its multifaceted past.
 
-<img src="placeholder_jalakandeswarar_temple.jpg" alt="Jalakandeswarar Temple within Vellore Fort" style="width: 100%;">
+
 
 ### **Natural Beauty**
 
 While Vellore Fort itself is a man-made marvel, the surrounding area of Vellore boasts a varied landscape. The region is characterized by a mix of plains and low-lying hills. The fort is located close to the Palar River.  The scenery around the fort is primarily agricultural, with fields and small settlements. Though not renowned for dramatic natural features like mountains, the quiet countryside provides a serene backdrop to the historical grandeur of the fort. The nearby hills offer opportunities for short hikes and provide scenic views of the surrounding areas.
 
-<img src="placeholder_vellore_landscape.jpg" alt="Landscape around Vellore Fort" style="width: 100%;">
+
 
 ### **Must-Visit Attractions**
 
@@ -46,7 +46,7 @@ Vellore Fort offers several must-visit attractions:
 *   **Tipu Sultan's Residence (or what remains of it):** The remnants of the residence where Tipu Sultan and his family were kept as prisoners.
 *   **Tombs of the Nayak rulers:** This is a historical site where members of the Nayak Dynasty are buried.
 
-<img src="placeholder_vellore_fort_attractions.jpg" alt="Must-Visit Attractions" style="width: 100%;">
+
 
 ### **Adventure Activities**
 
@@ -63,7 +63,7 @@ Vellore is known for its leather products, reflecting its strong tanneries and l
 *   **Local Markets:** Several local markets and shops sell leather goods like bags, shoes, and wallets. Bargaining is customary.
 *   **Handicrafts:** You may also find local handicrafts and textiles, including traditional sarees and other clothing items.
 
-<img src="placeholder_vellore_market.jpg" alt="Local Market - Vellore" style="width: 100%;">
+
 
 ### **Food and Cuisine**
 
@@ -77,7 +77,7 @@ Vellore offers a taste of authentic Tamil Nadu cuisine, known for its spicy flav
 *   **Street Food:** Street food options include a variety of snacks and local treats.
 *   **Restaurants:** There are many restaurants and eateries in Vellore that offer a variety of cuisine choices.
 
-<img src="placeholder_vellore_food.jpg" alt="Vellore Cuisine" style="width: 100%;">
+
 
 ### **Flora and Fauna**
 
@@ -103,7 +103,7 @@ Vellore offers a variety of accommodation options to suit all budgets:
 *   **Mid-Range Hotels:** Many mid-range hotels offer comfortable stays with modern amenities.
 *   **Luxury Hotels:** Some hotels and resorts cater to luxury travelers.
 
-<img src="placeholder_vellore_accommodation.jpg" alt="Vellore Accommodation" style="width: 100%;">
+
 
 ### **Offbeat Experiences**
 

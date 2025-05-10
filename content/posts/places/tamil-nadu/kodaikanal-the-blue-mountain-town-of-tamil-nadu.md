@@ -30,12 +30,12 @@ Kodaikanal’s cultural heritage is largely rooted in the local Tamil traditions
 
 Kodaikanal is a treasure trove of natural beauty, characterized by its undulating hills, dense forests, and diverse ecosystems. The landscape is dominated by the Palani Hills, draped in lush greenery and frequently shrouded in mist. The region is blessed with numerous viewpoints that offer panoramic vistas of the surrounding valleys and plains.
 
-The centerpiece of Kodaikanal's natural attractions is the star-shaped Kodai Lake, around which the town has developed. <img src="placeholder_kodai_lake.jpg" alt="Kodai Lake"> This artificial lake is ideal for boating and offers stunning reflections of the surrounding hills. Another prominent feature is the Kurinji flower, which blooms once every twelve years, covering the hillsides in a vibrant shade of blue. Important natural attractions include:
+The centerpiece of Kodaikanal's natural attractions is the star-shaped Kodai Lake, around which the town has developed.  This artificial lake is ideal for boating and offers stunning reflections of the surrounding hills. Another prominent feature is the Kurinji flower, which blooms once every twelve years, covering the hillsides in a vibrant shade of blue. Important natural attractions include:
 
-*   **Bryant Park:** A well-maintained botanical garden with a wide variety of flora. <img src="placeholder_bryant_park.jpg" alt="Bryant Park">
+*   **Bryant Park:** A well-maintained botanical garden with a wide variety of flora. 
 *   **Coaker's Walk:** A scenic path offering breathtaking views of the valley.
 *   **Green Valley View (Suicide Point):** A dramatic viewpoint overlooking a deep gorge.
-*   **Pillar Rocks:** Three giant rock pillars standing majestically. <img src="placeholder_pillar_rocks.jpg" alt="Pillar Rocks">
+*   **Pillar Rocks:** Three giant rock pillars standing majestically. 
 *   **Bear Shola Falls:** A beautiful waterfall, accessible by a short trek.
 *   **Silver Cascade Falls:** A majestic waterfall located on the way into Kodaikanal.
 
@@ -49,7 +49,7 @@ Kodaikanal is packed with tourist attractions catering to diverse interests. Her
 *   **Green Valley View (Suicide Point):** Offers a thrilling view of the valley.
 *   **Pillar Rocks:** Massive granite formations offering amazing views.
 *   **Guna Caves (Devil's Kitchen):** Formed between three giant boulders, these caves are known for their unique geological features and are quite popular.
-*   **Dolphin's Nose:** A cliff shaped like a dolphin’s nose, offering stunning views. <img src="placeholder_dolphins_nose.jpg" alt="Dolphin's Nose">
+*   **Dolphin's Nose:** A cliff shaped like a dolphin’s nose, offering stunning views. 
 *   **Shembaganur Museum of Natural History:** Home to a rich collection of regional flora, fauna, and archaeological artifacts.
 
 ### **Adventure Activities**

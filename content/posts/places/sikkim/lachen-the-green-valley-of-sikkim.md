@@ -23,19 +23,19 @@ Lachen, a quaint and picturesque town nestled in North Sikkim, India, is a gatew
 
 The history of Lachen is intertwined with the culture and traditions of the Lachenpa community, a sub-tribe of the Bhutia people. Historically, Lachen was a trading post and a strategically important location. The region has been influenced by Tibetan Buddhism, evident in the monasteries and prayer flags that dot the landscape. The local culture is deeply rooted in religious beliefs and practices.
 
-The Lachen Monasteries are crucial to the culture. While detailed historical accounts of Lachen's specific founding are limited, the cultural influence of Tibetan Buddhism pervades every aspect of life here. Traditional dances and religious festivals are integral to the community's identity, often marked by colorful attire, music, and dance, celebrating the region's rich cultural tapestry. <img src="placeholder_image_monastery.jpg" alt="Image of Lachen Monastery or Cultural site">
+The Lachen Monasteries are crucial to the culture. While detailed historical accounts of Lachen's specific founding are limited, the cultural influence of Tibetan Buddhism pervades every aspect of life here. Traditional dances and religious festivals are integral to the community's identity, often marked by colorful attire, music, and dance, celebrating the region's rich cultural tapestry. 
 
 ### **Natural Beauty**
 
 Lachen is enveloped by majestic mountain ranges, lush valleys, and pristine rivers, making it a paradise for nature lovers. The Teesta River, a major river in Sikkim, flows through the area, adding to its scenic beauty. The surrounding landscape boasts alpine meadows, dense forests, and snow-capped peaks, providing a stunning backdrop for exploration.
 
-One of the key attractions is the panoramic views of the surrounding mountains, particularly during sunrise and sunset. Visitors can experience the best views from the vantage points along the trails leading to Gurudongmar Lake and the Chopta Valley. The natural environment is largely untouched, contributing to the overall serenity of the region. <img src="placeholder_image_mountain_view.jpg" alt="Image of Himalayan Mountain View">
+One of the key attractions is the panoramic views of the surrounding mountains, particularly during sunrise and sunset. Visitors can experience the best views from the vantage points along the trails leading to Gurudongmar Lake and the Chopta Valley. The natural environment is largely untouched, contributing to the overall serenity of the region. 
 
 ### **Must-Visit Attractions**
 
 The primary attraction of Lachen is its role as a base for visiting the iconic Gurudongmar Lake, one of the highest lakes in the world. The lake, considered sacred by Buddhists, Hindus, and Sikhs, is renowned for its crystal-clear waters and breathtaking surroundings.
 
-Another popular attraction is the Chopta Valley, a high-altitude meadow known for its stunning landscapes, yak grazing, and panoramic views. Although Lachen itself has fewer specific "attractions" than nearby locales, the journey itself to the valley is incredibly scenic and rewarding. Other sites to visit include the Lachen Monastery, which offers a glimpse into the local religious practices. <img src="placeholder_image_gurudongmar_lake.jpg" alt="Image of Gurudongmar Lake">
+Another popular attraction is the Chopta Valley, a high-altitude meadow known for its stunning landscapes, yak grazing, and panoramic views. Although Lachen itself has fewer specific "attractions" than nearby locales, the journey itself to the valley is incredibly scenic and rewarding. Other sites to visit include the Lachen Monastery, which offers a glimpse into the local religious practices. 
 
 ### **Adventure Activities**
 
@@ -53,7 +53,7 @@ These crafts are often intricately designed and represent the unique traditions 
 
 The cuisine in Lachen is largely influenced by Tibetan and Sikkimese flavors, with an emphasis on fresh ingredients. Popular dishes include momos (steamed dumplings), thukpa (noodle soup), and tingmo (steamed bread). Local restaurants and homestays offer hearty meals to cater to the travelers visiting the region.
 
-The food is generally simple yet flavorful, designed to provide energy and warmth in the cold climate. Travelers should try the local brews such as the local beer, often made by the community. <img src="placeholder_image_local_cuisine.jpg" alt="Image of Local Cuisine">
+The food is generally simple yet flavorful, designed to provide energy and warmth in the cold climate. Travelers should try the local brews such as the local beer, often made by the community. 
 
 ### **Flora and Fauna**
 
@@ -71,7 +71,7 @@ The monsoon season (July to September) can bring heavy rainfall and landslides, 
 
 The nearest airport to Lachen is Bagdogra Airport (IXB), located in West Bengal, approximately 200 kilometers away. From the airport, travelers can hire a taxi or take a shared jeep to Gangtok, the capital of Sikkim, and then proceed further to Lachen.
 
-The nearest railway station is New Jalpaiguri (NJP), which is also well-connected to major cities in India. From the railway station, taxis and shared jeeps are available to reach Gangtok and then Lachen. The distance from Gangtok to Lachen is around 130 kilometers, and the journey takes approximately 6-7 hours. <img src="placeholder_image_road_to_lachen.jpg" alt="Image of Road to Lachen">
+The nearest railway station is New Jalpaiguri (NJP), which is also well-connected to major cities in India. From the railway station, taxis and shared jeeps are available to reach Gangtok and then Lachen. The distance from Gangtok to Lachen is around 130 kilometers, and the journey takes approximately 6-7 hours. 
 
 ### **Accommodation Options**
 

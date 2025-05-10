@@ -25,7 +25,7 @@ The history of Tso Kar is intertwined with the nomadic Changpa community, who ha
 
 Tso Kar is renowned for its stark, yet captivating, natural beauty. The lake itself, varying in color from blue to green and even white depending on the season and the mineral concentration, is a sight to behold. The surrounding landscape is a high-altitude desert, characterized by barren mountains, rolling hills, and vast open plains, creating a sense of isolation and grandeur.
 
-<img src="placeholder_Tso_Kar_Natural_Beauty.jpg" alt="Tso Kar Natural Beauty">
+
 
 The lake's shores are often adorned with a crust of white salt, giving it the name "White Lake." Nearby, the smaller Startsapuk Tso, a freshwater lake, offers a stark contrast to the saltwater Tso Kar. The scenery here is best experienced during dawn and dusk when the light dramatically transforms the colours and shadows. The Changthang Wildlife Sanctuary, which encompasses Tso Kar, further enhances the natural experience.
 
@@ -66,7 +66,7 @@ The food options directly around Tso Kar are limited because of the area’s rem
 *   **Tsampa (roasted barley flour):** Often eaten with butter tea.
 *   **Dal and rice:** Simple but nourishing meals.
 
-<img src="placeholder_Tso_Kar_Food.jpg" alt="Tso Kar Food">
+
 
 Travelers may need to bring some snacks and beverages as the options here are very limited.
 
@@ -97,7 +97,7 @@ As Tso Kar is a remote destination, accommodation options are limited. However, 
 *   **Guesthouses:** These are generally basic accommodation with the possibility of a local family hosting you.
 *   **Homestays:** Though few, some homestays are available in nearby villages, providing a chance to experience local life.
 
-<img src="placeholder_Tso_Kar_Accommodation.jpg" alt="Tso Kar Accommodation">
+
 
 ### **Offbeat Experiences**
 

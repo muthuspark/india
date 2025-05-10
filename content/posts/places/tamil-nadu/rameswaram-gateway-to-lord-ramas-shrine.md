@@ -29,7 +29,7 @@ The most prominent cultural aspect of Rameswaram revolves around the Ramanathasw
 
 Rameswaram is surrounded by the turquoise waters of the Gulf of Mannar. The landscape is relatively flat, dominated by sandy beaches, and the sea is rarely far away. The island's natural features include pristine beaches, coral reefs, and a generally arid climate.
 
-<img src="placeholder_image_beach.jpg" alt="Beach in Rameswaram">
+
 
 One of the best viewpoints to experience the region's beauty is from the Pamban Bridge, which offers panoramic views of the sea, the island, and the train tracks running across the bridge. The Dhanushkodi area, a ghost town destroyed by a cyclone in 1964, provides another stunning view of the meeting point of the Bay of Bengal and the Indian Ocean. The island's natural environment also extends to areas where birdwatching is possible, especially during migratory seasons, offering opportunities for wildlife enthusiasts.
 
@@ -37,7 +37,7 @@ One of the best viewpoints to experience the region's beauty is from the Pamban 
 
 The heart of Rameswaram's tourism lies in its religious sites. The **Ramanathaswamy Temple** is the paramount attraction, known for its intricate architecture, long corridors, and 22 holy wells (Theerthams).
 
-<img src="placeholder_image_ramanathaswamy_temple.jpg" alt="Ramanathaswamy Temple">
+
 
 **Agnitheertham** is where pilgrims take their ritualistic bath. Other significant attractions include:
 *   **Kalam Memorial:** This memorial honors the late President A.P.J. Abdul Kalam, who hailed from Rameswaram.

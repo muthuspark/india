@@ -23,7 +23,7 @@ Badrinath, a sacred town nestled in the Chamoli district of Uttarakhand, India, 
 
 The history of Badrinath is steeped in ancient Hindu mythology and legends. The site is believed to have been a sacred place since the Vedic period. According to the Bhagavata Purana, Lord Vishnu, in his meditative form, chose this very place for his penance. The original idol of Lord Badrinarayan is thought to have been discovered by Adi Shankaracharya in the 8th century, who re-established the temple and the practice of worship. The temple has undergone many renovations and reconstructions over the centuries, reflecting the patronage of various rulers.
 
-<img src="placeholder_badrinath_history.jpg" alt="History and Cultural Heritage of Badrinath" width="600">
+
 
 The cultural heritage of Badrinath is strongly interwoven with its religious significance. The Badrinath Temple (Badrinath Dham) is the centerpiece of the town, drawing pilgrims from across India and the world. The priests of the temple traditionally belong to the Rawal community from South India, a practice initiated by Adi Shankaracharya. The temple is opened for pilgrimage for only six months of the year, typically from April/May to October/November, due to the harsh winter conditions. Major festivals celebrated here include the Mata Murti Ka Mela, held to commemorate the descent of Ganga to Earth, and the Badri-Kedar Utsav. The cultural landscape is enriched by the chanting of hymns, the aroma of incense, and the devotion of pilgrims performing various rituals and offerings.
 
@@ -31,7 +31,7 @@ The cultural heritage of Badrinath is strongly interwoven with its religious sig
 
 Badrinath is a paradise for nature lovers, boasting breathtaking landscapes and pristine beauty. The town is cradled by the imposing Nar and Narayan mountain ranges, creating a majestic backdrop to the Badrinath Temple. The Alaknanda River, one of the main tributaries of the Ganges, flows swiftly beside the temple, enhancing the serenity of the place.
 
-<img src="placeholder_badrinath_natural_beauty.jpg" alt="Natural Beauty of Badrinath" width="600">
+
 
 Visitors can experience unparalleled views from various points around the town, including the Tapt Kund, a hot water spring believed to have medicinal properties. The scenic Mana Village, located just a few kilometers away, offers stunning views of the Himalayas and the surrounding valleys. The Vasudhara Falls, a breathtaking waterfall, and the Charanpaduka, a sacred rock where Lord Vishnu is believed to have left his footprints, provide unique and picturesque natural attractions. The entire region is blessed with alpine meadows, dense forests, and snow-capped peaks, making it a visual treat for travelers.
 
@@ -39,7 +39,7 @@ Visitors can experience unparalleled views from various points around the town, 
 
 The primary attraction in Badrinath is the Badrinath Temple, dedicated to Lord Vishnu. The temple, built in a classic architectural style, is a sight to behold, with its colorful façade and intricate carvings. Within the temple complex, devotees can visit the main sanctum housing the black stone idol of Lord Badrinarayan.
 
-<img src="placeholder_badrinath_temple.jpg" alt="Badrinath Temple" width="600">
+
 
 Besides the temple, other must-visit attractions include:
 
@@ -53,7 +53,7 @@ Besides the temple, other must-visit attractions include:
 
 While primarily a spiritual destination, Badrinath also offers opportunities for adventure activities. Trekking is a popular activity, with trails leading to nearby attractions like Vasudhara Falls and Mana Village. The journey to Vasudhara Falls involves a moderate trek offering stunning views of the surrounding landscape.
 
-<img src="placeholder_badrinath_adventure.jpg" alt="Adventure Activities in Badrinath" width="600">
+
 
 Due to the high altitude and challenging terrain, adventure options are limited to trekking and exploring the natural surroundings. Nature walks and bird-watching are also enjoyable activities, allowing visitors to appreciate the rich biodiversity of the region. Though water sports aren't available, the sheer beauty of the mountains and the experience of being in such a sacred place is adventurous in itself.
 
@@ -61,7 +61,7 @@ Due to the high altitude and challenging terrain, adventure options are limited 
 
 Badrinath does not have extensive local markets like other tourist towns. However, you can find shops and stalls near the temple selling religious items, souvenirs, and handicrafts.
 
-<img src="placeholder_badrinath_market.jpg" alt="Local Markets and Handicrafts of Badrinath" width="600">
+
 
 These shops typically offer:
 
@@ -73,7 +73,7 @@ These shops typically offer:
 
 The cuisine in Badrinath is primarily vegetarian, adhering to the religious practices of the pilgrims. The food served in the town is generally simple, nutritious, and hearty.
 
-<img src="placeholder_badrinath_food.jpg" alt="Food and Cuisine of Badrinath" width="600">
+
 
 Popular dishes and street food options include:
 
@@ -114,7 +114,7 @@ Badrinath offers various accommodation options to suit different budgets and pre
 *   **Mid-Range Hotels:** These provide comfortable rooms and added facilities for a pleasant stay.
 *   **Ashrams and Dharamshalas:** These offer affordable accommodation and are often favored by pilgrims.
 
-<img src="placeholder_badrinath_accommodation.jpg" alt="Accommodation Options in Badrinath" width="600">
+
 
 It is advisable to book accommodation in advance, especially during the peak pilgrimage season. There are few luxury options available. Some heritage properties, such as those near Rishikesh, are an option for a comfortable stopover before or after your visit.
 

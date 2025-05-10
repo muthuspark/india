@@ -26,14 +26,14 @@ The district also holds a significant place in Kashmiri cultural heritage. Its n
 
 ###  **Natural Beauty**
 
-Anantnag's landscape is characterized by stunning natural beauty. The district is cradled by the majestic Himalayas, with sprawling green valleys, dense forests, and crystal-clear rivers. The Lidder River, originating from the Kolahoi Glacier, flows through Anantnag, adding to the scenic charm of the region. <img src="placeholder_image_of_a_valley_in_Anantnag.jpg" alt="A valley view in Anantnag"> The snow-capped peaks provide a spectacular backdrop to the landscape, making it a photographer's paradise. The meadows and forests abound in biodiversity, supporting various species of flora and fauna. Specific viewpoints like the Aru Valley and Betaab Valley offer visitors unparalleled panoramic views of the region.
+Anantnag's landscape is characterized by stunning natural beauty. The district is cradled by the majestic Himalayas, with sprawling green valleys, dense forests, and crystal-clear rivers. The Lidder River, originating from the Kolahoi Glacier, flows through Anantnag, adding to the scenic charm of the region.  The snow-capped peaks provide a spectacular backdrop to the landscape, making it a photographer's paradise. The meadows and forests abound in biodiversity, supporting various species of flora and fauna. Specific viewpoints like the Aru Valley and Betaab Valley offer visitors unparalleled panoramic views of the region.
 
 ### **Must-Visit Attractions**
 
 Anantnag is home to several remarkable attractions:
 
-*   **Martand Sun Temple:** This architectural marvel is the primary draw for visitors. Although partially ruined, its grandeur and intricate carvings are still awe-inspiring. <img src="placeholder_image_of_Martand_Sun_Temple.jpg" alt="Martand Sun Temple">
-*   **Aru Valley:** Located approximately 12 kilometers from Pahalgam, Aru Valley is a picturesque meadow known for its lush greenery and serene atmosphere. It serves as a base camp for treks to Kolahoi Glacier and Tarsar Lake. <img src="placeholder_image_of_Aru_Valley.jpg" alt="Aru Valley">
+*   **Martand Sun Temple:** This architectural marvel is the primary draw for visitors. Although partially ruined, its grandeur and intricate carvings are still awe-inspiring. 
+*   **Aru Valley:** Located approximately 12 kilometers from Pahalgam, Aru Valley is a picturesque meadow known for its lush greenery and serene atmosphere. It serves as a base camp for treks to Kolahoi Glacier and Tarsar Lake. 
 *   **Betaab Valley:** Named after the Bollywood movie "Betaab," this valley is characterized by its lush green meadows, dense forests, and the Lidder River flowing through it.
 *   **Achabal Garden:** This Mughal garden, built by Mughal Empress Nur Jahan, features terraced gardens, fountains, and pavilions. It is a tranquil place to relax and appreciate the intricate Mughal architecture.
 *   **Verinag:** The source of the Jhelum River, Verinag is a beautiful spring surrounded by a Mughal garden. It is a serene location for nature lovers.

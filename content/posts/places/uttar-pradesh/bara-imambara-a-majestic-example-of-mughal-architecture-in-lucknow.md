@@ -24,7 +24,7 @@ The Bara Imambara was built in 1784 by Nawab Asaf-ud-Daula, the fourth Nawab of 
 
 The Imambara is not just a religious site; it is a cultural hub, a testament to the Nawabi era, known for its patronage of the arts, literature, and architecture. The complex also houses the Asfi Mosque and the Shahi Baoli (stepwell). The Bhul Bhulaiya (labyrinth) is a maze of interconnecting passages and staircases, built to provide the structure with ventilation. Another key element is the use of traditional construction methods, with no wood or iron beams in the construction of the main hall.  Festivals like Muharram are observed with great reverence, with processions and rituals taking place within the Imambara, attracting devotees and visitors from around the world.
 
-<img src="placeholder_image_bara_imambara_historical.jpg" alt="Bara Imambara - Historical View">
+
 
 ### **Natural Beauty**
 
@@ -34,9 +34,9 @@ Lucknow, while primarily an urban centre, enjoys a relatively flat terrain dotte
 
 The primary attraction is, undoubtedly, the Bara Imambara itself.  However, the complex offers much more:
 
-*   **Bara Imambara:** The main hall is an architectural masterpiece, with a single, massive vaulted space spanning over 50 meters. <img src="placeholder_image_bara_imambara_hall.jpg" alt="Bara Imambara - Main Hall">
+*   **Bara Imambara:** The main hall is an architectural masterpiece, with a single, massive vaulted space spanning over 50 meters. 
 *   **Bhul Bhulaiya (Labyrinth):** This intricate maze of over 1,000 interconnected passageways is a must-explore, offering a unique and thrilling experience. Be sure to hire a guide to avoid getting lost!
-*   **Asfi Mosque:**  A beautiful mosque situated within the complex, reflecting the architectural style of the Nawabi era. <img src="placeholder_image_bara_imambara_mosque.jpg" alt="Bara Imambara - Asfi Mosque">
+*   **Asfi Mosque:**  A beautiful mosque situated within the complex, reflecting the architectural style of the Nawabi era. 
 *   **Shahi Baoli:** This stepwell is a unique structure that served as a water source and a cooling system for the palace.
 
 ### **Adventure Activities**
@@ -78,7 +78,7 @@ Lucknow's cuisine is world-renowned, representing the epitome of Awadhi culinary
     *   **Idris Ki Biryani:** Another popular Biryani destination.
     *   **Royal Cafe (Hazratganj):** Try their basket chaat.
 
-<img src="placeholder_image_lucknow_cuisine.jpg" alt="Lucknow Cuisine - Biryani">
+
 
 ### **Flora and Fauna**
 

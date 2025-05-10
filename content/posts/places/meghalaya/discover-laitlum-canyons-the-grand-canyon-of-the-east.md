@@ -27,7 +27,7 @@ The history of the Laitlum Canyons is deeply interwoven with the cultural herita
 The Khasi people are matriarchal, meaning that lineage and inheritance are traced through the mother's line. This societal structure profoundly impacts their cultural practices, family dynamics, and land ownership. Traditionally, the Khasi people practiced a form of animism, worshipping spirits associated with nature. Today, many have converted to Christianity, though remnants of their traditional beliefs and rituals are still practiced, often intertwined with Christian faith.
 
 The area around Laitlum Canyons is dotted with small villages, each with its own unique traditions and festivals. While there are no large, historically significant monuments *within* the canyons themselves, the culture of the Khasi people is ever-present. Visitors are encouraged to respect local customs and interact with the communities in a sensitive manner.
-  <placeholder image tag>
+  
 
 ###  **Natural Beauty**
 
@@ -37,17 +37,17 @@ The most prominent features are, of course, the canyons themselves, which seem t
 
 The natural environment is pristine, with the air fresh and clean. The area around Laitlum Canyons is generally well-maintained, though visitors are always advised to practice responsible tourism to preserve the environment.
 
- <placeholder image tag>
+ 
 
 ### **Must-Visit Attractions**
 
 Laitlum Canyons, while offering stunning views, is not a site filled with man-made attractions. The main attraction is the raw, untamed beauty of the landscape. However, there are some key spots that visitors should definitely experience:
 
 *   **The Viewpoints:** The primary attraction is the series of viewpoints along the ridge. From these vantage points, you can witness the grandeur of the canyons, the rolling hills, and the valleys. The most popular viewpoints are well-marked and provide safe access.
-    <placeholder image tag>
+    
 
 *   **Smit Village:** The village of Smit is considered the cultural hub of the Khasi Hills and is located near Laitlum Canyons. Exploring Smit provides an insight into the Khasi way of life, and there are possibilities for interacting with the locals, observing their traditions, and experiencing their culture.
-    <placeholder image tag>
+    
 
 *   **Risa Colony:** This historic colony has a rich cultural history and is worth exploring for insight on local cultures.
 
@@ -59,7 +59,7 @@ Laitlum Canyons presents fantastic opportunities for adventure activities, prima
 *   **Nature Walks:** Even without undertaking a full trek, nature walks around the viewpoints are a great way to experience the area. These walks often allow for bird watching and photography opportunities.
 *   **Photography:** The dramatic landscapes provide ample opportunities for photography. Early mornings and late afternoons offer the best light for capturing the beauty of the canyons.
 *   **Canyoning:** Canyoning is offered by a few operators, usually for experienced travelers.
-    <placeholder image tag>
+    
 
 ### **Local Markets and Handicrafts**
 
@@ -68,7 +68,7 @@ While Laitlum Canyons itself does not host a market, the nearby areas, especiall
 *   **Local Markets:** You can find vibrant markets in Shillong, such as Bara Bazaar, where visitors can buy traditional Khasi clothing, woven textiles, and handmade crafts.
 *   **Handicrafts:** The Khasi people are known for their skill in weaving, producing beautiful shawls, bags, and other textiles. Local artisans also create wooden carvings, bamboo crafts, and pottery.
 *   **Souvenirs:** Visitors can purchase traditional Khasi jewelry, musical instruments like the *duitara*, and other unique souvenirs to commemorate their trip.
-    <placeholder image tag>
+    
 
 ### **Food and Cuisine**
 
@@ -77,7 +77,7 @@ Khasi cuisine, found in the area surrounding Laitlum Canyons, is distinctive and
 *   **Traditional Dishes:** Don't miss the opportunity to try *Jadoh* (rice cooked with pork blood), *Dohkhlieh* (a pork salad), and *Pukhlein* (a type of pancake).
 *   **Street Food:** Street food stalls in Shillong offer various snacks and local delicacies.
 *   **Restaurants:** Several restaurants in Shillong, and some smaller eateries near Laitlum, serve authentic Khasi dishes.
-    <placeholder image tag>
+    
 
 ### **Flora and Fauna**
 
@@ -110,7 +110,7 @@ Accommodation options around Laitlum Canyons and Shillong cater to various budge
 *   **Budget-Friendly Stays:** Guesthouses and homestays in Shillong offer affordable options for travelers.
 *   **Mid-Range Hotels:** Shillong offers a selection of mid-range hotels with comfortable amenities.
 *   **Luxury Resorts:** For a more luxurious experience, you can find resorts and heritage hotels in and around Shillong.
-    <placeholder image tag>
+    
 
 ### **Offbeat Experiences**
 

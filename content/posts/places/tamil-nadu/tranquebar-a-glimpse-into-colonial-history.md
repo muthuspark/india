@@ -36,12 +36,12 @@ The best viewpoints for experiencing this natural beauty are along the coast, pa
 
 Tranquebar is a treasure trove of historical and cultural attractions:
 
-*   **Fort Dansborg:** <img src="placeholder_image_fort_dansborg.jpg" alt="Fort Dansborg" style="width: 600px;"/> The iconic Danish fort, built in the early 17th century, is a must-visit. It showcases Danish colonial architecture, providing insight into the era, and offers stunning views of the sea. It now houses a museum showcasing Danish artifacts.
-*   **Zion Church:** <img src="placeholder_image_zion_church.jpg" alt="Zion Church" style="width: 600px;"/> One of the oldest churches in India, built by the Danish missionaries. It is an excellent example of colonial religious architecture.
-*   **The Bungalow on the Beach:** <img src="placeholder_image_bungalow_on_the_beach.jpg" alt="Bungalow on the Beach" style="width: 600px;"/> A heritage hotel that was once the residence of the Danish Collector, providing an immersive experience of colonial life.
+*   **Fort Dansborg:**  The iconic Danish fort, built in the early 17th century, is a must-visit. It showcases Danish colonial architecture, providing insight into the era, and offers stunning views of the sea. It now houses a museum showcasing Danish artifacts.
+*   **Zion Church:**  One of the oldest churches in India, built by the Danish missionaries. It is an excellent example of colonial religious architecture.
+*   **The Bungalow on the Beach:**  A heritage hotel that was once the residence of the Danish Collector, providing an immersive experience of colonial life.
 *   **Masila Maniamar Temple:** A notable Hindu temple that is a significant cultural and religious site within the town.
 *   **The Governor’s Bungalow:** Another example of colonial-era architecture, representing the luxurious lifestyles of the colonial rulers.
-*   **Beach Walk:** <img src="placeholder_image_beach_walk.jpg" alt="Beach Walk" style="width: 600px;"/> The stretch of beach offers a relaxing walk, especially during the sunset, with the sounds of the waves creating a serene environment.
+*   **Beach Walk:**  The stretch of beach offers a relaxing walk, especially during the sunset, with the sounds of the waves creating a serene environment.
 
 ### **Adventure Activities**
 
@@ -49,7 +49,7 @@ Tranquebar itself is not a primary destination for adventure activities, but it 
 
 *   **Beach Walks & Relaxation:** The primary adventure here is the calm and peaceful environment. Walking along the beach and enjoying the tranquility is very refreshing.
 *   **Water Sports:** During certain times of the year, basic water activities might be available, but it is not a hotspot for these.
-*   **Photography:** <img src="placeholder_image_photography.jpg" alt="Photography" style="width: 600px;"/> The area offers amazing opportunities for photography, from historical structures to coastal landscapes and local life.
+*   **Photography:**  The area offers amazing opportunities for photography, from historical structures to coastal landscapes and local life.
 
 ### **Local Markets and Handicrafts**
 

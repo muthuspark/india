@@ -24,7 +24,7 @@ The history of Lambasingi is relatively undocumented compared to other regions o
 
 ### **Natural Beauty**
 
-Lambasingi’s allure is deeply rooted in its stunning natural beauty. The landscape is characterized by rolling hills, lush green valleys, and dense forests. The region experiences a unique microclimate, with temperatures often plummeting below zero degrees Celsius during the winter season (November to January), leading to frost and occasional snowfall – an unusual sight for the southern part of the country. <placeholder image tag - showcasing rolling hills and valleys of Lambasingi> The air is clean and crisp, especially during the early morning hours, adding to the area’s refreshing atmosphere. The surrounding forests are home to a diverse range of flora, including various species of trees, shrubs, and flowering plants.
+Lambasingi’s allure is deeply rooted in its stunning natural beauty. The landscape is characterized by rolling hills, lush green valleys, and dense forests. The region experiences a unique microclimate, with temperatures often plummeting below zero degrees Celsius during the winter season (November to January), leading to frost and occasional snowfall – an unusual sight for the southern part of the country.  The air is clean and crisp, especially during the early morning hours, adding to the area’s refreshing atmosphere. The surrounding forests are home to a diverse range of flora, including various species of trees, shrubs, and flowering plants.
 
 Specific viewpoints offer panoramic views of the valleys and hills, providing ideal spots for photography and experiencing the raw beauty of nature. Some popular viewpoints include those along the roads leading to Lambasingi. Visitors are often mesmerized by the early morning mist, creating a dreamy landscape.
 
@@ -32,8 +32,8 @@ Specific viewpoints offer panoramic views of the valleys and hills, providing id
 
 While Lambasingi itself doesn’t boast a plethora of specific tourist attractions like temples or monuments, its charm lies in its natural beauty and the experience of being in a serene environment.
 
-*   **Lovatam - View Point:** This point offers stunning views of the valley and surrounding landscape. <placeholder image tag - Lovatam Viewpoint>
-*   **Yerravaram Waterfalls:** A picturesque waterfall located near Lambasingi that is a refreshing retreat, especially during the monsoon season. <placeholder image tag - Yerravaram Waterfalls>
+*   **Lovatam - View Point:** This point offers stunning views of the valley and surrounding landscape. 
+*   **Yerravaram Waterfalls:** A picturesque waterfall located near Lambasingi that is a refreshing retreat, especially during the monsoon season. 
 *   **Kothapalli Waterfalls:** Another waterfall that is less crowded and offers a more secluded experience.
 *   **Susan Garden:** A garden to visit on the way.
 *   **View points on the way to Lambasingi:** The scenic route to Lambasingi itself is an attraction, with numerous vantage points offering breathtaking views.
@@ -83,7 +83,7 @@ The best time to visit Lambasingi is during the winter months, from November to 
 
 While Lambasingi has a limited number of accommodation options, they are generally comfortable and provide a base for exploring the area.
 
-*   **Homestays:** Due to its growing popularity, there are some homestays available which offers a more personalized experience. <placeholder image tag - Homestay in Lambasingi>
+*   **Homestays:** Due to its growing popularity, there are some homestays available which offers a more personalized experience. 
 *   **Guesthouses:** Several guesthouses and small hotels have sprung up to cater to the increasing number of visitors.
 *   **Resorts:** As the area develops, there may be an increase in more luxurious resorts, offering better amenities.
 *   **Camping:** For those seeking a more adventurous experience, camping in the area is a good option with proper permissions from local authorities.

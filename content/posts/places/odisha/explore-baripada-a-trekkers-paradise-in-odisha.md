@@ -24,20 +24,20 @@ The history of Baripada is deeply intertwined with the Mayurbhanj princely state
 
 The cultural fabric of Baripada is vibrant, with numerous festivals and traditions celebrated throughout the year. The most prominent is the Rath Yatra (Chariot Festival) of Baripada, which is the second largest Rath Yatra in the state, following Puri. This festival attracts thousands of devotees, and the grandeur of the chariots is a sight to behold. Other notable festivals include the Chhau dance festival, where the local dance form is performed, and various tribal festivals that showcase the rich cultural heritage of the tribal communities in the region.
 
-<img src="placeholder_image_rath_yatra.jpg" alt="Baripada Rath Yatra">
+
 
 ### **Natural Beauty**
 
 Baripada's natural beauty is primarily defined by its proximity to the Simlipal National Park and Tiger Reserve, one of the largest and most well-known national parks in India. The park is a biodiversity hotspot, featuring lush green forests, majestic waterfalls, and diverse wildlife. The landscape is characterized by rolling hills, dense sal forests, and several perennial rivers. One can find the majestic Joranda and Barehipani waterfalls within the park, offering stunning views and a refreshing experience.
 
-<img src="placeholder_image_simlipal_national_park.jpg" alt="Simlipal National Park Landscape">
+
 
 The viewpoints within Simlipal provide breathtaking panoramas of the surrounding hills and valleys. The park offers several trekking trails that allow visitors to immerse themselves in the natural beauty of the region. Beyond Simlipal, the surrounding areas of Baripada are also dotted with scenic spots, including smaller forests and riverbanks where one can enjoy a tranquil environment.
 
 ### **Must-Visit Attractions**
 
 *   **Jagannath Temple:** This temple is a significant religious site in Baripada, attracting devotees year-round and being central to the Rath Yatra celebrations.
-    <img src="placeholder_image_jagannath_temple.jpg" alt="Jagannath Temple, Baripada">
+    
 *   **Simlipal National Park:** A must-visit for nature enthusiasts, the park offers a diverse range of flora and fauna and scenic landscapes.
 *   **Barehipani and Joranda Waterfalls:** Located within Simlipal, these waterfalls are spectacular attractions, providing a visual treat and an opportunity for relaxation.
 *   **Kichakagadi:** This historical site is located in the Kuliana village near Baripada and has the remnants of a fort and historical artifacts from the Mahabharata era.
@@ -61,7 +61,7 @@ Baripada is known for its vibrant local markets where visitors can find traditio
 *   **Tribal Handicrafts:** The markets offer various tribal artifacts, including wooden carvings, bamboo crafts, and metalwork, reflecting the unique tribal culture.
 *   **Local Bazaars:** These markets offer a range of everyday goods and local produce, providing an opportunity to experience local life.
 
-<img src="placeholder_image_local_market.jpg" alt="Baripada Local Market">
+
 
 ### **Food and Cuisine**
 

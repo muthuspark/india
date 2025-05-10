@@ -25,7 +25,7 @@ Culturally, Mandore Gardens is a window into Rajput traditions and the values of
 
 ### **Natural Beauty**
 
-Mandore Gardens is characterized by its tranquil beauty. The gardens are spread over a sprawling area with well-manicured lawns, lush greenery, and rocky terrain. The landscape offers a blend of natural features and man-made structures.  <img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty of Mandore Gardens"> The area is dotted with ancient trees that provide shade and create a peaceful ambiance. The rocky outcrops and hills surrounding the gardens add a unique visual element. The gardens offer panoramic views of the surrounding landscape, including the imposing Mehrangarh Fort in the distance.
+Mandore Gardens is characterized by its tranquil beauty. The gardens are spread over a sprawling area with well-manicured lawns, lush greenery, and rocky terrain. The landscape offers a blend of natural features and man-made structures.   The area is dotted with ancient trees that provide shade and create a peaceful ambiance. The rocky outcrops and hills surrounding the gardens add a unique visual element. The gardens offer panoramic views of the surrounding landscape, including the imposing Mehrangarh Fort in the distance.
 
 ### **Must-Visit Attractions**
 
@@ -33,7 +33,7 @@ The primary attractions within Mandore Gardens are the cenotaphs, temples, and t
 
 *   **The Cenotaphs (Chhatris):** The most significant attraction is the collection of cenotaphs of the rulers of Jodhpur. These structures are remarkable examples of Rajput architecture, adorned with intricate carvings and showcasing a variety of styles. The cenotaph of Maharaja Ajit Singh is particularly impressive.
 *   **The Hall of Heroes (Deval):** This is a unique structure that houses a collection of vibrant and impressive sculptures of Hindu deities and Rajput heroes. The figures are painted in bright colors and are a testament to the region's artistic traditions.
-*   **The Temple of the Three Hundred Million Gods:** This temple is dedicated to various Hindu deities and is a focal point for religious gatherings and ceremonies. <img src="placeholder_image_temple.jpg" alt="Temple of the Three Hundred Million Gods">
+*   **The Temple of the Three Hundred Million Gods:** This temple is dedicated to various Hindu deities and is a focal point for religious gatherings and ceremonies. 
 *   **Mandore Fort Ruins:**  The ruins of Mandore Fort, though partially destroyed, offer insights into the past. The ramparts, gateways, and remaining structures hint at the fort's former glory.
 *   **Gardens and Water Bodies:** The well-maintained gardens, including the serene water bodies, contribute to the overall peaceful atmosphere of the site.
 
@@ -71,7 +71,7 @@ While the primary focus of the gardens is historical and architectural, they do 
 
 ### **Best Time to Visit**
 
-The best time to visit Mandore Gardens is during the winter months, from October to March. The weather is pleasant, with cool temperatures making it ideal for exploring the gardens and surrounding areas. The days are sunny, and the evenings are cool. The summer months (April to June) are extremely hot, and the monsoon season (July to September) brings heavy rainfall, making it less convenient to visit. During the winter months, you can expect pleasant weather conditions, allowing you to explore the gardens in comfort. <img src="placeholder_image_best_time_to_visit.jpg" alt="Best Time to Visit Mandore Gardens">
+The best time to visit Mandore Gardens is during the winter months, from October to March. The weather is pleasant, with cool temperatures making it ideal for exploring the gardens and surrounding areas. The days are sunny, and the evenings are cool. The summer months (April to June) are extremely hot, and the monsoon season (July to September) brings heavy rainfall, making it less convenient to visit. During the winter months, you can expect pleasant weather conditions, allowing you to explore the gardens in comfort. 
 
 ### **How to Reach**
 
@@ -88,7 +88,7 @@ Jodhpur offers a wide range of accommodation options to suit different budgets a
 
 *   **Budget-Friendly Stays:** Guesthouses, hostels, and budget hotels in the city center offer affordable lodging options.
 *   **Mid-Range Hotels:** Numerous mid-range hotels provide comfortable accommodations with essential amenities.
-*   **Luxury Resorts and Heritage Hotels:** For a more luxurious experience, consider staying at heritage hotels or resorts, which offer a glimpse into the royal lifestyle. <img src="placeholder_image_accommodation.jpg" alt="Accommodation Options near Mandore Gardens">
+*   **Luxury Resorts and Heritage Hotels:** For a more luxurious experience, consider staying at heritage hotels or resorts, which offer a glimpse into the royal lifestyle. 
 
 Consider hotels in the city center to be within easy reach of the gardens and other tourist spots.
 

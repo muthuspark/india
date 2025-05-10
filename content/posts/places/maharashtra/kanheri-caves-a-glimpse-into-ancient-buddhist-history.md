@@ -22,7 +22,7 @@ The Kanheri Caves, a network of ancient rock-cut caves, are a significant histor
 
 The Kanheri Caves boast a rich history that spans from the 1st century BCE to the 10th century CE. Primarily a center for Buddhist monastic activity, these caves served as a place of residence, study, and meditation for Buddhist monks. The caves were constructed during the reign of the Satavahana, Kshatrapa, and later, the Silhara dynasties. They were strategically positioned along ancient trade routes, which facilitated the spread of Buddhism and the prosperity of the monastic community.
 
-<img src="PLACEHOLDER_IMAGE_HISTORY_AND_CULTURE" alt="Image of a Kanheri Cave interior or carving">
+
 
 The caves showcase a variety of architectural styles, reflecting the evolution of Buddhist art and architecture over centuries. The architecture includes chaityas (prayer halls) with stupas, viharas (monasteries) for monks, and numerous cells for residential and devotional purposes. The inscriptions found within the caves provide valuable insights into the social, religious, and economic life of the time. The carvings, sculptures, and relief panels depict Buddhist deities, Jataka tales (stories of the Buddha's previous lives), and scenes from everyday life. These carvings are a significant source of information regarding the evolution of early Buddhist art in India. The presence of water tanks and storage areas indicates the self-sufficiency of the monastic community. The caves also feature evidence of interaction with other religious traditions of the period, such as the carving of a Shiva lingam.
 
@@ -30,7 +30,7 @@ The caves showcase a variety of architectural styles, reflecting the evolution o
 
 The Kanheri Caves are enveloped by the verdant beauty of the Sanjay Gandhi National Park, which provides a stunning backdrop to the historical site. The park is home to a diverse range of flora and fauna, including lush forests, rolling hills, and a network of streams. The caves themselves are carved into the basalt cliffs, adding a dramatic contrast between natural formations and man-made structures.
 
-<img src="PLACEHOLDER_IMAGE_NATURAL_BEAUTY_PANORAMIC" alt="Image of the Kanheri Caves within the surrounding natural environment">
+
 
 Visitors can enjoy panoramic views of the surrounding landscape from the higher levels of the caves. The forest environment also provides opportunities for nature walks, bird-watching, and spotting various wildlife species. The beauty is especially prominent during the monsoon season when the park comes alive with vibrant greenery and numerous waterfalls, offering a refreshing and rejuvenating experience.
 
@@ -45,7 +45,7 @@ The main attractions within the Kanheri Caves complex include:
 *   **Inscriptions:** These inscriptions provide valuable historical information about the caves, the donors, and the monks who lived there.
 *   **Cave No. 1:** The biggest cave, which also offers panoramic views of the surrounding landscape.
 
-<img src="PLACEHOLDER_IMAGE_MUST_VISIT_ATTRACTIONS_CAVES" alt="Image highlighting multiple cave attractions">
+
 
 ### **Adventure Activities**
 
@@ -78,7 +78,7 @@ The Kanheri Caves are located within the Sanjay Gandhi National Park, which is a
 *   **Flora:** The park is home to a diverse range of plant species, including dense forests, grasslands, and shrubs.
 *   **Fauna:** The park is home to a wide variety of animal species, including leopards, deer, monkeys, birds, and reptiles. The park serves as a haven for various species and is an excellent place for wildlife viewing and nature exploration.
 
-<img src="PLACEHOLDER_IMAGE_FLORA_AND_FAUNA_PARK" alt="Image depicting the rich flora and fauna of the Sanjay Gandhi National Park">
+
 
 ### **Best Time to Visit**
 

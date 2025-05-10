@@ -21,24 +21,24 @@ Bhavani Island, a jewel in the Krishna River, is a captivating river island loca
 ### **History and Cultural Heritage**
 
 While Bhavani Island itself doesn't boast a deeply etched historical narrative, its proximity to Vijayawada, a city steeped in history, lends it a cultural connection. Vijayawada has been ruled by various dynasties, including the Chalukyas, the Kakatiyas, and the Vijayanagara Empire, each leaving its mark on the region's architecture, art, and traditions. The island's significance is primarily rooted in its association with the river Krishna, a lifeline for the region and revered in Hindu mythology. The Prakasam Barrage, crucial for irrigation and water management, also contributes to the island’s modern importance. Cultural events and celebrations often spill over from the mainland, adding to the festive atmosphere, especially during festivals like Dussehra and Sankranti. Bhavani Island serves as a recreational space within a region rich in cultural heritage, offering a respite and a venue for gatherings that celebrate local traditions.
-<img src="placeholder_image.jpg" alt="Historical context of Vijayawada and its influence on Bhavani Island">
+
 
 ### **Natural Beauty**
 
 Bhavani Island is a testament to nature's allure, characterized by its lush greenery and the soothing presence of the Krishna River. The island’s landscape is relatively flat, with gentle slopes leading down to the water's edge. The most striking feature is the abundance of trees, providing shade and creating a refreshing atmosphere, offering a cool escape from the Andhra Pradesh sun. The river itself is a constant source of beauty, with its flowing waters and the reflections of the sky on its surface. Sunsets on the island are particularly picturesque, with vibrant hues painting the sky as the sun dips below the horizon. The views from various points on the island offer stunning vistas of the surrounding landscape, including the Prakasam Barrage and the city skyline.
 
-<img src="placeholder_image.jpg" alt="Scenic view of Bhavani Island and the Krishna River">
+
 
 ### **Must-Visit Attractions**
 
 While the island itself is the primary attraction, several spots within it deserve special mention:
 
 *   **Recreational Parks:** Bhavani Island is dotted with parks, offering spaces for relaxation, leisure activities, and enjoying the natural surroundings.
-    <img src="placeholder_image.jpg" alt="Park on Bhavani Island">
+    
 *   **Water Sports Zone:** This area is a hub for various water sports, including jet skiing, boat rides, kayaking, and parasailing.
-    <img src="placeholder_image.jpg" alt="Water sports in Bhavani Island">
+    
 *   **Adventure Zone:** Designed for thrill-seekers, this zone features various adventure activities like zorbing, rope courses, and other exciting challenges.
-    <img src="placeholder_image.jpg" alt="Adventure activities on Bhavani Island">
+    
 *   **Amusement Parks:** Bhavani Island features amusement parks with various rides and entertainment options, making it a perfect family destination.
 
 While there are no historical monuments directly on the island, its proximity to Vijayawada allows visitors to explore nearby temples like Kanaka Durga Temple, a prominent spiritual site. The Prakasam Barrage provides another visual spectacle, especially during sunset.
@@ -52,7 +52,7 @@ Bhavani Island is a haven for adventure enthusiasts, offering a wide array of ac
 *   **Rope Courses and Obstacle Courses:** These challenges test your agility and provide a fun and engaging adventure.
 *   **Boating:** Enjoy leisurely boat rides around the island, taking in the scenic views and enjoying the serene atmosphere.
 
-<img src="placeholder_image.jpg" alt="Adventure activities on Bhavani Island">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -63,7 +63,7 @@ While Bhavani Island itself doesn't have its own market, it is located close to 
 
 Exploring the local markets outside the island is a great way to discover authentic Andhra Pradesh handicrafts and support local artisans.
 
-<img src="placeholder_image.jpg" alt="Local handicrafts of Andhra Pradesh">
+
 
 ### **Food and Cuisine**
 
@@ -74,7 +74,7 @@ Andhra Pradesh cuisine, known for its spicy and flavorful dishes, is a highlight
 *   **Street Food:** Vijayawada offers a wide array of street food, including snacks, sweets, and local specialties.
 *   **Restaurants and Cafes:** The island and surrounding area boast restaurants that offer a mix of cuisines, from local Andhra dishes to continental and Chinese food.
 
-<img src="placeholder_image.jpg" alt="Local Andhra cuisine">
+
 
 ### **Flora and Fauna**
 
@@ -84,7 +84,7 @@ Bhavani Island, while primarily a recreational space, is also home to diverse fl
 *   **Birdlife:** The island and its surrounding areas are home to a variety of bird species, making it a good spot for bird-watching.
 *   **Aquatic Life:** The Krishna River supports a rich aquatic ecosystem, including various types of fish and other aquatic creatures.
 
-<img src="placeholder_image.jpg" alt="Flora and fauna of Bhavani Island">
+
 
 ### **Best Time to Visit**
 
@@ -108,7 +108,7 @@ Bhavani Island offers accommodation options ranging from budget-friendly to mid-
 *   **Island Resorts:** Some resorts are located directly on the island, providing a convenient and immersive experience.
 *   **Hotels in Vijayawada:** A wide range of hotels are available in Vijayawada, catering to different budgets and preferences, allowing easy access to the island.
 
-<img src="placeholder.image.jpg" alt="Accommodation options on or near Bhavani Island">
+
 
 ### **Offbeat Experiences**
 

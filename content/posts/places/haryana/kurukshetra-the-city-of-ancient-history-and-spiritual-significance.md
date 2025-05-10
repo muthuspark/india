@@ -26,7 +26,7 @@ The cultural heart of Kurukshetra beats strong with its Hindu traditions. The ci
 
 Key historical landmarks include the Brahma Sarovar and Sannihit Sarovar, considered holy tanks where devotees take ritual baths. The Jyotisar, the site where Lord Krishna delivered the Bhagavad Gita to Arjuna, holds immense significance. The Sheikh Chilli's Tomb, a fine example of Mughal architecture, further adds to the historical tapestry of Kurukshetra.
 
-<img src="placeholder_image_jyotisar.jpg" alt="Jyotisar" width="500">
+
 
 ### **Natural Beauty**
 
@@ -34,7 +34,7 @@ While Kurukshetra is not primarily known for its dramatic landscapes, its natura
 
 The best viewpoints are found around the various temples and ghats that offer calming views of the water bodies and the surrounding landscape. The region is mainly agricultural, offering views of expansive fields during certain seasons. The Kurukshetra University campus, with its sprawling gardens and open spaces, provides another green oasis in the city.
 
-<img src="placeholder_image_brahma_sarovar.jpg" alt="Brahma Sarovar" width="500">
+
 
 ### **Must-Visit Attractions**
 
@@ -48,7 +48,7 @@ Kurukshetra offers a plethora of attractions for tourists and pilgrims. Here are
 *   **Sri Krishna Museum:** A museum showcasing artifacts related to the life of Lord Krishna and the events of the Mahabharata.
 *   **Bhishma Kund:** A kund (tank) associated with Bhishma, one of the key characters in the Mahabharata.
 
-<img src="placeholder_image_sri_krishna_museum.jpg" alt="Sri Krishna Museum" width="500">
+
 
 ### **Adventure Activities**
 
@@ -63,7 +63,7 @@ The main markets in Kurukshetra offer a glimpse into the local culture and tradi
 *   **Textiles:** Local markets sell traditional Indian clothing and fabrics, including colorful scarves, sarees, and salwar suits.
 *   **Religious Artifacts:** A wide variety of religious items are available, including prayer beads, idols, and books related to Hindu scriptures.
 
-<img src="placeholder_image_local_market.jpg" alt="Local Market" width="500">
+
 
 ### **Food and Cuisine**
 
@@ -75,7 +75,7 @@ The cuisine of Kurukshetra is primarily North Indian, with a focus on vegetarian
 *   **Popular Restaurants:** Many restaurants near the major attractions offer a wide range of North Indian, South Indian, and international cuisines.
 *   **Dhabas:** Numerous roadside dhabas offer authentic Punjabi food.
 
-<img src="placeholder_image_local_cuisine.jpg" alt="Local Cuisine" width="500">
+
 
 ### **Flora and Fauna**
 
@@ -103,7 +103,7 @@ Kurukshetra offers a range of accommodation options to suit various budgets:
 *   **Ashrams:** Several ashrams and dharamshalas (religious rest houses) are located near the temples, providing basic but clean accommodation.
 *   **Heritage Properties:** While not as abundant as in some other cities, a few heritage properties offer unique and historical stays.
 
-<img src="placeholder_image_hotel.jpg" alt="Hotel" width="500">
+
 
 ### **Offbeat Experiences**
 

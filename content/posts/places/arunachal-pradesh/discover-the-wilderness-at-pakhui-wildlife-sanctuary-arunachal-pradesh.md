@@ -39,7 +39,7 @@ Specific viewpoints within the sanctuary, accessible through guided treks, offer
 
 The main attraction within Pakhui Wildlife Sanctuary is the opportunity to experience its incredibly rich biodiversity.
 
-<img src="placeholder_image_wildlife.jpg" alt="Image of the wildlife in the Pakhui Wildlife Sanctuary">
+
 
 *   **Wildlife Viewing:** The primary activity is to observe the diverse species of animals, including tigers, elephants, gaurs, clouded leopards, and various species of deer. Guided safaris and nature walks are the best way to experience this.
 *   **Bird Watching:** The sanctuary is a paradise for birdwatchers, offering a chance to spot numerous species of birds, including the rare and elusive Great Hornbill, the Rufous-necked Hornbill, and many others.
@@ -58,7 +58,7 @@ Pakhui offers some adventure activities:
 ### **Local Markets and Handicrafts**
 
 Since the sanctuary is in a relatively remote location, and this location does not include Ziro, the availability of markets within the immediate vicinity is limited. However, visiting nearby towns and villages, offers a glimpse into local handicrafts.
-<img src="placeholder_image_local_market.jpg" alt="Image of a local market or craft display">
+
 
 *   **Handloom and Textiles:** The Nyishi people are known for their traditional handloom products, including colourful shawls, bags, and clothing items.
 *   **Bamboo Crafts:** Bamboo is abundant in the region, and you can find a variety of items, like baskets, mats, and decorative pieces.
@@ -76,7 +76,7 @@ The cuisine of the region is simple and organic. The local food primarily consis
 
 Pakhui Wildlife Sanctuary is a treasure trove of biodiversity.
 
-<img src="placeholder_image_flora_fauna.jpg" alt="Image of a tiger or other notable animal within the sanctuary">
+
 
 *   **Flora:** The sanctuary's vegetation is diverse, encompassing evergreen forests, and various species of orchids and medicinal plants.
 *   **Fauna:** The sanctuary is home to various wildlife species, including tigers, elephants, gaurs (Indian bison), clouded leopards, sambar deer, barking deer, and a variety of primates.
@@ -101,7 +101,7 @@ Accommodation options in and around Pakhui are limited. Due to its remote nature
 *   **Forest Rest Houses:** The Arunachal Pradesh Forest Department maintains rest houses within the sanctuary. Booking in advance is highly recommended.
 *   **Basic Lodges:** Basic lodges are available in the nearby towns, offering essential amenities for a comfortable stay.
 *   **Homestays:** Opportunities for homestays are developing, offering a chance to experience the local way of life.
-<img src="placeholder_image_accommodation.jpg" alt="Image of a forest rest house or similar accommodation option">
+
 
 ### **Offbeat Experiences**
 

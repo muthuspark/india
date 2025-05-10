@@ -24,7 +24,7 @@ The Gateway of India was built to commemorate the visit of King George V and Que
 
 The Gateway is a constant witness to Mumbai's cultural vibrancy. It's a popular spot for street performers, vendors, and families enjoying leisurely outings. The area is a hub of activity, particularly during festivals and celebrations like Ganesh Chaturthi and Diwali, when the monument is beautifully illuminated.  The Gateway stands as a monument to Mumbai's colonial past and the birth of modern India.
 
-<img src="placeholder_gateway_historical_image.jpg" alt="Historical image of Gateway of India" width="600">
+
 
 ### **Natural Beauty**
 
@@ -41,7 +41,7 @@ The Gateway of India itself is the primary attraction. Its intricate architectur
 
 The area surrounding the Gateway is rich in colonial architecture, providing ample opportunities for exploration and photography.
 
-<img src="placeholder_gateway_attractions_image.jpg" alt="Image of attractions near Gateway of India" width="600">
+
 
 ### **Adventure Activities**
 
@@ -60,7 +60,7 @@ The Colaba Causeway, located near the Gateway of India, is a shopper's paradise.
 
 Bargaining is expected at the Colaba Causeway.
 
-<img src="placeholder_colaba_causeway_image.jpg" alt="Image of Colaba Causeway near Gateway of India" width="600">
+
 
 ### **Food and Cuisine**
 
@@ -72,7 +72,7 @@ Mumbai's cuisine is a delightful fusion of flavors, and the area near the Gatewa
 
 **Must-try Dishes:** *Vada Pav*, *Pav Bhaji*, *Seafood Thali*, *Bombay Sandwich*, and various street-food snacks.
 
-<img src="placeholder_streetfood_gateway.jpg" alt="Image of street food near Gateway of India" width="600">
+
 
 ### **Flora and Fauna**
 
@@ -100,7 +100,7 @@ The Gateway of India is easily accessible:
 
 The Gateway is located in the heart of South Mumbai, making it relatively easy to reach by taxi, auto-rickshaw, or public transport.
 
-<img src="placeholder_gateway_how_to_reach_image.jpg" alt="Image showing how to reach the Gateway" width="600">
+
 
 ### **Accommodation Options**
 

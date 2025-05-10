@@ -23,7 +23,7 @@ Lansdowne, nestled in the Garhwal region of Uttarakhand, India, is a tranquil hi
 
 Lansdowne's history is deeply intertwined with the British colonial era. Established in 1887 by the then Viceroy of India, Lord Lansdowne, the town was primarily developed as a cantonment, a training center for the Garhwal Rifles, a regiment of the Indian Army. The British influence is evident in the architecture, with buildings showcasing colonial-era designs. Even today, the Garhwal Rifles maintain a significant presence, contributing to the town’s well-maintained cleanliness and discipline.
 
-<img src="placeholder_image_lansdowne_history.jpg" alt="Historical buildings in Lansdowne">
+
 
 The cultural landscape is significantly shaped by the presence of the Garhwal Rifles and the local Hindu population. While there are no major festivals celebrated solely in Lansdowne, the town observes Hindu festivals with enthusiasm, and the local culture reflects the traditions of the Garhwali people. The history is etched in the architecture and the overall ambiance of Lansdowne, creating a unique blend of colonial past and Indian present.
 
@@ -31,13 +31,13 @@ The cultural landscape is significantly shaped by the presence of the Garhwal Ri
 
 Lansdowne is a haven for nature lovers, enveloped by dense forests of oak and pine. The landscape is characterized by rolling hills and valleys, offering breathtaking views of the surrounding Himalayas. The elevation provides a crisp and refreshing climate, perfect for escaping the heat of the plains.
 
-<img src="placeholder_image_lansdowne_nature.jpg" alt="Lansdowne's lush landscape">
+
 
 Key viewpoints offer panoramic vistas. Tip N Top, the highest point in Lansdowne, offers stunning views of the snow-capped Himalayan peaks on a clear day. The dense forests surrounding the town are ideal for nature walks and bird-watching, with a variety of avian species.
 
 ### **Must-Visit Attractions**
 
-*   **War Memorial:** A poignant monument dedicated to the soldiers of the Garhwal Rifles who sacrificed their lives for the nation. <img src="placeholder_image_lansdowne_war_memorial.jpg" alt="War Memorial in Lansdowne">
+*   **War Memorial:** A poignant monument dedicated to the soldiers of the Garhwal Rifles who sacrificed their lives for the nation. 
 *   **Garhwali Mess:** A heritage building with a unique architectural style, constructed in 1888. It is a popular spot for its historical significance and well-maintained interiors.
 *   **St. Mary's Church:** A beautifully preserved church, showcasing colonial architecture and offering a peaceful ambiance.
 *   **Tip N Top:** The highest point in Lansdowne, offering panoramic views of the Himalayas. This viewpoint is an excellent spot for photography and enjoying the scenic beauty.

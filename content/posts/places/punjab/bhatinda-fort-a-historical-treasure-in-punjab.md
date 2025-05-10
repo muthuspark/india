@@ -21,7 +21,7 @@ Bhatinda Fort, also known as Qila Mubarak, stands as a silent sentinel in the he
 
 The history of Bhatinda Fort is shrouded in layers of legend and historical accounts, making it a captivating subject of study. Its origins are debated, with some accounts suggesting it was built during the reign of Raja Dab, possibly dating back to the 6th century. Others attribute its construction to the Bhatti Rajputs. The fort has witnessed the rise and fall of numerous empires, including the Ghaznavids, the Delhi Sultanate, the Mughals, and the Sikhs.
 
-<img src="placeholder_image_tag_historical_influence.jpg" alt="Historical painting or image of the fort, highlighting its historical context">
+
 
 One of the most notable events associated with the fort is its connection to Razia Sultan, the only female ruler of the Delhi Sultanate, who was imprisoned here. The fort also played a significant role in the wars between the Mughals and the Sikhs. The cultural heritage of Bhatinda Fort extends to its architecture, which exhibits a blend of different styles reflecting the influences of the various rulers who held sway over it. The fort houses a central structure known as the "Sultan-e-Hind," a place of great reverence. The walls of the fort are adorned with inscriptions and remnants of architecture that reflect the traditions and beliefs of the times.
 
@@ -29,7 +29,7 @@ One of the most notable events associated with the fort is its connection to Raz
 
 Bhatinda, being in the Malwa region of Punjab, offers a landscape characterized by vast, fertile agricultural plains. The fort itself stands on an elevated mound, providing sweeping views of the surrounding countryside. While not characterized by dramatic mountains or forests, the region experiences distinct seasons, transforming the landscape with the cycle of cultivation and harvesting.
 
-<img src="placeholder_image_tag_scenic_view_from_fort.jpg" alt="Panoramic view of the surrounding landscape from the fort walls">
+
 
 The serene surroundings, especially during the harvest seasons, and the clear skies during the cooler months offer a peaceful backdrop to the historical grandeur of the fort. Nature walks in the surrounding areas can provide an opportunity to observe the local flora and fauna, reflecting the agricultural essence of Punjab.
 
@@ -37,7 +37,7 @@ The serene surroundings, especially during the harvest seasons, and the clear sk
 
 The primary attraction in Bathinda is, of course, the Bhatinda Fort itself. Its imposing structure and strategic location make it a compelling sight for visitors.
 
-<img src="placeholder_image_tag_qila_mubarak_exterior.jpg" alt="Exterior shot of Bhatinda Fort">
+
 
 Other must-visit attractions in the vicinity include:
 
@@ -81,7 +81,7 @@ The agricultural landscape of Bhatinda supports a variety of flora and fauna. Th
 
 The best time to visit Bhatinda Fort is during the winter months, from **October to March**. The weather is pleasant, and the temperature remains cool, making it ideal for exploring the fort and the surrounding areas. The summer months (April to June) can be extremely hot and dry, while the monsoon season (July to September) brings moderate rainfall and humidity.
 
-<img src="placeholder_image_tag_best_time_to_visit_image.jpg" alt="Image representing the best time to visit the location, e.g., a picture of the fort with pleasant weather">
+
 
 ### **How to Reach**
 
@@ -100,7 +100,7 @@ Bathinda offers a range of accommodation options to suit different budgets:
 *   **Budget Stays:** There are budget hotels and guesthouses for cost-conscious travelers.
 *   **Homestays:** For a more personalized experience, consider a homestay.
 
-<img src="placeholder_image_tag_accommodation_options.jpg" alt="Image of different accommodation options available">
+
 
 ### **Offbeat Experiences**
 

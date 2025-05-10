@@ -25,28 +25,28 @@ The history of Ooty is intertwined with British colonial rule. The area was inha
 
 Ooty's natural beauty is its defining characteristic. The Nilgiri Hills, meaning "Blue Mountains" in Tamil, provide a dramatic backdrop to the town. The landscape is dominated by rolling hills covered in tea plantations, dense forests, and open grasslands. The serene Ooty Lake adds to the charm, offering boating and a tranquil ambiance. Notable viewpoints like Doddabetta Peak, the highest point in the Nilgiri Mountains, offer panoramic views of the surrounding hills, valleys, and tea estates. The Botanical Garden, with its diverse collection of plants, and the Rose Garden, boasting a vast array of rose varieties, provide a visual feast for nature lovers. The dense Shola forests, characteristic of the Nilgiris, house a variety of wildlife and offer opportunities for nature walks and trekking.
 
-<img src="placeholder_ooty_landscape.jpg" alt="Ooty Landscape" width="600" height="400">
+
 
 ### **Must-Visit Attractions**
 
 Ooty offers a plethora of attractions catering to various interests.
 
 *   **Ooty Lake:** A man-made lake that offers boat rides, scenic views, and recreational activities.
-    <img src="placeholder_ooty_lake.jpg" alt="Ooty Lake" width="600" height="400">
+    
 *   **Government Botanical Garden:** A beautifully landscaped garden housing diverse plant species, including rare orchids and bonsai trees.
-    <img src="placeholder_ooty_botanical_garden.jpg" alt="Ooty Botanical Garden" width="600" height="400">
+    
 *   **Rose Garden:** Home to thousands of rose varieties, offering vibrant displays of color and fragrance.
-    <img src="placeholder_ooty_rose_garden.jpg" alt="Ooty Rose Garden" width="600" height="400">
+    
 *   **Doddabetta Peak:** The highest point in the Nilgiri Mountains, offering panoramic views of the surrounding landscape.
-    <img src="placeholder_ooty_doddabetta.jpg" alt="Doddabetta Peak" width="600" height="400">
+    
 *   **Nilgiri Mountain Railway:** A UNESCO World Heritage Site, also known as the "Toy Train," offering a scenic train journey through the hills.
-    <img src="placeholder_ooty_toy_train.jpg" alt="Nilgiri Mountain Railway" width="600" height="400">
+    
 *   **St. Stephen's Church:** A historic colonial church known for its architectural beauty.
-    <img src="placeholder_ooty_st_stephens_church.jpg" alt="St. Stephen's Church" width="600" height="400">
+    
 *   **Deer Park:** A small park that is home to a variety of deer and other animals.
-    <img src="placeholder_ooty_deer_park.jpg" alt="Deer Park" width="600" height="400">
+    
 *   **Avalanche Lake:** A serene lake surrounded by hills, offering stunning views and opportunities for camping.
-    <img src="placeholder_ooty_avalanche_lake.jpg" alt="Avalanche Lake" width="600" height="400">
+    
 *   **Emerald Lake:** Another beautiful lake, known for its tranquil ambiance and scenic surroundings.
 
 ### **Adventure Activities**

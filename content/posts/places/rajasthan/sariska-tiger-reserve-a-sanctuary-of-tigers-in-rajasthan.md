@@ -25,7 +25,7 @@ The reserve is dotted with historical landmarks and religious sites. Kankwari Fo
 
 ### **Natural Beauty**
 
-Sariska’s landscape is a mesmerizing blend of rugged terrain, deciduous forests, and grasslands. The Aravalli hills provide a dramatic backdrop, with peaks and valleys offering stunning vistas. The reserve is bisected by several seasonal streams, including the Siliserh Lake, contributing to its diverse ecosystem. <img src="placeholder_image_of_sariska_landscape.jpg" alt="Sariska Landscape">
+Sariska’s landscape is a mesmerizing blend of rugged terrain, deciduous forests, and grasslands. The Aravalli hills provide a dramatic backdrop, with peaks and valleys offering stunning vistas. The reserve is bisected by several seasonal streams, including the Siliserh Lake, contributing to its diverse ecosystem. 
 
 Key viewpoints, such as the Sariska Palace viewpoint, offer spectacular panoramas of the reserve. The dense forest cover provides a safe haven for wildlife and offers a unique experience for those seeking tranquility and natural beauty. The dry deciduous forests transform with the monsoon, painting the landscape in shades of green.
 
@@ -34,7 +34,7 @@ Key viewpoints, such as the Sariska Palace viewpoint, offer spectacular panorama
 Sariska Tiger Reserve has a collection of popular attractions that draw tourists from around the world.
 
 *   **Sariska Tiger Reserve:** The heart of the region, offering wildlife safaris and opportunities to spot Bengal tigers, leopards, sambar deer, nilgai, and various other species.
-*   **Kankwari Fort:** A historic fort offering panoramic views, situated in a scenic location in the heart of the park. <img src="placeholder_image_of_kankwari_fort.jpg" alt="Kankwari Fort">
+*   **Kankwari Fort:** A historic fort offering panoramic views, situated in a scenic location in the heart of the park. 
 *   **Nilkanth Mahadeo Temple:** An ancient temple dedicated to Lord Shiva, showcasing exquisite architectural craftsmanship and a spiritual atmosphere.
 *   **Siliserh Lake:** A picturesque lake, offering boating and a tranquil atmosphere.
 *   **Sariska Palace:** Once a hunting lodge for the Maharaja of Alwar, now a heritage hotel.
@@ -84,7 +84,7 @@ The fauna includes:
 *   **Rhesus Macaque:** Monkeys often seen along the roads.
 *   **Various Bird Species:** Including eagles, owls, peacocks, and many others.
 
-<img src="placeholder_image_of_sariska_wildlife.jpg" alt="Sariska Wildlife">
+
 
 ### **Best Time to Visit**
 

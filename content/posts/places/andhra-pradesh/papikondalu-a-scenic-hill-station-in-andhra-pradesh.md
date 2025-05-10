@@ -28,17 +28,17 @@ The cultural heritage is primarily reflected in the lifestyle of the local triba
 
 The natural beauty of Papikondalu is its primary draw. The landscape is dominated by the rolling hills of the Eastern Ghats, densely covered with lush green vegetation, creating a stunning visual contrast with the blue waters of the Godavari River. The river, a lifeline for the region, carves its way through the hills, creating narrow gorges and scenic bends.
 
-<img src="placeholder_image_papikondalu_river.jpg" alt="Papikondalu River">
+
 
 Prominent viewpoints offer spectacular panoramic vistas, showcasing the undulating terrain and the tranquil waters. Specific viewpoints along the river cruises or trekking trails provide opportunities to capture the best views of the landscape. The area is blessed with dense forests, supporting a rich biodiversity of flora and fauna. The forests provide shade and habitat to many species, contributing to the overall beauty and ecological significance of the region. The interplay of the river and the hills, along with the diverse greenery, creates a truly mesmerizing experience.
 
-<img src="placeholder_image_papikondalu_hills.jpg" alt="Papikondalu Hills">
+
 
 ### **Must-Visit Attractions**
 
 The primary attraction in Papikondalu is the boat journey along the Godavari River. This river cruise is the quintessential experience for visitors, providing an immersive view of the surrounding landscape.
 
-<img src="placeholder_image_papikondalu_boat_trip.jpg" alt="Papikondalu Boat Trip">
+
 
 Key attractions along the route include:
 
@@ -57,7 +57,7 @@ Papikondalu offers opportunities for various adventure activities, catering to d
 *   **Camping:** Several tour operators offer camping opportunities along the riverbanks or in the forested areas, providing a chance to spend the night amidst nature.
 *   **Bird Watching:** The dense forests and the river environment are home to a variety of bird species, making it a good place for bird watching.
 
-<img src="placeholder_image_papikondalu_trekking.jpg" alt="Papikondalu Trekking">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -84,7 +84,7 @@ The Papikondalu region and the surrounding areas are home to diverse flora and f
 *   **Flora:** The area is covered with dense forests, including deciduous and semi-evergreen types. The forests support a variety of tree species, shrubs, and flowering plants.
 *   **Fauna:** The wildlife includes various mammals, reptiles, and birds. You might encounter animals like deer, monkeys, and several species of birds. The river and its surroundings are also home to a variety of fish and aquatic life.
 
-<img src="placeholder_image_papikondalu_wildlife.jpg" alt="Papikondalu Wildlife">
+
 
 ### **Best Time to Visit**
 

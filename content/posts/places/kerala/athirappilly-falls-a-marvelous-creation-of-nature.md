@@ -14,7 +14,7 @@ tags:
 
 ### **Introduction**
 
-Athirappilly Falls, often hailed as the "Niagara of India," is a breathtaking cascade of water located in the Thrissur district of Kerala, India. **<img src="placeholder_athirappilly_falls_intro.jpg" alt="Athirappilly Falls from a distance" width="600">** Situated amidst the lush green forests of the Western Ghats, Athirappilly Falls plunges from a height of approximately 80 feet (24 meters) into the Chalakudy River, creating a mesmerizing display of nature's power and beauty. Its proximity to other popular Kerala destinations like Cochin (Kochi) and Munnar makes it a readily accessible and must-visit spot for both domestic and international travelers. The falls are unique for their accessibility and the surrounding verdant landscape, offering a perfect blend of natural beauty and tranquility.
+Athirappilly Falls, often hailed as the "Niagara of India," is a breathtaking cascade of water located in the Thrissur district of Kerala, India. **** Situated amidst the lush green forests of the Western Ghats, Athirappilly Falls plunges from a height of approximately 80 feet (24 meters) into the Chalakudy River, creating a mesmerizing display of nature's power and beauty. Its proximity to other popular Kerala destinations like Cochin (Kochi) and Munnar makes it a readily accessible and must-visit spot for both domestic and international travelers. The falls are unique for their accessibility and the surrounding verdant landscape, offering a perfect blend of natural beauty and tranquility.
 
 ### **History and Cultural Heritage**
 
@@ -22,13 +22,13 @@ While the immediate area around Athirappilly Falls doesn't have a deep, document
 
 ### **Natural Beauty**
 
-The natural beauty surrounding Athirappilly Falls is unparalleled. The Western Ghats, a UNESCO World Heritage Site, provide the backdrop for this natural wonder. The landscape is characterized by dense evergreen forests, rolling hills, and the roaring Chalakudy River. **<img src="placeholder_athirappilly_falls_landscape.jpg" alt="Lush green landscape surrounding Athirappilly Falls" width="600">** The falls themselves are surrounded by a diverse range of flora and fauna, contributing to the area's rich biodiversity. The mist and spray from the falls create a perpetual cloud cover, fostering a unique microclimate that supports the growth of various plant species. Several viewpoints offer panoramic vistas of the cascading water and the surrounding wilderness. One popular viewpoint allows visitors to get close to the falls and experience the thunderous sound and the cooling spray.
+The natural beauty surrounding Athirappilly Falls is unparalleled. The Western Ghats, a UNESCO World Heritage Site, provide the backdrop for this natural wonder. The landscape is characterized by dense evergreen forests, rolling hills, and the roaring Chalakudy River. **** The falls themselves are surrounded by a diverse range of flora and fauna, contributing to the area's rich biodiversity. The mist and spray from the falls create a perpetual cloud cover, fostering a unique microclimate that supports the growth of various plant species. Several viewpoints offer panoramic vistas of the cascading water and the surrounding wilderness. One popular viewpoint allows visitors to get close to the falls and experience the thunderous sound and the cooling spray.
 
 ### **Must-Visit Attractions**
 
 Besides the iconic Athirappilly Falls, the area offers several attractions worth exploring:
 
-*   **Vazhachal Falls:** Located just a few kilometers upstream, Vazhachal Falls is another scenic waterfall, known for its gentler cascades and picturesque setting. **<img src="placeholder_vazhachal_falls.jpg" alt="Vazhachal Falls" width="600">**
+*   **Vazhachal Falls:** Located just a few kilometers upstream, Vazhachal Falls is another scenic waterfall, known for its gentler cascades and picturesque setting. ****
 *   **Charpa Falls:** Situated on the road to Athirappilly, Charpa Falls is another smaller waterfall, particularly during the monsoon season.
 *   **Thumboormuzhi Dam and Garden:** This dam and garden complex offers a serene environment, a hanging bridge, and a butterfly park.
 *   **The Jungle Safari:** Take the jungle safari through the Sholayar Forest to explore the rich wildlife, experience the tranquility of the dense forest and admire the picturesque views.
@@ -96,6 +96,6 @@ For travelers seeking authentic and less-traveled experiences:
 
 ### **Conclusion**
 
-Athirappilly Falls is more than just a waterfall; it is a destination that encompasses natural beauty, adventure, and cultural richness. **<img src="placeholder_athirappilly_falls_conclusion.jpg" alt="Sunset at Athirappilly Falls" width="600">** From the thunderous roar of the cascading water to the lush greenery of the surrounding forests, the experience is unforgettable. Whether you are a nature enthusiast, an adventure seeker, or simply seeking a peaceful getaway, Athirappilly Falls offers a unique and enriching travel experience. Explore the beauty, embrace the serenity, and create lasting memories in this enchanting corner of Kerala.
+Athirappilly Falls is more than just a waterfall; it is a destination that encompasses natural beauty, adventure, and cultural richness. **** From the thunderous roar of the cascading water to the lush greenery of the surrounding forests, the experience is unforgettable. Whether you are a nature enthusiast, an adventure seeker, or simply seeking a peaceful getaway, Athirappilly Falls offers a unique and enriching travel experience. Explore the beauty, embrace the serenity, and create lasting memories in this enchanting corner of Kerala.
 
 

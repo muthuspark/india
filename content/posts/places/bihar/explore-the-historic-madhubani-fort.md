@@ -29,13 +29,13 @@ Madhubani's landscape is primarily flat, characterized by fertile plains crisscr
 
 While Madhubani isn’t known for dramatic vistas, it is the serenity and the experience of the rural countryside that provides a different form of natural beauty. The best way to experience this is to wander the villages, explore the fields, and observe the simple beauty of rural life. There are no specific viewpoints, but the vast, open skies and the quiet countryside offer a different sort of scenic beauty that appeals to a different kind of traveler. The wetlands and the proximity to the Kosi river (though not directly within the district) offer opportunities for bird watching and appreciating the local ecosystem.
 
-<img src="placeholder_image_natural_beauty.jpg" alt="Natural Landscape of Madhubani" width="600" height="400">
+
 
 ### **Must-Visit Attractions**
 
 The primary attraction in Madhubani is the art itself. However, the district also offers several sites to explore:
 
-*   **Madhubani Painting Villages:** The true heart of Madhubani lies in its villages, such as Ranti and Jitwarpur, where the art form thrives. Visiting these villages provides an opportunity to witness artists at work, learn about the techniques, and purchase authentic Madhubani paintings directly from the creators. <img src="placeholder_image_madhubani_painting_village.jpg" alt="Madhubani painting village" width="600" height="400">
+*   **Madhubani Painting Villages:** The true heart of Madhubani lies in its villages, such as Ranti and Jitwarpur, where the art form thrives. Visiting these villages provides an opportunity to witness artists at work, learn about the techniques, and purchase authentic Madhubani paintings directly from the creators. 
 *   **Maharaja Lakshmishwar Singh Museum, Darbhanga:** (Although in Darbhanga, nearby) - For a deeper understanding of the region's history and cultural heritage, you can visit this museum that is dedicated to the history of the region.
 *   **Ugratara Sthan:** This temple is dedicated to the Goddess Ugratara and holds religious significance for many locals and is a significant cultural site.
 *   **Kusheshwar Asthan Bird Sanctuary:** Located a little further away, but easily accessible. This sanctuary offers opportunities for bird watching and nature appreciation in a natural setting.
@@ -56,7 +56,7 @@ Madhubani is a treasure trove of local handicrafts, with Madhubani paintings bei
 *   **Handmade Goods:** Besides paintings, you can also find other handmade goods like bamboo crafts, textiles, and traditional jewelry. The quality and authenticity are guaranteed when buying from local artisans.
 *   **Specialties:** Madhubani paintings are the clear specialty. Each painting is unique and tells a story, making them perfect souvenirs or collectors' items.
 
-<img src="placeholder_image_madhubani_market.jpg" alt="Local Market" width="600" height="400">
+
 
 ### **Food and Cuisine**
 

@@ -16,15 +16,15 @@ tags:
 
 ### **Introduction**
 
-Nagarjunakonda, a historically significant site nestled in the Nalgonda district of Andhra Pradesh, India, is a treasure trove of Buddhist history and architectural marvels. Situated on an island in the Nagarjunasagar reservoir formed by the Nagarjunasagar Dam, the location is a testament to the rich heritage of the Ikshvaku dynasty, who ruled the region in the 3rd century CE. Though not located in Vijayapura, the site is a significant archaeological and historical attraction, attracting visitors from across the globe. The elevation of the area is relatively low, characteristic of the Deccan Plateau region. It’s located close to Vijayawada, a major city in Andhra Pradesh, making it accessible for both domestic and international travelers. The unique charm of Nagarjunakonda lies in its beautifully preserved ruins, excavated Buddhist sites, and the serene environment created by its island setting in the sprawling reservoir. <img src="placeholder_image_nagarjunakonda_introduction.jpg" alt="Nagarjunakonda Introduction">
+Nagarjunakonda, a historically significant site nestled in the Nalgonda district of Andhra Pradesh, India, is a treasure trove of Buddhist history and architectural marvels. Situated on an island in the Nagarjunasagar reservoir formed by the Nagarjunasagar Dam, the location is a testament to the rich heritage of the Ikshvaku dynasty, who ruled the region in the 3rd century CE. Though not located in Vijayapura, the site is a significant archaeological and historical attraction, attracting visitors from across the globe. The elevation of the area is relatively low, characteristic of the Deccan Plateau region. It’s located close to Vijayawada, a major city in Andhra Pradesh, making it accessible for both domestic and international travelers. The unique charm of Nagarjunakonda lies in its beautifully preserved ruins, excavated Buddhist sites, and the serene environment created by its island setting in the sprawling reservoir. 
 
 ### **History and Cultural Heritage**
 
-Nagarjunakonda’s history is deeply rooted in Buddhism. It served as a significant center for Buddhist learning and practice, flourished during the Satavahana and Ikshvaku periods. The site was a major hub for the Mahayana school of Buddhism. The Ikshvaku dynasty, who followed the Satavahanas, made Nagarjunakonda their capital. The site was named after the Buddhist philosopher Acharya Nagarjuna, who is believed to have resided here and propagated Buddhist philosophy. The archaeological excavations at Nagarjunakonda have unearthed numerous stupas, viharas (monasteries), chaityas (prayer halls), and other structures, providing valuable insights into the religious and architectural practices of the time. The site showcases a blend of architectural styles, demonstrating the cultural exchange and influences of various dynasties. <img src="placeholder_image_nagarjunakonda_history.jpg" alt="Nagarjunakonda History">
+Nagarjunakonda’s history is deeply rooted in Buddhism. It served as a significant center for Buddhist learning and practice, flourished during the Satavahana and Ikshvaku periods. The site was a major hub for the Mahayana school of Buddhism. The Ikshvaku dynasty, who followed the Satavahanas, made Nagarjunakonda their capital. The site was named after the Buddhist philosopher Acharya Nagarjuna, who is believed to have resided here and propagated Buddhist philosophy. The archaeological excavations at Nagarjunakonda have unearthed numerous stupas, viharas (monasteries), chaityas (prayer halls), and other structures, providing valuable insights into the religious and architectural practices of the time. The site showcases a blend of architectural styles, demonstrating the cultural exchange and influences of various dynasties. 
 
 ###  **Natural Beauty**
 
-Nagarjunakonda is not just a historical site; it’s also blessed with scenic beauty. The surrounding area is characterized by the Nagarjunasagar reservoir, one of the largest man-made lakes in the world. The island location provides a unique perspective and creates a serene ambiance for visitors. The reservoir is surrounded by the undulating terrain of the Nallamala Hills, adding to the visual appeal. The vast expanse of water reflects the sky, offering stunning views, especially during sunrise and sunset. The region’s natural environment, with its varying shades of green, blue, and brown, provides a peaceful backdrop to the ancient ruins. Though the area is not highly forested, the reservoir adds to the overall natural beauty, making it a visually captivating destination. <img src="placeholder_image_nagarjunakonda_natural_beauty.jpg" alt="Nagarjunakonda Natural Beauty">
+Nagarjunakonda is not just a historical site; it’s also blessed with scenic beauty. The surrounding area is characterized by the Nagarjunasagar reservoir, one of the largest man-made lakes in the world. The island location provides a unique perspective and creates a serene ambiance for visitors. The reservoir is surrounded by the undulating terrain of the Nallamala Hills, adding to the visual appeal. The vast expanse of water reflects the sky, offering stunning views, especially during sunrise and sunset. The region’s natural environment, with its varying shades of green, blue, and brown, provides a peaceful backdrop to the ancient ruins. Though the area is not highly forested, the reservoir adds to the overall natural beauty, making it a visually captivating destination. 
 
 ### **Must-Visit Attractions**
 
@@ -34,7 +34,7 @@ The main attraction in Nagarjunakonda is, of course, the archaeological site its
 *   **Mahachaitya:** The great stupa, showcasing the architectural and religious grandeur of the Buddhist era.
 *   **Viharas and Chaityas:** Various monastic complexes and prayer halls are reconstructed and preserved for the tourists to visit.
 *   **Island Setting:** The island location within the Nagarjunasagar reservoir is an attraction in itself.
-*   **The Site’s Layout:** The preservation of different archeological sites across the island makes it a must-visit. <img src="placeholder_image_nagarjunakonda_attractions.jpg" alt="Nagarjunakonda Attractions">
+*   **The Site’s Layout:** The preservation of different archeological sites across the island makes it a must-visit. 
 
 ### **Adventure Activities**
 
@@ -55,11 +55,11 @@ The cuisine of the region is influenced by Andhra Pradesh’s diverse culinary t
 *   **Andhra Cuisine:** Known for its spicy flavors and rice-based dishes.
 *   **Local Street Food:** Primarily available in the nearest cities or towns, there are plenty of street food options.
 *   **Popular Restaurants:** Travelers should consider dining in Vijayawada or nearby towns for a better variety of cuisine.
-*   **Traditional Dishes:** Try the spicy curries, biryanis, and various seafood dishes. <img src="placeholder_image_nagarjunakonda_food.jpg" alt="Nagarjunakonda Food">
+*   **Traditional Dishes:** Try the spicy curries, biryanis, and various seafood dishes. 
 
 ### **Flora and Fauna**
 
-The flora and fauna of the region are influenced by the semi-arid climate. The Nagarjunasagar Tiger Reserve, located nearby, supports a diverse range of wildlife, including the Bengal tiger, leopard, and various bird species. The vegetation is typical of the Deccan plateau, consisting of dry deciduous forests with drought-resistant plants. Visitors can experience the natural environment by exploring the reservoir and the surrounding areas, offering opportunities for bird-watching and nature walks. <img src="placeholder_image_nagarjunakonda_flora_fauna.jpg" alt="Nagarjunakonda Flora Fauna">
+The flora and fauna of the region are influenced by the semi-arid climate. The Nagarjunasagar Tiger Reserve, located nearby, supports a diverse range of wildlife, including the Bengal tiger, leopard, and various bird species. The vegetation is typical of the Deccan plateau, consisting of dry deciduous forests with drought-resistant plants. Visitors can experience the natural environment by exploring the reservoir and the surrounding areas, offering opportunities for bird-watching and nature walks. 
 
 ### **Best Time to Visit**
 

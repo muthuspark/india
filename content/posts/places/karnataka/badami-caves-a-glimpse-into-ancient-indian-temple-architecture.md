@@ -26,7 +26,7 @@ The Badami Cave Temples were primarily sculpted during the reign of the Chalukya
 
 The landscape surrounding the Badami Cave Temples is characterized by rugged sandstone cliffs, expansive plains, and the serene Agastya Lake, which adds to the charm of the site. The caves themselves are carved into the cliffs, providing stunning views of the surrounding area and the lake below. The red sandstone formations create a dramatic backdrop for the ancient structures. The Agastya Lake, believed to have purifying properties, is a prominent feature, and the nearby Bhootanatha Temples, situated by the lake, offer picturesque views. Visitors can experience the beauty of the region from various vantage points, particularly from the fortresses located on the hills above the caves. The area also offers opportunities for scenic walks and exploration of the natural environment.
 
-<img src="placeholder_image_tag_badami_landscape.jpg" alt="Landscape of Badami">
+
 
 ### **Must-Visit Attractions**
 
@@ -43,8 +43,8 @@ Other attractions include:
 *   **Bhootanatha Temples:** Located by the Agastya Lake, they add to the scenic beauty of the area.
 *   **Archaeological Museum:** Houses a collection of artifacts and sculptures from the Chalukya period.
 
-<img src="placeholder_image_tag_badami_cave_1.jpg" alt="Badami Cave 1">
-<img src="placeholder_image_tag_badami_cave_3.jpg" alt="Badami Cave 3">
+
+
 
 ### **Adventure Activities**
 
@@ -77,7 +77,7 @@ The region’s flora and fauna are adapted to a semi-arid environment. While Bad
 
 The best time to visit Badami is during the winter months, from October to March, when the weather is pleasant, with temperatures ranging between 20°C and 30°C. This period allows for comfortable exploration of the caves and outdoor activities. The monsoon season (June to September) brings cooler weather and lush greenery. The summer months (April and May) can be very hot, with temperatures exceeding 40°C.
 
-<img src="placeholder_image_tag_badami_best_time_to_visit.jpg" alt="Best time to visit Badami">
+
 
 ### **How to Reach**
 
@@ -85,7 +85,7 @@ The best time to visit Badami is during the winter months, from October to March
 *   **Nearest Railway Station:** Badami has its own railway station.
 *   **Major Highways:** Badami is well-connected by road. It's about 450 km from Bangalore, 130 km from Bijapur, and 145 km from Hampi. Buses and taxis are readily available from these and other nearby cities.
 
-<img src="placeholder_image_tag_badami_how_to_reach.jpg" alt="How to Reach Badami">
+
 
 ### **Accommodation Options**
 

@@ -16,26 +16,26 @@ tags:
 
 Ethipothala Falls, a breathtaking natural wonder, cascades down from a height of approximately 70 feet into the Krishna River. Located in the Guntur district of Andhra Pradesh, India, the falls are situated roughly 18 km from Nagarjuna Sagar Dam and approximately 150 km from Machilipatnam, making it a popular day-trip destination for tourists and locals alike. The falls are particularly stunning during the monsoon season (July to October), when the volume of water is at its peak. What makes Ethipothala Falls unique is its picturesque setting, framed by lush green hills and the subsequent formation of a small crocodile breeding centre at the bottom of the falls, creating a serene and ecologically interesting locale.
 <br>
-<img src="[PLACEHOLDER IMAGE: Panoramic view of Ethipothala Falls, showing the cascading water and surrounding landscape.]" alt="Ethipothala Falls Panoramic View">
+
 <br>
 
 ### **History and Cultural Heritage**
 
 The history of Ethipothala Falls isn't steeped in grand narratives of kingdoms or battles, but rather in the natural forces that shaped the region. The falls itself is a product of the geological formation of the Deccan Plateau. The cultural heritage primarily revolves around the surrounding villages and the influence of the Krishna River. The region is home to several small villages, where the local communities depend on agriculture and fishing. There isn't a specific historical event associated with the falls, but the area has been used by the local populace for generations. The presence of the crocodile breeding centre at the bottom of the falls, is a testament to the efforts of the Forest Department to promote conservation and create a sustainable environment.
 <br>
-<img src="[PLACEHOLDER IMAGE: Image illustrating the crocodile breeding centre or a nearby temple if any.]" alt="Crocodile Breeding Centre/Temple (If Applicable)">
+
 
 ### **Natural Beauty**
 
 Ethipothala Falls is a prime example of nature's artistry. The falls, as mentioned, plunges down a rocky cliff face, creating a spectacular visual display. The surrounding landscape is characterized by rolling green hills, especially vibrant during the monsoon season. The Krishna River, a major water source for Andhra Pradesh, is the recipient of the falls' cascading water. There are several vantage points from where visitors can admire the falls, including a viewpoint platform that offers a direct view of the cascading water. The environment is relatively unspoiled, with natural vegetation that further enhances the beauty of the falls. The area has a refreshing atmosphere, making it an ideal spot for nature enthusiasts.
 <br>
-<img src="[PLACEHOLDER IMAGE: A close-up image highlighting the flowing water, rocks, and vegetation around the falls.]" alt="Ethipothala Falls Close-up">
+
 
 ### **Must-Visit Attractions**
 
 The primary attraction is undoubtedly the Ethipothala Falls itself. Apart from the falls, visitors can spend time at the crocodile breeding centre, where they can observe different species of crocodiles and learn about their conservation. The Nagarjuna Sagar Dam, which is in proximity, is another major attraction and worth a visit if time permits. There are also viewpoints around the falls that offer panoramic views of the landscape. The journey to the falls itself, traversing through scenic rural Andhra Pradesh, can be a delightful experience.
 <br>
-<img src="[PLACEHOLDER IMAGE: Image of the crocodile breeding centre or Nagarjuna Sagar Dam (if you choose to include this)]" alt="Attraction Image - Crocodile Centre/Dam">
+
 
 ### **Adventure Activities**
 
@@ -73,7 +73,7 @@ The region around Ethipothala Falls supports a range of flora and fauna typical 
 
 The best time to visit Ethipothala Falls is during the monsoon season (July to October). During this period, the falls are at their most impressive, with a substantial flow of water. The lush green landscape and pleasant weather further enhance the experience. However, it's important to note that the falls may be closed or inaccessible during periods of heavy rainfall or flooding. The weather is generally pleasant throughout the year, except during the peak summer months (March-May). It is a good idea to check the weather forecast and local conditions before planning a trip, regardless of the season.
 <br>
-<img src="[PLACEHOLDER IMAGE: Image showcasing the Ethipothala Falls during the monsoon season, with the water at its peak.]" alt="Ethipothala Falls in Monsoon">
+
 
 ### **How to Reach**
 

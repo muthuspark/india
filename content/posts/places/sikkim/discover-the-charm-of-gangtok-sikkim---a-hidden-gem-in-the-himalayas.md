@@ -31,7 +31,7 @@ Gangtok is enveloped by a stunning landscape, offering an experience of nature's
 
 Several viewpoints offer unparalleled access to the beauty of the region. The Ganesh Tok viewpoint, with its small temple, offers a panoramic perspective of the city and surrounding hills. The Tashi View Point provides stunning sunrise views of the Kanchenjunga. The Rumtek Monastery, situated on a hilltop, offers not only spiritual significance but also breathtaking views of the valley below. The natural environment is also showcased in the Himalayan Zoological Park, home to rare Himalayan species, and the Kyongnosla Alpine Sanctuary, perfect for nature walks.
 
-<img src="placeholder_image_gangtok_natural_beauty.jpg" alt="Natural Beauty of Gangtok" />
+
 
 ### **Must-Visit Attractions**
 
@@ -39,7 +39,7 @@ Gangtok boasts a plethora of attractions, catering to various interests. The Enc
 
 The Do Drul Chorten, a large stupa surrounded by prayer wheels, is another significant religious site. The Directorate of Handicrafts and Handloom showcases local artistry and offers opportunities to purchase souvenirs. The Flower Exhibition Centre offers a beautiful display of orchids and other local flora. For those seeking a unique experience, a cable car ride across the city offers stunning aerial views.
 
-<img src="placeholder_image_gangtok_must_visit_attractions.jpg" alt="Must-Visit Attractions in Gangtok" />
+
 
 ### **Adventure Activities**
 
@@ -47,7 +47,7 @@ Gangtok is a haven for adventure enthusiasts. Trekking is a popular activity, wi
 
 River rafting on the Teesta River is another exhilarating option. Paragliding offers a bird's-eye view of the city and the surrounding landscape. Mountain biking and cycling are also gaining popularity, allowing visitors to explore the region at their own pace. For those seeking a more relaxed experience, nature walks and bird-watching opportunities are abundant.
 
-<img src="placeholder_image_gangtok_adventure_activities.jpg" alt="Adventure Activities in Gangtok" />
+
 
 ### **Local Markets and Handicrafts**
 
@@ -55,7 +55,7 @@ Gangtok’s local markets are vibrant hubs of commerce, showcasing the region's 
 
 The Lal Bazaar is another popular market, offering a more authentic local shopping experience, and you can find a variety of fresh produce, groceries, and local delicacies. Specialties include hand-woven carpets, Thangka paintings (religious scroll paintings), and traditional Sikkimese tea. Shopping at the local shops and markets offers visitors a chance to support the local economy and take home unique souvenirs.
 
-<img src="placeholder_image_gangtok_local_markets.jpg" alt="Local Markets in Gangtok" />
+
 
 ### **Food and Cuisine**
 
@@ -63,7 +63,7 @@ The cuisine of Gangtok is a delightful fusion of Tibetan, Nepali, and Indian fla
 
 For those with a sweet tooth, try the Sel Roti (a sweet, ring-shaped bread). You can find a range of restaurants offering both local and international cuisines. Roll House on MG Marg is known for its fast food, and Taste of Tibet is recommended for local Tibetan dishes. Several cafes also offer excellent coffee and pastries.
 
-<img src="placeholder_image_gangtok_food_and_cuisine.jpg" alt="Food and Cuisine in Gangtok" />
+
 
 ### **Flora and Fauna**
 
@@ -71,7 +71,7 @@ Sikkim is known for its rich biodiversity, and Gangtok serves as a gateway to th
 
 Orchids, rhododendrons, and various medicinal plants are abundant. Bird-watching is a rewarding activity, with opportunities to spot various Himalayan bird species. Efforts are being made to conserve the region's natural environment, ensuring that future generations can appreciate its beauty.
 
-<img src="placeholder_image_gangtok_flora_fauna.jpg" alt="Flora and Fauna in Gangtok" />
+
 
 ### **Best Time to Visit**
 
@@ -91,7 +91,7 @@ Gangtok offers a wide range of accommodation options to suit various budgets and
 
 The Mayfair Spa Resort & Casino is a luxurious option, while the Hotel Sonam Delek offers comfortable stays at mid-range prices. Numerous homestays and guesthouses provide a more authentic experience and allow guests to interact with local families. Booking in advance is recommended, especially during the peak season.
 
-<img src="placeholder_image_gangtok_accommodation.jpg" alt="Accommodation Options in Gangtok" />
+
 
 ### **Offbeat Experiences**
 

@@ -23,7 +23,7 @@ EsselWorld was established in 1986 by the Essel Group. The park was designed to 
 
 ###  **Natural Beauty**
 
-EsselWorld's proximity to the Arabian Sea contributes to its charm. While the park itself is a man-made marvel, the surrounding landscape offers a glimpse of Mumbai's natural beauty. The area benefits from the refreshing sea breeze and the lush greenery of the nearby Gorai beach and its surrounding landscapes. While specific natural viewpoints aren't within the park itself, the boat rides available to reach EsselWorld offer scenic views of the coastline. <img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty near EsselWorld"> The park’s location, combined with the serene coastal environment, provides a welcome respite from the concrete jungle of Mumbai.
+EsselWorld's proximity to the Arabian Sea contributes to its charm. While the park itself is a man-made marvel, the surrounding landscape offers a glimpse of Mumbai's natural beauty. The area benefits from the refreshing sea breeze and the lush greenery of the nearby Gorai beach and its surrounding landscapes. While specific natural viewpoints aren't within the park itself, the boat rides available to reach EsselWorld offer scenic views of the coastline.  The park’s location, combined with the serene coastal environment, provides a welcome respite from the concrete jungle of Mumbai.
 
 ### **Must-Visit Attractions**
 
@@ -34,7 +34,7 @@ EsselWorld is renowned for its diverse range of attractions, catering to all age
 *   **Ice Skating Rink:** Experience the thrill of ice skating year-round at the park's ice rink.
 *   **Bowling Alley & Arcade Games:** Additional entertainment options, including games and skill-based activities.
 *   **Live Shows and Entertainment:** Seasonal shows, parades, and special events regularly add to the park's allure.
-<img src="placeholder_image_must_visit_attractions.jpg" alt="EsselWorld Attractions">
+
 
 ### **Adventure Activities**
 
@@ -58,7 +58,7 @@ EsselWorld and Water Kingdom have various food outlets serving a variety of cuis
 *   **Multi-Cuisine Restaurants:** Options that cater to various tastes and preferences, from Indian cuisine to international choices.
 *   **Desserts and Beverages:** A wide range of ice creams, snacks, and refreshing drinks are on offer to keep visitors energized.
 
-<img src="placeholder_image_food_cuisine.jpg" alt="Food at EsselWorld">
+
 
 Outside the park, Mumbai is a culinary paradise. Visitors can explore a wide range of traditional dishes, from *thalis* to seafood delicacies. Popular restaurants and food stalls are available throughout the city.
 
@@ -79,7 +79,7 @@ Reaching EsselWorld is relatively easy given its proximity to Mumbai:
 *   **Road:** EsselWorld is accessible by road. Visitors can hire a taxi or use ride-sharing services. A popular mode of transport is the ferry service from various locations, including Borivali and Gorai Creek, which offers a scenic route to the park.
 *   **Other:** A dedicated bus service from Borivali station is also an option.
 
-<img src="placeholder_image_how_to_reach.jpg" alt="How to reach EsselWorld">
+
 
 ### **Accommodation Options**
 

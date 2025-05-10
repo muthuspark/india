@@ -24,14 +24,14 @@ The Chandraprabha Wildlife Sanctuary has a historical context primarily linked t
 
 The landscape of Chandraprabha Wildlife Sanctuary is characterized by its undulating terrain, encompassing valleys, hills, and dense forests. The Vindhyan range provides a dramatic backdrop to the sanctuary's natural beauty. The sanctuary is lush with dense Sal forests, mixed deciduous forests, and grassland patches, which contribute to its rich biodiversity.  The Chandraprabha River, which lends its name to the sanctuary, flows through the area, adding to the scenic charm. The hills provide several vantage points for panoramic views. Visitors can find serene spots for quiet contemplation and enjoy the beauty of the natural surroundings.
 
-<img src="placeholder_image_chandraprabha_landscape.jpg" alt="Chandraprabha Wildlife Sanctuary Landscape">
+
 
 ### **Must-Visit Attractions**
 
 While the primary attraction of Chandraprabha Wildlife Sanctuary is the experience of nature itself, there are specific locations within and around the sanctuary that are worth exploring:
 
 *   **Rajdari and Devdari Waterfalls:** These stunning waterfalls provide a visual treat. Rajdari is known for its cascading falls, while Devdari offers another picturesque spot for nature enthusiasts.
-    <img src="placeholder_image_rajdari_devdari_waterfalls.jpg" alt="Rajdari and Devdari Waterfalls">
+    
 *   **Kaimoor Wildlife Sanctuary:** This larger, contiguous sanctuary offers a more extensive range of wildlife viewing opportunities and provides a broader ecosystem to explore.
 
 *   **Wildlife Viewing Points:** Designated areas within the sanctuary allow visitors to spot various animals, including the Indian Gazelle, sloth bear, and various species of birds.
@@ -66,7 +66,7 @@ The Chandraprabha Wildlife Sanctuary is renowned for its rich biodiversity.
 *   **Flora:** The sanctuary is home to a variety of trees, including Sal, Sisham, and Teak.
 *   **Fauna:** Animals include the Indian Gazelle, sloth bears, nilgai (blue bull), sambar deer, chital deer, and various species of monkeys. It is also home to several bird species, including peacocks, partridges, and many other local and migratory birds.
 
-<img src="placeholder_image_chandraprabha_wildlife.jpg" alt="Wildlife of Chandraprabha Sanctuary">
+
 
 ### **Best Time to Visit**
 

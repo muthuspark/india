@@ -30,11 +30,11 @@ The Qutub Minar complex is situated within the Mehrauli Archaeological Park, pro
 
 ### **Must-Visit Attractions**
 
-*   **Qutub Minar:** The primary attraction, this 73-meter-high minaret is an architectural marvel with intricate carvings and a spiraling staircase. <img src="placeholder_qutub_minar.jpg" alt="Qutub Minar">
-*   **Quwwat-ul-Islam Mosque:** The first mosque built in India, showcasing early Indo-Islamic architectural styles. <img src="placeholder_quwwat_ul_islam_mosque.jpg" alt="Quwwat-ul-Islam Mosque">
-*   **Iron Pillar:** A remarkable metallurgical achievement from the Gupta period, renowned for its rust-resistant properties. <img src="placeholder_iron_pillar.jpg" alt="Iron Pillar">
-*   **Tomb of Iltutmish:** A beautifully preserved tomb showcasing intricate Islamic designs. <img src="placeholder_iltutmish_tomb.jpg" alt="Tomb of Iltutmish">
-*   **Alauddin Khilji's Tomb and Madrasa:** The remains of the tomb and religious school of Alauddin Khilji. <img src="placeholder_khilji_tomb.jpg" alt="Alauddin Khilji's Tomb and Madrasa">
+*   **Qutub Minar:** The primary attraction, this 73-meter-high minaret is an architectural marvel with intricate carvings and a spiraling staircase. 
+*   **Quwwat-ul-Islam Mosque:** The first mosque built in India, showcasing early Indo-Islamic architectural styles. 
+*   **Iron Pillar:** A remarkable metallurgical achievement from the Gupta period, renowned for its rust-resistant properties. 
+*   **Tomb of Iltutmish:** A beautifully preserved tomb showcasing intricate Islamic designs. 
+*   **Alauddin Khilji's Tomb and Madrasa:** The remains of the tomb and religious school of Alauddin Khilji. 
 *   **Mehrauli Archaeological Park:** Explore the numerous historical ruins, tombs, and gardens within this expansive park.
 
 ### **Adventure Activities**

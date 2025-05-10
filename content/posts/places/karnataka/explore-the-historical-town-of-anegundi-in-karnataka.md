@@ -27,7 +27,7 @@ Anegundi witnessed the rule of various dynasties, including the Chalukyas, and H
 
 Anegundi boasts a stunning landscape dominated by the rugged, boulder-strewn hills characteristic of the region. The Tungabhadra River, flowing gracefully along its banks, adds to the scenic beauty, offering breathtaking vistas, especially during sunrise and sunset. The area around Anegundi is verdant, with pockets of lush greenery contrasting with the rocky terrain.
 
-<img src="placeholder_image_natural_beauty.jpg" alt="Panoramic view of the Anegundi landscape with the Tungabhadra River">
+
 
 Visitors can enjoy panoramic views from several viewpoints, including the Hanuman Temple atop Anjanadri Hill (supposed birthplace of Hanuman), and the elevated pathways leading to the various temples. The natural environment offers opportunities for exploring the rugged terrain, making it a haven for nature lovers and photographers.
 
@@ -38,16 +38,16 @@ Anegundi is dotted with fascinating attractions:
 *   **Anegundi Fort:** The remnants of the fort offer a glimpse into the town's strategic importance.
 
 *   **Ranganatha Temple:** A significant temple dedicated to Lord Ranganatha, showcasing impressive architecture and intricate carvings.
-    <img src="placeholder_image_ranganatha_temple.jpg" alt="Ranganatha Temple architecture">
+    
 
 *   **Anjanadri Hill & Hanuman Temple:** Climb the steps (approximately 570 steps) to the Hanuman Temple, offering stunning views and spiritual significance.
-    <img src="placeholder_image_anjanadri_hill.jpg" alt="Hanuman Temple atop Anjanadri Hill">
+    
 
 *   **Pampa Sarovar:** A sacred lake mentioned in the Ramayana, believed to be where Shabari met Rama. It's a serene spot for reflection.
-    <img src="placeholder_image_pampa_sarovar.jpg" alt="Pampa Sarovar lake">
+    
 
 *   **Gagan Mahal:** An old palace, a testament to the rich past of Anegundi.
-    <img src="placeholder_image_gagan_mahal.jpg" alt="Gagan Mahal ruins">
+    
 
 *   **Vittala Temple (in Hampi, easily accessible):** Although located in Hampi, this iconic temple and its musical pillars are a must-see.
 
@@ -58,7 +58,7 @@ Anegundi offers a variety of adventure activities:
 *   **Trekking:** Explore the rugged terrain and hills around Anegundi, with trails ranging from easy to moderate difficulty.
 
 *   **Coracle Rides:** Enjoy a unique ride on the Tungabhadra River in a traditional coracle (a round boat).
-    <img src="placeholder_image_coracle_ride.jpg" alt="Coracle ride on the Tungabhadra River">
+    
 
 *   **Rock Climbing and Bouldering:** The boulder-strewn landscape provides ample opportunities for rock climbing and bouldering (bring your own equipment).
 
@@ -86,7 +86,7 @@ The local cuisine in Anegundi is influenced by the flavors of North Karnataka. K
 *   **Holige:** A sweet flatbread, often served during festivals.
 *   **Rice Dishes:** The cuisine is also rich in rice preparations, including a local version of pulao.
 
-<img src="placeholder_image_local_cuisine.jpg" alt="Local cuisine - dishes">
+
 
 **Restaurants and Stalls:** You can find small restaurants and food stalls serving both South Indian and North Indian dishes in Anegundi. Consider trying meals at your guesthouse or homestay for more authentic local cooking.
 
@@ -117,7 +117,7 @@ Anegundi is relatively accessible:
 *   **Nearest Railway Station:** The nearest railway station is **Hospet Junction (HPT)**, about 18 km (11 miles) away, which offers good connectivity to major Indian cities.
 
 *   **By Road:** You can reach Anegundi by road from major cities like Bengaluru, Hyderabad, and Goa. Buses and taxis are available from Hospet to Anegundi.
-    <img src="placeholder_image_road_trip.jpg" alt="Road trip from Hampi to Anegundi">
+    
 
 *   **From Hampi:** Take a ferry or boat across the Tungabhadra River from Hampi.
 

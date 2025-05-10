@@ -23,26 +23,26 @@ Pachmarhi, often called "Satpura ki Rani" (Queen of Satpura), is a captivating h
 Pachmarhi's history is intertwined with both colonial and indigenous influences. The area was largely unexplored until the British discovered it in the 19th century. Captain James Forsyth, a captain in the Bengal Lancers, is credited with "discovering" Pachmarhi in 1857. Recognizing its potential as a sanatorium and summer retreat, the British established Pachmarhi as a prominent hill station. They constructed bungalows, churches, and other structures, leaving behind a distinct colonial legacy that is still visible today.
 
 The region is also steeped in ancient history and mythology. The numerous cave shelters in Pachmarhi are believed to have been inhabited by indigenous tribes for centuries. The caves, particularly those with ancient rock paintings, offer glimpses into the lives and beliefs of these early inhabitants. These rock paintings, dating back to the prehistoric era, depict various animals, human figures, and scenes of daily life, making Pachmarhi a treasure trove for archaeologists and history enthusiasts. The Pandav Caves, the most famous of these cave structures, are said to be the place where the Pandava brothers from the epic Mahabharata sought refuge during their exile. These caves, with their architectural simplicity, are a testament to the enduring cultural heritage of the region.
-<img src="placeholder_pandav_caves.jpg" alt="Pandav Caves">
+
 
 ### **Natural Beauty**
 
 Pachmarhi is a visual delight, boasting an incredibly diverse landscape, characterized by dense forests, deep valleys, and dramatic rock formations. The Satpura National Park encompasses much of the area, contributing to its exceptional biodiversity. The landscape is dominated by sandstone cliffs, cascading waterfalls, and lush green plateaus. The region is crisscrossed by several rivers and streams, adding to its scenic charm.
 
 Notable viewpoints offer breathtaking panoramic views of the valley and surrounding hills. Dhoopgarh, the highest point in the Satpura range, provides a spectacular view of the sunrise and sunset. Bee Falls is another popular spot, with a cascading waterfall plunging into a serene pool below. Other notable locations include Apsara Vihar, also known as Fairy Pool, and the Silver Falls (Rajet Pratap). The natural environment is preserved in several protected areas, including Satpura National Park and Bori Wildlife Sanctuary, preserving the unique ecological balance.
-<img src="placeholder_dhoopgarh.jpg" alt="Dhoopgarh">
-<img src="placeholder_bee_falls.jpg" alt="Bee Falls">
+
+
 
 ### **Must-Visit Attractions**
 
 Pachmarhi offers a diverse range of attractions for every type of traveler.
 
 *   **Pandav Caves:** These ancient rock-cut caves are believed to be the refuge of the Pandava brothers and are one of the most popular attractions.
-    <img src="placeholder_pandav_caves.jpg" alt="Pandav Caves">
+    
 *   **Dhoopgarh:** The highest point in the Satpura Range, offering stunning sunrise and sunset views.
-    <img src="placeholder_dhoopgarh.jpg" alt="Dhoopgarh">
+    
 *   **Bee Falls:** A beautiful waterfall cascading down from a considerable height.
-    <img src="placeholder_bee_falls.jpg" alt="Bee Falls">
+    
 *   **Apsara Vihar (Fairy Pool):** A natural pool formed by a small waterfall, perfect for a refreshing dip.
 *   **Silver Falls (Rajet Pratap):** A majestic waterfall creating a silver streak as it falls.
 *   **Jata Shankar Cave:** A sacred cave with a Shiva Lingam and a natural rock formation resembling Lord Shiva's hair.
@@ -87,7 +87,7 @@ Pachmarhi is a biodiversity hotspot, home to a rich variety of flora and fauna.
 *   **Satpura National Park:** The park supports diverse ecosystems, including dense forests, grasslands, and rocky terrains.
 *   **Flora:** The region is rich in plant life, including sal, teak, bamboo, and numerous medicinal plants.
 *   **Fauna:** The park is home to a variety of animals, including tigers, leopards, sloth bears, Indian bison (gaur), deer species (sambar, chital), and numerous bird species. The endangered species are protected here.
-    <img src="placeholder_satpura_national_park.jpg" alt="Satpura National Park">
+    
 
 ### **Best Time to Visit**
 

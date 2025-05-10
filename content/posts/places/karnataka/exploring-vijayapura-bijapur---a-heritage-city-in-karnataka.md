@@ -28,7 +28,7 @@ Vijayapura became a significant cultural hub, fostering a unique blend of Persia
 
 While Vijayapura (Bijapur) is primarily known for its historical significance, the surrounding region offers a glimpse into the natural beauty of Karnataka. The terrain is characterized by a semi-arid landscape, with rolling plains and occasional rocky outcrops. The region experiences a hot and dry climate for most of the year, influencing its flora and fauna. The presence of the Bheema River, a tributary of the Krishna River, contributes to the region's water resources and provides a life-giving source for both the landscape and the people.
 
-<img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty of Bijapur">
+
 
 The area offers views from certain historical structures that provide a scenic overview. While not possessing towering mountains or lush forests, the unique topography, combined with the historical structures, creates a distinct scenic appeal. There is a potential for natural trails and exploring the local vegetation which showcases the resilience of local flora surviving under harsh climatic conditions.
 
@@ -36,13 +36,13 @@ The area offers views from certain historical structures that provide a scenic o
 
 Vijayapura (Bijapur) is renowned for its magnificent monuments, which bear testimony to the artistic and architectural brilliance of the Adil Shahi dynasty. Here are some of the must-visit attractions:
 
-*   **Gol Gumbaz:**  <img src="placeholder_image_gol_gumbaz.jpg" alt="Gol Gumbaz"> The most iconic monument of Bijapur, this is the mausoleum of Muhammad Adil Shah. It's famous for its colossal dome, the second largest in the world, and the Whispering Gallery, where a whisper echoes across the dome.
+*   **Gol Gumbaz:**   The most iconic monument of Bijapur, this is the mausoleum of Muhammad Adil Shah. It's famous for its colossal dome, the second largest in the world, and the Whispering Gallery, where a whisper echoes across the dome.
 
-*   **Ibrahim Rauza:**  <img src="placeholder_image_ibrahim_rauza.jpg" alt="Ibrahim Rauza"> Often described as the "Taj Mahal of the South," this complex houses the tombs of Ibrahim Adil Shah II and his wife, Taj Sultana.  Known for its intricate carvings and delicate architecture, it is considered one of the finest examples of Indo-Islamic architecture.
+*   **Ibrahim Rauza:**   Often described as the "Taj Mahal of the South," this complex houses the tombs of Ibrahim Adil Shah II and his wife, Taj Sultana.  Known for its intricate carvings and delicate architecture, it is considered one of the finest examples of Indo-Islamic architecture.
 
 *   **Malik-e-Maidan:** This massive cannon, the largest in India, is located on the top of the Sherza Burj. It's a significant historical artifact, showcasing the military prowess of the Adil Shahi rulers.
 
-*   **Gagan Mahal:** <img src="placeholder_image_gagan_mahal.jpg" alt="Gagan Mahal"> Once the royal residence, this palace showcases an imposing facade and beautiful archways, with open hall on the ground floor and multiple rooms on the first floor.
+*   **Gagan Mahal:**  Once the royal residence, this palace showcases an imposing facade and beautiful archways, with open hall on the ground floor and multiple rooms on the first floor.
 
 *   **Mehtar Mahal:** A beautifully ornamented gateway and a mosque, this is a prime example of the intricate craftsmanship of Bijapur's artisans.
 

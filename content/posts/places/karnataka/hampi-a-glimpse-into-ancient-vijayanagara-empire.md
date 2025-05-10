@@ -24,13 +24,13 @@ Hampi's history is inextricably linked to the Vijayanagara Empire, one of the mo
 
 Hampi’s cultural heritage is primarily reflected in its temples and their associated festivals. The Virupaksha Temple, the principal temple dedicated to Lord Shiva, is still an active place of worship, witnessing grand festivals like the annual chariot festival. The Vithala Temple, with its iconic stone chariot and musical pillars, is another jewel. The Ramayana tradition is deeply interwoven into the local culture, and many sites in Hampi are associated with the epic, offering glimpses into the mythological past. Traditional music and dance performances are still held here, providing a glimpse into the artistic legacy of the Vijayanagara Empire.
 
-<img src="placeholder_image_virupaksha_temple.jpg" alt="Virupaksha Temple, Hampi">
+
 
 ###  **Natural Beauty**
 
 Hampi's landscape is as remarkable as its historical significance. The area is dominated by a vast expanse of granite boulders, creating a surreal and almost lunar terrain. These massive rocks, often balanced precariously atop each other, have been shaped over millennia by natural forces. The Tungabhadra River gracefully meanders through the landscape, adding to the charm and providing life to the otherwise arid surroundings.
 
-<img src="placeholder_image_hampi_landscape.jpg" alt="Hampi Landscape">
+
 
 Key viewpoints include Matanga Hill, offering panoramic sunrise and sunset views, and Anjaneya Hill, believed to be the birthplace of Lord Hanuman, providing a stunning vista of the surrounding landscape. The Tungabhadra River creates pockets of lush greenery, particularly around the Hemakuta Hill. The boulder-strewn landscape combined with the flowing river makes it a unique and memorable experience. Although Hampi doesn't have extensive forests or reserves, the area is rich in the biodiversity of the arid region.
 
@@ -39,11 +39,11 @@ Key viewpoints include Matanga Hill, offering panoramic sunrise and sunset views
 Hampi is a treasure trove of architectural and historical attractions. Here are some of the must-visit places:
 
 *   **Virupaksha Temple:** The oldest and principal temple, still an active place of worship.
-    <img src="placeholder_image_virupaksha_temple_interior.jpg" alt="Virupaksha Temple Interior">
+    
 *   **Vithala Temple Complex:** Home to the iconic stone chariot and the musical pillars.
-    <img src="placeholder_image_vithala_temple.jpg" alt="Vithala Temple Complex">
+    
 *   **Hazara Rama Temple:** Known for its detailed carvings depicting scenes from the Ramayana.
-    <img src="placeholder_image_hazara_rama_temple.jpg" alt="Hazara Rama Temple">
+    
 *   **Elephant Stables:** An impressive structure that housed the royal elephants.
 *   **Queen’s Bath:** A well-preserved bathing complex used by the royal family.
 *   **Lotus Mahal:** An architectural marvel with a unique lotus-shaped design.
@@ -82,7 +82,7 @@ The cuisine in Hampi reflects the local flavors of the region.
 *   **Popular Restaurants:** The Mango Tree Restaurant, Laughing Buddha, and Gopi Roof Restaurant are popular choices.
 *   **Beverages:** Freshly squeezed juices, coffee, and chai are widely available.
 
-<img src="placeholder_image_hampi_food.jpg" alt="Hampi Food">
+
 
 ### **Flora and Fauna**
 

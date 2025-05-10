@@ -17,7 +17,7 @@ tags:
 
 ### **Introduction**
 
-Sasan Gir, officially known as Gir National Park and Wildlife Sanctuary, is a protected area located in the Junagadh district of Gujarat, India. Nestled in the heart of the Saurashtra region, this sanctuary is renowned globally as the last remaining natural habitat for the Asiatic lion (Panthera leo persica). The park's significance extends beyond its wildlife; it encompasses a diverse ecosystem, rich cultural heritage, and breathtaking natural beauty. With an average elevation ranging from 200 to 600 meters above sea level, Sasan Gir is easily accessible from other popular destinations in Gujarat, such as Junagadh, Rajkot, and Somnath. Its uniqueness lies in its role as the custodian of the Asiatic lion, attracting wildlife enthusiasts, researchers, and tourists from across the globe. <img src="placeholder_image_gir_lion.jpg" alt="Asiatic Lion in Sasan Gir">
+Sasan Gir, officially known as Gir National Park and Wildlife Sanctuary, is a protected area located in the Junagadh district of Gujarat, India. Nestled in the heart of the Saurashtra region, this sanctuary is renowned globally as the last remaining natural habitat for the Asiatic lion (Panthera leo persica). The park's significance extends beyond its wildlife; it encompasses a diverse ecosystem, rich cultural heritage, and breathtaking natural beauty. With an average elevation ranging from 200 to 600 meters above sea level, Sasan Gir is easily accessible from other popular destinations in Gujarat, such as Junagadh, Rajkot, and Somnath. Its uniqueness lies in its role as the custodian of the Asiatic lion, attracting wildlife enthusiasts, researchers, and tourists from across the globe. 
 
 ### **History and Cultural Heritage**
 
@@ -29,7 +29,7 @@ The local communities, primarily the Maldharis, have a long-standing association
 
 Sasan Gir is characterized by a rugged, undulating terrain, dominated by teakwood and acacia forests. The landscape is crisscrossed by rivers and streams, most notably the Hiran, Shetrunji, Datardi, and Shingoda rivers, that provide water sources and create pockets of lush greenery. The forest’s density varies, with a mix of deciduous, semi-evergreen, and evergreen vegetation, making it a vibrant habitat for diverse flora and fauna.
 
-The best viewpoints in Gir include vantage points during the jeep safaris, which offer the most panoramic views. The hills and valleys provide opportunities for stunning sunrise and sunset views. The landscape is particularly striking during the monsoon season when the foliage is at its lushest, and the rivers are flowing. <img src="placeholder_image_gir_landscape.jpg" alt="Gir Landscape">
+The best viewpoints in Gir include vantage points during the jeep safaris, which offer the most panoramic views. The hills and valleys provide opportunities for stunning sunrise and sunset views. The landscape is particularly striking during the monsoon season when the foliage is at its lushest, and the rivers are flowing. 
 
 ### **Must-Visit Attractions**
 
@@ -40,7 +40,7 @@ The primary attraction in Sasan Gir is, undoubtedly, the Gir National Park and W
 *   **Tulsi Shyam Temple:** Located in the heart of the Gir forest, this temple offers a spiritual experience, surrounded by natural beauty. The place is also known for its hot water springs.
 *   **Maldhari Villages:** Exploring the villages offers a glimpse into the lives of the Maldhari community and their traditional way of life. This is a truly offbeat experience.
 
-<img src="placeholder_image_devalia_safari.jpg" alt="Devalia Safari Park">
+
 
 ### **Adventure Activities**
 
@@ -76,7 +76,7 @@ The cuisine around Sasan Gir is primarily Gujarati, with influences from the loc
 The flora and fauna of Sasan Gir are incredibly diverse, making it a prime spot for wildlife enthusiasts.
 
 *   **Fauna:** Besides the Asiatic lion, the park is home to a variety of other animals, including leopards, striped hyenas, sambar deer, chital, nilgai, chinkara, and a variety of birds.
-*   **Flora:** The forest consists mainly of teak, acacia, and other deciduous trees, along with a variety of shrubs and grasses. <img src="placeholder_image_gir_flora_fauna.jpg" alt="Flora and Fauna of Gir">
+*   **Flora:** The forest consists mainly of teak, acacia, and other deciduous trees, along with a variety of shrubs and grasses. 
 *   **Birds:** Over 300 species of birds are found in Gir, making it a birdwatcher's paradise. Notable birds include the Bonelli's eagle, Indian vulture, and various migratory species.
 
 ### **Best Time to Visit**
@@ -104,7 +104,7 @@ Sasan Gir offers a range of accommodation options, catering to different budgets
 *   **Luxury Resorts:** Several upscale resorts offer luxurious accommodations with modern amenities and excellent service. Examples include The Fern Gir Forest Resort, Gir Lion Safari Camp.
 *   **Mid-Range Hotels:** Several hotels and resorts offer comfortable accommodations at moderate prices.
 *   **Budget-Friendly Stays:** Guesthouses and homestays offer affordable accommodation options, providing a more immersive experience in the local community.
-*   **Eco-Friendly Resorts:** Some resorts focus on sustainable tourism practices. <img src="placeholder_image_accommodation_gir.jpg" alt="Accommodation in Sasan Gir">
+*   **Eco-Friendly Resorts:** Some resorts focus on sustainable tourism practices. 
 
 ### **Offbeat Experiences**
 

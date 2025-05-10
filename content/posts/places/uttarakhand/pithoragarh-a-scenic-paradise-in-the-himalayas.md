@@ -32,10 +32,10 @@ The cultural heritage of Pithoragarh is reflected in its vibrant festivals, uniq
 
 **Historical Landmarks:**
 
-*   **Pithoragarh Fort (Killa):** <img src="placeholder_image_pithoragarh_fort.jpg" alt="Pithoragarh Fort"> This historic fort, perched atop a hill, offers panoramic views of the valley and serves as a reminder of the area’s strategic importance.
-*   **Kapileshwar Mahadev Temple:** <img src="placeholder_image_kapileshwar_temple.jpg" alt="Kapileshwar Mahadev Temple"> A sacred cave temple dedicated to Lord Shiva, known for its religious significance and scenic location.
+*   **Pithoragarh Fort (Killa):**  This historic fort, perched atop a hill, offers panoramic views of the valley and serves as a reminder of the area’s strategic importance.
+*   **Kapileshwar Mahadev Temple:**  A sacred cave temple dedicated to Lord Shiva, known for its religious significance and scenic location.
 *   **Chandak:** This scenic spot is believed to be associated with the Chand dynasty, who ruled over the Kumaon region.
-*   **Haat Kalika Temple:** <img src="placeholder_image_haat_kalika_temple.jpg" alt="Haat Kalika Temple"> A temple dedicated to Goddess Kali is revered by the local community and attracts devotees.
+*   **Haat Kalika Temple:**  A temple dedicated to Goddess Kali is revered by the local community and attracts devotees.
 
 ### **Natural Beauty**
 
@@ -43,8 +43,8 @@ Pithoragarh is a visual delight, blessed with breathtaking natural beauty that e
 
 **Notable Natural Features and Viewpoints:**
 
-*   **Panchachuli Peaks:** <img src="placeholder_image_panchachuli_peaks.jpg" alt="Panchachuli Peaks"> The five peaks are a must-see, offering a breathtaking panoramic view.
-*   **Askot Musk Deer Sanctuary:** <img src="placeholder_image_askot_sanctuary.jpg" alt="Askot Musk Deer Sanctuary"> A protected area known for its diverse flora and fauna, providing a glimpse into the rich biodiversity of the region.
+*   **Panchachuli Peaks:**  The five peaks are a must-see, offering a breathtaking panoramic view.
+*   **Askot Musk Deer Sanctuary:**  A protected area known for its diverse flora and fauna, providing a glimpse into the rich biodiversity of the region.
 *   **Chandak:** A hill station providing magnificent views of the Himalayan range, with a ropeway offering a unique experience.
 *   **Dhar:** Offers stunning views of the valley and nearby mountain ranges.
 *   **Kailash Mansarovar Yatra Route:** The route to the sacred Mount Kailash and Mansarovar Lake passes through the Pithoragarh district, making it a base for pilgrims.
@@ -58,11 +58,11 @@ Pithoragarh and its surrounding areas offer a range of attractions that cater to
 *   **Pithoragarh Fort (Killa):** As mentioned above, this historical fort offers a glimpse into the region's history and stunning views.
 *   **Kapileshwar Mahadev Temple:** A significant religious site for devotees of Lord Shiva.
 *   **Chandak:** Known for its picturesque landscapes and serene atmosphere.
-*   **Dharchula:** <img src="placeholder_image_dharchula.jpg" alt="Dharchula"> A town on the Indo-Nepal border, offering views of the Kali River and is a base for Kailash Mansarovar pilgrims.
-*   **Munsiyari:** <img src="placeholder_image_munsiyari.jpg" alt="Munsiyari"> A charming hill station, a base for trekking adventures and provides mesmerizing views of the Himalayas.
+*   **Dharchula:**  A town on the Indo-Nepal border, offering views of the Kali River and is a base for Kailash Mansarovar pilgrims.
+*   **Munsiyari:**  A charming hill station, a base for trekking adventures and provides mesmerizing views of the Himalayas.
 *   **Askot Musk Deer Sanctuary:** For nature enthusiasts, this sanctuary provides a unique opportunity to observe various species of wildlife and rare flora.
 *   **Narayani Ashram:** A spiritual center founded by Narayan Swami, offering a tranquil environment for meditation and reflection.
-*   **Patal Bhuvaneshwar:** <img src="placeholder_image_patal_bhuvaneshwar.jpg" alt="Patal Bhuvaneshwar"> A cave temple dedicated to Lord Shiva, known for its stunning stalactite and stalagmite formations.
+*   **Patal Bhuvaneshwar:**  A cave temple dedicated to Lord Shiva, known for its stunning stalactite and stalagmite formations.
 
 ### **Adventure Activities**
 
@@ -74,7 +74,7 @@ For adventure enthusiasts, Pithoragarh provides ample opportunities to explore t
 *   **Camping:** Camping in the serene valleys and near the mountain peaks is a refreshing experience.
 *   **Mountaineering:** The high mountain peaks of the region provide opportunities for mountaineering expeditions.
 *   **River Rafting:** The rivers offer a unique and exciting experience.
-*   **Paragliding:** <img src="placeholder_image_paragliding.jpg" alt="Paragliding"> Some areas offer opportunities for paragliding, offering a bird's-eye view of the landscape.
+*   **Paragliding:**  Some areas offer opportunities for paragliding, offering a bird's-eye view of the landscape.
 *   **Nature Walks:** Explore the rich flora and fauna on easy nature trails around the town.
 
 ### **Local Markets and Handicrafts**
@@ -87,7 +87,7 @@ Pithoragarh’s local markets offer a glimpse into the traditional handicrafts a
 *   **Handloom Products:** Textiles and garments woven using traditional techniques.
 *   **Wooden Artifacts:** Carvings and decorative items made from wood.
 *   **Local Spices and Herbs:** You can find a variety of locally grown spices and herbs.
-*   **Local handicrafts and souvenirs:** <img src="placeholder_image_local_handicrafts.jpg" alt="Local Handicrafts"> Buy locally made crafts such as decorative items and traditional jewellery.
+*   **Local handicrafts and souvenirs:**  Buy locally made crafts such as decorative items and traditional jewellery.
 
 ### **Food and Cuisine**
 

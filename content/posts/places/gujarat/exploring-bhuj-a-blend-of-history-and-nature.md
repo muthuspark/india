@@ -23,7 +23,7 @@ Bhuj, a vibrant city nestled in the Kutch district of Gujarat, India, pulsates w
 
 The history of Bhuj is steeped in the legacy of the Jadeja Rajputs, who ruled Kutch for centuries. It served as the capital of the Kutch State from the 16th century until India's independence. Bhuj witnessed numerous battles and sieges, leaving behind a legacy of forts and palaces that narrate tales of bravery and resilience. The city's cultural heritage is reflected in its numerous festivals, vibrant traditions, and unique art forms. The annual Kutch Mahotsav, a cultural extravaganza, showcases the region's rich traditions through music, dance, and handicrafts. The influence of various communities, including the Muslims, Ahirs, and Meghwals, has contributed to the city's diverse cultural landscape.
 
-<img src="placeholder_image_historical_landmark.jpg" alt="Example Historical Landmark in Bhuj">
+
 
 Key historical landmarks include:
 
@@ -36,7 +36,7 @@ Key historical landmarks include:
 
 Bhuj is surrounded by diverse natural landscapes, from the arid plains of the Kutch to the verdant hills and coastlines nearby. The city is a starting point for exploring the mesmerizing Great Rann of Kutch, a vast expanse of white salt desert that transforms into a breathtaking spectacle during the monsoon. The region is also home to the lesser-known Banni Grasslands, which supports unique flora and fauna, making it a haven for wildlife enthusiasts and photographers.
 
-<img src="placeholder_image_rann_of_kutch.jpg" alt="Image of the Rann of Kutch">
+
 
 *   **Kala Dungar (Black Hill):** The highest point in Kutch, offering spectacular views of the Rann.
 *   **Chhari Dhand:** A wetland area that attracts a variety of migratory birds, making it an ideal spot for bird watching.
@@ -52,7 +52,7 @@ Bhuj is a treasure trove of attractions that showcase its rich history, cultural
 *   **Swaminarayan Temple:** A beautifully crafted temple that represents the religious significance of the region.
 *   **Hamirsar Lake:** A beautiful lake offering a refreshing respite, and often used as a leisure place.
 
-<img src="placeholder_image_aina_mahal.jpg" alt="Image of Aina Mahal">
+
 
 ### **Adventure Activities**
 
@@ -68,7 +68,7 @@ Bhuj is renowned for its vibrant local markets and exquisite handicrafts.
 *   **Bhujodi Village:** A village where you can witness the weaving and craft-making process.
 *   **Shopping Street of Bhuj:** Discover a variety of shops selling traditional textiles, handicrafts, and souvenirs.
 
-<img src="placeholder_image_local_market.jpg" alt="Image of a local market in Bhuj">
+
 
 Specialties unique to the area include:
 
@@ -125,7 +125,7 @@ Bhuj offers a range of accommodation options to suit all budgets.
 *   **Mid-Range Hotels:** Comfortable options with modern amenities.
 *   **Luxury Resorts and Heritage Hotels:** For a luxurious experience, some properties offer a glimpse into the region's royal past.
 
-<img src="placeholder_image_accommodation.jpg" alt="Example of accommodation">
+
 
 ### **Offbeat Experiences**
 

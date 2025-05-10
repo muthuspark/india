@@ -25,7 +25,7 @@ The principal cave, Cave 1, is a magnificent temple dedicated to Lord Shiva. Its
 
 Over time, the caves suffered damage due to natural weathering, vandalism, and the effects of Portuguese colonization. Despite these challenges, the Elephanta Caves remain a symbol of India's cultural heritage. Restoration efforts by the Archaeological Survey of India and UNESCO have helped to preserve these architectural marvels for future generations.
 
-<img src="placeholder_image_historical_cave_carvings.jpg" alt="Historical Cave Carvings" style="width: 600px;"/>
+
 
 ### **Natural Beauty**
 
@@ -48,7 +48,7 @@ The adventure activities are limited on Elephanta Island.
 *   **Hiking and Nature Walks:** The island itself is a good option for enjoying a nature walk. This gives visitors a chance to experience the island beyond the caves.
 *   **Photography:** The caves and the scenery offer many photo opportunities.
 
-<img src="placeholder_image_ferry_ride.jpg" alt="Ferry Ride" style="width: 600px;"/>
+
 
 ### **Local Markets and Handicrafts**
 
@@ -103,7 +103,7 @@ While Elephanta Island itself offers a relatively straightforward experience, th
 *   **Photography Sessions:** The caves and the surrounding scenery offer excellent opportunities for photography.
 *   **Combine with Other Mumbai Attractions:** Plan a full day in Mumbai to see other famous sites such as the Gateway of India, Chhatrapati Shivaji Maharaj Terminus (CST), Marine Drive, or the Dhobi Ghat.
 
-<img src="placeholder_image_elephanta_caves_entrance.jpg" alt="Elephanta Caves Entrance" style="width: 600px;"/>
+
 
 ### **Conclusion**
 

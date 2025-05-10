@@ -16,7 +16,7 @@ tags:
 
 ### **Introduction**
 
-Yelagiri Hills, a serene hill station nestled in the Vellore district of Tamil Nadu, offers a tranquil escape from the bustling city life. Situated at an altitude of approximately 1,100 meters (3,600 feet) above sea level, this relatively unexplored paradise is a hidden gem, offering a refreshing climate, lush greenery, and a sense of peace. It lies approximately 225 kilometers (140 miles) from Chennai and is close to other popular destinations like Bangalore (approximately 150 km / 93 miles) making it an accessible weekend getaway. Yelagiri is primarily known for its natural beauty, offering breathtaking views, adventure opportunities, and a glimpse into the simple, rural life of the local communities. <img src="placeholder.jpg" alt="Yelagiri Hills Introduction">
+Yelagiri Hills, a serene hill station nestled in the Vellore district of Tamil Nadu, offers a tranquil escape from the bustling city life. Situated at an altitude of approximately 1,100 meters (3,600 feet) above sea level, this relatively unexplored paradise is a hidden gem, offering a refreshing climate, lush greenery, and a sense of peace. It lies approximately 225 kilometers (140 miles) from Chennai and is close to other popular destinations like Bangalore (approximately 150 km / 93 miles) making it an accessible weekend getaway. Yelagiri is primarily known for its natural beauty, offering breathtaking views, adventure opportunities, and a glimpse into the simple, rural life of the local communities. 
 
 ### **History and Cultural Heritage**
 
@@ -26,13 +26,13 @@ The cultural heritage of Yelagiri is vibrant and rooted in these tribal communit
 
 ### **Natural Beauty**
 
-Yelagiri's charm lies in its unspoiled natural beauty. The landscape is characterized by rolling hills, valleys blanketed in greenery, and numerous streams and waterfalls. <img src="placeholder.jpg" alt="Yelagiri Hills Natural Beauty"> The entire region is verdant with forests that provide a habitat for diverse flora and fauna. The most prominent feature is the Jalagamparai Falls, a scenic waterfall cascading from a considerable height, adding to the scenic beauty. The Swami Malai Hills, the highest point in Yelagiri, offer panoramic views of the surrounding hills and valleys, accessible via trekking trails. The Punganoor Lake, a man-made lake, is another significant landmark offering boating and recreational activities, surrounded by scenic gardens.
+Yelagiri's charm lies in its unspoiled natural beauty. The landscape is characterized by rolling hills, valleys blanketed in greenery, and numerous streams and waterfalls.  The entire region is verdant with forests that provide a habitat for diverse flora and fauna. The most prominent feature is the Jalagamparai Falls, a scenic waterfall cascading from a considerable height, adding to the scenic beauty. The Swami Malai Hills, the highest point in Yelagiri, offer panoramic views of the surrounding hills and valleys, accessible via trekking trails. The Punganoor Lake, a man-made lake, is another significant landmark offering boating and recreational activities, surrounded by scenic gardens.
 
 ### **Must-Visit Attractions**
 
 Yelagiri offers several attractions for tourists, catering to different interests.
 
-*   **Punganoor Lake:** A serene lake perfect for boating, with a well-maintained park surrounding it, offering a tranquil setting for relaxation and enjoying the scenic beauty. <img src="placeholder.jpg" alt="Punganoor Lake">
+*   **Punganoor Lake:** A serene lake perfect for boating, with a well-maintained park surrounding it, offering a tranquil setting for relaxation and enjoying the scenic beauty. 
 *   **Swami Malai Hills:** The highest point in Yelagiri, ideal for trekking enthusiasts and providing breathtaking views of the surrounding landscape.
 *   **Jalagamparai Falls:** A spectacular waterfall, a natural marvel, and a refreshing spot, especially during the monsoon season.
 *   **Murugan Temple:** A small temple dedicated to Lord Murugan, located on the way to the Swami Malai Hills, offering a spiritual experience.
@@ -41,7 +41,7 @@ Yelagiri offers several attractions for tourists, catering to different interest
 
 ### **Adventure Activities**
 
-Yelagiri is becoming increasingly popular among adventure enthusiasts. <img src="placeholder.jpg" alt="Yelagiri Hills Adventure Activities">
+Yelagiri is becoming increasingly popular among adventure enthusiasts. 
 
 *   **Trekking:** The region boasts numerous trekking trails, particularly to Swami Malai Hills, offering varying levels of difficulty, suitable for both beginners and experienced trekkers.
 *   **Paragliding:** Yelagiri is a popular paragliding destination, providing breathtaking aerial views of the valley. Several operators offer tandem flights for beginners.
@@ -90,7 +90,7 @@ Yelagiri offers a range of accommodation options to suit different budgets and p
 
 *   **Budget Hotels and Guesthouses:** Numerous budget-friendly hotels and guesthouses are available in Yelagiri, providing comfortable stays for travelers on a budget.
 *   **Mid-Range Hotels:** There are several mid-range hotels offering modern amenities, comfortable rooms, and on-site restaurants.
-*   **Luxury Resorts:** A few luxury resorts are located in Yelagiri, providing a premium experience with well-appointed rooms, swimming pools, and other luxury facilities. <img src="placeholder.jpg" alt="Yelagiri Hills Accommodation">
+*   **Luxury Resorts:** A few luxury resorts are located in Yelagiri, providing a premium experience with well-appointed rooms, swimming pools, and other luxury facilities. 
 *   **Homestays:** Several homestay options are available, offering a more personalized experience with local hospitality.
 
 ### **Offbeat Experiences**

@@ -28,37 +28,37 @@ The cultural significance of Parashuram Kund extends beyond Hindu mythology. The
 
 The setting of Parashuram Kund is undeniably breathtaking. Surrounded by the rugged mountains and dense forests of the eastern Himalayas, the landscape is a tapestry of verdant hills, fast-flowing rivers, and deep valleys. The Lohit River, a major tributary of the Brahmaputra, forms the Kund, carving its way through the region. The area is a haven for nature lovers, with opportunities to witness diverse flora and fauna. The journey to the Kund offers stunning views of the pristine landscapes, with the changing hues of the mountains and the vibrant green cover forming a visual spectacle. The region is also known for its tea plantations, adding another layer of beauty to the area.
 
-<img src="placeholder_image_parashuram_kund_natural_beauty.jpg" alt="Natural Beauty of Parashuram Kund">
+
 
 ### **Must-Visit Attractions**
 
 The primary attraction at Parashuram Kund is the Kund itself – a sacred pond where devotees take a holy dip. The temple dedicated to Parashuram, situated near the Kund, is another major draw. Visitors can also explore the scenic trails and viewpoints along the route, offering panoramic views of the surrounding mountains and valleys. Though there aren't many man-made structures beyond the temple and the various ghats (steps) leading to the Kund, the natural beauty itself is the main attraction. The surrounding area is dotted with small villages, offering a glimpse into the local way of life.
 
-<img src="placeholder_image_parashuram_kund_temple.jpg" alt="Parashuram Kund Temple">
+
 
 ### **Adventure Activities**
 
 Due to the challenging terrain, adventure activities in the immediate vicinity of Parashuram Kund are limited. However, the region offers opportunities for trekking and hiking, allowing visitors to explore the natural beauty of the area. The journey to the Kund itself is a form of adventure, requiring travelers to navigate rugged roads and terrains. While white-water rafting might be an option on the Lohit River, organized tours and infrastructure for such activities are not readily available. Bird watching is also a potential activity, with the diverse avifauna of the region.
 
-<img src="placeholder_image_parashuram_kund_trekking.jpg" alt="Trekking in Parashuram Kund">
+
 
 ### **Local Markets and Handicrafts**
 
 The immediate area around Parashuram Kund is not known for large markets or handicrafts. However, on the route leading to the Kund, travelers may find small shops and vendors selling basic necessities, souvenirs, and prayer items. The region is known for its traditional handloom products, including shawls, bags, and garments. The local Mishmi people are known for their intricate weaving patterns and the use of natural dyes. Visitors can also find local produce and herbal products in these small markets.
 
-<img src="placeholder_image_parashuram_kund_local_market.jpg" alt="Local Market near Parashuram Kund">
+
 
 ### **Food and Cuisine**
 
 The local cuisine around Parashuram Kund reflects the flavors of Arunachal Pradesh. The food is simple yet delicious, with an emphasis on fresh ingredients and local produce. Rice is a staple food, often served with various vegetable and meat preparations. Bamboo shoots, a common ingredient in many dishes, add a unique flavor. Popular dishes include *Pika Pila* (a traditional dish made with bamboo shoots and pork), *Thukpa* (noodle soup), and various preparations using local fish. The food is often spicy, reflecting the influence of the region's neighboring states. On the journey towards the Kund, simple dhabas (roadside eateries) offer basic meals to travelers.
 
-<img src="placeholder_image_parashuram_kund_local_food.jpg" alt="Local Food near Parashuram Kund">
+
 
 ### **Flora and Fauna**
 
 The region around Parashuram Kund is rich in biodiversity, forming part of the Eastern Himalayan ecosystem. The area is home to a diverse range of flora, including various species of orchids, rhododendrons, and other Himalayan plants. The dense forests provide a habitat for a variety of animals, including tigers, elephants, deer, and various species of birds. While organized wildlife safaris are not readily available, the surrounding forests offer opportunities for bird-watching and spotting wildlife. The Lohit River supports a rich aquatic life. The dense vegetation provides a green cover to the landscape.
 
-<img src="placeholder_image_parashuram_kund_flora_fauna.jpg" alt="Flora and Fauna of Parashuram Kund">
+
 
 ### **Best Time to Visit**
 
@@ -76,7 +76,7 @@ Accommodation options near Parashuram Kund are limited. Travelers usually stay i
 
 For those seeking offbeat experiences, the region around Parashuram Kund offers several opportunities. Visitors can explore the nearby villages, interact with the local Mishmi people, and learn about their customs and traditions. Trekking to lesser-known viewpoints and natural attractions in the surrounding mountains is another option. Volunteering opportunities might exist in the local community, allowing travelers to contribute to local development and gain a deeper understanding of the region. Experiencing the *Makar Sankranti* festival by staying with the local people is also an authentic and fulfilling experience.
 
-<img src="placeholder_image_parashuram_kund_local_culture.jpg" alt="Local Culture near Parashuram Kund">
+
 
 ### **Conclusion**
 

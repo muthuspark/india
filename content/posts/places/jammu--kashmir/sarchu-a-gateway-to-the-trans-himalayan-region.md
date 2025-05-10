@@ -23,13 +23,13 @@ Sarchu itself doesn't have a rich documented history in the traditional sense of
 
 The cultural heritage of Sarchu is intrinsically tied to the nomadic tribes, particularly the Changpa people, who have traditionally grazed their livestock in the high-altitude pastures of Ladakh. While there are no permanent settlements in Sarchu, the influence of Tibetan Buddhism is evident in the culture of the region. Travellers may encounter prayer flags fluttering in the wind, and the occasional Buddhist monk. The traditions, cuisine and general lifestyle reflect the Tibetan culture.
 
-<img src="placeholder_sarchu_cultural_heritage.jpg" alt="Cultural influences in Sarchu" width="600">
+
 
 ### **Natural Beauty**
 
 Sarchu is a visual spectacle, a testament to the raw power and beauty of the Himalayas. The landscape is a vast expanse of high-altitude desert, characterized by towering mountains, barren plateaus, and the meandering course of the Tsarap River. The dominant colors are the muted tones of the earth, with the stark contrast of snow-capped peaks in the distance. The air is crisp, and the silence is profound, broken only by the whistling wind and the occasional cry of a bird.
 
-<img src="placeholder_sarchu_natural_beauty.jpg" alt="Stunning Himalayan Landscape" width="600">
+
 
 The most prominent natural attraction is the vastness of the open plains, bordered by the imposing Zanskar Range. Visitors can witness the breathtaking beauty of the Tsarap River, a tributary of the Zanskar River, which carves its way through the landscape. The sunrise and sunset offer the most spectacular views, painting the sky with vibrant hues of orange, pink, and purple, reflecting off the surrounding mountains.
 
@@ -68,7 +68,7 @@ Dining options in Sarchu are limited, primarily catering to travelers' needs.
 *   **Indian Cuisine:** Standard Indian meals like rice, dal, vegetables, and chapati are typically available.
 *   **Important Note:** Food options can be basic and availability is reliant on the season. High altitude can affect digestion, so start with lighter meals.
 
-<img src="placeholder_sarchu_food.jpg" alt="Basic food options in Sarchu" width="600">
+
 
 ### **Flora and Fauna**
 
@@ -109,7 +109,7 @@ Accommodation in Sarchu primarily consists of campsites and tented accommodation
     *   **Check Amenities:** Be sure to check the amenities available at the campsite and be prepared for limited facilities.
     *   **Altitude:** Be aware that the altitude can affect your sleep and overall health.
 
-<img src="placeholder_sarchu_camps.jpg" alt="Campsite at Sarchu" width="600">
+
 
 ### **Offbeat Experiences**
 

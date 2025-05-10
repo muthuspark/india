@@ -21,11 +21,11 @@ Moreh, a vibrant border town situated in the Tengnoupal district of Manipur, Ind
 
 The history of Moreh is closely intertwined with the broader history of Manipur, a kingdom with a rich and independent past. Over the centuries, the region has witnessed various waves of migration and cultural exchange, shaping its distinct identity. While specific historical records for Moreh are limited due to its relatively recent development as a significant town, its importance grew with the opening of trade routes between India and Myanmar. The colonial influence is evident in the infrastructure and the administrative systems implemented during the British rule in the region.
 
-The cultural heritage of Moreh is a fascinating mix of influences. The dominant culture is Manipuri, characterized by its unique dance forms (Ras Leela being the most famous), music, and traditions. However, due to its proximity to Myanmar, Burmese cultural influences, including language, food, and customs, are prominent. Festivals celebrated in Moreh include those observed by both the Manipuri community (like Yaoshang, the local version of Holi) and the Myanmar communities. <img src="placeholder_image_tag_cultural_festival.jpg" alt="Cultural Festival in Moreh"> Religious sites reflect the diverse cultural landscape. Temples dedicated to local deities are common, alongside Buddhist monasteries and potentially some Christian churches as well.
+The cultural heritage of Moreh is a fascinating mix of influences. The dominant culture is Manipuri, characterized by its unique dance forms (Ras Leela being the most famous), music, and traditions. However, due to its proximity to Myanmar, Burmese cultural influences, including language, food, and customs, are prominent. Festivals celebrated in Moreh include those observed by both the Manipuri community (like Yaoshang, the local version of Holi) and the Myanmar communities.  Religious sites reflect the diverse cultural landscape. Temples dedicated to local deities are common, alongside Buddhist monasteries and potentially some Christian churches as well.
 
 ### **Natural Beauty**
 
-Moreh is situated in the foothills, providing a beautiful view of the green rolling hills and valleys. The surrounding landscape of the region is characterized by lush green hills and dense forests that are part of the Indo-Burma biodiversity hotspot. The climate is generally pleasant, especially during the dry season, with the potential for stunning views from higher vantage points within and around the town. While specific viewpoints might be underdeveloped, the hills surrounding Moreh offer opportunities for panoramic vistas. Rivers and streams are common in the region, adding to its natural beauty. <img src="placeholder_image_tag_landscape.jpg" alt="Landscape of Moreh">
+Moreh is situated in the foothills, providing a beautiful view of the green rolling hills and valleys. The surrounding landscape of the region is characterized by lush green hills and dense forests that are part of the Indo-Burma biodiversity hotspot. The climate is generally pleasant, especially during the dry season, with the potential for stunning views from higher vantage points within and around the town. While specific viewpoints might be underdeveloped, the hills surrounding Moreh offer opportunities for panoramic vistas. Rivers and streams are common in the region, adding to its natural beauty. 
 
 ### **Must-Visit Attractions**
 
@@ -33,7 +33,7 @@ The primary attraction in Moreh itself is the bustling commercial activity and c
 
 **Specific sites of interest include:**
 
-*   **Integrated Check Post (ICP) Moreh:** This is a major gateway for trade and travel between India and Myanmar. The ICP is worth visiting to understand the logistics of cross-border trade and travel. <img src="placeholder_image_tag_ICP_Moreh.jpg" alt="Integrated Check Post (ICP) Moreh">
+*   **Integrated Check Post (ICP) Moreh:** This is a major gateway for trade and travel between India and Myanmar. The ICP is worth visiting to understand the logistics of cross-border trade and travel. 
 *   **The Main Bazaar (Moreh Market):** A must-visit to experience the heart of the town. The market is a fascinating place to observe the blend of cultures and a great place to pick up souvenirs.
 *   **Local Temples and Religious Sites:** Explore the temples and monasteries to understand the religious practices of the local people.
 *   **Day trip to Tamu, Myanmar:** The town across the border, Tamu in Myanmar, is a short distance away and offers a different cultural experience. A visa may be required, so visitors should check the latest travel regulations.
@@ -51,7 +51,7 @@ While not known for extreme adventure activities, the hilly terrain around Moreh
 Moreh's markets are the heart of its commerce and culture. These markets showcase a wide array of goods from both India and Myanmar.
 
 *   **The Main Bazaar:** This is the primary market for handicrafts, clothing, electronics, and food items.
-*   **Handicrafts:** Moreh is a good place to find traditional Manipuri handicrafts, including handwoven textiles, bamboo and cane products, and local pottery. <img src="placeholder_image_tag_handicrafts.jpg" alt="Handicrafts of Moreh">
+*   **Handicrafts:** Moreh is a good place to find traditional Manipuri handicrafts, including handwoven textiles, bamboo and cane products, and local pottery. 
 *   **Textiles:** Manipuri textiles are particularly renowned. Look for traditional designs and handloom products.
 *   **Souvenirs:** A range of souvenirs from both India and Myanmar can be found in the markets.
 
@@ -62,7 +62,7 @@ Moreh's cuisine is a delicious fusion of Manipuri and Burmese flavors.
 *   **Manipuri Cuisine:** Known for its unique flavors, Manipuri dishes often feature rice, vegetables, and fish, seasoned with local herbs and spices. "Eromba" (a fermented fish preparation) and "Singju" (a spicy salad) are local favorites.
 *   **Burmese Cuisine:** The influence of Burmese cuisine is seen in the use of noodles, soups, and curries, sometimes with a distinct Southeast Asian touch.
 *   **Street Food:** Try the local street food vendors, who offer a mix of snacks and meals that will tantalize your taste buds.
-*   **Restaurants and Cafes:** Various restaurants and cafes in Moreh offer both local and international cuisine, catering to the tastes of traders, travelers, and locals. <img src="placeholder_image_tag_local_cuisine.jpg" alt="Local Cuisine in Moreh">
+*   **Restaurants and Cafes:** Various restaurants and cafes in Moreh offer both local and international cuisine, catering to the tastes of traders, travelers, and locals. 
 
 ### **Flora and Fauna**
 

@@ -21,7 +21,7 @@ Jaisalmer Fort, also known as Sonar Quila (Golden Fort) due to its yellow sandst
 
 The history of Jaisalmer Fort is deeply intertwined with the Bhati Rajput dynasty.  Founded in 1156 AD by the Rajput ruler Rawal Jaisal, the fort has witnessed centuries of battles, sieges, and prosperity.  The fort's location along important trade routes, including the ancient Silk Road, made it a valuable strategic and economic asset.  The fort has seen raids by various invaders including the Ghurid Empire. Over time, the fort's walls were fortified and strengthened. The Mughals briefly controlled Jaisalmer Fort during the Mughal empire.  Following independence, it was incorporated into the Indian state of Rajasthan.
 
-<placeholder image tag for: Historical map of Jaisalmer Fort during various eras>
+
 
 Culturally, Jaisalmer is a treasure trove of traditions. The Thar Desert environment has significantly influenced Jaisalmer’s festivals and cuisine. The **Jaisalmer Desert Festival**, held annually in February, is a vibrant celebration of music, dance, and cultural performances that showcases the region's rich heritage.  The fort itself houses several Jain temples, including the **Jain Temples of Jaisalmer Fort**, known for their intricate carvings and exquisite architecture. The royal palace, the **Raj Mahal**, within the fort offers insights into the lives of the Rajput rulers. Other notable landmarks include the **Gyan Bhandar**, an ancient library of Jain manuscripts. The fort is a living testament to Rajput valor, artistic brilliance, and desert resilience.
 
@@ -29,7 +29,7 @@ Culturally, Jaisalmer is a treasure trove of traditions. The Thar Desert environ
 
 Jaisalmer is located in the heart of the vast Thar Desert, a landscape of undulating sand dunes, scrub vegetation, and dramatic sunsets. The fort, sitting on Trikuta Hill, dominates the surrounding arid terrain. The views from the fort's ramparts offer a panoramic vista of the golden city and the desert expanse, making it a popular spot for photographers and tourists.
 
-<placeholder image tag for: Panoramic view of the desert from Jaisalmer Fort>
+
 
 The **Sam Sand Dunes**, a short distance from Jaisalmer, provide a quintessential desert experience. Visitors can enjoy camel safaris, jeep rides, and camping under the starlit desert sky. Other notable natural attractions include the **Desert National Park**, which is home to a unique ecosystem and a rich diversity of wildlife adapted to the harsh desert conditions.
 
@@ -37,7 +37,7 @@ The **Sam Sand Dunes**, a short distance from Jaisalmer, provide a quintessentia
 
 Jaisalmer Fort is the centerpiece and a must-visit attraction.
 
-<placeholder image tag for: The main entrance gate of Jaisalmer Fort>
+
 
 Other key attractions include:
 
@@ -68,7 +68,7 @@ Jaisalmer is a paradise for shoppers, with a vibrant array of local markets and 
 *   **Manak Chowk:** Known for its handicrafts, textiles, and souvenirs.
 *   **Pansari Bazaar:** Offers a range of spices, teas, and other local produce.
 
-<placeholder image tag for: Local artisans working on handicrafts in Jaisalmer>
+
 
 Specialties include:
 
@@ -82,7 +82,7 @@ Specialties include:
 
 The cuisine of Jaisalmer reflects the flavors of the desert, with an emphasis on spicy, savory dishes.
 
-<placeholder image tag for: A spread of Rajasthani cuisine in Jaisalmer>
+
 
 *   **Dal Baati Churma:** A traditional Rajasthani dish consisting of lentils, baked wheat balls, and a sweet dessert made with crushed wheat, ghee, and sugar.
 *   **Gatte Ki Sabzi:**  Vegetable curry made from gram flour dumplings.
@@ -106,7 +106,7 @@ The cuisine of Jaisalmer reflects the flavors of the desert, with an emphasis on
 
 Jaisalmer's flora and fauna are adapted to the harsh desert environment. The **Desert National Park** is a major attraction for wildlife enthusiasts.
 
-<placeholder image tag for: A glimpse of the diverse wildlife in Desert National Park>
+
 
 *   **Flora:** The region is characterized by thorny bushes, xerophytes, and drought-resistant plants.
 *   **Fauna:**  The park is home to a variety of desert wildlife, including the Great Indian Bustard (a critically endangered species), the Indian gazelle, desert fox, desert cat, and various species of birds.
@@ -115,7 +115,7 @@ Jaisalmer's flora and fauna are adapted to the harsh desert environment. The **D
 
 The best time to visit Jaisalmer is during the winter months, from **October to March**. The weather is pleasant, with temperatures ranging from 10°C to 25°C (50°F to 77°F). The desert heat during summer (April to June) can be extreme.
 
-<placeholder image tag for: A depiction of the seasons in Jaisalmer>
+
 
 *   **Jaisalmer Desert Festival:** This annual festival (usually in February) is a major highlight.
 *   **Teej Festival:** Celebrated during the monsoon season, it showcases vibrant celebrations.

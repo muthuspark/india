@@ -27,7 +27,7 @@ The cultural heritage of Mawlynnong is rich and vibrant, with the Khasi culture 
 
 Mawlynnong is blessed with an enchanting natural landscape. The village is enveloped by lush greenery, verdant hills, and a refreshing climate. The surrounding forests are teeming with diverse flora and fauna, offering stunning views and tranquil environments. The landscape is dotted with cascading waterfalls and streams. The area is often shrouded in mist, adding to its mystical charm.
 
-<img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty of Mawlynnong">
+
 
 One of the best viewpoints in Mawlynnong is the *Sky View Point*, a bamboo machan (lookout) built atop a tree, providing panoramic vistas of the Bangladesh plains and the surrounding hills. Another natural marvel is the *Living Root Bridge* in Riwai, a neighboring village, crafted by the Khasi people over centuries. The bridge is made by guiding the roots of rubber trees across a stream, forming a natural bridge. The cascading waterfalls, located nearby provide a refreshing respite, and are perfect spots for photography. The pristine air and clean surroundings further amplify the feeling of immersion in nature.
 
@@ -35,7 +35,7 @@ One of the best viewpoints in Mawlynnong is the *Sky View Point*, a bamboo macha
 
 Mawlynnong itself is the primary attraction. Walking through the village, one can admire the well-maintained houses, the clean streets, and the vibrant community.
 
-<img src="placeholder_image_mawlynnong_village.jpg" alt="Mawlynnong Village">
+
 
 The *Sky View Point* is a must-visit, as it provides breathtaking views of the surrounding landscapes, including the Bangladesh plains. The *Living Root Bridge* at Riwai, located nearby, is a spectacular example of indigenous engineering and is easily accessible from Mawlynnong. The *Balancing Rock*, a naturally formed boulder precariously balanced on another smaller rock, is another fascinating geological formation to visit, located within the village. The *Church of the Immaculate Conception*, a historic church built in 1902, adds to the village’s charm, showcasing its history and architectural beauty. Visitors can also explore the surrounding forests and trails, immersing themselves in the village's natural beauty.
 
@@ -43,7 +43,7 @@ The *Sky View Point* is a must-visit, as it provides breathtaking views of the s
 
 While Mawlynnong is primarily known for its serenity, it also offers opportunities for soft adventure.
 
-<img src="placeholder_image_adventure_activities.jpg" alt="Adventure Activities in Mawlynnong">
+
 
 *   **Trekking:** Nature walks and short treks through the surrounding forests are a popular activity. The trails offer opportunities to spot diverse flora and fauna, and to enjoy the scenic beauty of the region.
 *   **Hiking:** The hike to the Living Root Bridge at Riwai is a must, offering an opportunity to cross a stream and enjoy the lush green surroundings.
@@ -54,7 +54,7 @@ While Mawlynnong is primarily known for its serenity, it also offers opportuniti
 
 Mawlynnong doesn't have large-scale markets, but small stalls and shops are a common sight in and around the village.
 
-<img src="placeholder_image_local_markets.jpg" alt="Local Markets in Mawlynnong">
+
 
 Visitors can find locally-made handicrafts, souvenirs, and traditional Khasi clothing. Woven textiles, bamboo crafts, and wooden artifacts are popular items. The small shops offer a range of options, from small trinkets to local products, making them perfect for taking home souvenirs. Visitors can also find fresh produce, honey, and other local products.
 
@@ -62,7 +62,7 @@ Visitors can find locally-made handicrafts, souvenirs, and traditional Khasi clo
 
 The food in Mawlynnong and the surrounding region features distinctive flavors reflecting the Khasi culinary tradition.
 
-<img src="placeholder_image_local_cuisine.jpg" alt="Local Cuisine">
+
 
 *   **Jadoh:** A Khasi delicacy consisting of rice cooked with pig's blood.
 *   **Dohkhlieh:** A salad made of pork with onions and chili.
@@ -77,7 +77,7 @@ While there aren't many restaurants in Mawlynnong, the homestays often serve tra
 
 The East Khasi Hills, where Mawlynnong is situated, are known for their rich biodiversity.
 
-<img src="placeholder_image_flora_fauna.jpg" alt="Flora and Fauna of Mawlynnong">
+
 
 *   **Flora:** The area is rich in flowering plants, including orchids, rhododendrons, and various other species. The forests are home to diverse tree species and medicinal plants.
 *   **Fauna:** The region provides habitat for a variety of birds, butterflies, and small mammals. The forests are home to the Assam macaque, leopards, and various types of deer. Bird watchers may enjoy the sighting of the Hornbill and other various birds.
@@ -105,7 +105,7 @@ Reaching Mawlynnong involves a combination of air and road travel.
 
 Accommodation options in Mawlynnong are primarily homestays and guesthouses.
 
-<img src="placeholder_image_accommodation.jpg" alt="Accommodation Options in Mawlynnong">
+
 
 *   **Homestays:** These are the most common accommodation options in the village. Homestays provide a chance to stay with the local families, allowing for a cultural immersion. They are simple, clean, and comfortable, providing basic amenities.
 *   **Guesthouses:** There are a few guesthouses in the village that offer slightly more amenities, but they are still basic and designed to respect the village’s commitment to sustainability.

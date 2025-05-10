@@ -31,14 +31,14 @@ Dras is surrounded by a breathtaking landscape of stark beauty. The terrain is c
 
 The landscape is particularly stunning during the summer when the snow melts, revealing pockets of green vegetation and vibrant wildflowers. The viewpoints along the Srinagar-Leh highway offer breathtaking views of the Dras valley. The area surrounding Dras provides visitors with a sense of peace and tranquility amidst the magnificent natural surroundings.
 
-<img src="placeholder_image_dras_landscape.jpg" alt="Dras valley landscape">
+
 
 ### **Must-Visit Attractions**
 
 While Dras itself is a relatively small town, it offers several attractions that provide insight into its history, culture, and natural beauty.
 
-*   **The Dras War Memorial:** This memorial commemorates the brave soldiers who sacrificed their lives during the Kargil War. <img src="placeholder_image_dras_war_memorial.jpg" alt="Dras War Memorial"> It's a poignant site that offers a deep reflection on the sacrifices made in the name of national defense.
-*   **Mushkoh Valley:** This picturesque valley, located near Dras, is known for its scenic beauty and is a popular trekking destination. <img src="placeholder_image_mushkoh_valley.jpg" alt="Mushkoh Valley">
+*   **The Dras War Memorial:** This memorial commemorates the brave soldiers who sacrificed their lives during the Kargil War.  It's a poignant site that offers a deep reflection on the sacrifices made in the name of national defense.
+*   **Mushkoh Valley:** This picturesque valley, located near Dras, is known for its scenic beauty and is a popular trekking destination. 
 *   **Tolo Ling:** This strategic peak played a significant role during the Kargil War and offers panoramic views of the surrounding mountains and valleys.
 *   **The Dras River:** The river, a natural feature, offers a glimpse into the lifeblood of this region. You can see the river from the viewpoints along the Srinagar-Leh highway.
 

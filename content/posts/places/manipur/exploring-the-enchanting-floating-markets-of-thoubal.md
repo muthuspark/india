@@ -29,7 +29,7 @@ Several historical landmarks and religious sites are scattered throughout the di
 
 Thoubal is blessed with a lush landscape characterized by fertile plains, meandering rivers, and verdant hills in the background. The Imphal River flows through the region, enriching the agricultural lands and providing a scenic backdrop. Several viewpoints within and around the district offer stunning panoramic views of the surrounding valleys, especially during sunrise and sunset.
 
-<img src="placeholder_image_river_view.jpg" alt="View of the Imphal River from Thoubal">
+
 
 The district’s natural environment is primarily agricultural, with rice paddies, vegetable farms, and fruit orchards. The presence of natural lakes and wetlands contribute to the biodiversity of the region. While Thoubal itself may not have extensive designated parks, the surrounding areas and close proximity to attractions like Loktak Lake provide opportunities for nature exploration.
 
@@ -38,11 +38,11 @@ The district’s natural environment is primarily agricultural, with rice paddie
 While Thoubal doesn't boast sprawling tourist complexes, several attractions offer unique cultural and natural experiences:
 
 *   **Thoubal Bazar:** A vibrant marketplace where you can experience the local culture, find local handicrafts, and sample Manipuri cuisine.
-    <img src="placeholder_image_thoubal_bazar.jpg" alt="View of Thoubal Bazar">
+    
 *   **Waithou Lake:** This is a relatively smaller lake compared to Loktak. It is a good place for bird watching and relaxation.
-    <img src="placeholder_image_waithou_lake.jpg" alt="View of Waithou Lake">
+    
 *   **Nearby Loktak Lake:** Though not in Thoubal, a trip to Loktak Lake (around 30-40 km) is an absolute must. The lake's floating islands (phumdis) and the Keibul Lamjao National Park (home to the endangered Sangai deer) are remarkable sights.
-    <img src="placeholder_image_loktak_lake.jpg" alt="View of Loktak Lake and Phumdis">
+    
 *   **IKhangkhong (Khoibu):** The historical site is very important for Meeteis and is one of the oldest villages in the Thoubal District.
 
 ### **Adventure Activities**

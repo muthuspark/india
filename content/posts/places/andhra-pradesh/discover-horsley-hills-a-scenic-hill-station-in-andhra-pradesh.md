@@ -32,7 +32,7 @@ Historical landmarks are limited in the immediate area, however, the presence of
 
 Horsley Hills boasts a breathtaking landscape that is a testament to the beauty of nature. The hills are characterized by dense vegetation, including eucalyptus, sandalwood, mahogany, and various species of flowering plants, making them a botanist’s delight.
 
-<img src="placeholder_image_horsley_hills_landscape.jpg" alt="Horsley Hills Landscape">
+
 
 The most prominent natural features are the rolling hills and valleys, offering spectacular views from various viewpoints. **Gali Bandalu** (Wind Rocks) is one of the most popular vantage points, known for its strong winds and mesmerizing vistas. From here, visitors can witness stunning sunrises and sunsets over the surrounding landscapes. Another key natural attraction is **Lake Gangotri**, a small serene lake that reflects the beauty of the surrounding hills and offers a relaxing experience for visitors.
 
@@ -43,7 +43,7 @@ The forests surrounding the hills contribute to the fresh and cool climate of th
 Horsley Hills offers a range of attractions that cater to different interests:
 
 *   **Horsley Hills Zoo**: This small zoo houses a variety of animals, including peacocks, monkeys, and other native species. It’s a great attraction, especially for families.
-    <img src="placeholder_image_horsley_hills_zoo.jpg" alt="Horsley Hills Zoo">
+    
 *   **Gali Bandalu**: As mentioned before, this is a must-visit viewpoint that offers panoramic views and a chance to experience the strong winds.
 *   **Lake Gangotri**: A serene spot for relaxation and enjoying the tranquil atmosphere.
 *   **Horsley Bungalow**: A glimpse into the colonial past and a piece of the area’s history.
@@ -63,7 +63,7 @@ Horsley Hills offers opportunities for both laid-back and adventure-seeking trav
 
 While Horsley Hills doesn’t have a large local market within its immediate vicinity, the nearby towns and cities like Madanapalle offer opportunities for shopping.
 
-<img src="placeholder_image_horsley_hills_local_market.jpg" alt="Horsley Hills Local Market">
+
 
 Visitors might find local vendors selling some handicrafts and souvenirs, particularly those related to the region. The focus, however, is more on enjoying the natural surroundings rather than extensive shopping. Given its proximity to the major cities of Andhra Pradesh, visitors can find handcrafted items.
 
@@ -82,7 +82,7 @@ The flora and fauna of Horsley Hills are rich and diverse, adding to its appeal:
 
 *   **Flora**: The hills are covered with dense forests containing eucalyptus, sandalwood, mahogany, teak, and various species of flowering plants. The area’s plantations contribute to the beauty and the refreshing climate.
 *   **Fauna**: The area is home to a variety of animals, including deer, monkeys, and various species of birds. The small zoo also showcases some of the local fauna.
-    <img src="placeholder_image_horsley_hills_flora_fauna.jpg" alt="Horsley Hills Flora and Fauna">
+    
 
 ### **Best Time to Visit**
 
@@ -106,7 +106,7 @@ Horsley Hills offers a variety of accommodation options to suit different budget
 *   **Guest Houses**: Budget-friendly guest houses are also available for those looking for economical options.
 *   **Unique Stays**: Some heritage bungalows offer a unique experience with a touch of the past.
 
-<img src="placeholder_image_horsley_hills_accommodation.jpg" alt="Horsley Hills Accommodation">
+
 
 ### **Offbeat Experiences**
 

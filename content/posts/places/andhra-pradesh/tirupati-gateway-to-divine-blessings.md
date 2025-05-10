@@ -25,7 +25,7 @@ The cultural heritage of Tirupati is vibrant, characterized by religious traditi
 
 ### **Natural Beauty**
 
-The natural beauty of Tirupati is dominated by the Seshachalam Hills, a range of ancient hills, that are part of the Eastern Ghats. The hills are covered with lush greenery, including dense forests with rich biodiversity. The landscape features rolling hills, deep valleys, and numerous water bodies, including the Papavinasanam Teertham, a sacred waterfall. The beauty of the region is enhanced by the serene atmosphere that permeates the area, particularly in the hills.  Several viewpoints offer breathtaking panoramic views, allowing visitors to appreciate the natural splendor. <img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty of Tirupati">
+The natural beauty of Tirupati is dominated by the Seshachalam Hills, a range of ancient hills, that are part of the Eastern Ghats. The hills are covered with lush greenery, including dense forests with rich biodiversity. The landscape features rolling hills, deep valleys, and numerous water bodies, including the Papavinasanam Teertham, a sacred waterfall. The beauty of the region is enhanced by the serene atmosphere that permeates the area, particularly in the hills.  Several viewpoints offer breathtaking panoramic views, allowing visitors to appreciate the natural splendor. 
 
 ### **Must-Visit Attractions**
 
@@ -34,7 +34,7 @@ The Sri Venkateswara Temple, also known as the Tirumala Tirupati Balaji Temple, 
 *   **Sri Padmavathi Ammavari Temple:** Located in Tiruchanur, dedicated to the consort of Lord Venkateswara.
 *   **Govindaraja Swamy Temple:** One of the oldest temples in Tirupati, dedicated to Lord Govindaraja, the elder brother of Lord Venkateswara.
 *   **Kapila Theertham:** A temple with a waterfall, and dedicated to Lord Shiva.
-*   **Silathoranam:** A natural rock formation, geologically significant and a must-see for visitors interested in geology. <img src="placeholder_image_must_visit_attractions.jpg" alt="Must-Visit Attractions">
+*   **Silathoranam:** A natural rock formation, geologically significant and a must-see for visitors interested in geology. 
 
 ### **Adventure Activities**
 
@@ -42,7 +42,7 @@ Tirupati and the surrounding region offer several opportunities for adventure en
 
 ### **Local Markets and Handicrafts**
 
-Tirupati’s local markets are a vibrant hub of activity, offering a wide range of goods, from religious paraphernalia to everyday necessities. The local markets are known for the sale of traditional clothing, religious items, souvenirs, and handicrafts. Tirupati is not particularly known for specific handicraft specialities. However, visitors can often find hand-made crafts that reflect local artistic traditions. <img src="placeholder_image_local_markets.jpg" alt="Local Markets and Handicrafts">
+Tirupati’s local markets are a vibrant hub of activity, offering a wide range of goods, from religious paraphernalia to everyday necessities. The local markets are known for the sale of traditional clothing, religious items, souvenirs, and handicrafts. Tirupati is not particularly known for specific handicraft specialities. However, visitors can often find hand-made crafts that reflect local artistic traditions. 
 
 ### **Food and Cuisine**
 
@@ -54,7 +54,7 @@ The cuisine of Tirupati reflects South Indian culinary traditions, with a strong
 
 ### **Flora and Fauna**
 
-The Seshachalam Hills, which surround Tirupati, are a biodiversity hotspot. The region is home to a wide variety of plant and animal species. The hills are part of the Seshachalam Biosphere Reserve, offering the opportunity to encounter diverse flora and fauna. Wildlife sightings include various species of birds, reptiles, and mammals.  The forests are known for their sandalwood trees, which have historical and economic significance.  <img src="placeholder_image_flora_fauna.jpg" alt="Flora and Fauna">
+The Seshachalam Hills, which surround Tirupati, are a biodiversity hotspot. The region is home to a wide variety of plant and animal species. The hills are part of the Seshachalam Biosphere Reserve, offering the opportunity to encounter diverse flora and fauna. Wildlife sightings include various species of birds, reptiles, and mammals.  The forests are known for their sandalwood trees, which have historical and economic significance.  
 
 ### **Best Time to Visit**
 
@@ -72,7 +72,7 @@ Tirupati offers a wide range of accommodation options to suit different budgets.
 *   **Budget Stays:** Numerous budget hotels and guesthouses are available near the railway station and bus stand.
 *   **Mid-Range Hotels:** Several comfortable hotels offer better amenities and services.
 *   **Luxury Hotels:** Upscale hotels and resorts provide luxurious experiences.
-*   **TTD (Tirumala Tirupati Devasthanam) Accommodation:** The TTD provides accommodation options to pilgrims, including cottages and guesthouses in Tirumala and Tirupati. <img src="placeholder_image_accommodation.jpg" alt="Accommodation Options">
+*   **TTD (Tirumala Tirupati Devasthanam) Accommodation:** The TTD provides accommodation options to pilgrims, including cottages and guesthouses in Tirumala and Tirupati. 
 
 ### **Offbeat Experiences**
 

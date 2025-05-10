@@ -22,7 +22,7 @@ Gurez Valley, a hidden gem nestled in the northernmost part of Jammu and Kashmir
 
 The history of Gurez Valley is intricately woven with the ancient Silk Route, serving as a critical transit point for trade and cultural exchange between Kashmir and Central Asia. The region has been influenced by various empires and kingdoms, including the Dardic civilization, who are considered the original inhabitants of the valley. The Dardic culture is prominently reflected in the language (Shina), traditions, and customs of the local population.
 
-<img src="placeholder_image_gurez_historical_site.jpg" alt="Historical site in Gurez Valley" >
+
 
 The valley witnessed periods of rule by the Mughals, the Dogras, and later, the British. Historical accounts and remnants, though few, hint at the significance of Gurez as a strategic location. The partition of India in 1947 and the subsequent formation of the Line of Control (LoC) divided the valley, with a portion falling under Pakistan's administration. This geographical division has resulted in a unique cultural interaction between the two sides, with the Dardi people maintaining their cultural identity despite living on both sides of the border. The valley’s cultural landscape is enriched by vibrant festivals, traditional music and dance, and ancient folklore passed down through generations, reflecting a blend of Kashmiri and Central Asian influences.
 
@@ -30,7 +30,7 @@ The valley witnessed periods of rule by the Mughals, the Dogras, and later, the 
 
 Gurez Valley is a testament to nature’s artistry, with its breathtaking landscape dominated by towering mountains, lush green meadows, and the gushing Kishanganga River. The iconic Habba Khatoon peak, named after the famous Kashmiri poetess Habba Khatoon, is a majestic landmark that offers panoramic views of the valley. The river, also known as the Neelum River, cuts through the valley, providing a life source and enhancing its natural beauty.
 
-<img src="placeholder_image_gurez_valley_landscape.jpg" alt="Gurez Valley Landscape" >
+
 
 The diverse ecosystem supports a rich variety of flora and fauna. The area is surrounded by dense forests of coniferous trees, including pine and fir, along with a variety of alpine flora, providing a vibrant display of seasonal colours. The viewpoints at various locations offer breathtaking vistas, especially during sunrise and sunset. The high-altitude meadows and alpine pastures provide opportunities for leisurely walks and trekking, allowing visitors to connect with the valley's pristine beauty.
 
@@ -38,7 +38,7 @@ The diverse ecosystem supports a rich variety of flora and fauna. The area is su
 
 Gurez Valley is replete with attractions that captivate visitors. The Habba Khatoon peak stands out as an iconic landmark, known for its unique shape and the legends surrounding it.
 
-<img src="placeholder_image_habba_khatoon_peak.jpg" alt="Habba Khatoon Peak" >
+
 
 **Other notable attractions include:**
 
@@ -53,7 +53,7 @@ Gurez Valley is replete with attractions that captivate visitors. The Habba Khat
 
 Gurez Valley presents a range of adventure activities for thrill-seekers. Trekking is a popular activity, with various trails catering to different levels of experience.
 
-<img src="placeholder_image_trekking_gurez_valley.jpg" alt="Trekking in Gurez Valley" >
+
 
 **Some of the adventure opportunities include:**
 
@@ -67,7 +67,7 @@ Gurez Valley presents a range of adventure activities for thrill-seekers. Trekki
 
 Gurez Valley is not known for large markets, but you can find local handicrafts and traditional items in the small shops in Dawar.
 
-<img src="placeholder_image_gurez_handicrafts.jpg" alt="Local handicrafts in Gurez" >
+
 
 The local artisans create beautiful handmade crafts, including:
 
@@ -80,7 +80,7 @@ The local artisans create beautiful handmade crafts, including:
 
 The cuisine in Gurez Valley is a delightful reflection of the local culture, with simple yet flavorful dishes.
 
-<img src="placeholder_image_gurez_cuisine.jpg" alt="Gurez Cuisine" >
+
 
 **Some popular dishes and culinary experiences:**
 
@@ -127,7 +127,7 @@ Gurez Valley provides a variety of accommodation options to suit different budge
 *   **Homestays:** Homestays are a good option for an authentic experience. They provide the opportunity to interact with the local people and enjoy home-cooked meals.
 *   **Camping:** Several spots provide camping opportunities.
 
-<img src="placeholder_image_gurez_accommodation.jpg" alt="Gurez Accommodation" >
+
 
 ### **Offbeat Experiences**
 

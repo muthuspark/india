@@ -23,15 +23,15 @@ While Netrani Island itself is uninhabited, its waters have likely been navigate
 
 ###  **Natural Beauty**
 
-Netrani Island is a visual masterpiece, rising steeply from the Arabian Sea. Its most striking feature is its unique heart shape. The island is composed primarily of basalt rock, sculpted by centuries of weathering and wave action. <img src="placeholder_image_Netrani_Island_Shape.jpg" alt="Image of Netrani Island's heart shape"> The waters surrounding the island are exceptionally clear, offering exceptional visibility for divers and snorkelers. The underwater landscape is equally captivating, featuring rocky reefs, dramatic drop-offs, and abundant coral formations. Although terrestrial vegetation is limited due to the rocky terrain and the presence of seabirds, the surrounding waters teem with marine life, making it a vibrant ecosystem.
+Netrani Island is a visual masterpiece, rising steeply from the Arabian Sea. Its most striking feature is its unique heart shape. The island is composed primarily of basalt rock, sculpted by centuries of weathering and wave action.  The waters surrounding the island are exceptionally clear, offering exceptional visibility for divers and snorkelers. The underwater landscape is equally captivating, featuring rocky reefs, dramatic drop-offs, and abundant coral formations. Although terrestrial vegetation is limited due to the rocky terrain and the presence of seabirds, the surrounding waters teem with marine life, making it a vibrant ecosystem.
 
 ### **Must-Visit Attractions**
 
-The primary attraction of Netrani Island is its exceptional scuba diving and snorkeling opportunities. <img src="placeholder_image_Diving_Netrani_Island.jpg" alt="Image of Scuba Diving at Netrani Island"> The diverse marine life includes a wide variety of fish species, including barracuda, manta rays, whale sharks (seasonally), stingrays, triggerfish, parrotfish, and grouper. The vibrant coral reefs provide a home for countless invertebrates and other organisms. There aren't any traditional tourist attractions such as temples or museums directly on the island. However, the experience of witnessing the underwater world and the journey to the island itself are the main attractions.
+The primary attraction of Netrani Island is its exceptional scuba diving and snorkeling opportunities.  The diverse marine life includes a wide variety of fish species, including barracuda, manta rays, whale sharks (seasonally), stingrays, triggerfish, parrotfish, and grouper. The vibrant coral reefs provide a home for countless invertebrates and other organisms. There aren't any traditional tourist attractions such as temples or museums directly on the island. However, the experience of witnessing the underwater world and the journey to the island itself are the main attractions.
 
 ### **Adventure Activities**
 
-Netrani Island is primarily known for its scuba diving and snorkeling opportunities. <img src="placeholder_image_Snorkeling_Netrani_Island.jpg" alt="Image of Snorkeling at Netrani Island"> Several dive centers in Murudeshwar and nearby towns organize trips to the island. Diving conditions vary depending on the season, but the visibility is usually excellent. Certified divers can explore various dive sites around the island, catering to different skill levels. Snorkeling is a great option for those who prefer to stay closer to the surface and admire the underwater world. Swimming and boat rides around the island offer scenic views and chances to spot marine life.
+Netrani Island is primarily known for its scuba diving and snorkeling opportunities.  Several dive centers in Murudeshwar and nearby towns organize trips to the island. Diving conditions vary depending on the season, but the visibility is usually excellent. Certified divers can explore various dive sites around the island, catering to different skill levels. Snorkeling is a great option for those who prefer to stay closer to the surface and admire the underwater world. Swimming and boat rides around the island offer scenic views and chances to spot marine life.
 
 ### **Local Markets and Handicrafts**
 
@@ -51,15 +51,15 @@ The best time to visit Netrani Island is during the cooler and drier months, typ
 
 ### **How to Reach**
 
-The nearest airport to Netrani Island is Mangalore International Airport (IXE), approximately 190 kilometers (118 miles) from Murudeshwar. From the airport, you can hire a taxi or take a bus to Murudeshwar. The nearest railway station is Murudeshwar, which is well-connected to major cities in India. <img src="placeholder_image_Train_Station_Murudeshwar.jpg" alt="Image of Murudeshwar Railway Station"> From Murudeshwar, boats are the only way to reach Netrani Island. Dive centers and tour operators offer boat trips to the island. The distance from Murudeshwar to the island is around 19 kilometers (12 miles), and the boat ride takes approximately one hour. The closest major city is Mangalore.
+The nearest airport to Netrani Island is Mangalore International Airport (IXE), approximately 190 kilometers (118 miles) from Murudeshwar. From the airport, you can hire a taxi or take a bus to Murudeshwar. The nearest railway station is Murudeshwar, which is well-connected to major cities in India.  From Murudeshwar, boats are the only way to reach Netrani Island. Dive centers and tour operators offer boat trips to the island. The distance from Murudeshwar to the island is around 19 kilometers (12 miles), and the boat ride takes approximately one hour. The closest major city is Mangalore.
 
 ### **Accommodation Options**
 
-There is no accommodation on Netrani Island itself. However, Murudeshwar offers a variety of accommodation options to suit all budgets. From budget-friendly guesthouses and hotels to comfortable resorts and luxury hotels, Murudeshwar has options to fit everyone's needs. <img src="placeholder_image_Hotel_Murudeshwar.jpg" alt="Image of a hotel in Murudeshwar"> Nearby towns, like Bhatkal, also offer a range of accommodation options.
+There is no accommodation on Netrani Island itself. However, Murudeshwar offers a variety of accommodation options to suit all budgets. From budget-friendly guesthouses and hotels to comfortable resorts and luxury hotels, Murudeshwar has options to fit everyone's needs.  Nearby towns, like Bhatkal, also offer a range of accommodation options.
 
 ### **Offbeat Experiences**
 
-A trip to Netrani Island offers a unique and immersive experience in itself. To enhance your trip, explore the nearby town of Murudeshwar. <img src="placeholder_image_Murudeshwar_Temple.jpg" alt="Image of Murudeshwar Temple"> The majestic Murudeshwar Temple, dedicated to Lord Shiva, is a must-visit. The temple is known for its towering gopuram (temple tower) and the giant statue of Lord Shiva. You can also explore the coastal areas around Murudeshwar and enjoy the scenic beauty.
+A trip to Netrani Island offers a unique and immersive experience in itself. To enhance your trip, explore the nearby town of Murudeshwar.  The majestic Murudeshwar Temple, dedicated to Lord Shiva, is a must-visit. The temple is known for its towering gopuram (temple tower) and the giant statue of Lord Shiva. You can also explore the coastal areas around Murudeshwar and enjoy the scenic beauty.
 
 ### **Conclusion**
 

@@ -27,7 +27,7 @@ The fort’s name, "Channarayana Durga," is a tribute to the local deity, Lord C
 
 The location of Channarayana Durga Fort is a key part of its appeal. The fort is located on a rocky hill, which provides panoramic views of the surrounding countryside. The landscape is characterized by rolling hills, lush green valleys, and scenic vistas. The monsoon season transforms the area into a vibrant tapestry of greens, making it a particularly beautiful time to visit.
 
-<img src="placeholder_image_natural_beauty_channarayana_durga.jpg" alt="View from Channarayana Durga Fort">
+
 
 From various points within the fort, particularly atop the ramparts, visitors can experience the vastness of the region, with unobstructed views that stretch for miles. The natural environment is relatively untouched, offering a sense of tranquility and escape from the hustle of city life. Although the surrounding area does not host formally designated parks or reserves, the natural beauty is accessible for trekking and exploration.
 
@@ -35,7 +35,7 @@ From various points within the fort, particularly atop the ramparts, visitors ca
 
 The primary attraction at Channarayana Durga Fort is, undoubtedly, the fort itself. Exploring the fort walls, bastions, and gateways offers a fascinating insight into its history and construction. The fort's intricate architecture and the strategic layout of the structures provide a compelling glimpse into the military and administrative planning of the past.
 
-<img src="placeholder_image_channarayana_durga_fort_image.jpg" alt="Channarayana Durga Fort">
+
 
 Within the fort complex, the Channarayana Swamy temple is a significant religious site. It provides a focal point for the spiritual and cultural life of the community. Other remnants of historical structures, such as the watchtowers and remnants of residential quarters, are also worth exploring. The surrounding landscape and the views from the fort offer a unique attraction to the area.
 
@@ -43,7 +43,7 @@ Within the fort complex, the Channarayana Swamy temple is a significant religiou
 
 The rocky terrain and elevated position of the fort lend themselves well to adventure activities. Trekking is a popular activity, allowing visitors to explore the fort's rugged landscape and enjoy stunning views.
 
-<img src="placeholder_image_trekking_channarayana_durga.jpg" alt="Trekking at Channarayana Durga">
+
 
 The fort and its surrounding area offer excellent opportunities for photography, with scenic viewpoints and historical structures providing a variety of subjects. The relatively clear air and lack of light pollution make it a perfect spot for stargazing at night. Further development of the area may include cycling routes.
 
@@ -51,7 +51,7 @@ The fort and its surrounding area offer excellent opportunities for photography,
 
 While there are no specific local markets located directly within the fort complex, the nearby towns and villages offer opportunities to experience the local culture and purchase handicrafts. Handicrafts and textiles reflect the cultural heritage of the region.
 
-<img src="placeholder_image_local_market_karnataka.jpg" alt="Local Market in Karnataka">
+
 
 The local markets in nearby towns can have local crafts.
 
@@ -59,7 +59,7 @@ The local markets in nearby towns can have local crafts.
 
 The local cuisine in the Hassan district, including the area surrounding Channarayana Durga Fort, is typical of Karnataka, with influences from both the North and South Indian culinary traditions. Rice and lentils are staples.
 
-<img src="placeholder_image_local_food_karnataka.jpg" alt="Karnataka Cuisine">
+
 
 Traditional dishes include dosas, idlis, vada, rice-based dishes, and various curries. It's recommended to try local street food and visit local restaurants to experience the authentic flavors of the region.
 

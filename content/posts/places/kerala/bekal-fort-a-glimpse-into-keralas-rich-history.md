@@ -27,7 +27,7 @@ The cultural landscape surrounding Bekal Fort reflects the diverse influences it
 
 Bekal Fort's location on a promontory extending into the Arabian Sea offers unparalleled natural beauty. The fort is surrounded by pristine beaches, lush greenery, and the expansive, turquoise waters of the sea. The rugged coastline, dotted with coconut trees and other tropical flora, is a photographer's paradise.
 
-<img src="placeholder_image_bekal_fort_scenery.jpg" alt="Bekal Fort and Beach" width="600">
+
 
 The viewpoints within the fort offer stunning panoramic views of the coastline, the beaches, and the vast ocean. The evening sunsets, viewed from the ramparts, are particularly breathtaking. Nearby, the Pallikere Beach and Bekal Beach offer opportunities to relax on the sands, swim, and enjoy the serene atmosphere of the area.
 
@@ -35,7 +35,7 @@ The viewpoints within the fort offer stunning panoramic views of the coastline, 
 
 The primary attraction in Bekal is undoubtedly the fort itself. Exploring the ramparts, bastions, and observation towers offers a fascinating insight into its historical importance and provides unparalleled views. Inside the fort, you can explore the observation towers, the water tank, and other structures that offer glimpses into the fort's past.
 
-<img src="placeholder_image_bekal_fort_interior.jpg" alt="Interior of Bekal Fort" width="600">
+
 
 Beyond the fort, the Bekal Hole Aqua Park is a popular destination for families and water sports enthusiasts. Nearby, the Ananthapura Lake Temple, a unique temple where a crocodile is a resident deity, offers a fascinating spiritual experience. While not directly within the fort complex, the pristine beaches nearby, like Bekal Beach and Pallikere Beach, are a must-visit for relaxation and enjoying the natural beauty of the area.
 
@@ -43,7 +43,7 @@ Beyond the fort, the Bekal Hole Aqua Park is a popular destination for families 
 
 While Bekal Fort is primarily a historical site, the surrounding area offers several adventure activities. Water sports, like kayaking, and jet skiing, are available at Bekal and Pallikere beaches. Nature walks along the coastline and nearby trails provide opportunities to experience the region's biodiversity. Boat rides can also be arranged for a different perspective of the fort and the coastline. Bird-watching is another popular activity, especially during the migratory seasons.
 
-<img src="placeholder_image_bekal_beach_activities.jpg" alt="Bekal Beach with activities" width="600">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -53,7 +53,7 @@ The area surrounding Bekal Fort offers glimpses into the local culture and tradi
 
 The cuisine of Bekal and the surrounding region is a delicious reflection of Kerala's diverse flavors, influenced by the coastal location and cultural influences. Seafood is a prominent part of the diet, with fresh catches prepared in various styles, including curries, fry-ups, and tandoori preparations.
 
-<img src="placeholder_image_bekal_food.jpg" alt="Kerala Cuisine" width="600">
+
 
 Traditional dishes to try include the local fish curry, appam (rice pancake), puttu (steamed rice cake), and idiyappam (string hoppers). Street food stalls near the fort offer delicious snacks like pazham pori (banana fritters) and various savory snacks. There are also many local restaurants and cafes serving authentic Kerala cuisine, offering a wide range of dining experiences.
 
@@ -65,7 +65,7 @@ While Bekal Fort itself doesn't have specific flora and fauna within its walls, 
 
 The best time to visit Bekal Fort is during the winter months, from October to March. During this period, the weather is pleasant and dry, making it ideal for exploring the fort, enjoying the beaches, and participating in outdoor activities. The temperatures are moderate, with clear skies providing excellent visibility for scenic views. The monsoon season (June to September) brings heavy rainfall, which can make outdoor activities challenging.
 
-<img src="placeholder_image_bekal_weather.jpg" alt="Bekal Weather" width="600">
+
 
 ### **How to Reach**
 
@@ -84,7 +84,7 @@ Bekal offers a range of accommodation options to suit different budgets and pref
 *   **Budget Stays:** Budget-friendly guesthouses and homestays offer affordable accommodation options for travelers on a budget.
 *   **Homestays:** Experience the local culture by staying in a homestay and interacting with local families.
 
-<img src="placeholder_image_bekal_accommodation.jpg" alt="Bekal accommodation options" width="600">
+
 
 ### **Offbeat Experiences**
 

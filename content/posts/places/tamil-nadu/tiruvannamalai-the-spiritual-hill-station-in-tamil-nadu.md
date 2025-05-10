@@ -29,7 +29,7 @@ The area is a vibrant hub of Hindu traditions, with numerous festivals and ritua
 
 The landscape surrounding the Annamalai Hills is a visual treat, with the imposing Arunachala mountain dominating the skyline. The terrain consists of undulating hills, valleys, and semi-arid scrub forests. The vegetation is mostly dry deciduous, with pockets of greenery flourishing during the monsoon season.
 
-<img src="placeholder_image_annamalai_hills_landscape.jpg" alt="Annamalai Hills Landscape">
+
 
 The best viewpoints offer panoramic vistas of the rugged terrain, dotted with ancient temples and small settlements. Sunrises and sunsets over the hills are particularly spectacular, painting the sky in vibrant colors and casting long shadows across the landscape. The air is often fresh and clean, especially during the cooler months. The region is ideal for nature walks, with trails leading through the hills and offering glimpses of the local flora and fauna.
 
@@ -39,15 +39,15 @@ Annamalai Hills is a treasure trove of attractions, offering a blend of spiritua
 
 *   **Arunachaleswarar Temple:** This ancient temple is the heart of Tiruvannamalai, a magnificent example of Dravidian architecture. Its towering gopurams (gateway towers) and intricately carved pillars are a sight to behold.
 
-<img src="placeholder_image_arunachaleswarar_temple.jpg" alt="Arunachaleswarar Temple">
+
 
 *   **Arunachala Mountain:** The sacred mountain itself is a major attraction, inviting devotees to circumambulate and experience its spiritual energy.
 
-<img src="placeholder_image_arunachala_mountain.jpg" alt="Arunachala Mountain">
+
 
 *   **Ramana Ashram:** The ashram established by Sri Ramana Maharshi, where he lived and meditated, is a place of peace and contemplation.
 
-<img src="placeholder_image_ramana_ashram.jpg" alt="Ramana Ashram">
+
 
 *   **Skandashram and Virupaksha Cave:** These are the caves where Ramana Maharshi spent his early years, meditating and attaining enlightenment. They provide a serene environment for visitors.
 

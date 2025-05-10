@@ -24,11 +24,11 @@ The history of Bhedaghat is closely intertwined with the Narmada River and the g
 
 ###  **Natural Beauty**
 
-Bhedaghat's prime attraction is, undoubtedly, the stunning Marble Rocks. These cliffs, composed of white marble interspersed with streaks of black and colored minerals, rise up to 100 feet high and create a natural gorge along the Narmada River. <img src="placeholder.jpg" alt="Marble Rocks Bhedaghat" >The river's waters, clear and calm in some seasons, dramatically enhance the visual appeal by reflecting the marble surfaces. Visitors can enjoy boat rides along the river, which offers the best views of the rocks. The area around Bhedaghat is characterized by lush greenery, including teak forests and other deciduous vegetation. During the monsoon season, the landscape transforms, as the river swells, and the surrounding foliage thrives, further enhancing the beauty of the area. The presence of the Narmada River and the interplay of light and shadow on the marble cliffs provide a constantly evolving and captivating natural spectacle. The Dhuandhar Falls, where the Narmada plunges down a steep gorge, creating a misty cascade, is another significant natural feature.
+Bhedaghat's prime attraction is, undoubtedly, the stunning Marble Rocks. These cliffs, composed of white marble interspersed with streaks of black and colored minerals, rise up to 100 feet high and create a natural gorge along the Narmada River. The river's waters, clear and calm in some seasons, dramatically enhance the visual appeal by reflecting the marble surfaces. Visitors can enjoy boat rides along the river, which offers the best views of the rocks. The area around Bhedaghat is characterized by lush greenery, including teak forests and other deciduous vegetation. During the monsoon season, the landscape transforms, as the river swells, and the surrounding foliage thrives, further enhancing the beauty of the area. The presence of the Narmada River and the interplay of light and shadow on the marble cliffs provide a constantly evolving and captivating natural spectacle. The Dhuandhar Falls, where the Narmada plunges down a steep gorge, creating a misty cascade, is another significant natural feature.
 
 ### **Must-Visit Attractions**
 
-The primary attraction at Bhedaghat is the Marble Rocks themselves. Boat rides on the Narmada River are the most popular way to experience the beauty of the gorge. The boatmen often narrate stories about the local legends and point out the unique features and rock formations, even identifying distinct color patterns. <img src="placeholder.jpg" alt="Boat ride Marble Rocks" >The Chausath Yogini Temple, an ancient temple with 64 yogini sculptures, is a must-visit, providing insight into the region's rich cultural and religious heritage. The Dhuandhar Falls is another significant attraction, particularly during the monsoon season when the water volume is high. <img src="placeholder.jpg" alt="Dhuandhar Falls" >Close to the falls, there are various viewpoints from which to enjoy the stunning panorama. Other significant points include the Bandar Kudni (Monkey's Leap), a narrow passage in the rock formations, and a few local temples dedicated to various deities.
+The primary attraction at Bhedaghat is the Marble Rocks themselves. Boat rides on the Narmada River are the most popular way to experience the beauty of the gorge. The boatmen often narrate stories about the local legends and point out the unique features and rock formations, even identifying distinct color patterns. The Chausath Yogini Temple, an ancient temple with 64 yogini sculptures, is a must-visit, providing insight into the region's rich cultural and religious heritage. The Dhuandhar Falls is another significant attraction, particularly during the monsoon season when the water volume is high. Close to the falls, there are various viewpoints from which to enjoy the stunning panorama. Other significant points include the Bandar Kudni (Monkey's Leap), a narrow passage in the rock formations, and a few local temples dedicated to various deities.
 
 ### **Adventure Activities**
 
@@ -36,7 +36,7 @@ While Bhedaghat primarily appeals to those seeking scenic beauty and relaxation,
 
 ### **Local Markets and Handicrafts**
 
-Bhedaghat has small local markets and shops where visitors can purchase souvenirs and handicrafts. The offerings include marble carvings, artifacts, and miniature models of the Marble Rocks. <img src="placeholder.jpg" alt="Marble Handicrafts" >You can also find religious items, local clothing, and other souvenirs. The market provides a chance to interact with local artisans and learn about their craft.
+Bhedaghat has small local markets and shops where visitors can purchase souvenirs and handicrafts. The offerings include marble carvings, artifacts, and miniature models of the Marble Rocks. You can also find religious items, local clothing, and other souvenirs. The market provides a chance to interact with local artisans and learn about their craft.
 
 ### **Food and Cuisine**
 
@@ -60,7 +60,7 @@ Accommodation options in Bhedaghat itself are limited, but Jabalpur offers a wid
 
 ### **Offbeat Experiences**
 
-For a unique experience, consider visiting the surrounding villages to interact with the local communities and learn about their way of life. Exploring the local markets and trying the regional cuisine can also provide a more authentic experience. <img src="placeholder.jpg" alt="Local village life" >You could also participate in local festivals and religious events to experience the cultural vibrancy of the region.
+For a unique experience, consider visiting the surrounding villages to interact with the local communities and learn about their way of life. Exploring the local markets and trying the regional cuisine can also provide a more authentic experience. You could also participate in local festivals and religious events to experience the cultural vibrancy of the region.
 
 ### **Conclusion**
 

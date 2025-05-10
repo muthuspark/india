@@ -20,23 +20,23 @@ Kudremukh, a majestic mountain range and a namesake town in the Chikkamagaluru d
 ### **History and Cultural Heritage**
 
 The history of Kudremukh is intertwined with the natural resources of the region, particularly iron ore. Mining operations, which began in the mid-20th century, significantly impacted the local environment and the lives of indigenous communities. While these operations ceased in recent years, their legacy remains visible in the landscape. The cultural heritage of Kudremukh is primarily influenced by the local communities who have lived in the region for centuries, including the Malekudiya tribe. Traditional practices, folk art, and local dialects, like Tulu and Kannada, are still preserved. The area is dotted with temples and shrines, reflecting the deeply rooted spiritual beliefs of the local population. Cultural festivals, often tied to the agricultural cycle and local deities, offer visitors a glimpse into the vibrant traditions of the people. <br>
-  <img src="placeholder_image_historical_site.jpg" alt="Historical Site in Kudremukh">
+  
 
 ### **Natural Beauty**
 
 Kudremukh is a paradise for nature lovers, boasting a rich biodiversity and stunning landscapes. The Kudremukh National Park, encompassing the mountain range, is characterized by rolling hills covered in dense evergreen forests and cascading waterfalls. The region is a part of the Western Ghats, a UNESCO World Heritage site, and is known for its high rainfall, which contributes to its lush greenery. The Kudremukh peak, with its distinctive horse-face-like shape, offers breathtaking panoramic views of the surrounding valleys and forests. The Bhadra River, a major river in Karnataka, originates in the Western Ghats and flows through the park, adding to the region's scenic beauty. Other significant viewpoints include Gangamoola, the origin of three major rivers: the Tunga, the Bhadra, and the Netravati. <br>
-<img src="placeholder_image_kudremukh_peak.jpg" alt="Kudremukh Peak view">
-<img src="placeholder_image_forest_landscape.jpg" alt="Dense Forest Landscape">
+
+
 
 ### **Must-Visit Attractions**
 
 The Kudremukh National Park is the primary attraction, offering a range of experiences for nature enthusiasts. The Kudremukh Peak trek is a popular activity, although permits are required and may be restricted during certain periods due to wildlife concerns. Gangamoola, the origin of three important rivers, is a significant pilgrimage site and a place of immense natural beauty. Hanuman Gundi Falls (also known as Soormane Falls) is a spectacular waterfall that cascades down several tiers, offering a refreshing experience for visitors. Other nearby attractions include Lakya Dam, although access may be restricted, and various viewpoints offering stunning vistas of the valleys and forests. <br>
-<img src="placeholder_image_hanuman_gundi_falls.jpg" alt="Hanuman Gundi Falls">
+
 
 ### **Adventure Activities**
 
 Kudremukh provides ample opportunities for adventure activities, making it a popular destination for trekkers and outdoor enthusiasts. Trekking is the most popular activity, with various trails ranging from easy nature walks to challenging climbs to the Kudremukh peak. The trails meander through the dense forests, offering chances to spot diverse flora and fauna. Camping in designated areas allows visitors to immerse themselves in the natural environment. Bird-watching is another popular activity, with the region being a haven for various bird species. Waterfalls like Hanuman Gundi offer opportunities for adventure activities like rappelling and stream walks. <br>
-<img src="placeholder_image_trekking.jpg" alt="Trekking in Kudremukh">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -45,12 +45,12 @@ The town of Kudremukh itself is a small settlement, and the availability of loca
 ### **Food and Cuisine**
 
 The local cuisine of Kudremukh, and the larger region of the Western Ghats, is heavily influenced by its proximity to the coast and the availability of fresh ingredients. Rice, fish, and coconut are staple ingredients. Traditional dishes include various types of rice-based preparations, such as rice pancakes (dosa, idli) and rice dumplings. Seafood is a significant part of the diet, with a variety of dishes made from freshwater fish. Vegetarian options are also plentiful, with dishes featuring locally grown vegetables and spices. The restaurants and food stalls in nearby towns like Mangalore offer a wider variety of options, catering to different tastes. Local cafes often serve freshly brewed coffee from the region, along with traditional snacks.
-<img src="placeholder_image_local_cuisine.jpg" alt="Local Cuisine from Kudremukh">
+
 
 ### **Flora and Fauna**
 
 Kudremukh National Park is a biodiversity hotspot, boasting a rich variety of flora and fauna. The forests are home to several species of mammals, including tigers, leopards, wild dogs, sambar deer, gaurs, and Malabar giant squirrels. The area is also a haven for birdwatchers, with a diverse range of bird species, including the Malabar trogon, the great hornbill, and various species of eagles and owls. The region's unique vegetation includes evergreen forests, grasslands, and shola forests, characterized by stunted trees. A wide variety of medicinal plants are found in the forests. The park's rich biodiversity is a major attraction for nature lovers and wildlife enthusiasts. <br>
-<img src="placeholder_image_wildlife.jpg" alt="Wildlife in Kudremukh">
+
 
 ### **Best Time to Visit**
 
@@ -59,7 +59,7 @@ The best time to visit Kudremukh is during the post-monsoon and winter months, f
 ### **How to Reach**
 
 The nearest airport to Kudremukh is Mangalore International Airport (IXE), which is approximately 110 kilometers (68 miles) away. From the airport, visitors can hire a taxi or take a bus to Kudremukh. The nearest railway station is Mangalore Central (MAQ). From the station, taxis and buses are available to reach Kudremukh. The most convenient way to reach Kudremukh is by road. The town is well-connected by road networks. Major highways connect Kudremukh to cities like Bangalore (approximately 330 km/205 miles), Mangalore, and Udupi. The journey from Bangalore typically takes around 7-8 hours. <br>
-<img src="placeholder_image_road_trip.jpg" alt="Road trip to Kudremukh">
+
 
 ### **Accommodation Options**
 

@@ -34,7 +34,7 @@ From the temple complex, visitors can enjoy panoramic views of the sprawling cit
 ### **Must-Visit Attractions**
 
 *   **Simhachalam Temple:** The main attraction, showcasing unique architecture that combines Kalinga and Dravidian styles.  The temple's complex includes several structures, including the main shrine, the Kalyana Mandapam (marriage hall), and various smaller temples and halls.
-    <img src="placeholder_image_simhachalam_temple.jpg" alt="Simhachalam Temple">
+    
 *   **Varaha Narasimha Swamy Idol:** The central deity worshipped in a unique form, which is a rare depiction of Lord Vishnu.
 *   **Sculptures and Inscriptions:** Explore the intricate carvings, sculptures, and inscriptions that depict various mythological stories and historical events.
 *   **Temple Tanks (Ponds):** The holy tanks where devotees take a dip before entering the temple.

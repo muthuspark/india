@@ -25,19 +25,19 @@ The history of the Bhimashankar Temple is deeply intertwined with Hindu mytholog
 
 Bhimashankar is situated within the Bhimashankar Wildlife Sanctuary, a biodiversity hotspot boasting lush green forests, cascading waterfalls, and rugged terrain. The sanctuary is a part of the Western Ghats, a UNESCO World Heritage Site, known for its rich ecosystem. The landscape is characterized by rolling hills, deep valleys, and dense vegetation, creating a serene and captivating environment.
 
-<placeholder image tag: bhimashankar landscape>
+
 
 The area is crisscrossed by numerous trekking trails, offering breathtaking views of the surrounding valleys and the majestic Sahyadri range. During the monsoon season, the landscape transforms into a vibrant green paradise with numerous waterfalls adding to its beauty. The Bhima River, originating nearby, flows through the sanctuary, further enhancing its scenic splendor.
 
 ### **Must-Visit Attractions**
 
-The primary attraction is undoubtedly the **Bhimashankar Temple** itself. <placeholder image tag: Bhimashankar Temple> The temple is a masterpiece of architecture, with intricate carvings, a towering Shikhara (spire), and a sanctum sanctorum housing the Jyotirlinga. The temple's main complex is a place of peace and is usually filled with devotees seeking blessings.
+The primary attraction is undoubtedly the **Bhimashankar Temple** itself.  The temple is a masterpiece of architecture, with intricate carvings, a towering Shikhara (spire), and a sanctum sanctorum housing the Jyotirlinga. The temple's main complex is a place of peace and is usually filled with devotees seeking blessings.
 
 Another popular attraction is the **Bhimashankar Wildlife Sanctuary**. It is spread across a large area with hiking trails, allowing visitors to experience the area’s biodiversity. There are also various viewpoints, offering panoramic views of the surrounding landscape, which can provide a calming and awe-inspiring experience. Visitors can also visit the nearby **Gupt Bhimashankar**, a hidden site believed to be the origin of the Bhima River.
 
 ### **Adventure Activities**
 
-Bhimashankar is a haven for adventure enthusiasts. **Trekking** is one of the most popular activities, with various trails catering to both beginners and experienced trekkers. The trails vary in difficulty, allowing visitors to choose a path that suits their fitness level. <placeholder image tag: Trekking in Bhimashankar>
+Bhimashankar is a haven for adventure enthusiasts. **Trekking** is one of the most popular activities, with various trails catering to both beginners and experienced trekkers. The trails vary in difficulty, allowing visitors to choose a path that suits their fitness level. 
 
 **Wildlife safaris** within the sanctuary offer opportunities to spot diverse flora and fauna, including the Indian Giant Squirrel (Shekru), the state animal of Maharashtra, and a wide array of bird species. For nature enthusiasts, the sanctuary provides many opportunities to observe local wildlife, and there are also possibilities for camping, allowing visitors to immerse themselves in the natural beauty of the region.
 
@@ -45,7 +45,7 @@ Bhimashankar is a haven for adventure enthusiasts. **Trekking** is one of the mo
 
 Local markets around Bhimashankar offer a glimpse into the region's culture. Vendors often sell religious items, souvenirs, and local handicrafts. While not a major market hub, visitors can find items such as religious idols, local spices, and forest products.
 
-<placeholder image tag: Local market bhimashankar>
+
 
 Handmade goods, such as traditional clothing, are also available. These markets provide a chance to interact with local artisans and learn about their craftsmanship.
 
@@ -53,19 +53,19 @@ Handmade goods, such as traditional clothing, are also available. These markets 
 
 The local cuisine in Bhimashankar features simple yet flavorful dishes. Visitors should try the local specialties, which reflect the Maharashtrian culinary tradition.
 
-<placeholder image tag: local food>
+
 
 Some popular dishes include *bhakri* (a type of flatbread made from sorghum), *pithla* (a chickpea flour-based preparation), and various vegetarian dishes. Street food, often available near the temple, is a popular option for quick and affordable meals. Be sure to try *vada pav* (a fried potato patty in a bun) and *misal pav* (a spicy lentil dish served with bread). The region also has a number of restaurants, serving a mix of local and modern cuisines.
 
 ### **Flora and Fauna**
 
-The Bhimashankar Wildlife Sanctuary is renowned for its rich biodiversity. The forest is home to a variety of flora, including medicinal plants, evergreen trees, and deciduous species. The fauna includes the Indian Giant Squirrel (Shekru), leopards, sambar deer, and numerous species of birds, insects, and reptiles. <placeholder image tag: Shekru squirrel> The sanctuary is particularly known for its rich avian population, making it a paradise for bird watchers. The area offers opportunities for wildlife observation, allowing visitors to appreciate the region's biodiversity.
+The Bhimashankar Wildlife Sanctuary is renowned for its rich biodiversity. The forest is home to a variety of flora, including medicinal plants, evergreen trees, and deciduous species. The fauna includes the Indian Giant Squirrel (Shekru), leopards, sambar deer, and numerous species of birds, insects, and reptiles.  The sanctuary is particularly known for its rich avian population, making it a paradise for bird watchers. The area offers opportunities for wildlife observation, allowing visitors to appreciate the region's biodiversity.
 
 ### **Best Time to Visit**
 
 The best time to visit Bhimashankar is during the winter months, from **October to March**. The weather is pleasant during this period, with temperatures ranging from 10°C to 25°C, making it ideal for sightseeing, trekking, and exploring the sanctuary. The monsoon season, from June to September, transforms the landscape into a lush green paradise, but trekking can be challenging.
 
-<placeholder image tag: best time to visit, weather>
+
 
 Festivals, such as Maha Shivaratri, attract a large number of devotees. While the temple is open year-round, it's best to plan a visit during a time when the weather is suitable for outdoor activities.
 
@@ -77,7 +77,7 @@ Bhimashankar is well-connected to major cities in Maharashtra.
 *   **By Rail:** The nearest railway station is Pune Junction (approximately 100 km away). From Pune, you can take a bus or hire a taxi to reach Bhimashankar.
 *   **By Road:** Bhimashankar is accessible by road. It is around 120 km from Mumbai and 110 km from Pune. Regular state transport buses and private vehicles are available from these cities. The road journey is scenic, especially during the monsoon season.
 
-<placeholder image tag: How to reach Bhimashankar - map>
+
 
 ### **Accommodation Options**
 
@@ -87,7 +87,7 @@ Bhimashankar offers a range of accommodation options to suit different budgets a
 *   **Mid-Range Hotels:** You can find comfortable hotels and resorts in the surrounding areas.
 *   **Homestays and Eco-Lodges:** These options offer a more immersive experience, allowing you to connect with the local culture and environment.
 
-<placeholder image tag: Accommodation options>
+
 
 It's recommended to book accommodation in advance, especially during peak season and festival times.
 

@@ -23,13 +23,13 @@ The region surrounding the Kedarkantha Trek, specifically the Uttarkashi distric
 
 ### **Natural Beauty**
 
-<img src="placeholder_image_kedarkantha_landscape.jpg" alt="Kedarkantha Trek Landscape">
+
 
 The Kedarkantha Trek is celebrated for its exceptional natural beauty. The journey unfolds through diverse landscapes, including dense pine and oak forests, lush green meadows, and vast stretches of snow during winter. The trail passes by the stunning Juda Ka Talab, a frozen lake, and offers breathtaking views of towering Himalayan peaks like Swargarohini, Bandarpoonch, and Black Peak. During the winter months, the entire landscape is covered in snow, transforming the trek into a wonderland. The open meadows at Kedarkantha Basecamp offer unparalleled views. The sunsets and sunrises on the trek are particularly stunning. The trails are well-maintained, allowing trekkers to enjoy the surrounding beauty.
 
 ### **Must-Visit Attractions**
 
-<img src="placeholder_image_kedarkantha_juda_ka_talab.jpg" alt="Juda Ka Talab">
+
 
 While the trek itself is the primary attraction, there are specific locations along the route and in the surrounding areas that are particularly noteworthy:
 
@@ -50,7 +50,7 @@ The primary adventure activity in this region is, of course, the Kedarkantha Tre
 
 ### **Local Markets and Handicrafts**
 
-<img src="placeholder_image_sankri_market.jpg" alt="Sankri Market">
+
 
 Sankri is the main area for local markets and handicrafts. Here, visitors can find:
 
@@ -100,7 +100,7 @@ The best time to embark on the Kedarkantha Trek depends on your preferences:
 
 ### **Accommodation Options**
 
-<img src="placeholder_image_kedarkantha_campsite.jpg" alt="Kedarkantha Campsite">
+
 
 Accommodation options along the trek are typically basic and involve camping:
 

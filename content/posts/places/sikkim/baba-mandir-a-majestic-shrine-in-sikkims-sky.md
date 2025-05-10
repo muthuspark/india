@@ -30,13 +30,13 @@ The cultural significance of Baba Mandir lies in the deep-rooted belief in the s
 
 Baba Mandir is located in the breathtakingly beautiful Himalayan landscape of Sikkim. The journey to the temple offers stunning views of snow-capped mountains, deep valleys, and winding roads that carve their way through the rugged terrain. The environment is alpine, with cold temperatures, clear skies (weather permitting), and a sense of vastness. During the winter months, the area is covered in snow, offering a truly magical experience. The scenery is a major attraction for visitors, who often stop at various points along the route to take photographs and enjoy the panoramic views.
 
-<img src="placeholder_image_natural_beauty.jpg" alt="Stunning Himalayan landscape surrounding Baba Mandir">
+
 
 ### **Must-Visit Attractions**
 
 The primary attraction at this location is the Baba Harbhajan Singh Temple itself. The main temple consists of a simple structure housing a photograph of Baba Harbhajan Singh, along with the designated office that pays tribute to Baba's spiritual presence. Visitors offer prayers, place offerings of water bottles, and often tie prayer flags around the area. Another temple has been constructed higher up, closer to the original incident site. The location also provides stunning views of the surrounding Himalayan peaks, and visitors often spend time exploring the viewpoints along the route.
 
-<img src="placeholder_image_temple_complex.jpg" alt="Image of the Baba Mandir temple complex">
+
 
 ### **Adventure Activities**
 
@@ -50,7 +50,7 @@ The primary focus of the area is the temple and the surrounding natural beauty. 
 
 While the Baba Mandir site itself does not have extensive food stalls, the route towards the temple offers small eateries and dhabas. These establishments provide basic refreshments and meals for travelers, primarily focusing on simple and wholesome food suitable for high altitudes. Local cuisine in Sikkim is influenced by Tibetan and Nepalese cultures. Popular dishes include *Thukpa* (noodle soup), *Momo* (steamed dumplings), *Dal Bhat* (lentils and rice), and *Thenthuk* (hand-pulled noodle soup). Don't miss the opportunity to try some of the local Tibetan bread and hot tea at various roadside eateries along the way.
 
-<img src="placeholder_image_local_cuisine.jpg" alt="Image of a local Sikkimese dish">
+
 
 ### **Flora and Fauna**
 
@@ -72,7 +72,7 @@ As Baba Mandir is a day-trip destination, accommodation options are mainly found
 *   **Mid-Range:** Mayfair Spa Resort & Casino, Hotel Denzong Regency.
 *   **Luxury:** The Elgin Nor-Khill, Gangtok; WelcomHeritage Denzong Regency.
 
-<img src="placeholder_image_accommodation.jpg" alt="Hotel in Gangtok">
+
 
 ### **Offbeat Experiences**
 

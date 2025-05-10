@@ -28,7 +28,7 @@ The cultural landscape of Haflong is vibrant with festivals, dances, and music. 
 
 Haflong’s breathtaking natural beauty is its primary allure. The landscape is dominated by rolling hills, lush green valleys, and dense forests. The most prominent feature is the Haflong Lake, a large natural lake that adds to the scenic beauty of the town.
 
-<img src="placeholder_image_haflong_lake.jpg" alt="Haflong Lake">
+
 
 The surrounding areas offer several viewpoints from which visitors can enjoy panoramic views of the hills and valleys. The views, especially during sunrise and sunset, are spectacular. The region is home to a rich biodiversity, with forests that host a variety of flora and fauna, including several species of birds, butterflies, and mammals.
 
@@ -39,12 +39,12 @@ Haflong offers a range of attractions for tourists:
 1.  **Haflong Lake:** The centerpiece of Haflong, the lake is perfect for boating and enjoying the tranquil environment. It offers stunning reflections of the surrounding hills and is a popular spot for picnics and leisure activities.
 2.  **Jatinga:** Famous for the mysterious phenomenon of bird suicides during the monsoon season, Jatinga attracts ornithologists and curious visitors alike.
 
-    <img src="placeholder_image_jatinga_birds.jpg" alt="Jatinga - Birds">
+    
 
 3.  **Haflong Hill:** Ideal for trekking and offers panoramic views of the town and surrounding landscapes. This spot provides a great vantage point for photography and enjoying the sunrise or sunset.
 4.  **Panimoor Falls:** Situated near Haflong, these picturesque waterfalls are a hidden gem, cascading down the rocky terrains offering a visual treat and perfect for nature walks.
 
-    <img src="placeholder_image_panimoor_falls.jpg" alt="Panimoor Falls">
+    
 
 5.  **Fiangpui Garden:** A beautifully maintained garden ideal for leisurely strolls and enjoying the natural environment.
 6.  **Maikrong Village:** Offers a glimpse into the traditional life and culture of the Dimasa people, providing an opportunity to interact with the locals and experience their way of life.
@@ -77,7 +77,7 @@ The local cuisine of Haflong reflects the flavors of the region, with influences
 
 The region around Haflong is rich in biodiversity. While there aren't any prominent national parks or wildlife reserves immediately close to Haflong, the surrounding forests are home to a variety of plants and animals. Bird-watching is a popular activity. Keep an eye out for local and migratory bird species.
 
-<img src="placeholder_image_haflong_flora_fauna.jpg" alt="Haflong Flora Fauna">
+
 
 ### **Best Time to Visit**
 

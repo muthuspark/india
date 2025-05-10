@@ -28,18 +28,18 @@ The history of Yusmarg, though not as extensively documented as some other regio
 
 Yusmarg's greatest asset is undoubtedly its stunning natural beauty. The landscape is a visual feast of rolling meadows carpeted in vibrant green grass, dotted with wildflowers in the spring and summer months. The majestic Pir Panjal range provides a dramatic backdrop, with snow-capped peaks shimmering in the sunlight. The Doodh Ganga river, named for its milky appearance, carves its way through the valley, adding a refreshing element to the scene.
 
-<img src="placeholder_image_yusmarg_doodh_ganga.jpg" alt="Doodh Ganga River in Yusmarg">
+
 
 Key viewpoints offer panoramic vistas of the surrounding landscape. One of the most popular is the viewpoint near the Nilnag Lake, a serene lake nestled amidst the hills, reflecting the sky and surrounding greenery. The forests are a haven for diverse flora and fauna, making Yusmarg a perfect destination for nature walks and bird watching. The surrounding hills and valleys offer numerous scenic spots where one can immerse oneself in the pristine natural environment.
 
-<img src="placeholder_image_yusmarg_scenic_view.jpg" alt="Scenic View in Yusmarg">
+
 
 ### **Must-Visit Attractions**
 
 While Yusmarg itself is the primary attraction, several key spots within and around it are worth visiting:
 
 *   **Doodh Ganga River:** The lifeblood of Yusmarg, offering serene views and opportunities for photography and relaxation.
-*   **Nilnag Lake:** A beautiful lake surrounded by lush greenery, offering a peaceful retreat. <img src="placeholder_image_yusmarg_nilnag_lake.jpg" alt="Nilnag Lake in Yusmarg">
+*   **Nilnag Lake:** A beautiful lake surrounded by lush greenery, offering a peaceful retreat. 
 *   **Charar-e-Sharief:** Located nearby, this revered shrine is a significant pilgrimage site and a testament to the region's spiritual heritage.
 *   **Trek to Tosa Maidan:** A challenging but rewarding trek to the vast meadow of Tosa Maidan, offering spectacular views.
 
@@ -65,7 +65,7 @@ Yusmarg's food scene is a reflection of Kashmiri cuisine, with its rich flavors 
 *   **Dum Aloo:** Potatoes cooked in a spicy tomato-based gravy.
 *   **Kahwa:** A traditional Kashmiri green tea infused with saffron, cardamom, and almonds.
 
-<img src="placeholder_image_yusmarg_kahwa.jpg" alt="Kahwa in Yusmarg">
+
 
 While street food is limited, local restaurants serve delicious and authentic meals.
 
@@ -91,7 +91,7 @@ Yusmarg offers a variety of accommodation options, ranging from budget-friendly 
 *   **Guesthouses:** Budget-friendly guesthouses and homestays provide a more local experience.
 *   **Camping:** For adventurous travelers, camping in designated areas offers an immersive experience in nature.
 
-<img src="placeholder_image_yusmarg_accommodation.jpg" alt="Accommodation options in Yusmarg">
+
 
 ### **Offbeat Experiences**
 

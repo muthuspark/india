@@ -26,7 +26,7 @@ The history of Great Nicobar is intertwined with that of the broader Andaman and
 
 Great Nicobar is a paradise for nature lovers. The landscape is predominantly characterized by lush, evergreen rainforests, pristine coastlines, and mangrove swamps. The island is home to numerous rivers and streams, vital for supporting its diverse ecosystems.
 
-<img src="placeholder_image_great_nicobar_landscape.jpg" alt="Great Nicobar Landscape" width="600">
+
 
 One of the most remarkable viewpoints is probably from the slopes of the island's interior, offering panoramic views of the rainforest canopy and the surrounding coastline. The Campbell Bay National Park, within the Biosphere Reserve, is a key highlight. The Galathea National Park is also within the biosphere reserve. The dense forests provide a spectacular backdrop for nature walks, bird-watching, and wildlife viewing.
 
@@ -38,7 +38,7 @@ The primary attractions are the natural wonders within the Biosphere Reserve.
 *   **Galathea National Park:** Known for its rich biodiversity, including unique fauna. This park is perfect for nature walks and bird watching.
 *   **Great Nicobar Biosphere Reserve:** A protected area encompassing both national parks. This is the primary attraction!
 
-<img src="placeholder_image_campbell_bay_national_park.jpg" alt="Campbell Bay National Park" width="600">
+
 
 Besides the parks, visiting the coastal areas offers opportunities for appreciating the scenic beauty of the island and interacting with the local communities.
 
@@ -68,7 +68,7 @@ There may be local eateries or home-stays that offer traditional dishes, but opt
 
 The Great Nicobar Biosphere Reserve is a biodiversity hotspot.
 
-<img src="placeholder_image_great_nicobar_flora_fauna.jpg" alt="Great Nicobar Flora and Fauna" width="600">
+
 
 *   **Flora:** The island is covered in dense, evergreen rainforests, mangroves, and coastal vegetation. Numerous plant species, including orchids, ferns, and towering trees, can be found here.
 *   **Fauna:** The fauna is rich and diverse. The area is home to several species of mammals, birds, reptiles, and amphibians, some of which are endemic. Some of the unique animals include the Nicobar scrubfowl, saltwater crocodiles, giant robber crabs, and various species of monkeys and birds.

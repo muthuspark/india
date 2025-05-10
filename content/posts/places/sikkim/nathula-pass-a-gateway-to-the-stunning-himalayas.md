@@ -29,7 +29,7 @@ Culturally, Nathula Pass is deeply interwoven with Tibetan Buddhist traditions. 
 
 The landscape surrounding Nathula Pass is awe-inspiring, characterized by dramatic mountain ranges, deep valleys, and high-altitude terrain. The area is part of the Eastern Himalayas, known for their rich biodiversity and extreme climates.
 
-<img src="placeholder_image_nathula_scenery.jpg" alt="Scenic View of Nathula Pass" width="600">
+
 
 The pass offers panoramic views of the Chumbi Valley in Tibet. Visitors can witness the breathtaking beauty of the snow-capped mountains, lush green valleys, and the changing colors of the landscape. The views from here are considered some of the most stunning in the region, particularly during the clear weather of the post-monsoon season.
 
@@ -39,7 +39,7 @@ The natural environment around Nathula is characterized by alpine vegetation, in
 
 Nathula Pass itself is the primary attraction, providing a unique cross-border experience. However, there are several other places of interest nearby:
 
-*   **Baba Harbhajan Singh Temple:** Located about 17 km from Nathula Pass, this shrine is dedicated to an Indian army soldier, Harbhajan Singh, who is believed to protect the soldiers in the area. The temple holds great religious significance and attracts many visitors. <img src="placeholder_image_baba_mandir.jpg" alt="Baba Mandir" width="600">
+*   **Baba Harbhajan Singh Temple:** Located about 17 km from Nathula Pass, this shrine is dedicated to an Indian army soldier, Harbhajan Singh, who is believed to protect the soldiers in the area. The temple holds great religious significance and attracts many visitors. 
 *   **Tsongo Lake (Changu Lake):** Situated around 20 km from Gangtok on the way to Nathula, Tsongo Lake is a glacial lake renowned for its serene beauty and its changing colors reflecting the seasons. The lake is surrounded by mountains and offers a scenic backdrop for photography.
 *   **Mena La:** Situated near Nathula, Mena La provides breathtaking views.
 
@@ -73,7 +73,7 @@ You can find eateries near Tsongo Lake and in Gangtok offering these dishes.
 
 The flora and fauna of the region surrounding Nathula are adapted to the high-altitude environment.
 
-<img src="placeholder_image_flora_fauna.jpg" alt="Flora and fauna of Nathula Pass" width="600">
+
 
 *   **Flora:** Alpine vegetation, rhododendrons, primulas, and other high-altitude flowers.
 *   **Fauna:** The region supports a variety of wildlife adapted to the cold conditions, including the Tibetan wolf and the snow leopard, though sightings are rare. Birds such as snow partridges and monals are frequently seen. The area is also home to the yaks which are essential for the livelihood of the locals.
@@ -98,7 +98,7 @@ Accommodation options are available primarily in Gangtok. There are no accommoda
 *   **Mid-range hotels:** A variety of hotels offering comfortable rooms and amenities.
 *   **Luxury resorts:** Some luxury properties offer high-end experiences in Gangtok.
 
-<img src="placeholder_image_gangtok_accomodation.jpg" alt="Accommodation in Gangtok" width="600">
+
 
 ### **Offbeat Experiences**
 

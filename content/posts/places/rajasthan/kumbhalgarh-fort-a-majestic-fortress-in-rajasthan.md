@@ -23,7 +23,7 @@ The foundation of Kumbhalgarh Fort was laid in the 15th century by Rana Kumbha, 
 
 Kumbhalgarh houses several temples and palaces that are prime examples of Rajput architecture. The Badal Mahal (Cloud Palace) is particularly notable for its intricate carvings and panoramic views. The fort's cultural significance is further enhanced by the festivals and traditions of the local communities. The annual Kumbhalgarh Festival, featuring cultural performances and competitions, is a major draw for visitors. The fort is also associated with the legend of the brave ruler Rana Kumbha and the sacrifices made by the people of Mewar.
 
-<img src="placeholder_image_tag_kumbhalgarh_fort_history.jpg" alt="Kumbhalgarh Fort Historical Image">
+
 
 ### **Natural Beauty**
 
@@ -31,7 +31,7 @@ The natural beauty of Kumbhalgarh is inextricably linked to its location within 
 
 Visitors can enjoy stunning panoramic views from various vantage points within the fort complex. The Badal Mahal provides unparalleled views of the fort's surroundings. The nearby villages and the expansive landscape offer opportunities for nature walks and exploration. During the monsoon season, the landscape transforms into a verdant paradise, with waterfalls and streams adding to the region's beauty.
 
-<img src="placeholder_image_tag_kumbhalgarh_fort_natural_beauty.jpg" alt="Kumbhalgarh Fort Natural Beauty Image">
+
 
 ### **Must-Visit Attractions**
 
@@ -45,7 +45,7 @@ Kumbhalgarh Fort itself is the primary attraction. Within its imposing walls, vi
 
 Offbeat locations around Kumbhalgarh include exploring the numerous stepwells and other architectural marvels spread out across the region, providing insights into local culture and traditions.
 
-<img src="placeholder_image_tag_kumbhalgarh_fort_must_visit.jpg" alt="Kumbhalgarh Fort Must Visit Attractions Image">
+
 
 ### **Adventure Activities**
 
@@ -85,7 +85,7 @@ The Kumbhalgarh Wildlife Sanctuary, adjacent to the fort, is a significant habit
 *   **Reptiles:** Several species of snakes, lizards, and other reptiles.
 *   **Vegetation:** The landscape includes dry deciduous forests with various trees and shrubs.
 
-<img src="placeholder_image_tag_kumbhalgarh_fort_flora_fauna.jpg" alt="Kumbhalgarh Fort Flora and Fauna Image">
+
 
 ### **Best Time to Visit**
 
@@ -106,7 +106,7 @@ Kumbhalgarh and the surrounding areas offer a range of accommodation options:
 *   **Budget Hotels and Guesthouses:** Affordable accommodation options, with comfortable stays.
 *   **Home Stays:** For those who love to interact with locals, staying in local homes is a good choice.
 
-<img src="placeholder_image_tag_kumbhalgarh_fort_accommodation.jpg" alt="Kumbhalgarh Fort Accommodation Image">
+
 
 ### **Offbeat Experiences**
 

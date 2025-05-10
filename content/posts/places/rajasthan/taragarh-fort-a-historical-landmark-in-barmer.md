@@ -22,7 +22,7 @@ Barmer, a vibrant district in the heart of Rajasthan, India, offers a captivatin
 
 Barmer's history is steeped in the tales of Rajput valor and desert resilience. The district derives its name from Bahada Rao Parmar, a Rajput ruler who established the city of Barmer in the 13th century. The region has witnessed numerous battles and political shifts, playing a significant role in the Rajputana Confederacy.
 
-<img src="[PLACEHOLDER IMAGE: Historical site in Barmer, possibly a fort or temple ruins]" alt="Historical Site in Barmer">
+
 
 The cultural heritage of Barmer is vibrant and deeply rooted in tradition. The people, primarily Rajputs, Jats, and Meghwals, celebrate festivals with fervor and display a strong adherence to their customs. Teej, Gangaur, and Holi are observed with traditional music, dance, and colorful celebrations. The region is also known for its devotional music, particularly the *bhajans* and *qawwalis* which are regularly performed, reflecting the blend of Hindu and Islamic influences.
 
@@ -32,7 +32,7 @@ Several historical landmarks dot the landscape, including the ruins of the ancie
 
 Barmer's landscape is dominated by the Thar Desert, providing a unique and captivating environment. The arid climate has shaped the region’s topography, creating vast stretches of sand dunes, rocky outcrops, and scrub vegetation.
 
-<img src="[PLACEHOLDER IMAGE: Sunset over sand dunes in Barmer]" alt="Sunset over Sand Dunes">
+
 
 One of the most prominent natural features is the shifting sand dunes, offering a spectacular view, especially during sunrise and sunset when the light creates dramatic shadows and hues. The surrounding hills, although not very high, provide scenic viewpoints from which visitors can witness the vastness of the desert. The area is dotted with lakes, some of which may dry up during the harsh summer months, adding to the surreal beauty of the desert landscape.
 
@@ -42,7 +42,7 @@ The vegetation is sparse, consisting mainly of hardy shrubs and drought-resistan
 
 Barmer boasts a range of attractions that reflect its cultural and historical richness.
 
-*   **Kiradu Temples:** <img src="[PLACEHOLDER IMAGE: Kiradu Temple]" alt="Kiradu Temple"> These ancient temples are the highlight for many visitors, showcasing intricate carvings and architectural brilliance. The temples, dedicated to Lord Shiva and other deities, are a prime example of the Solanki style of architecture.
+*   **Kiradu Temples:**  These ancient temples are the highlight for many visitors, showcasing intricate carvings and architectural brilliance. The temples, dedicated to Lord Shiva and other deities, are a prime example of the Solanki style of architecture.
 *   **Barmer Fort:** The ruins of this historical fort offer a glimpse into the past, along with panoramic views of the city.
 *   **Juna Fort (Old Barmer):** Located in the older part of Barmer, this historical site has significant architectural and historical value.
 *   **Mahavir Park:** A popular park to relax.
@@ -60,7 +60,7 @@ Barmer offers limited adventure activities, but the vast desert landscape provid
 
 Barmer is renowned for its traditional handicrafts, offering unique shopping experiences. The local markets and bazaars are treasure troves of Rajasthani artistry.
 
-<img src="[PLACEHOLDER IMAGE: Handicrafts being sold in Barmer]" alt="Handicrafts in Barmer">
+
 
 *   **Textiles:** Barmer is famous for its intricate embroidery, block printing, and mirror work textiles. Hand-woven fabrics, including shawls, *dupattas* (scarves), and *lehngas* (skirts), are highly sought after.
 *   **Handmade Goods:** You can find handcrafted leather goods, including bags and footwear.

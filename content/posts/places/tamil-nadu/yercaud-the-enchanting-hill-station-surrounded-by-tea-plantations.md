@@ -18,7 +18,7 @@ tags:
 
 Yercaud, often hailed as the "Jewel of the South," is a serene hill station nestled in the Shevaroy Hills of Tamil Nadu, South India. Located in the Salem district, Yercaud is perched at an altitude of approximately 4,970 feet (1,515 meters) above sea level. It offers a cool, pleasant climate and breathtaking vistas, making it a popular escape from the tropical heat of the plains. Its proximity to the bustling city of Salem (approximately 30 km away) and other popular destinations like Bangalore (around 200 km) and Chennai (about 360 km), makes it easily accessible for a weekend getaway or a longer vacation. What sets Yercaud apart is its untouched natural beauty, verdant coffee plantations, vibrant flora and fauna, and a relaxed atmosphere that offers respite from the everyday hustle.
 <br>
-<img src="placeholder_yercaud_intro.jpg" alt="Yercaud Introduction Image">
+
 
 ### **History and Cultural Heritage**
 
@@ -27,13 +27,13 @@ The history of Yercaud is intertwined with the British colonial era and the infl
 The indigenous inhabitants of the region are the Malayali tribe. Their cultural practices, traditions, and beliefs contribute to Yercaud’s unique identity. The festivals celebrated in Yercaud reflect a blend of Hindu and tribal traditions. The Mariamman Temple Festival, held annually, is a significant event, drawing devotees from the surrounding areas. St. Mary's Church, showcasing colonial architecture, is another important landmark. The historical landmarks mainly revolve around the colonial era and the development of coffee plantations, which have become an integral part of Yercaud's identity.
 
 <br>
-<img src="placeholder_yercaud_history.jpg" alt="Yercaud History Image">
+
 
 ### **Natural Beauty**
 
 Yercaud is renowned for its lush, green landscape, characterized by undulating hills, valleys, and dense forests. The Shevaroy Hills, where Yercaud is situated, are part of the Eastern Ghats. The area boasts diverse flora and fauna, contributing to its natural beauty.
 <br>
-<img src="placeholder_yercaud_landscape.jpg" alt="Yercaud Natural Beauty Image">
+
 
 Key viewpoints offer panoramic views of the surrounding hills and valleys. Some prominent viewpoints include:
 
@@ -47,7 +47,7 @@ The natural environment is a major highlight, with evergreen forests, coffee pla
 
 Yercaud offers a variety of attractions for tourists, including:
 <br>
-<img src="placeholder_yercaud_attractions.jpg" alt="Yercaud Attractions Image">
+
 
 *   **Yercaud Lake (Emerald Lake):** A beautiful lake where you can enjoy boating. It’s a tranquil spot and is surrounded by a well-maintained garden.
 *   **Lady’s Seat:** A popular viewpoint, known for its panoramic views of the plains below.
@@ -68,7 +68,7 @@ Yercaud offers various adventure activities for thrill-seekers.
 
 *   **Trekking:** The region offers several trekking trails, catering to both beginners and experienced trekkers. Popular trekking routes include trails through coffee plantations and forests.
 <br>
-<img src="placeholder_yercaud_trekking.jpg" alt="Yercaud Trekking Image">
+
 *   **Boating:** Boating on Yercaud Lake is a popular activity, providing a relaxing way to enjoy the scenic beauty of the lake.
 *   **Nature Walks:** Exploring the forests and coffee plantations on foot is a rewarding experience, allowing visitors to get close to the flora and fauna.
 *   **Cycling:** Cycling through the winding roads and the beautiful landscapes is a fun and engaging way to experience Yercaud.
@@ -83,7 +83,7 @@ Yercaud is not a major shopping destination, but it offers some local markets an
 *   **Specialties:** Yercaud is well-known for its coffee and spices. You can purchase freshly brewed coffee, aromatic spices like cardamom, cloves, and cinnamon.
 
 <br>
-<img src="placeholder_yercaud_market.jpg" alt="Yercaud Market Image">
+
 
 ### **Food and Cuisine**
 
@@ -97,7 +97,7 @@ Yercaud's cuisine reflects the flavors of Tamil Nadu, with an emphasis on local 
     *   **Hotel Tamil Nadu:** Serves a variety of dishes with a focus on local cuisine.
     *   **Restaurants at Resorts:** Many resorts have in-house restaurants that offer a wide range of cuisines.
 <br>
-<img src="placeholder_yercaud_cuisine.jpg" alt="Yercaud Cuisine Image">
+
 
 ### **Flora and Fauna**
 
@@ -107,7 +107,7 @@ Yercaud is blessed with diverse flora and fauna, making it a haven for nature en
 *   **Fauna:** The area is home to various animal species, including deer, bison, and several species of birds. Birdwatching is a popular activity, with opportunities to spot various native and migratory birds.
 
 <br>
-<img src="placeholder_yercaud_flora_fauna.jpg" alt="Yercaud Flora Fauna Image">
+
 
 ### **Best Time to Visit**
 
@@ -118,7 +118,7 @@ The best time to visit Yercaud is during the cooler months, from **October to Ju
 *   **June to September:** These months experience the monsoon season, with heavy rainfall. While the landscape becomes lush green, outdoor activities might be affected.
 
 <br>
-<img src="placeholder_yercaud_best_time.jpg" alt="Yercaud Best Time to Visit Image">
+
 
 ### **How to Reach**
 
@@ -142,7 +142,7 @@ Yercaud offers a range of accommodation options to suit various budgets.
 *   **Heritage Hotels:** Some hotels are set in colonial-era bungalows.
 *   **Homestays:** Homestays are also available, offering a more personalized and immersive experience.
 <br>
-<img src="placeholder_yercaud_accommodation.jpg" alt="Yercaud Accommodation Image">
+
 
 ### **Offbeat Experiences**
 
@@ -155,7 +155,7 @@ Beyond the well-trodden tourist paths, Yercaud offers unique experiences for the
 *   **Photography:** The scenic beauty of Yercaud provides abundant opportunities for photography.
 
 <br>
-<img src="placeholder_yercaud_offbeat.jpg" alt="Yercaud Offbeat Image">
+
 
 ### **Conclusion**
 

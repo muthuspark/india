@@ -27,7 +27,7 @@ The cultural landscape is a diverse mix of indigenous tribal communities and set
 
 ### **Natural Beauty**
 
-Havelock Island is a paradise for nature enthusiasts. Its landscape is characterized by white-sand beaches, crystalline turquoise waters, and dense tropical forests. The island is surrounded by stunning coral reefs, teeming with a diverse array of marine life. <placeholder image tag for a view of a beach with turquoise water>. Radhanagar Beach, frequently ranked as one of the best beaches in Asia, is the most famous, with its soft sand, gentle waves, and stunning sunsets. Other notable beaches include Elephant Beach (famous for watersports and diving), Kalapathar Beach (known for its black rocks and calm waters), and Vijaynagar Beach (ideal for swimming).
+Havelock Island is a paradise for nature enthusiasts. Its landscape is characterized by white-sand beaches, crystalline turquoise waters, and dense tropical forests. The island is surrounded by stunning coral reefs, teeming with a diverse array of marine life. . Radhanagar Beach, frequently ranked as one of the best beaches in Asia, is the most famous, with its soft sand, gentle waves, and stunning sunsets. Other notable beaches include Elephant Beach (famous for watersports and diving), Kalapathar Beach (known for its black rocks and calm waters), and Vijaynagar Beach (ideal for swimming).
 
 The dense forests within the island are home to a variety of flora and fauna, including various bird species, butterflies, and other tropical life. The area is characterized by its lush greenery. The viewpoints along the beaches, especially during sunset, offer breathtaking vistas. Havelock offers various natural attractions within its vicinity, like the underwater marine life and forests.
 
@@ -35,9 +35,9 @@ The dense forests within the island are home to a variety of flora and fauna, in
 
 Havelock Island is a magnet for tourists. Here are some must-visit attractions:
 
-*   **Radhanagar Beach:** <placeholder image tag for Radhanagar Beach>. This beach is a must-visit for its pristine beauty and is perfect for sunbathing, swimming, and enjoying breathtaking sunsets.
-*   **Elephant Beach:** <placeholder image tag for Elephant Beach with water sports>. Known for its clear waters and vibrant coral reefs, Elephant Beach is a hub for snorkeling, scuba diving, and other watersports.
-*   **Kalapathar Beach:** <placeholder image tag for Kalapathar Beach>. This beach offers a more secluded and serene experience with its black rocks, providing a beautiful contrast to the turquoise water.
+*   **Radhanagar Beach:** . This beach is a must-visit for its pristine beauty and is perfect for sunbathing, swimming, and enjoying breathtaking sunsets.
+*   **Elephant Beach:** . Known for its clear waters and vibrant coral reefs, Elephant Beach is a hub for snorkeling, scuba diving, and other watersports.
+*   **Kalapathar Beach:** . This beach offers a more secluded and serene experience with its black rocks, providing a beautiful contrast to the turquoise water.
 *   **Vijaynagar Beach:** Popular for its calm waters and excellent swimming conditions.
 *   **Dive Sites:** Havelock is home to numerous dive sites, including the popular "Barracuda City", "The Wall", and "MV Emily Scott" offering a peek into the underwater world.
 *   **Neil’s Cove:** A serene, offbeat spot with natural beauty and great for bird watching.
@@ -113,7 +113,7 @@ There are no specific festivals that coincide with the peak tourist season. Howe
 
 Reaching Havelock Island is relatively straightforward:
 
-*   **By Air:** The nearest airport is Veer Savarkar International Airport (IXZ) in Port Blair. <placeholder image tag for an airport scene at Port Blair>. From the airport, you can take a ferry or a seaplane to Havelock Island. The flight connectivity from the major Indian cities is available.
+*   **By Air:** The nearest airport is Veer Savarkar International Airport (IXZ) in Port Blair. . From the airport, you can take a ferry or a seaplane to Havelock Island. The flight connectivity from the major Indian cities is available.
 *   **By Sea:** Ferries are the primary mode of transport between Port Blair and Havelock Island. There are both government-run and private ferries.
 *   **From Port Blair:** The journey takes around 1.5 to 2.5 hours by ferry.
 *   **Nearby Destinations:** Havelock Island is conveniently located near other islands in the Andaman archipelago. You can easily access Neil Island, Long Island, and others by ferry from Havelock.

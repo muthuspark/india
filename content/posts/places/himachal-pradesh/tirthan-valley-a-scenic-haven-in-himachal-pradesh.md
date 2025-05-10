@@ -30,7 +30,7 @@ Significant historical landmarks in the area include the local temples that stan
 
 Tirthan Valley is a paradise for nature lovers, boasting a diverse range of natural features. The valley is defined by the meandering Tirthan River, which originates from the glaciers of the Great Himalayan National Park and flows through the valley, creating a stunning landscape. The surrounding mountains are covered in lush green forests of deodar, pine, and oak trees, providing a rich backdrop for exploration.
 
-<img src="placeholder_image_waterfall.jpg" alt="Waterfall in Tirthan Valley">
+
 
 Numerous viewpoints and natural attractions offer breathtaking panoramic views of the surrounding landscape. Visitors can enjoy stunning vistas of the valley from scenic spots, such as the Jalori Pass, which provides a high-altitude view of the entire region. Majestic waterfalls like the *Great Waterfall* (also known as the *Jibhi Waterfall*), and the *Chhoie Waterfall* within the Great Himalayan National Park offer a mesmerizing natural experience. The valley’s natural environment also includes rich biodiversity, with diverse species of flora and fauna thriving in the surrounding forests.
 
@@ -38,7 +38,7 @@ Numerous viewpoints and natural attractions offer breathtaking panoramic views o
 
 Tirthan Valley offers a plethora of attractions for visitors. The Great Himalayan National Park (GHNP), a UNESCO World Heritage Site, is a major highlight, offering a chance to explore diverse ecosystems and spot unique wildlife. The park is accessible through several entry points near Tirthan.
 
-<img src="placeholder_image_ghnp.jpg" alt="Great Himalayan National Park in Tirthan Valley">
+
 
 Besides the GHNP, other popular attractions include:
 
@@ -64,7 +64,7 @@ Tirthan Valley is an adventure enthusiast's haven, offering various activities t
 
 The local markets in Tirthan Valley are small and offer a glimpse into the traditional crafts of the region. Gushaini and Jibhi are the main hubs where visitors can find local handicrafts.
 
-<img src="placeholder_image_local_market.jpg" alt="Local Market in Tirthan Valley">
+
 
 *   **Handmade Goods:** Visitors can find items like woolen shawls, caps, and other apparel handcrafted by the local artisans.
 *   **Traditional Jewelry:** Locally made silver jewelry and other ornaments reflect the cultural designs of the region.
@@ -118,7 +118,7 @@ Tirthan Valley offers a wide range of accommodation options to suit different bu
 *   **Cottages:** Several cottages and boutique hotels are available for visitors who prefer a more comfortable stay.
 *   **Luxury Resorts:** For a premium experience, visitors can choose from a limited number of luxurious resorts in and around the valley.
 
-<img src="placeholder_image_accommodation.jpg" alt="Accommodation in Tirthan Valley">
+
 
 Some properties also offer camping options.
 

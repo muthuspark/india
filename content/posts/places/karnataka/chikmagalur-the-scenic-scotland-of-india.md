@@ -25,7 +25,7 @@ The history of Chikmagalur is interwoven with the introduction of coffee in Indi
 
 Culturally, Chikmagalur reflects a blend of influences. The region has a rich tradition of festivals, with many celebrations coinciding with agricultural cycles. Local communities celebrate various Hindu festivals, including Diwali, Ugadi (Kannada New Year), and religious processions that are vibrant and colorful. The town also has a strong connection to spiritual heritage, with several temples and shrines dotting the landscape. One notable example is the ancient Sri Sharadamba Temple at Sringeri, which is a renowned centre for Hindu philosophy and pilgrimage, located nearby.
 <!-- PlaceHolder Image - Image of Sri Sharadamba Temple -->
-<img src="placeholder_temple.jpg" alt="Sri Sharadamba Temple" width="500" height="300">
+
 
 Historically significant sites include remnants of ancient kingdoms and the colonial influence of the British. The architecture, while not overly opulent, reflects a certain colonial charm, especially in some of the older bungalows and estates. The impact of coffee cultivation is evident not just in the landscape, but also in the local culture, with coffee being a staple in daily life and an integral part of hospitality.
 
@@ -35,7 +35,7 @@ Chikmagalur's natural beauty is its primary draw. The landscape is dominated by 
 
 The region is blessed with numerous waterfalls, including the stunning Hebbe Falls and Shanti Falls. The cascading waters, the lush green foliage, and the crisp mountain air create an atmosphere of unparalleled tranquility. Viewpoints like Baba Budangiri provide stunning vistas, showcasing the rolling hills, coffee plantations, and the distant valleys. The natural environment is further enriched by the presence of coffee plantations, pepper estates, and spice gardens, adding to the region's aromatic appeal. The Kemmangundi hill station, often called the "Kashmir of the South," is another scenic spot known for its gardens and viewpoints.
 <!-- PlaceHolder Image - Image of a coffee plantation -->
-<img src="placeholder_coffee_plantation.jpg" alt="Coffee Plantation" width="500" height="300">
+
 
 ### **Must-Visit Attractions**
 
@@ -43,19 +43,19 @@ Chikmagalur offers a plethora of attractions for tourists.
 
 *   **Mullayanagiri:** The highest peak in Karnataka, offering stunning views and a temple at the summit.
     <!-- PlaceHolder Image - Image of Mullayanagiri Peak -->
-    <img src="placeholder_mullayanagiri.jpg" alt="Mullayanagiri Peak" width="500" height="300">
+    
 
 *   **Baba Budangiri:** A mountain range and pilgrim site known for its Sufi shrine and scenic beauty.
     <!-- PlaceHolder Image - Image of Baba Budangiri -->
-    <img src="placeholder_bababudangiri.jpg" alt="Baba Budangiri" width="500" height="300">
+    
 
 *   **Hebbe Falls:** A picturesque waterfall located in the coffee plantations, offering a refreshing experience.
     <!-- PlaceHolder Image - Image of Hebbe Falls -->
-    <img src="placeholder_hebbefalls.jpg" alt="Hebbe Falls" width="500" height="300">
+    
 
 *   **Kemmangundi:** A hill station known for its gardens, viewpoints, and the Z Point which offers a breathtaking view of the valley.
     <!-- PlaceHolder Image - Image of Kemmangundi -->
-    <img src="placeholder_kemmangundi.jpg" alt="Kemmangundi" width="500" height="300">
+    
 
 *   **Shanti Falls:** Another beautiful waterfall perfect for nature lovers.
 
@@ -63,7 +63,7 @@ Chikmagalur offers a plethora of attractions for tourists.
 
 *   **Bhadra Wildlife Sanctuary:** A natural reserve home to a variety of wildlife, including tigers, elephants, and numerous bird species.
     <!-- PlaceHolder Image - Image of Bhadra Wildlife Sanctuary -->
-    <img src="placeholder_bhadrawildlife.jpg" alt="Bhadra Wildlife Sanctuary" width="500" height="300">
+    
 
 ### **Adventure Activities**
 

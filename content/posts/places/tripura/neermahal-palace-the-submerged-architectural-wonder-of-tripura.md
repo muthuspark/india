@@ -21,7 +21,7 @@ Neermahal Palace, the "Lake Palace of Tripura," stands as a breathtaking testame
 
 The construction of Neermahal Palace was initiated by Maharaja Bir Bikram Kishore Manikya Debbarma, the then king of Tripura, in 1921. He envisioned a summer residence for himself and his royal family. The palace was completed in 1930 after nine years of labor, crafted with red sandstone and marble, showcasing the royal's ambitious architectural vision. The design was conceived by Martin & Burns Company, a British firm.
 
-<img src="placeholder_neermahal_construction.jpg" alt="Neermahal Palace Construction">
+
 
 The palace served as a cultural hub, hosting regal events, theatrical performances, and boat races. The architecture reflects a blend of Islamic and Hindu influences, creating a harmonious synthesis of styles. The palace's historical significance is not only rooted in its royal association but also in its reflection of a period of Tripura's history when modernization and cultural exchange were actively embraced. The palace's beauty is also captured in the annual Neermahal Water Festival held every year in the month of July or August.
 
@@ -29,7 +29,7 @@ The palace served as a cultural hub, hosting regal events, theatrical performanc
 
 Neermahal Palace is spectacularly positioned on the Rudrasagar Lake, a vast expanse of water that enhances its beauty and provides a stunning backdrop. The lake, a designated Ramsar site (a wetland of international importance), is surrounded by lush greenery, offering picturesque views and a tranquil atmosphere. The reflection of the palace in the lake during sunset is particularly captivating.
 
-<img src="placeholder_rudrasagar_lake_sunset.jpg" alt="Rudrasagar Lake Sunset">
+
 
 The area around the palace is rich in biodiversity, with migratory birds flocking to the lake during certain seasons, adding to its allure. The surrounding landscape provides opportunities for boat rides, and the serenity of the environment contributes to the overall charm of Neermahal.
 
@@ -37,7 +37,7 @@ The area around the palace is rich in biodiversity, with migratory birds flockin
 
 The primary attraction, of course, is Neermahal Palace itself. The palace is divided into two sections: the western side, known as Andar Mahal, which was used by the royal family, and the eastern side, called the open-air theatre. The interiors are adorned with intricate carvings, balconies, and courtyards.
 
-<img src="placeholder_neermahal_palace_exterior.jpg" alt="Neermahal Palace Exterior">
+
 
 Visitors can take boat rides to explore the palace from the lake, offering unique perspectives. The annual Neermahal Water Festival, a vibrant event featuring boat races, cultural programs, and festive celebrations, is also a major draw.
 
@@ -45,7 +45,7 @@ Visitors can take boat rides to explore the palace from the lake, offering uniqu
 
 While the primary focus of a visit to Neermahal is the palace and the serene surroundings, there are opportunities for adventure. Boat rides on Rudrasagar Lake are a must, offering a chance to view the palace from various angles.
 
-<img src="placeholder_boat_ride_rudrasagar.jpg" alt="Boat Ride Rudrasagar">
+
 
 Bird watching around the lake is also a rewarding activity, especially during the migration season. The surrounding area offers possibilities for nature walks, though they are not highly developed for tourism.
 
@@ -53,7 +53,7 @@ Bird watching around the lake is also a rewarding activity, especially during th
 
 While there are no major local markets directly near Neermahal Palace, visitors can find local handicrafts and textiles in Melaghar town and Agartala. Tripura is known for its handloom products, particularly cotton and silk fabrics, as well as bamboo crafts and wooden carvings.
 
-<img src="placeholder_tripura_handicrafts.jpg" alt="Tripura Handicrafts">
+
 
 Souvenirs can be purchased from local shops or from the state government's emporiums in Agartala, showcasing the state's rich artisanal traditions.
 
@@ -61,7 +61,7 @@ Souvenirs can be purchased from local shops or from the state government's empor
 
 The local cuisine of Tripura is heavily influenced by Bengali and tribal flavors, often featuring fish, rice, and locally grown vegetables. In the Melaghar area, small eateries offer simple, authentic Tripura cuisine.
 
-<img src="placeholder_tripura_cuisine.jpg" alt="Tripura Cuisine">
+
 
 Traditional dishes include Mui Borok (a fermented fish preparation), Chakhwi (a mixed vegetable dish with bamboo shoots and pork or chicken), and various preparations of rice. Visitors can explore local restaurants in Melaghar and Agartala to savor the regional flavors.
 
@@ -69,7 +69,7 @@ Traditional dishes include Mui Borok (a fermented fish preparation), Chakhwi (a 
 
 The Rudrasagar Lake and its surroundings are significant for their biodiversity. The lake acts as a habitat for several species of migratory birds, making it a paradise for birdwatchers, especially during the winter season. The wetland ecosystem supports various fish species and other aquatic life. The area also hosts several plant species adapted to the wetland environment.
 
-<img src="placeholder_rudrasagar_bird_watching.jpg" alt="Rudrasagar Bird Watching">
+
 
 ### **Best Time to Visit**
 
@@ -79,13 +79,13 @@ The ideal time to visit Neermahal Palace is during the winter months, from Octob
 
 The nearest airport is Maharaja Bir Bikram Airport in Agartala, approximately 53 kilometers from Neermahal. From the airport, you can hire a taxi or take a bus to Melaghar. The nearest railway station is also in Agartala. Regular bus services and taxis are available from Agartala to Melaghar, the town where Neermahal is situated. The journey by road from Agartala takes approximately 1.5 to 2 hours.
 
-<img src="placeholder_how_to_reach_neermahal.jpg" alt="How to Reach Neermahal">
+
 
 ### **Accommodation Options**
 
 Accommodation options near Neermahal Palace are limited, but you can find basic hotels and guesthouses in Melaghar. For a wider range of choices, Agartala offers a variety of hotels, ranging from budget-friendly options to mid-range and luxury accommodations.
 
-<img src="placeholder_melaghar_accommodation.jpg" alt="Melaghar Accommodation">
+
 
 Many visitors prefer to stay in Agartala and make a day trip to Neermahal.
 
@@ -93,7 +93,7 @@ Many visitors prefer to stay in Agartala and make a day trip to Neermahal.
 
 For those seeking a more immersive experience, consider interacting with local communities and exploring the nearby villages. This can provide insights into the local culture and lifestyle. Take a nature walk around the lake. Also, explore the small temples and local sites around Melaghar. It gives a better understanding of the locale.
 
-<img src="placeholder_neermahal_local_interaction.jpg" alt="Neermahal Local Interaction">
+
 
 ### **Conclusion**
 

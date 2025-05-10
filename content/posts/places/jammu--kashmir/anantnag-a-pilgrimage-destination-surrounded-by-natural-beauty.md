@@ -32,7 +32,7 @@ Historical landmarks include ruins of old temples and gardens, though many have 
 
 Anantnag is blessed with stunning natural beauty, characteristic of the Kashmir Valley. The landscape is dominated by verdant valleys, shimmering streams, and towering mountains that offer breathtaking vistas. The town itself is surrounded by rice paddies, orchards laden with fruit trees, and forests of pine and deodar, providing a picturesque setting that captivates visitors.
 
-<placeholder image tag: Landscape of Anantnag, showing valleys, mountains, and orchards.>
+
 
 The area is particularly known for its numerous freshwater springs, including the famous Martand Sun Temple spring (mentioned below as a must-visit attraction). These natural springs contribute to the region's fertility and offer a tranquil atmosphere. The best viewpoints are scattered throughout the surrounding hills and valleys, where visitors can enjoy panoramic views of the landscape. Specific scenic spots include areas near Kokernag, Achabal, and Verinag (near the Mughal Garden), which showcase the beauty of the region.
 
@@ -42,19 +42,19 @@ Anantnag and its surrounding areas offer a variety of attractions that cater to 
 
 *   **Martand Sun Temple:** Located about 9 km from Anantnag, this ancient temple is an architectural marvel. Dedicated to the Sun God, it showcases intricate carvings and provides insight into the region's rich history.
 
-<placeholder image tag: Martand Sun Temple ruins.>
+
 
 *   **Achabal Garden:** This Mughal garden, situated about 8 km from Anantnag, is known for its terraced layout, flowing water channels, and beautiful landscapes. It is a serene place to stroll and enjoy the beauty of the surroundings.
 
-<placeholder image tag: Achabal Garden.>
+
 
 *   **Verinag:** The source of the Jhelum River, located near a Mughal garden. This place has a beautiful octagonal stone base surrounding the spring, creating a peaceful and scenic location.
 
-<placeholder image tag: Verinag Garden and Spring.>
+
 
 *   **Kokernag:** Known for its beautiful gardens and medicinal springs, Kokernag is located at a short distance from Anantnag. It's a popular destination for nature lovers and those seeking tranquility.
 
-<placeholder image tag: Kokernag gardens or scenic spots.>
+
 
 *   **Daksum:** A beautiful valley surrounded by dense forests and mountains. Daksum is known for its scenic hiking trails and natural beauty.
 

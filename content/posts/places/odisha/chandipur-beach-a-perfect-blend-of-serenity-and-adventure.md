@@ -27,7 +27,7 @@ The proximity to Baleswar, a historically important town, provides a glimpse int
 
 Chandipur Beach's primary attraction lies in its exceptional natural beauty. The vast expanse of the beach, covered in soft sand and dotted with casuarina trees, creates a serene and picturesque environment. The star attraction is undeniably the ebb and flow of the sea. During low tide, the sea retreats far into the horizon, exposing the seabed, mudflats, and creating a mesmerizing spectacle. The retreating tide reveals a unique ecosystem, making it ideal for bird watching, spotting marine life, and observing the complex interplay of the tidal environment.
 
-<img src="placeholder_image_chandipur_beach_view.jpg" alt="Chandipur Beach View">
+
 
 The surrounding landscape is characterized by lush greenery and swaying palm trees, adding to the charm of the coastal environment. The beach offers panoramic views of the Bay of Bengal, providing stunning sunrises and sunsets. This is complemented by the clear, calm waters of the sea during high tide, making it a great spot for relaxing and enjoying the ocean breeze.
 
@@ -98,7 +98,7 @@ Chandipur offers a range of accommodation options to suit various budgets and pr
 
 *   **Hotels and Resorts:** Several hotels and resorts are located near the beach, offering comfortable rooms, dining options, and other amenities.
 
-<img src="placeholder_image_chandipur_beach_hotels.jpg" alt="Chandipur Beach Hotels">
+
 
 *   **Budget Stays:** You can find budget-friendly guesthouses and homestays in and around Chandipur.
 *   **Homestays:** Homestays provide a chance to experience the local culture and hospitality.

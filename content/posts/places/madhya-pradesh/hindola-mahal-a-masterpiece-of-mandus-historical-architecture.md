@@ -29,21 +29,21 @@ Mandu's elevated location offers breathtaking panoramic views of the surrounding
 
 The natural features around Mandu contribute greatly to its appeal. The Rewa Kund and the Kapur Tank offer scenic spots for relaxation. The plateau provides many vantage points from which to enjoy stunning sunsets and sunrises, making it a haven for photography enthusiasts. The overall ambiance is one of serenity, where nature and history blend seamlessly.
 
-<img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty of Mandu" width="600" height="400">
+
 
 ### **Must-Visit Attractions**
 
 Mandu is a treasure trove of architectural marvels and historical sites:
 
-*   **Jahaz Mahal (Ship Palace):** This architectural marvel, situated between two lakes, appears to be a ship floating on water. <img src="placeholder_image_jahaz_mahal.jpg" alt="Jahaz Mahal" width="600" height="400">
+*   **Jahaz Mahal (Ship Palace):** This architectural marvel, situated between two lakes, appears to be a ship floating on water. 
 
-*   **Hindola Mahal (Swing Palace):** Known for its unique sloping walls, this grand building was used as an audience hall. <img src="placeholder_image_hindola_mahal.jpg" alt="Hindola Mahal" width="600" height="400">
+*   **Hindola Mahal (Swing Palace):** Known for its unique sloping walls, this grand building was used as an audience hall. 
 
-*   **Rani Roopmati's Pavilion:** Located on a hilltop, this pavilion offers panoramic views of the Narmada River valley. It is famous for its romantic association with Rani Roopmati and Sultan Baz Bahadur. <img src="placeholder_image_rani_roopmati.jpg" alt="Rani Roopmati's Pavilion" width="600" height="400">
+*   **Rani Roopmati's Pavilion:** Located on a hilltop, this pavilion offers panoramic views of the Narmada River valley. It is famous for its romantic association with Rani Roopmati and Sultan Baz Bahadur. 
 
-*   **Baz Bahadur's Palace:** A beautiful palace that showcases Afghan architecture, located near Rani Roopmati's Pavilion. <img src="placeholder_image_baz_bahadur_palace.jpg" alt="Baz Bahadur's Palace" width="600" height="400">
+*   **Baz Bahadur's Palace:** A beautiful palace that showcases Afghan architecture, located near Rani Roopmati's Pavilion. 
 
-*   **Jama Masjid:** One of the largest mosques in India, this architectural masterpiece reflects the grandeur of the Malwa Sultanate. <img src="placeholder_image_jama_masjid.jpg" alt="Jama Masjid" width="600" height="400">
+*   **Jama Masjid:** One of the largest mosques in India, this architectural masterpiece reflects the grandeur of the Malwa Sultanate. 
 
 *   **Hoshang Shah's Tomb:** Considered a precursor to the Taj Mahal, this tomb features intricate marble carvings and a central dome.
 

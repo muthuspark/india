@@ -25,7 +25,7 @@ Historically, the park area has been influenced by the indigenous communities of
 
 ### **Natural Beauty**
 
-Kaziranga National Park's natural beauty is unparalleled. The landscape is predominantly characterized by the vast, fertile Brahmaputra floodplains. Its features are a mosaic of tall elephant grass, marshes, and shallow water bodies, all sculpted by the river's annual floods. The area's beauty is further enhanced by patches of tropical moist broadleaf forests that dot the park, adding to its diversity. <img src="placeholder_image_kaziranga_landscape.jpg" alt="Kaziranga Landscape">
+Kaziranga National Park's natural beauty is unparalleled. The landscape is predominantly characterized by the vast, fertile Brahmaputra floodplains. Its features are a mosaic of tall elephant grass, marshes, and shallow water bodies, all sculpted by the river's annual floods. The area's beauty is further enhanced by patches of tropical moist broadleaf forests that dot the park, adding to its diversity. 
 
 The park offers several viewpoints to appreciate its beauty, including the Kaziranga National Orchid and Biodiversity Park and various watchtowers strategically placed within the park. These vantage points provide spectacular views of the grasslands, wetlands, and forests, allowing visitors to observe the wildlife in their natural habitat. The park itself functions as a reserve and offers a unique scenic experience, with its vast landscapes and abundant flora and fauna. The waterways, like the Diphlu River, add further to the scenic charm, contributing to a unique and captivating experience.
 
@@ -33,7 +33,7 @@ The park offers several viewpoints to appreciate its beauty, including the Kazir
 
 The primary attraction in Kaziranga National Park is, undoubtedly, its wildlife. The park is home to a high density of the Indian one-horned rhinoceros, making it a prime location to see these majestic creatures. Besides rhinos, visitors can spot Bengal tigers, Asian elephants, wild water buffalo, swamp deer, and a variety of bird species.
 
-<img src="placeholder_image_kaziranga_rhino.jpg" alt="Indian One-Horned Rhinoceros">
+
 
 The main zones for safari include the Central Range (Kohora), the Eastern Range (Agoratoli), the Western Range (Bagori), and the Burapahar Range. The Kohora range is the most popular. Safaris are conducted on elephant back or in open-top jeeps, allowing visitors to venture deep into the park's interiors. Beyond wildlife viewing, the Kaziranga National Orchid and Biodiversity Park, located near Kohora, is a must-visit for its collection of orchid species and its representation of Assam's biodiversity. Although the focus is on nature, the cultural experience of the surrounding areas can be explored through village visits and interactions with local communities.
 
@@ -41,7 +41,7 @@ The main zones for safari include the Central Range (Kohora), the Eastern Range 
 
 Adventure activities in Kaziranga are primarily centered around wildlife exploration. The most popular adventure activities are the jeep safaris and elephant safaris, which offer unique perspectives on the wildlife. The elephant safaris, in particular, provide a thrilling experience, allowing visitors to get closer to the animals, especially the rhinos. Jeep safaris offer a broader perspective on the terrain and enable visitors to cover more ground.
 
-<img src="placeholder_image_kaziranga_safari.jpg" alt="Jeep Safari in Kaziranga">
+
 
 For birdwatchers, the park provides ample opportunities for spotting a variety of bird species, including migratory birds. Guided nature walks in some designated areas also provide an opportunity for a more immersive experience. The adventure lies in the thrill of encountering wildlife in its natural habitat, exploring the vast landscapes, and enjoying the raw beauty of nature. While the park may not offer extreme sports like trekking or water activities, the natural adventure is abundant.
 
@@ -49,7 +49,7 @@ For birdwatchers, the park provides ample opportunities for spotting a variety o
 
 While Kaziranga primarily focuses on nature, the nearby areas provide opportunities to experience the local culture and purchase handicrafts. The town of Kohora and the surrounding villages have small markets and shops where visitors can find traditional Assamese handicrafts.
 
-<img src="placeholder_image_kaziranga_handicrafts.jpg" alt="Assamese Handicrafts">
+
 
 Specialties of the region include traditional textiles like the 'Mekhela Chador' (a traditional Assamese attire for women), handloom products, and bamboo crafts. Visitors can also find souvenirs such as local artwork, handcrafted jewelry, and wooden crafts. These purchases not only serve as mementos of the trip but also support the local artisans and their traditional skills.
 
@@ -57,7 +57,7 @@ Specialties of the region include traditional textiles like the 'Mekhela Chador'
 
 Assamese cuisine is a delightful experience, characterized by the use of fresh ingredients, herbs, and a unique cooking style that reflects the region's diverse culture and climate. The cuisine often features dishes that are both spicy and flavorful.
 
-<img src="placeholder_image_kaziranga_food.jpg" alt="Assamese Cuisine">
+
 
 Traditional dishes to try include 'Khar' (a dish made with raw papaya and lentils), 'Masor Tenga' (sour fish curry), 'Duck Meat Curry', and 'Pitha' (rice cakes). Local restaurants in and around Kohora offer a range of options, from traditional Assamese fare to continental cuisine to cater to the diverse preferences of tourists. Street food is also available, offering a taste of local snacks and beverages.
 
@@ -65,7 +65,7 @@ Traditional dishes to try include 'Khar' (a dish made with raw papaya and lentil
 
 Kaziranga National Park's most significant feature is its rich biodiversity. The park is a habitat for a large variety of flora and fauna, including the Indian one-horned rhinoceros, which is the flagship species of the park. It is estimated that Kaziranga is home to approximately 2,400 rhinoceros, representing almost two-thirds of the world's rhino population.
 
-<img src="placeholder_image_kaziranga_flora_fauna.jpg" alt="Kaziranga's Flora and Fauna">
+
 
 Besides rhinos, the park is home to Bengal tigers, Asian elephants, wild water buffalo, swamp deer, and a variety of bird species. Kaziranga is a designated Important Bird Area (IBA) and is known for its significant birdlife, including migratory species. The landscape's flora consists mainly of tall elephant grass, open woodlands, and wetlands. The park's vegetation is critical in supporting the diverse animal life, making Kaziranga a crucial conservation area.
 
@@ -85,7 +85,7 @@ The nearest railway station is Furkating Junction, about 75 kilometers (47 miles
 
 Kaziranga National Park offers a range of accommodation options to suit different budgets and preferences. Visitors can choose from budget-friendly guesthouses and eco-camps to luxurious resorts and hotels.
 
-<img src="placeholder_image_kaziranga_accommodation.jpg" alt="Kaziranga Accommodation">
+
 
 Accommodation options include resorts such as the Wildgrass Resort and the IORA Resort for luxury stays, eco-lodges like the Bon Habi Eco Resort for nature-focused experiences, and several mid-range hotels and guesthouses in Kohora, the main town near the park. Heritage properties and homestays are also available for those seeking a more authentic experience. Booking in advance, particularly during the peak season, is highly recommended.
 
@@ -93,7 +93,7 @@ Accommodation options include resorts such as the Wildgrass Resort and the IORA 
 
 Beyond the popular jeep and elephant safaris, Kaziranga offers a range of offbeat experiences for those seeking a deeper connection with the region. One such experience is visiting nearby villages and interacting with the local communities, learning about their culture and traditions.
 
-<img src="placeholder_image_kaziranga_village_visit.jpg" alt="Village Visit">
+
 
 Some lodges offer opportunities to participate in cultural programs or volunteer for conservation efforts. Birdwatching in the lesser-known areas, exploring tea gardens, or taking a boat ride on the Brahmaputra River can also offer unique perspectives. These offbeat experiences encourage travelers to embrace the local culture and environment and support the local communities.
 

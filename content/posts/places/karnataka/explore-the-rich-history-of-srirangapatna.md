@@ -23,13 +23,13 @@ Srirangapatna's history is deeply interwoven with the rise and fall of empires. 
 
 Srirangapatna is a treasure trove of cultural heritage. The Ranganathaswamy Temple, dedicated to Lord Ranganatha (a form of Vishnu), is a prime example of the Vijayanagara architectural style and one of the most important Vaishnavite temples in South India. Annual festivals, such as the Rathotsava (chariot festival) at the Ranganathaswamy Temple, showcase local traditions and attract devotees from across the region. The town's historical significance is further reflected in its numerous monuments, including the Daria Daulat Bagh (Tipu Sultan's summer palace), the Gumbaz (the mausoleum of Tipu Sultan, his father Hyder Ali, and his mother), and the fort's ramparts.
 
-<img src="placeholder_image_Tipu_Sultan_Summer_Palace.jpg" alt="Tipu Sultan's Summer Palace">
+
 
 ###  **Natural Beauty**
 
 Srirangapatna's natural beauty is defined by its setting on an island within the Kaveri River. The river's serene waters and the surrounding fertile lands create a picturesque environment. The landscape is characterized by lush green fields, coconut groves, and the gently flowing river. Sunsets over the Kaveri are particularly striking, offering beautiful views. The area also benefits from the river's presence which supports the biodiversity of the region.
 
-<img src="placeholder_image_Kaveri_river_view.jpg" alt="Kaveri River View">
+
 
 ### **Must-Visit Attractions**
 
@@ -43,7 +43,7 @@ Srirangapatna boasts several must-visit attractions that reflect its historical 
 *   **Scott's Bungalow:** A colonial-era building that serves as a reminder of the British presence in the region.
 *   **Wellesley Bridge:** Built by the British, it crosses the Kaveri and offers views of the landscape.
 
-<img src="placeholder_image_Ranganathaswamy_Temple.jpg" alt="Ranganathaswamy Temple">
+
 
 ### **Adventure Activities**
 
@@ -68,7 +68,7 @@ The cuisine of Srirangapatna and the surrounding region is predominantly South I
 
 Local eateries offer traditional dishes. It's worth exploring the local restaurants and street food stalls to sample authentic flavors.
 
-<img src="placeholder_image_local_cuisine.jpg" alt="Local Cuisine">
+
 
 ### **Flora and Fauna**
 

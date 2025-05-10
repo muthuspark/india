@@ -17,19 +17,19 @@ tags:
 
 Dibru-Saikhowa National Park, a biodiversity hotspot located in the Dibrugarh district of Assam, India, is a haven for nature enthusiasts and wildlife lovers. Situated at an elevation ranging from 118 to 125 meters above sea level, this park holds the distinction of being one of the 19 biodiversity hotspots in the world and forms a crucial part of the Eastern Himalayas. The park is strategically positioned, nestled between the Brahmaputra and Lohit rivers in the north and Dibru river in the south, offering a unique ecosystem and a picturesque landscape. It is located approximately 40 km from Dibrugarh town. The park's unique charm lies in its diverse ecosystem, supporting a range of habitats from semi-evergreen forests to wet grasslands, making it a crucial habitat for numerous rare and endangered species. Its proximity to the Brahmaputra River ensures a vibrant aquatic life further enriching its biodiversity.
 <br>
-<img src="placeholder_image_dibru_saikhowa_introduction.jpg" alt="Dibru-Saikhowa National Park - Introduction">
+
 
 ### **History and Cultural Heritage**
 
 The area around Dibru-Saikhowa has a rich history, deeply interwoven with the indigenous communities of Assam, particularly the Mishing tribe, who have historically inhabited the area. The region's proximity to the river systems has shaped the lifestyle and livelihood of the local people. The area's association with the Ahom kingdom, which ruled Assam for about six centuries, has left its mark, influencing the cultural ethos of the region. The park itself was initially declared a Wildlife Sanctuary in 1986 and was subsequently elevated to the status of a National Park in 1999. The cultural landscape is shaped by the numerous festivals and traditions celebrated by the local communities, including Bihu, the Assamese New Year. Religious sites and temples, though not directly within the park, are often visited by people from surrounding areas. The history of the Dibru-Saikhowa region is closely linked to the economic activities in the tea industry, with tea plantations forming a significant part of the region’s landscape and economic activities.
 <br>
-<img src="placeholder_image_dibru_saikhowa_history.jpg" alt="Dibru-Saikhowa National Park - History">
+
 
 ### **Natural Beauty**
 
 Dibru-Saikhowa National Park is a tapestry of natural beauty, where the semi-evergreen forests, grasslands, and wetlands converge to create a mesmerizing spectacle. The park is encompassed by the Brahmaputra and Lohit rivers to the north and the Dibru River to the south. The presence of these mighty rivers plays a significant role in shaping the landscape. The park's ecosystem is characterized by a variety of landscapes, including lush green vegetation, marshy wetlands, and riverine forests. The numerous channels, tributaries, and oxbow lakes within the park offer a breathtaking view, with clear blue waters reflecting the vibrant green of the vegetation. From the river banks and watchtowers, visitors can experience panoramic views of the park's natural splendor. The natural environment includes extensive grasslands which house several species of rare birds.
 <br>
-<img src="placeholder_image_dibru_saikhowa_natural_beauty.jpg" alt="Dibru-Saikhowa National Park - Natural Beauty">
+
 
 ### **Must-Visit Attractions**
 
@@ -40,7 +40,7 @@ Within Dibru-Saikhowa National Park, the primary attraction is the park itself. 
     *   **Dehing Patkai Ecotourism Circuit:** This nearby circuit offers a blend of natural beauty, cultural experiences, and adventure activities.
 
 <br>
-<img src="placeholder_image_dibru_saikhowa_attractions.jpg" alt="Dibru-Saikhowa National Park - Attractions">
+
 
 ### **Adventure Activities**
 
@@ -52,7 +52,7 @@ Dibru-Saikhowa National Park offers a range of adventure activities for thrill-s
 *   **Bird Watching:** The park is a paradise for bird watchers, with opportunities to spot a variety of avian species.
 
 <br>
-<img src="placeholder_image_dibru_saikhowa_adventure.jpg" alt="Dibru-Saikhowa National Park - Adventure Activities">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -64,7 +64,7 @@ While there are no local markets directly within the park, the nearby town of Ti
 *   **Traditional Jewelry:** Visitors can find traditional Assamese jewelry made with gold and other metals.
 
 <br>
-<img src="placeholder_image_dibru_saikhowa_markets.jpg" alt="Dibru-Saikhowa National Park - Local Markets">
+
 
 ### **Food and Cuisine**
 
@@ -77,7 +77,7 @@ Assamese cuisine is known for its simple yet flavorful dishes. In the vicinity o
 *   **Tea Stalls:** Assam is famous for its tea, and tea stalls are available for a refreshing break.
 
 <br>
-<img src="placeholder_image_dibru_saikhowa_cuisine.jpg" alt="Dibru-Saikhowa National Park - Food and Cuisine">
+
 
 ### **Flora and Fauna**
 
@@ -87,13 +87,13 @@ Dibru-Saikhowa National Park is renowned for its rich biodiversity, with both a 
 *   **Fauna:** The park hosts a variety of mammals, including the Bengal tiger, Indian leopard, clouded leopard, elephant, water buffalo, and several species of deer. It is particularly known for the presence of the feral horse. The park is also a birdwatcher's paradise, with numerous resident and migratory bird species. Notable birds include the Greater Adjutant Stork, various species of migratory ducks, and the White-winged Wood Duck, a critically endangered species. Aquatic life includes several species of fish, river dolphins, and turtles.
 
 <br>
-<img src="placeholder_image_dibru_saikhowa_flora_fauna.jpg" alt="Dibru-Saikhowa National Park - Flora and Fauna">
+
 
 ### **Best Time to Visit**
 
 The best time to visit Dibru-Saikhowa National Park is from **November to March**. The climate during these months is pleasant and conducive for exploration. The weather is cool and dry, with clear skies, perfect for wildlife sightings and bird watching. The migratory birds also arrive during these months. The monsoon season (June to September) should be avoided, as heavy rainfall can make the park inaccessible.
 <br>
-<img src="placeholder_image_dibru_saikhowa_best_time.jpg" alt="Dibru-Saikhowa National Park - Best Time to Visit">
+
 
 ### **How to Reach**
 
@@ -104,7 +104,7 @@ Dibru-Saikhowa National Park is relatively accessible.
 *   **By Road:** Dibru-Saikhowa National Park is accessible by road. From Dibrugarh town, it is approximately a 40 km drive. One can hire a taxi or a car from Dibrugarh. The roads are generally good, but the final stretch within the park might be rough, depending on the specific location.
 
 <br>
-<img src="placeholder_image_dibru_saikhowa_how_to_reach.jpg" alt="Dibru-Saikhowa National Park - How to Reach">
+
 
 ### **Accommodation Options**
 
@@ -116,7 +116,7 @@ Accommodation options near Dibru-Saikhowa National Park are available in Dibruga
 *   **Forest Rest Houses:** Rest houses may be available inside the park for a limited number of visitors with prior bookings.
 
 <br>
-<img src="placeholder_image_dibru_saikhowa_accommodation.jpg" alt="Dibru-Saikhowa National Park - Accommodation Options">
+
 
 ### **Offbeat Experiences**
 
@@ -128,7 +128,7 @@ For those seeking authentic and offbeat experiences, consider the following:
 *   **Explore nearby wetlands:** Explore surrounding wetlands and lakes.
 
 <br>
-<img src="placeholder_image_dibru_saikhowa_offbeat.jpg" alt="Dibru-Saikhowa National Park - Offbeat Experiences">
+
 
 ### **Conclusion**
 

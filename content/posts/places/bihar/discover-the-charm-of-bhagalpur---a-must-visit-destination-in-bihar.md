@@ -23,7 +23,7 @@ Bhagalpur boasts a rich history that dates back to ancient times. It was a signi
 
 The cultural heritage of Bhagalpur is a vibrant tapestry woven with threads of tradition and religious devotion. The city is home to numerous temples, reflecting the predominant Hindu faith. The *Vikramshila Mahavihara*, an ancient Buddhist university, was once a prominent learning center and an important historical landmark. The annual *Bihula* festival is a major cultural event, celebrating the legendary love story of Bihula-Bishahari, showcasing traditional music, dance, and colorful processions. The city's cultural landscape is also enriched by its diverse population and the influence of various artistic traditions, making it a melting pot of cultural expressions.
 
-<img src="placeholder_image_bhagalpur_historical_landmark.jpg" alt="Historical Landmark in Bhagalpur">
+
 
 ### **Natural Beauty**
 
@@ -31,12 +31,12 @@ Bhagalpur’s location on the Ganges River grants it a scenic setting. The vast 
 
 The *Kahalgaon* region, located near Bhagalpur, provides a serene escape for nature lovers. The area features the *Ganga River*, offering picturesque sunsets and boat rides. The nearby *Vikramshila Gangetic Dolphin Sanctuary* is a major highlight.
 
-<img src="placeholder_image_bhagalpur_river.jpg" alt="Ganges River in Bhagalpur">
+
 
 ### **Must-Visit Attractions**
 
 *   **Vikramshila Gangetic Dolphin Sanctuary:** This sanctuary is a must-visit for wildlife enthusiasts. It is home to the endangered Gangetic River Dolphin and offers boat rides to observe these playful creatures in their natural habitat.
-<img src="placeholder_image_bhagalpur_dolphin_sanctuary.jpg" alt="Vikramshila Gangetic Dolphin Sanctuary">
+
 *   **Mandar Hill:** Though technically outside Bhagalpur city, this ancient hill holds religious significance and offers panoramic views of the surrounding landscape. The hill is linked to various mythological stories and features ancient temples.
 *   **Kaliyug Sthan:** Known for its ancient temple, the site is revered by locals and features unique architectural elements and spiritual significance.
 
@@ -52,7 +52,7 @@ Bhagalpur is synonymous with its silk production. The city is a paradise for sho
 
 The cuisine of Bhagalpur, like other regions of Bihar, is predominantly vegetarian with a strong influence of lentils, rice, and vegetables. Traditional dishes include *Litti Chokha*, *Dal Pitha*, and various preparations of fish, given its proximity to the Ganges. Street food options are plentiful, including local snacks and sweets like *Khaja* and *Thekua*. The city has a range of eateries, from small food stalls serving local delicacies to restaurants offering more elaborate meals.
 
-<img src="placeholder_image_bhagalpur_local_cuisine.jpg" alt="Local Cuisine in Bhagalpur">
+
 
 ### **Flora and Fauna**
 

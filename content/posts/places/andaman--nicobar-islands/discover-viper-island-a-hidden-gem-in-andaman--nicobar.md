@@ -20,17 +20,17 @@ Viper Island, a small, historically significant island located in the Andaman an
 
 ### **History and Cultural Heritage**
 
-Viper Island's history is inextricably linked to the British colonial rule in the Andaman and Nicobar Islands. <img src="placeholder_image_viper_island_history.jpg" alt="History of Viper Island"> Initially, it was used as a temporary jail before the construction of the infamous Cellular Jail. The British used the island to punish political prisoners and those who dared to rebel against their authority. The island earned a reputation for its brutal treatment of inmates. It was here that the freedom fighters were subjected to inhumane conditions, including torture, solitary confinement, and forced labor. One of the most notorious symbols of the island is the gallows, where prisoners were hanged, offering a chilling testament to the colonial era's injustice.
+Viper Island's history is inextricably linked to the British colonial rule in the Andaman and Nicobar Islands.  Initially, it was used as a temporary jail before the construction of the infamous Cellular Jail. The British used the island to punish political prisoners and those who dared to rebel against their authority. The island earned a reputation for its brutal treatment of inmates. It was here that the freedom fighters were subjected to inhumane conditions, including torture, solitary confinement, and forced labor. One of the most notorious symbols of the island is the gallows, where prisoners were hanged, offering a chilling testament to the colonial era's injustice.
 
 The island offers very little in terms of cultural traditions as it primarily served as a location of subjugation and control, rather than a cultural hub. However, the historical structures themselves—the gallows, the jail buildings, and the ruins of the prison—stand as potent cultural artifacts, evoking the hardships and sacrifices of the Indian freedom movement. The island is a place of somber reflection, prompting visitors to confront the past and understand the struggles faced during the era.
 
 ### **Natural Beauty**
 
-While the island's historical significance is paramount, Viper Island also possesses a degree of natural beauty. <img src="placeholder_image_viper_island_natural_beauty.jpg" alt="Natural Beauty of Viper Island"> Although the island's landscape is largely defined by its colonial-era structures, it is surrounded by the pristine waters and lush greenery characteristic of the Andaman archipelago. The coastline offers scenic views of the surrounding islands and the turquoise waters of the Andaman Sea. Palm trees and other tropical vegetation add a touch of natural beauty to the somber historical backdrop. The island is compact, allowing visitors to appreciate the natural environment and historical sites within a relatively short timeframe. The clear waters surrounding the island offer glimpses of marine life.
+While the island's historical significance is paramount, Viper Island also possesses a degree of natural beauty.  Although the island's landscape is largely defined by its colonial-era structures, it is surrounded by the pristine waters and lush greenery characteristic of the Andaman archipelago. The coastline offers scenic views of the surrounding islands and the turquoise waters of the Andaman Sea. Palm trees and other tropical vegetation add a touch of natural beauty to the somber historical backdrop. The island is compact, allowing visitors to appreciate the natural environment and historical sites within a relatively short timeframe. The clear waters surrounding the island offer glimpses of marine life.
 
 ### **Must-Visit Attractions**
 
-The primary attraction on Viper Island is the ruins of the jail and the remnants of the gallows. <img src="placeholder_image_viper_island_jail.jpg" alt="Ruins of Jail on Viper Island"> These structures, though in ruins, offer a profound insight into the colonial prison system and the experiences of the inmates.
+The primary attraction on Viper Island is the ruins of the jail and the remnants of the gallows.  These structures, though in ruins, offer a profound insight into the colonial prison system and the experiences of the inmates.
 
 *   **Gallows:** The most sobering site on the island, the gallows is a haunting reminder of the numerous hangings that took place here. Visitors can stand at this spot and contemplate the cruelty of the colonial regime.
 *   **Ruined Jail Buildings:** The remains of the jail buildings showcase the architecture of the colonial era and provide a glimpse into the cramped and harsh living conditions of the prisoners.
@@ -54,7 +54,7 @@ No food and beverage stalls are available on the island, as it is a day-trip des
 
 ### **Flora and Fauna**
 
-<img src="placeholder_image_viper_island_flora_fauna.jpg" alt="Flora and Fauna of Viper Island"> While Viper Island is not a major wildlife sanctuary, its vegetation and surrounding waters do support some flora and fauna. The vegetation consists of tropical trees, including palm trees. The clear surrounding waters offer glimpses of marine life, with many species of fish and occasionally, the chance to spot sea turtles and dolphins. Birdwatching can be enjoyable, as well, and a variety of seabirds may be spotted around the island.
+ While Viper Island is not a major wildlife sanctuary, its vegetation and surrounding waters do support some flora and fauna. The vegetation consists of tropical trees, including palm trees. The clear surrounding waters offer glimpses of marine life, with many species of fish and occasionally, the chance to spot sea turtles and dolphins. Birdwatching can be enjoyable, as well, and a variety of seabirds may be spotted around the island.
 
 ### **Best Time to Visit**
 
@@ -79,7 +79,7 @@ Viper Island itself does not have any accommodation options, being a day-trip de
 
 ### **Offbeat Experiences**
 
-<img src="placeholder_image_viper_island_offbeat.jpg" alt="Offbeat Experiences on Viper Island"> Visitors can engage in offbeat experiences to enrich their journey:
+ Visitors can engage in offbeat experiences to enrich their journey:
 
 *   **Early Morning Visit:** Start your day early and visit the island. This can give you a unique perspective on the historical site.
 *   **Photography and Documentary:** Capture the island's historical structures and learn about its significance through photographic storytelling.

@@ -37,7 +37,7 @@ Hawa Mahal itself is the primary attraction and should not be missed. Its intric
 *   **Jaigarh Fort:** Located above Amber Fort, Jaigarh Fort is known for its cannon and historical significance.
 *   **Albert Hall Museum:** A museum housing a diverse collection of artifacts, including paintings, sculptures, and ancient weaponry.
 
-<img src="placeholder_image_Hawa_Mahal_Jaipur.jpg" alt="Hawa Mahal, Jaipur - A prominent view of the Palace with its intricate latticework">
+
 
 ### **Adventure Activities**
 

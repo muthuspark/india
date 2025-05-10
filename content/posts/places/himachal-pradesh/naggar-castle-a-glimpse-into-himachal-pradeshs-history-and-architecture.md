@@ -29,7 +29,7 @@ The castle's cultural significance extends to its association with religious pra
 
 The Kullu Valley, in which Naggar is situated, is renowned for its unparalleled natural beauty. The surrounding landscape is characterized by the majestic snow-capped peaks of the Himalayas, the vibrant green slopes, and the cascading Beas River. The views from Naggar Castle are truly mesmerizing, offering a panoramic spectacle that encompasses the entire valley.
 
-<img src="placeholder_image_of_Kullu_Valley_from_Naggar_Castle.jpg" alt="Kullu Valley View from Naggar Castle">
+
 
 The area around Naggar is lush with orchards, specifically apple orchards, adding a distinctive charm to the scenery. Visitors can find serene walking trails and viewpoints that offer an opportunity to enjoy the pristine natural environment. The climate, with its pleasant summers and snowy winters, further enhances the beauty of the surroundings.
 
@@ -37,17 +37,17 @@ The area around Naggar is lush with orchards, specifically apple orchards, addin
 
 Naggar Castle is undoubtedly the primary attraction. It's an impressive structure, exhibiting the unique Himalayan architecture and the historical significance of the Kullu rulers. The intricate woodwork and carvings are particularly noteworthy.
 
-<img src="placeholder_image_of_Naggar_Castle_Exterior.jpg" alt="Naggar Castle Exterior">
+
 
 **Other must-visit attractions include:**
 
 *   **Gauri Shankar Temple:** This ancient temple dedicated to Lord Shiva, located within the Naggar Castle complex, is an architectural marvel and a significant religious site.
 
-<img src="placeholder_image_of_Gauri_Shankar_Temple.jpg" alt="Gauri Shankar Temple">
+
 
 *   **Nicholas Roerich Art Gallery:** Housed in a house formerly owned by Russian artist Nicholas Roerich, this gallery displays his paintings of the Himalayas, capturing the essence of the region.
 
-<img src="placeholder_image_of_Nicholas_Roerich_Art_Gallery.jpg" alt="Nicholas Roerich Art Gallery">
+
 
 *   **Jagati Patt Temple:** Located within the Castle complex, this is a significant religious site.
 *   **Uruswati Himalayan Folk Art Museum:** Showcases traditional Himalayan art and artifacts.
@@ -67,7 +67,7 @@ Naggar and its surrounding areas offer a range of adventure activities for thril
 
 Naggar itself has a small market where visitors can find local handicrafts, including woolens, shawls, caps, and intricate wood carvings. The markets also offer unique souvenirs, such as handcrafted jewelry, local teas, and spices.
 
-<img src="placeholder_image_of_Naggar_Market.jpg" alt="Naggar Market">
+
 
 The specialty of the area lies in its hand-woven textiles and locally produced items, showcasing the craftsmanship of the local artisans.
 
@@ -116,7 +116,7 @@ Naggar offers a range of accommodation options to suit various budgets:
 *   **Heritage Hotels:** Some properties are housed in restored old buildings, offering a unique experience.
 *   **Homestays:** An increasingly popular option, providing an authentic cultural experience and interaction with local families.
 
-<img src="placeholder_image_of_Naggar_Castle_Heritage_Hotel.jpg" alt="Naggar Castle Heritage Hotel">
+
 
 ### **Offbeat Experiences**
 

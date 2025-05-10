@@ -28,17 +28,17 @@ Culturally, Pattadakal reflects the religious practices of the era, primarily Hi
 
 Pattadakal's natural beauty is characterized by its serene setting along the Malaprabha River, which provides a picturesque backdrop to the ancient temples. The surrounding landscape of the Bagalkot district is typical of the Deccan Plateau, featuring rolling hills, vast open spaces, and a semi-arid environment. The riverbanks offer scenic views, especially during the monsoon season when the river swells with water. While Pattadakal itself doesn't have extensive natural attractions, the nearby areas offer opportunities for exploring the rugged beauty of the region.
 
-<placeholder image tag for a view of Pattadakal with the Malaprabha River>
+
 
 ### **Must-Visit Attractions**
 
 Pattadakal’s temples are the primary attractions and are exceptionally well-preserved examples of early Chalukya architecture:
 
-*   **Virupaksha Temple:** This is the largest and most elaborate temple, modeled after the Kailasa temple at Ellora. It is considered a masterpiece of Dravida architecture. <placeholder image tag for Virupaksha Temple>
-*   **Mallikarjuna Temple:** Similar in design to the Virupaksha Temple, this temple offers stunning carvings and showcases the refined craftsmanship of the era. <placeholder image tag for Mallikarjuna Temple>
-*   **Sangameshwara Temple:** The oldest temple in Pattadakal, offering a glimpse into the earlier architectural styles of the Chalukyas. <placeholder image tag for Sangameshwara Temple>
-*   **Papanatha Temple:** This temple exhibits a blend of Dravida and Nagara styles and is known for its intricate carvings depicting scenes from the Ramayana and Mahabharata. <placeholder image tag for Papanatha Temple>
-*   **Kashi Vishwanath Temple** This temple is known for its carvings and intricate artwork. <placeholder image tag for Kashi Vishwanath Temple>
+*   **Virupaksha Temple:** This is the largest and most elaborate temple, modeled after the Kailasa temple at Ellora. It is considered a masterpiece of Dravida architecture. 
+*   **Mallikarjuna Temple:** Similar in design to the Virupaksha Temple, this temple offers stunning carvings and showcases the refined craftsmanship of the era. 
+*   **Sangameshwara Temple:** The oldest temple in Pattadakal, offering a glimpse into the earlier architectural styles of the Chalukyas. 
+*   **Papanatha Temple:** This temple exhibits a blend of Dravida and Nagara styles and is known for its intricate carvings depicting scenes from the Ramayana and Mahabharata. 
+*   **Kashi Vishwanath Temple** This temple is known for its carvings and intricate artwork. 
 *   **Jain Temple:** Although Pattadakal is predominantly a Hindu site, a Jain temple stands as a reminder of the religious pluralism of the region. (Note: Information on the exact number of temples is readily available)
 
 ### **Adventure Activities**

@@ -34,13 +34,13 @@ The most famous landmark is Cave 16, the Kailasa Temple, an extraordinary monoli
 
 The Ellora Caves are situated in a scenic region, characterized by basalt hills and a dry landscape typical of the Deccan Plateau. The caves themselves are carved into the side of a basalt cliff. The rugged terrain, with its ochre hues and sparse vegetation, adds to the dramatic backdrop of the ancient structures. While the area doesn't boast dense forests or flowing rivers, the surrounding topography offers beautiful vistas, particularly from the higher vantage points within the cave complex. The monsoon season brings a welcome change, with lush greenery briefly transforming the landscape.
 
-<img src="placeholder_image_natural_beauty.jpg" alt="Landscape of Ellora Caves" width="600">
+
 
 ### **Must-Visit Attractions**
 
 The Ellora Caves complex itself is the primary attraction. Here are some of the highlights:
 
-*   **Cave 16 - Kailasa Temple:** The centerpiece of Ellora, this monolithic rock-cut temple is an architectural masterpiece. Its intricate carvings, massive size, and the story of its construction are breathtaking. <img src="placeholder_image_kailasa_temple.jpg" alt="Kailasa Temple" width="600">
+*   **Cave 16 - Kailasa Temple:** The centerpiece of Ellora, this monolithic rock-cut temple is an architectural masterpiece. Its intricate carvings, massive size, and the story of its construction are breathtaking. 
 *   **Buddhist Caves (Caves 1-12):** Explore the chaityas and viharas, marveling at the intricate carvings of Buddha and Bodhisattvas. Cave 10 (the Carpenter's Cave) is particularly impressive with its facade resembling wooden construction.
 *   **Hindu Caves (Caves 13-29):** See the depictions of Hindu epics like Ramayana and Mahabharata, and the detailed carvings of deities like Shiva, Vishnu, and Durga. Cave 15 (Dashavatara Cave) is known for its depictions of Vishnu's ten incarnations.
 *   **Jain Caves (Caves 30-34):** Examine the Jain iconography, including carvings of Tirthankaras and the Yakshas. Cave 32 (Indra Sabha) is one of the most elaborately decorated Jain caves.
@@ -71,7 +71,7 @@ The local cuisine of Aurangabad is a blend of Maharashtrian, Hyderabadi (Nizami)
 *   **Street Food:** Indulge in local street food like Pav Bhaji and Vada Pav.
 *   **Restaurants:** Many restaurants offer traditional Maharashtrian thalis, which includes a variety of dishes such as dal, vegetables, roti, and rice.
 
-<img src="placeholder_image_local_cuisine.jpg" alt="Local food of Ellora Caves" width="600">
+
 
 ### **Flora and Fauna**
 

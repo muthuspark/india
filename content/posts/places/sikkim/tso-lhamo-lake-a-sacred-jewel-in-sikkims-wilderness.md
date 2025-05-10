@@ -23,7 +23,7 @@ The history of Tso Lhamo Lake is interwoven with the history of Sikkim and its B
 
 ### **Natural Beauty**
 
-Tso Lhamo Lake is a jewel of natural beauty, surrounded by towering snow-capped mountains, vast, undulating grasslands, and a surreal, high-altitude desert landscape. The lake itself is a stunning expanse of crystal-clear water, often reflecting the azure sky and the surrounding peaks. The terrain is characterized by barren, rocky mountains, punctuated by the vibrant colors of the occasional hardy alpine flowers. The lake is fed by melting glaciers and streams, ensuring its water remains fresh and clean. The air at this altitude is crisp and invigorating, and the silence is only broken by the wind and the occasional call of a bird. <img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty of Tso Lhamo Lake"> There are no developed viewpoints around the lake, but its very shores offer unparalleled views of the surrounding Himalayan range, including peaks of the Khangchendzonga massif.
+Tso Lhamo Lake is a jewel of natural beauty, surrounded by towering snow-capped mountains, vast, undulating grasslands, and a surreal, high-altitude desert landscape. The lake itself is a stunning expanse of crystal-clear water, often reflecting the azure sky and the surrounding peaks. The terrain is characterized by barren, rocky mountains, punctuated by the vibrant colors of the occasional hardy alpine flowers. The lake is fed by melting glaciers and streams, ensuring its water remains fresh and clean. The air at this altitude is crisp and invigorating, and the silence is only broken by the wind and the occasional call of a bird.  There are no developed viewpoints around the lake, but its very shores offer unparalleled views of the surrounding Himalayan range, including peaks of the Khangchendzonga massif.
 
 ### **Must-Visit Attractions**
 
@@ -33,7 +33,7 @@ While the lake itself is the primary attraction, the entire journey to Tso Lhamo
 *   **Yumthang Valley:** Known as the "Valley of Flowers," Yumthang Valley is a popular stop during the journey to Tso Lhamo, especially during the spring season when the valley bursts with vibrant colors.
 *   **Thangu:** A picturesque village en route to Tso Lhamo, Thangu offers a glimpse into the lifestyle of the local people and serves as a convenient stop for acclimatization.
 
-<img src="placeholder_image_attractions.jpg" alt="Attractions near Tso Lhamo Lake">
+
 
 ### **Adventure Activities**
 
@@ -58,7 +58,7 @@ Given the altitude and lack of infrastructure near Tso Lhamo Lake, food options 
 *   **Dal Bhat:** A staple meal of lentil soup and rice.
 *   **Local Beverages:** Try the local tea, often served with butter and salt.
 
-<img src="placeholder_image_cuisine.jpg" alt="Sikkimese cuisine">
+
 
 ### **Flora and Fauna**
 
@@ -67,7 +67,7 @@ The flora and fauna of the Tso Lhamo region have adapted to the harsh, high-alti
 *   **Flora:** The region is home to various medicinal plants and alpine flowers, including Primula and Gentiana.
 *   **Fauna:** The wildlife is relatively scarce, but visitors may spot some species of birds. The area provides habitat to the blue sheep, snow leopard, and other mountain species, though encounters are rare.
 
-<img src="placeholder_image_flora_fauna.jpg" alt="Flora and fauna of Tso Lhamo">
+
 
 ### **Best Time to Visit**
 
@@ -79,7 +79,7 @@ The best time to visit Tso Lhamo Lake is during the summer months, from May to O
 *   **By Train:** The nearest railway station is New Jalpaiguri (NJP), which is about 188 km from Gangtok.
 *   **By Road:** From Gangtok, it's a challenging journey by road, typically requiring a 1-2 day itinerary. You need permits for this route, as the area falls under restricted zone. The journey usually involves an overnight stay at Lachen, followed by a drive to Tso Lhamo and back. The roads are rough, and a four-wheel-drive vehicle is essential.
 
-<img src="placeholder_image_how_to_reach.jpg" alt="Route Map">
+
 
 ### **Accommodation Options**
 

@@ -27,7 +27,7 @@ The garden showcases the folk art and traditions that are vital components of Ka
 
 While Utsav Rock Garden itself is a man-made marvel, the beauty of the surrounding landscape complements its charm. Although not as visually dramatic as the Western Ghats, the area is green and relatively serene. The garden is carefully landscaped, incorporating elements of nature to enhance the sculptures' impact. The surrounding environment of Bangalore, with its parks, green spaces, and moderate climate, creates a pleasant atmosphere for visitors.
 
-<img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty Around Utsav Rock Garden">
+
 
 Visitors can experience a sense of peace and tranquility while wandering through the garden, admiring the sculptures, and enjoying the well-maintained greenery. The subtle interplay between the artificial sculptures and the natural surroundings creates a harmonious and engaging environment.
 
@@ -40,7 +40,7 @@ The primary attraction at Utsav Rock Garden is, of course, the rock sculptures t
 *   **Folk Art and Crafts:** Representations of various folk art forms and handicrafts unique to Karnataka, allowing visitors to appreciate the region’s artistic heritage.
 *   **Agricultural Scenes:** Showcases traditional farming practices.
 
-<img src="placeholder_image_must_visit_attractions.jpg" alt="Must-Visit Attractions - Rock Sculptures">
+
 
 Visitors are encouraged to wander through the pathways, take their time to observe the details in each sculpture, and reflect on the stories they tell. The garden's layout allows for a leisurely exploration, with ample opportunities for photography and quiet contemplation.
 
@@ -71,7 +71,7 @@ Bangalore, and the surrounding areas, offer a delectable array of culinary exper
 *   **Masala Dosa:** A popular variety of dosa, stuffed with spiced potatoes and served with chutney and sambar.
 *   **Local Restaurants and Cafes:** Bangalore has a wide selection of restaurants and cafes, from simple street food stalls to upscale dining establishments.
 
-<img src="placeholder_image_food_and_cuisine.jpg" alt="Food and Cuisine - Bisi Bele Bath">
+
 
 Visitors should try traditional dishes like Bisi Bele Bath, and Rava Idli. Explore local cafes and restaurants in the nearby areas, enjoying the flavors of South Indian cuisine.
 
@@ -82,7 +82,7 @@ Utsav Rock Garden is located in a part of Bangalore that is well-maintained. Whi
 *   **Cubbon Park:** A major green space, ideal for leisurely walks and enjoying the city's flora.
 *   **Lal Bagh Botanical Garden:** Known for its diverse collection of plants.
 
-<img src="placeholder_image_flora_and_fauna.jpg" alt="Flora and Fauna - Cubbon Park">
+
 
 Visitors can experience the local flora and fauna in these areas, enjoying the green environment that Bangalore offers.
 
@@ -113,7 +113,7 @@ Bangalore has a wide range of accommodation options to suit different budgets:
 *   **Mid-Range Hotels:** Plenty of options in the mid-range category, offering comfortable accommodations.
 *   **Luxury Resorts and Heritage Hotels:** Several luxury hotels and heritage properties are available for those looking for a more upscale experience.
 
-<img src="placeholder_image_accommodation.jpg" alt="Accommodation - Luxury Hotel">
+
 
 It is advisable to book your accommodation in advance, especially during peak tourist seasons.
 

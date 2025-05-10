@@ -22,7 +22,7 @@ Nandi Hills, also known as Nandidurga, is a historical hill fortress and popular
 
 Nandi Hills boasts a rich history, with its origins dating back to the Ganga Dynasty in the 9th century. The hill fort has witnessed the rule of various dynasties including the Cholas, Hoysalas, Vijayanagara Empire, and Tipu Sultan.  The name "Nandi" is derived from the temple of Nandi, the bull and vehicle of Lord Shiva, situated atop the hill.  The fort was a strategically important location and a summer retreat for the British during colonial rule.
 
-<img src="[Placeholder Image: Historical ruins or fort structures on Nandi Hills]" alt="Historical Landmarks">
+
 
 Nandi Hills is dotted with several historical landmarks, including the Tipu Sultan's Summer Residence (also known as Tashk-e-Jannat, meaning "Heaven's Garden"), the Nandi Temple, and the fort walls. The Yoga Nandeeshwara Temple, dedicated to Lord Shiva, is a significant religious site that attracts devotees. The hill station celebrates various festivals throughout the year, with the annual "Karaga" festival being particularly notable.
 
@@ -30,7 +30,7 @@ Nandi Hills is dotted with several historical landmarks, including the Tipu Sult
 
 Nandi Hills offers breathtaking views of the rolling hills, lush greenery, and the surrounding landscape. The viewpoint at Tipu’s Drop provides a dramatic vista, offering stunning panoramic views of the valleys below. The sunrise from Nandi Hills is a particularly enchanting experience, drawing crowds eager to witness the golden hues painting the sky.
 
-<img src="[Placeholder Image: Panoramic View of Nandi Hills, sunrise or sunset]" alt="Natural Landscape">
+
 
 The area is characterized by a relatively cool and pleasant climate throughout the year. The hills are covered with verdant vegetation, with occasional patches of dense forests. There are also several scenic spots and walking trails where visitors can immerse themselves in the natural beauty of the region.
 
@@ -45,7 +45,7 @@ Nandi Hills is packed with attractions that make it a must-visit destination.
 *   **Gazeebo:** A covered structure at the top, offering a panoramic view of the surrounding landscape.
 *   **Secret Lake (Hidden Lake):** A serene lake located near the summit, perfect for a peaceful retreat.
 
-<img src="[Placeholder Image: Tipu's Summer Residence]" alt="Tipu Sultan's Summer Residence">
+
 
 ### **Adventure Activities**
 
@@ -66,7 +66,7 @@ While there aren't large markets on top of Nandi Hills, visitors can find small 
 *   **Wooden Toys and Handicrafts:**  Often featuring intricate designs.
 *   **Local Snacks and Spices:**  Savoury snacks and spices grown locally.
 
-<img src="[Placeholder Image: Local Handicraft Stall]" alt="Local Handicrafts">
+
 
 ### **Food and Cuisine**
 
@@ -83,7 +83,7 @@ Popular restaurants and food stalls are generally located near the entrance and 
 
 While not a designated national park, Nandi Hills has a diverse range of flora and fauna. The region supports a variety of bird species, making it a popular spot for bird watchers, especially during migration seasons.
 
-<img src="[Placeholder Image: Birdwatching or Flora of Nandi Hills]" alt="Flora and Fauna">
+
 
 The landscape is home to various plant species, with the vegetation becoming more lush during the monsoon season. Keep an eye out for interesting plant and animal life while exploring the area.
 
@@ -109,7 +109,7 @@ Nandi Hills offers a range of accommodation options:
 *   **Budget-Friendly Hotels & Guesthouses:** Available in and around the area for those seeking affordable options.
 *   **Homestays:** Some options for a more personalized experience.
 
-<img src="[Placeholder Image: Accommodation - Hotel/Resort] " alt="Accommodation Options">
+
 
 Booking in advance, especially during peak seasons, is highly recommended.
 

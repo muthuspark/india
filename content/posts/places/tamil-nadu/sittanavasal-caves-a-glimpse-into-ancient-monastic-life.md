@@ -21,7 +21,7 @@ Sittanavasal Caves, a hidden gem in the heart of Tamil Nadu, is a testament to a
 
 The history of Sittanavasal is intrinsically linked to Jainism. The caves were originally a Jain monastery (called *Arivar Koil*, meaning "Temple of the Arhats" or "Temple of the Victorious Ones") and served as a refuge and teaching center for Jain monks. The Pallava dynasty and later the Pandya rulers, who embraced Jainism, patronized this site. The murals and sculptures found within the cave complex reflect the religious beliefs and practices of Jainism, including figures of *Tirthankaras* (spiritual teachers) and depictions of significant events in Jain lore. The site was later abandoned, and the paintings suffered from the ravages of time and vandalism. Archaeological Survey of India (ASI) has undertaken conservation efforts to preserve these invaluable historical artifacts. A significant historical event associated with Sittanavasal is the artistic flowering that occurred under the patronage of the rulers, resulting in a style that blends with the Ajanta style but has its own distinctive features.
 
-<img src="placeholder_image_001.jpg" alt="Historical view of Sittanavasal Caves" width="600" height="400">
+
 
 ### **Natural Beauty**
 
@@ -31,7 +31,7 @@ The landscape surrounding Sittanavasal is characterized by rolling hills and gra
 
 The primary attraction is, of course, the **Sittanavasal Caves (Arivar Koil)** themselves. The cave complex consists of a rock-cut temple, a natural cavern with Jain bed carvings, and remnants of a monastery. Inside the cave, visitors can marvel at the remnants of the vibrant murals depicting scenes from Jainism, including the *Samavasarana* (the divine hall where the Tirthankaras preach), lotus ponds, dancing figures, and animals. The Jain bed carvings, or stone beds, are remnants of where Jain monks would meditate.
 
-<img src="placeholder_image_002.jpg" alt="Interior view of Sittanavasal Caves murals" width="600" height="400">
+
 
 A small, offbeat attraction near the caves is the **Sithannavasal Fort**, which has historical significance and provides panoramic views of the surrounding countryside. It is located approximately 1km away.
 
@@ -47,7 +47,7 @@ The closest significant local markets and centers for handicrafts are located in
 
 The local cuisine in and around Sittanavasal reflects the typical flavors of Tamil Nadu, focusing on rice, lentils, and vegetables. **Rice** is a staple, served in various forms like *idli* (steamed rice cakes), *dosa* (thin crepes), and *sambar* (lentil-based vegetable stew). **Vegetarian thalis** (platter) offer a comprehensive introduction to the local dishes. Be sure to try the **filter coffee**, a South Indian staple.
 
-<img src="placeholder_image_003.jpg" alt="Image of Tamil Nadu cuisine" width="600" height="400">
+
 
 While there aren't many restaurants within the immediate vicinity, the larger towns of Pudukkottai and Thanjavur offer a wider range of dining options. Travelers should ask locals for recommendations on local eateries and food stalls.
 
@@ -83,7 +83,7 @@ Beyond the caves themselves, there are several offbeat experiences one can under
 *   **Jain temple visit:** If interested, visit the nearby Jain temples.
 *   **Archaeological Sites:** Visit the nearby historical places.
 
-<img src="placeholder_image_004.jpg" alt="Image of a local Tamil Nadu village" width="600" height="400">
+
 
 ### **Conclusion**
 

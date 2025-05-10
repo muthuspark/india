@@ -27,18 +27,18 @@ Culturally, Mukteshwar is a part of the Kumaoni heritage, which is reflected in 
 ### **Natural Beauty**
 
 Mukteshwar’s landscape is dominated by the majestic Himalayas, offering views of prominent peaks like Nanda Devi, Trishul, and the Panchachuli range. The area is characterized by dense forests of deodar, oak, and rhododendron, contributing to a lush, green environment.
-<img src="placeholder_image_natural_beauty.jpg" alt="Panoramic view of Mukteshwar hills" width="600">
+
 One of the best viewpoints is Chauli Ki Jali, a natural rock formation near the Mukteshwar Temple, providing stunning panoramic vistas. The sunrises and sunsets here are particularly captivating, painting the sky with vibrant hues. The surrounding forests offer excellent opportunities for nature walks and bird-watching, and are home to a variety of flora and fauna.
 
 ### **Must-Visit Attractions**
 
 The primary attraction is undoubtedly the **Mukteshwar Temple**. Situated atop a hill, the temple is surrounded by a serene atmosphere and offers breathtaking views. It's a place of spiritual solace and a popular destination for pilgrims and tourists alike.
-<img src="placeholder_image_mukteshwar_temple.jpg" alt="Mukteshwar Temple" width="600">
+
 **Chauli Ki Jali** is another must-visit spot, famous for its unique rock formation and its association with local folklore. It’s a perfect place for adventure enthusiasts, offering opportunities for rappelling and rock climbing. The **Indian Veterinary Research Institute (IVRI)** is also an interesting place to visit, offering insights into veterinary science and research. Various viewpoints such as the *Sunrise Point* and *Sunset Point* offer unparalleled views of the Himalayan range.
 
 ### **Adventure Activities**
 
-Mukteshwar offers a range of adventure activities to cater to thrill-seekers. **Trekking** is a popular activity, with trails through dense forests and along scenic routes. <img src="placeholder_image_trekking.jpg" alt="Trekking Trail" width="600"> Chauli Ki Jali provides opportunities for **rock climbing and rappelling**. In the surrounding areas, one can explore **nature walks and bird-watching** to enjoy the region's rich biodiversity. **Paragliding** is another option for those seeking an adrenaline rush, offering a bird's-eye view of the stunning landscape.
+Mukteshwar offers a range of adventure activities to cater to thrill-seekers. **Trekking** is a popular activity, with trails through dense forests and along scenic routes.  Chauli Ki Jali provides opportunities for **rock climbing and rappelling**. In the surrounding areas, one can explore **nature walks and bird-watching** to enjoy the region's rich biodiversity. **Paragliding** is another option for those seeking an adrenaline rush, offering a bird's-eye view of the stunning landscape.
 
 ### **Local Markets and Handicrafts**
 
@@ -47,7 +47,7 @@ While Mukteshwar does not have large bustling markets, there are local shops whe
 ### **Food and Cuisine**
 
 The local cuisine in Mukteshwar reflects the Kumaoni culture and offers a variety of flavors. Some traditional dishes to try include *Aloo ke Gutke*, a spicy potato dish; *Bhatt ki Churkani*, a lentil preparation; and *Bal Mithai*, a sweet delicacy. Several local restaurants and cafes serve Indian and continental dishes.
-<img src="placeholder_image_local_cuisine.jpg" alt="Local Cuisine" width="600">
+
 Many accommodations also provide home-cooked meals, giving visitors a chance to experience authentic Kumaoni flavors. Don't miss trying the fresh fruits grown in the area, especially apples, peaches, and plums.
 
 ### **Flora and Fauna**
@@ -63,7 +63,7 @@ The best time to visit Mukteshwar is during the months of **March to June** and 
 *   **By Air:** The nearest airport is Pantnagar Airport, approximately 94 kilometers away. From there, you can hire a taxi or take a bus to Mukteshwar.
 *   **By Rail:** The nearest railway station is Kathgodam, around 73 kilometers from Mukteshwar. From Kathgodam, taxis and buses are readily available.
 *   **By Road:** Mukteshwar is well-connected by road. Regular bus services operate from major cities like Delhi, Dehradun, and Nainital. You can also drive to Mukteshwar; the roads are generally well-maintained, offering scenic routes.
-    <img src="placeholder_image_road_trip.jpg" alt="Road trip to Mukteshwar" width="600">
+    
 
 ### **Accommodation Options**
 

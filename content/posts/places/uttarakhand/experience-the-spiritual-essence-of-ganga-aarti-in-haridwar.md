@@ -19,17 +19,17 @@ Haridwar, a city steeped in spirituality and ancient traditions, is nestled in t
 
 ### **History and Cultural Heritage**
 
-Haridwar, whose name translates to "Gateway to God," boasts a rich history that stretches back centuries. Mentioned in ancient Hindu scriptures like the Puranas, it has been a revered pilgrimage site for millennia. The city is believed to have been visited by several prominent figures throughout history, including the sage Kapila, after whom the area was once named. The Mughal emperor Akbar is said to have visited Haridwar, and his presence is noted through the historical records. The city's cultural heritage is deeply rooted in Hinduism, with a strong emphasis on religious practices and rituals. The Kumbh Mela, a significant Hindu pilgrimage and festival, takes place in Haridwar every twelve years, attracting millions of devotees from all over the world. The numerous temples and ashrams lining the ghats, along with the sounds of mantras and hymns, create an atmosphere that resonates with spiritual energy. <img src="placeholder_image_historical_landmark.jpg" alt="Historical Landmark in Haridwar">
+Haridwar, whose name translates to "Gateway to God," boasts a rich history that stretches back centuries. Mentioned in ancient Hindu scriptures like the Puranas, it has been a revered pilgrimage site for millennia. The city is believed to have been visited by several prominent figures throughout history, including the sage Kapila, after whom the area was once named. The Mughal emperor Akbar is said to have visited Haridwar, and his presence is noted through the historical records. The city's cultural heritage is deeply rooted in Hinduism, with a strong emphasis on religious practices and rituals. The Kumbh Mela, a significant Hindu pilgrimage and festival, takes place in Haridwar every twelve years, attracting millions of devotees from all over the world. The numerous temples and ashrams lining the ghats, along with the sounds of mantras and hymns, create an atmosphere that resonates with spiritual energy. 
 
 ### **Natural Beauty**
 
-Haridwar is blessed with a stunning natural setting. The city is located on the banks of the Ganges River, with the lush green Shivalik hills as a backdrop. The river, crystal clear in its initial stages, adds to the serene beauty of the area.  The sight of the river flowing past the temples, ghats, and the bustling city is truly breathtaking. Several viewpoints offer panoramic vistas of the surroundings, allowing visitors to experience the grandeur of the Himalayas and the beauty of the river confluence. The forests in the nearby areas are home to various species of plants and animals, adding to the rich biodiversity of the region. <img src="placeholder_image_ganges_river.jpg" alt="Ganges River in Haridwar">
+Haridwar is blessed with a stunning natural setting. The city is located on the banks of the Ganges River, with the lush green Shivalik hills as a backdrop. The river, crystal clear in its initial stages, adds to the serene beauty of the area.  The sight of the river flowing past the temples, ghats, and the bustling city is truly breathtaking. Several viewpoints offer panoramic vistas of the surroundings, allowing visitors to experience the grandeur of the Himalayas and the beauty of the river confluence. The forests in the nearby areas are home to various species of plants and animals, adding to the rich biodiversity of the region. 
 
 ### **Must-Visit Attractions**
 
 Haridwar is home to a plethora of temples, ashrams, and ghats, each holding its unique significance.
 
-*   **Har Ki Pauri:** This is the most sacred ghat in Haridwar, and the site of the famous Ganga Aarti ceremony. It is believed that a footprint of Lord Vishnu was imprinted on a stone here. This ghat is the most visited spot in the city.  <img src="placeholder_image_har_ki_pauri.jpg" alt="Har Ki Pauri Ghat">
+*   **Har Ki Pauri:** This is the most sacred ghat in Haridwar, and the site of the famous Ganga Aarti ceremony. It is believed that a footprint of Lord Vishnu was imprinted on a stone here. This ghat is the most visited spot in the city.  
 *   **Mansa Devi Temple:** Situated atop the Bilwa Parvat, this temple offers panoramic views of the city. Visitors can reach the temple via a ropeway, and the temple is dedicated to the goddess Mansa Devi.
 *   **Chandi Devi Temple:** Located on the Neel Parvat, the Chandi Devi Temple is another important shrine. It can be reached by trekking or via a ropeway, and devotees visit it to seek blessings from the goddess Chandi.
 *   **Maya Devi Temple:** Considered one of the Shakti Peethas, this temple is dedicated to the goddess Maya Devi, the presiding deity of Haridwar.
@@ -105,7 +105,7 @@ For a more authentic experience, consider these offbeat activities.
 *   **Attend Morning and Evening Aarti:** Participate in the Ganga Aarti ceremony at Har Ki Pauri.
 *   **Volunteer at an Ashram:**  Engage in community service by volunteering at a local ashram.
 *   **Explore the Lesser-Known Temples:** Discover hidden gems and less-crowded temples away from the main attractions.
-<img src="placeholder_image_offbeat_experience.jpg" alt="Offbeat Experience in Haridwar">
+
 
 ### **Conclusion**
 

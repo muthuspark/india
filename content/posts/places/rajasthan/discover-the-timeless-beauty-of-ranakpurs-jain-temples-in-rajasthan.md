@@ -18,13 +18,13 @@ tags:
 
 Ranakpur, nestled in the heart of Rajasthan, India, is a sanctuary of serenity and artistic brilliance. Situated in the Pali district, it's a serene location surrounded by the Aravalli Range. Ranakpur is renowned globally for its magnificent Jain temple, a sprawling marble masterpiece that stands as a testament to the Jain community's devotion and architectural prowess. This destination offers a unique blend of history, spirituality, and natural beauty, making it a must-visit for travelers seeking a glimpse into Rajasthan's rich cultural heritage. The elevation of Ranakpur is approximately 1,600 feet (488 meters) above sea level, providing a pleasant climate, especially during the winter months. Ranakpur is located relatively close to other popular destinations, including Udaipur (approximately 90 km), Jodhpur (approximately 170 km), and Mount Abu (approximately 160 km), making it an easily accessible and convenient stop on a Rajasthan itinerary.
 
-<img src="placeholder_image_ranakpur_introduction.jpg" alt="Ranakpur Introduction Image">
+
 
 ### **History and Cultural Heritage**
 
 The history of Ranakpur is intertwined with the Jain community and the patronage of the Rajput rulers. The stunning Ranakpur Jain Temple, also known as Chaturmukha Dharana Vihara, was commissioned in the 15th century by Dhanna Shah, a wealthy Jain merchant. Legend has it that Rana Kumbha, the then ruler of Mewar, granted Dhanna Shah land to build this magnificent temple after being impressed by his piety. The temple’s design is attributed to the architect Depaka. The construction took approximately 60 years to complete, showcasing the dedication and skill of the artisans.
 
-<img src="placeholder_image_ranakpur_history.jpg" alt="Ranakpur History Image">
+
 
 Culturally, Ranakpur's heart beats with the rhythm of Jainism. The temple is the epicenter of this cultural influence, with intricate carvings depicting Jain Tirthankaras (spiritual teachers) and intricate scenes from Jain scriptures. The annual Mahavir Jayanti festival is a significant event, celebrated with great fervor by the local Jain community. Beyond the temple, the surrounding villages offer glimpses into the traditional Rajasthani way of life, with vibrant clothing, local crafts, and a strong sense of community. The architecture of the region reflects a blend of Rajput and Jain styles, seen in the local homes and other historical structures.
 
@@ -32,7 +32,7 @@ Culturally, Ranakpur's heart beats with the rhythm of Jainism. The temple is the
 
 Ranakpur is surrounded by the lush beauty of the Aravalli Range, providing a breathtaking backdrop to the architectural marvel of the Jain temple. The region is dotted with rolling hills, dense forests, and scenic valleys. The landscape offers a welcome respite from the desert landscapes that Rajasthan is often associated with. The views from the surrounding hills are particularly stunning, especially during sunrise and sunset, offering panoramic vistas of the temple and the surrounding area.
 
-<img src="placeholder_image_ranakpur_natural_beauty.jpg" alt="Ranakpur Natural Beauty Image">
+
 
 The natural environment around Ranakpur is relatively untouched, offering opportunities for nature walks and exploration. The forested areas are home to diverse flora and fauna, contributing to the overall charm of the location.
 
@@ -40,7 +40,7 @@ The natural environment around Ranakpur is relatively untouched, offering opport
 
 The primary attraction in Ranakpur is undoubtedly the **Ranakpur Jain Temple**. This temple is a marvel of marble architecture and intricate carvings. It is renowned for its unique design featuring 29 halls, 80 domes, and 1,444 intricately carved pillars, each one distinct from the others. The central deity is Adinath, the first Tirthankara of Jainism. The temple is a pilgrimage site and an architectural masterpiece, showcasing the devotion and artistic brilliance of the Jain community.
 
-<img src="placeholder_image_ranakpur_temple.jpg" alt="Ranakpur Temple Image">
+
 
 Other nearby attractions include:
 
@@ -72,7 +72,7 @@ The food in Ranakpur primarily caters to the Jain community, which follows a str
 *   **Street Food:** Limited street food options are available, but visitors can often find snacks like samosas, kachoris, and sweets.
 *   **Restaurants and Cafes:** There are a few restaurants and cafes near the temple and in the surrounding area that offer a range of vegetarian dishes.
 
-<img src="placeholder_image_ranakpur_food.jpg" alt="Ranakpur Food Image">
+
 
 ### **Flora and Fauna**
 

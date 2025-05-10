@@ -27,7 +27,7 @@ The area reflects a strong Konkani cultural influence, with local traditions and
 
 Harihareshwar's natural beauty is a major draw for tourists. The beach itself is a strip of soft, golden sand, ideal for sunbathing and leisurely walks. The surrounding hills provide a dramatic backdrop to the coastline, creating a picturesque setting. The Arabian Sea's turquoise waters gently lap at the shore, offering stunning views.
 
-<img src="placeholder_image_beach_view.jpg" alt="Harihareshwar Beach view" width="600" height="400">
+
 
 The landscape features a mix of sandy beaches, rocky outcrops, and lush greenery. The best viewpoints can be found atop the hills, offering panoramic vistas of the sea and the surrounding landscape. Harihareshwar is also known for its clean air and relatively untouched environment, allowing visitors to experience the natural beauty in a tranquil atmosphere. There aren't any major national parks or reserves within Harihareshwar itself, but the coastal environment provides opportunities for bird-watching and enjoying the local flora and fauna.
 
@@ -35,7 +35,7 @@ The landscape features a mix of sandy beaches, rocky outcrops, and lush greenery
 
 The primary attraction in Harihareshwar is, of course, the **Harihareshwar Temple**. This ancient temple, dedicated to Lord Harihareshwar, is a must-visit for its religious significance and architectural beauty.
 
-<img src="placeholder_image_harihareshwar_temple.jpg" alt="Harihareshwar Temple" width="600" height="400">
+
 
 *   **Kalbhairav Temple:** Located near the Harihareshwar temple, it is a smaller shrine, believed to be the guardian of the main temple.
 *   **Beach:** The main beach is perfect for swimming, sunbathing, and leisurely walks.
@@ -75,7 +75,7 @@ The cuisine in Harihareshwar is predominantly influenced by the Konkan region. F
 
 Harihareshwar and its surrounding areas are known for their diverse flora and fauna. The coastal environment supports a variety of bird species, making it a good spot for birdwatching. The hills and surrounding greenery offer a scenic backdrop and home to several local plant species.
 
-<img src="placeholder_image_bird_watching.jpg" alt="Bird Watching at Harihareshwar" width="600" height="400">
+
 
 While there are no major wildlife reserves within Harihareshwar, the region provides opportunities to observe the natural beauty and appreciate the local biodiversity.
 
@@ -105,7 +105,7 @@ Harihareshwar offers a range of accommodation options to suit different budgets:
 *   **Mid-range hotels:** These provide comfortable rooms, modern amenities, and often include restaurants serving local and international cuisine.
 *   **Resorts:** Some resorts offer a more luxurious experience with well-appointed rooms, swimming pools, and other recreational facilities.
 
-<img src="placeholder_image_resort_view.jpg" alt="Resort at Harihareshwar" width="600" height="400">
+
 
 *   **Homestays:** For a more authentic experience, consider staying at local homestays, where you can interact with the locals and enjoy home-cooked meals.
 *   **Online Booking:** Websites like Booking.com, TripAdvisor, and MakeMyTrip provide options for booking hotels and guesthouses online.

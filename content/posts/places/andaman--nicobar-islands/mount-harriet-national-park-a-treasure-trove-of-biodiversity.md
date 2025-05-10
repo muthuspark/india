@@ -20,13 +20,13 @@ Mount Harriet National Park, a jewel in the Andaman and Nicobar Islands archipel
 
 ### **History and Cultural Heritage**
 
-Mount Harriet derives its name from Harriet, a British officer's wife, during the British colonial rule. The area served as the summer headquarters for the Chief Commissioner during the British administration in the Andaman Islands. The mountain’s strategic vantage point provided a comprehensive overview of the surrounding islands and was instrumental during colonial rule. While the national park itself may not be a site of significant cultural heritage in terms of indigenous traditions, its history is intertwined with the colonial era. The area provides a fascinating glimpse into the islands' past under British rule. <img src="[PLACEHOLDER IMAGE: Historical monument or building related to British colonial rule in Mount Harriet or Port Blair]" alt="Historical Landmark"> The historical significance of Mount Harriet is also linked to the freedom struggle, as the area offered a view of the Cellular Jail, where Indian political prisoners were incarcerated.
+Mount Harriet derives its name from Harriet, a British officer's wife, during the British colonial rule. The area served as the summer headquarters for the Chief Commissioner during the British administration in the Andaman Islands. The mountain’s strategic vantage point provided a comprehensive overview of the surrounding islands and was instrumental during colonial rule. While the national park itself may not be a site of significant cultural heritage in terms of indigenous traditions, its history is intertwined with the colonial era. The area provides a fascinating glimpse into the islands' past under British rule.  The historical significance of Mount Harriet is also linked to the freedom struggle, as the area offered a view of the Cellular Jail, where Indian political prisoners were incarcerated.
 
 ### **Natural Beauty**
 
 Mount Harriet National Park is a treasure trove of natural beauty, characterized by lush evergreen forests, undulating terrains, and a diverse range of flora and fauna. The dominant landscape is marked by dense tropical forests, harboring a variety of trees, including indigenous species. The highest peak in South Andaman, the vantage points atop Mount Harriet, offer spectacular panoramic views of the surrounding islands, including Ross Island and North Bay. The views stretch across the turquoise waters, making it a haven for photographers and nature enthusiasts.
 
-<img src="[PLACEHOLDER IMAGE: Panoramic view from Mount Harriet National Park]" alt="View from Mount Harriet">
+
 
 The park encompasses a rich ecosystem, supporting diverse plant life and providing habitat for a variety of bird species. The natural environment is protected and offers opportunities for nature walks, bird-watching, and exploring the indigenous vegetation.
 
@@ -39,7 +39,7 @@ The primary attraction within Mount Harriet National Park is undoubtedly the sce
 *   **Viewpoints:** Strategically located viewpoints provide ideal spots for photography and enjoying the surroundings.
 *   **Mini Zoo (If Applicable):** Some sites might feature a small zoo with local species.
 
-<img src="[PLACEHOLDER IMAGE: One of the viewpoint at Mount Harriet National Park]" alt="Viewpoint">
+
 
 ### **Adventure Activities**
 
@@ -66,7 +66,7 @@ The culinary scene in Port Blair offers a delightful fusion of Indian, Southeast
 *   **Indian Cuisine:** A variety of Indian dishes, from curries to biryanis, are available.
 *   **Local Specialties:** Try local dishes like coconut-based curries and the fresh catch of the day.
 
-<img src="[PLACEHOLDER IMAGE: Local food from Andaman & Nicobar islands]" alt="Local food">
+
 
 *   **Recommended Restaurants:** Several restaurants and food stalls around Port Blair offer a range of dining options.
 
@@ -78,7 +78,7 @@ Mount Harriet National Park is a haven for biodiversity. It is home to diverse f
 *   **Fauna:** The park is a habitat for numerous bird species, along with various mammals, reptiles, and insects. Common sightings include Andaman Woodpecker, Andaman Teal, and endemic species.
 *   **Wildlife Reserve:** The park is a protected area, allowing visitors to experience wildlife in its natural habitat.
 
-<img src="[PLACEHOLDER IMAGE: Flora and Fauna within the Mount Harriet National Park]" alt="Flora and Fauna">
+
 
 ### **Best Time to Visit**
 
@@ -103,7 +103,7 @@ Port Blair offers various accommodation options catering to diverse budgets and 
 *   **Guesthouses and Homestays:** Budget-friendly guesthouses and homestays provide a more local experience.
 *   **Resorts:** Luxurious resorts offer premium accommodations, facilities, and stunning views.
 
-<img src="[PLACEHOLDER IMAGE: An accommodation option near Mount Harriet or in Port Blair]" alt="Accommodation">
+
 
 ### **Offbeat Experiences**
 

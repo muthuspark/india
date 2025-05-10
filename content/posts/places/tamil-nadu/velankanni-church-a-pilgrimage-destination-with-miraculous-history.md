@@ -21,7 +21,7 @@ The Basilica of Our Lady of Good Health, popularly known as the Velankanni Churc
 
 The history of Velankanni Church is steeped in legends of miracles dating back to the 16th century. The most prominent story involves three apparitions of the Virgin Mary. The first occurred in 1550 when Mary appeared to a shepherd boy delivering milk to a local landowner, asking for milk for her baby. The second apparition happened a few years later, where Mary appeared to a crippled buttermilk vendor, requesting that he build a chapel in her honor. The third apparition occurred in the 17th century when a group of Portuguese sailors, caught in a violent storm, prayed to Mary for deliverance and vowed to build a chapel upon reaching land. They successfully reached Velankanni and built a chapel, which eventually evolved into the current basilica.
 
-<img src="placeholder_image_tag_velankanni_church_history.jpg" alt="Velankanni Church Historical Image">
+
 
 The cultural heritage of Velankanni is rich and diverse, reflecting the multi-religious and multi-ethnic nature of the area. The annual Feast of Our Lady of Good Health, held in August and September, is the most significant cultural event. This grand festival attracts millions of pilgrims and includes a series of processions, prayers, and cultural performances. The church's architecture showcases a blend of Gothic and Indian design elements, further illustrating its unique cultural heritage. The traditions surrounding the church emphasize faith, devotion, and the belief in miracles, which are deeply ingrained in the local culture. Historical landmarks include the original small chapel and the Basilica itself, showcasing the evolution of the site over centuries.
 
@@ -29,7 +29,7 @@ The cultural heritage of Velankanni is rich and diverse, reflecting the multi-re
 
 Velankanni is located on the coast, primarily known for its proximity to the Bay of Bengal. While the area isn't characterized by towering mountains or dense forests, the beauty lies in its coastal landscape and the serenity it offers. The beaches near Velankanni, though not pristine, provide a peaceful ambiance for visitors. The area boasts a network of canals and backwaters adding to the scenic beauty of the surroundings.
 
-<img src="placeholder_image_tag_velankanni_church_natural_beauty.jpg" alt="Velankanni Church Natural Beauty Image">
+
 
 The best viewpoint is undoubtedly the seaside promenade along the coast, especially during sunrise and sunset. This spot provides an open vista of the ocean and the church itself, making it perfect for capturing the essence of Velankanni. There are no formal parks or reserves in the immediate vicinity, but the beaches and open coastal areas provide opportunities for observing the local flora and fauna.
 
@@ -37,7 +37,7 @@ The best viewpoint is undoubtedly the seaside promenade along the coast, especia
 
 The primary attraction in Velankanni is the Basilica of Our Lady of Good Health itself.
 
-<img src="placeholder_image_tag_velankanni_church_basilica.jpg" alt="Velankanni Church Basilica Image">
+
 
 It is a stunning example of Gothic architecture blended with Indian design influences. Other key attractions include:
 
@@ -56,7 +56,7 @@ Due to its coastal location, adventure activities are limited. However, the beac
 
 Velankanni has a vibrant local market scene, mainly catering to the needs of the pilgrims. Here, you can find various religious artifacts, candles, rosaries, and images of Our Lady. The markets also offer a range of souvenirs, including small statues, keychains, and other memorabilia.
 
-<img src="placeholder_image_tag_velankanni_church_market.jpg" alt="Velankanni Church Local Market Image">
+
 
 While Velankanni doesn't specialize in intricate handicrafts, you may find some locally made items, such as religious artwork, embroidered textiles, and traditional clothing. These markets are a great place to soak in the local atmosphere and interact with the friendly vendors.
 
@@ -64,7 +64,7 @@ While Velankanni doesn't specialize in intricate handicrafts, you may find some 
 
 The food scene in Velankanni caters to pilgrims from across the country, offering diverse culinary experiences. Seafood is a prominent part of the local cuisine, given its coastal location. Expect to find a variety of fish, prawns, and crabs, prepared in different styles, including fried, grilled, and curried.
 
-<img src="placeholder_image_tag_velankanni_church_food.jpg" alt="Velankanni Church Food Image">
+
 
 Popular dishes include fish curry, prawn fry, and seafood biryani. Street food stalls offer snacks like vada, samosas, and sweets. You'll find restaurants and food stalls catering to both vegetarian and non-vegetarian preferences. Notable eateries range from small, family-run establishments to slightly larger restaurants.
 
@@ -93,7 +93,7 @@ You can also find a variety of affordable guest houses and lodges offering basic
 
 For offbeat experiences, consider visiting the neighboring villages or exploring the local culture.
 
-<img src="placeholder_image_tag_velankanni_church_offbeat.jpg" alt="Velankanni Church Offbeat Image">
+
 
 *   **Local Villages:** Explore the nearby coastal villages and interact with the local communities.
 *   **Coastal Exploration:** Take a boat trip along the coast to experience the local environment.

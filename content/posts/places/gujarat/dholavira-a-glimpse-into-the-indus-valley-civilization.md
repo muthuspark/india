@@ -19,7 +19,7 @@ Dholavira, a remarkable archaeological site located on the Khadir Bet island in 
 
 ### **History and Cultural Heritage**
 
-Dholavira's history dates back to the 3rd millennium BCE, flourishing as a major urban center of the Indus Valley Civilization between 2650 and 1450 BCE.  Excavations have revealed a sophisticated society with advanced knowledge of town planning, architecture, and water conservation. The city was divided into three distinct parts: the Citadel (the fortified area for rulers), the Middle Town (likely for the elite), and the Lower Town (for the general population). The intricate network of streets, drainage systems, and reservoirs showcases a remarkable understanding of urban engineering. <img src="placeholder_image_tag_dholavira_citadel.jpg" alt="Citadel of Dholavira"> The site also yielded numerous artifacts, including seals, pottery, beads, and copper objects, providing insights into the trade, crafts, and religious beliefs of the Harappan people. The decline of Dholavira, and the Indus Valley Civilization as a whole, is attributed to various factors, including climate change and possibly resource depletion. The site was abandoned around 1500 BCE. The site was discovered in 1967-68 and has undergone extensive excavation over several decades, revealing a wealth of information.
+Dholavira's history dates back to the 3rd millennium BCE, flourishing as a major urban center of the Indus Valley Civilization between 2650 and 1450 BCE.  Excavations have revealed a sophisticated society with advanced knowledge of town planning, architecture, and water conservation. The city was divided into three distinct parts: the Citadel (the fortified area for rulers), the Middle Town (likely for the elite), and the Lower Town (for the general population). The intricate network of streets, drainage systems, and reservoirs showcases a remarkable understanding of urban engineering.  The site also yielded numerous artifacts, including seals, pottery, beads, and copper objects, providing insights into the trade, crafts, and religious beliefs of the Harappan people. The decline of Dholavira, and the Indus Valley Civilization as a whole, is attributed to various factors, including climate change and possibly resource depletion. The site was abandoned around 1500 BCE. The site was discovered in 1967-68 and has undergone extensive excavation over several decades, revealing a wealth of information.
 
 ### **Natural Beauty**
 
@@ -29,10 +29,10 @@ Dholavira is situated on a barren island in the Great Rann of Kutch, a vast salt
 
 The primary attraction at Dholavira is, of course, the archaeological site itself.  Visitors can explore the following:
 
-*   **The Citadel:** The highest and most fortified part of the city, believed to have housed the rulers and administrative buildings. <img src="placeholder_image_tag_dholavira_citadel_view.jpg" alt="View of Dholavira Citadel">
+*   **The Citadel:** The highest and most fortified part of the city, believed to have housed the rulers and administrative buildings. 
 *   **The Middle Town:** Evidence of structures that might have housed the elite of society.
 *   **The Lower Town:** The residential area for the general population, with evidence of different types of houses.
-*   **The Reservoirs:**  An impressive system of reservoirs for water harvesting and storage, showcasing advanced engineering skills.  These are among the most significant features of Dholavira. <img src="placeholder_image_tag_dholavira_reservoirs.jpg" alt="Dholavira Reservoirs">
+*   **The Reservoirs:**  An impressive system of reservoirs for water harvesting and storage, showcasing advanced engineering skills.  These are among the most significant features of Dholavira. 
 *   **The Museum:** A small museum on-site displays artifacts recovered during excavations, providing context and information about the history and culture of the site.
 *   **The Signboard:** Perhaps the most intriguing find is the "Dholavira Signboard," which is a large inscription with ten large Indus script characters. It provides crucial insights into the writing system of the Harappans.
 
@@ -67,7 +67,7 @@ The food available near Dholavira will be limited, with options mostly provided 
 The flora and fauna around Dholavira are adapted to the arid environment of the Rann of Kutch.
 
 *   **Flora:** Limited vegetation due to the salt and dry climate, consisting mainly of hardy shrubs and grasses that can tolerate these conditions.
-*   **Fauna:** The area is home to various species of birds, particularly during the migratory seasons. The Rann is a crucial breeding ground for flamingos and other migratory birds. You may also find desert wildlife adapted to the harsh conditions, such as the Indian Wild Ass (Gudkhur) within the Little Rann. <img src="placeholder_image_tag_dholavira_birds.jpg" alt="Birds in Dholavira">
+*   **Fauna:** The area is home to various species of birds, particularly during the migratory seasons. The Rann is a crucial breeding ground for flamingos and other migratory birds. You may also find desert wildlife adapted to the harsh conditions, such as the Indian Wild Ass (Gudkhur) within the Little Rann. 
 
 ### **Best Time to Visit**
 

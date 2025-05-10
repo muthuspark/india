@@ -17,7 +17,7 @@ tags:
 
 Elephant Falls, a cascading three-tiered waterfall located just outside Shillong, Meghalaya, is one of the most popular and picturesque attractions in the state. Its name, derived from a rock resembling an elephant that once stood near the base of the falls (though it was unfortunately destroyed in an earthquake), adds a touch of whimsical charm to its already stunning natural beauty. Situated approximately 12 kilometers from the heart of Shillong, Elephant Falls is easily accessible and a must-visit for anyone exploring Meghalaya. The falls are a prime example of the region's lush landscape, offering a refreshing escape and breathtaking views that are unique to the Khasi Hills.
 
-<img src="placeholder_elephant_falls_introduction.jpg" alt="Elephant Falls - Introduction">
+
 
 ### **History and Cultural Heritage**
 
@@ -27,13 +27,13 @@ While Elephant Falls itself doesn't possess a distinct historical narrative beyo
 
 Elephant Falls is renowned for its stunning natural beauty, characterized by a series of three cascading waterfalls at different levels. Each tier offers a unique perspective and visual spectacle. The uppermost fall is partially hidden, the second tier is more easily visible and the most dramatic, while the third tier, accessed via a staircase, offers the most breathtaking views and where the sound of the cascading water creates a serene and mesmerizing atmosphere. The surrounding landscape is characterized by lush, green vegetation, including dense forests and vibrant plant life, typical of the Meghalayan climate. The rocks and mossy terrain add to the falls' rugged beauty. The area experiences a high degree of rainfall, which contributes to the falls' strong flow and ensures its beauty throughout the year. The air is always fresh and moist, adding to the refreshing experience for visitors.
 
-<img src="placeholder_elephant_falls_natural_beauty.jpg" alt="Elephant Falls - Natural Beauty">
+
 
 ### **Must-Visit Attractions**
 
 Elephant Falls is the primary attraction, offering visitors the opportunity to descend to the base of the falls and observe the cascading water up close. Pathways and stairs have been constructed to make the journey to the viewpoints accessible and safe. Near Elephant Falls, visitors can explore the nearby Shillong Peak, the highest point in the region, offering panoramic views of Shillong and the surrounding landscape. Ward’s Lake, a beautiful horseshoe-shaped lake in the heart of Shillong, is also a worthwhile visit. For those interested in local culture, the Don Bosco Museum, a significant museum exhibiting the history and culture of Northeast India, offers an enlightening experience.
 
-<img src="placeholder_elephant_falls_must_visit_attractions.jpg" alt="Elephant Falls - Must-Visit Attractions">
+
 
 ### **Adventure Activities**
 
@@ -43,7 +43,7 @@ While Elephant Falls itself primarily offers sightseeing and a connection with n
 
 The local markets in Shillong, easily accessible from Elephant Falls, offer a vibrant insight into the local culture. Bara Bazaar (Iewduh) is a bustling market, considered one of the largest traditional markets in Northeast India. Here, you can find traditional Khasi clothing, handicrafts, local produce, and souvenirs. Lewduh Market is a great place to find locally made textiles, including the traditional *Jainsem*, a Khasi dress. Police Bazaar, another popular market in Shillong, is known for its shops selling fashionable items, handicrafts, and other goods.
 
-<img src="placeholder_elephant_falls_local_markets.jpg" alt="Elephant Falls - Local Markets">
+
 
 ### **Food and Cuisine**
 
@@ -61,7 +61,7 @@ The best time to visit Elephant Falls is during the post-monsoon season, from Oc
 
 The nearest airport is Shillong Airport (also known as Umroi Airport), located approximately 30 kilometers from Elephant Falls. However, it has limited connectivity, and most travelers fly into Guwahati's Lokpriya Gopinath Bordoloi International Airport, which is about 120 kilometers away. From Guwahati, you can hire a taxi or take a shared jeep to Shillong. The journey by road is scenic and takes approximately 3-4 hours. The falls are easily accessible from Shillong via taxis or local transport. Regular bus services also operate between Guwahati and Shillong.
 
-<img src="placeholder_elephant_falls_how_to_reach.jpg" alt="Elephant Falls - How to Reach">
+
 
 ### **Accommodation Options**
 

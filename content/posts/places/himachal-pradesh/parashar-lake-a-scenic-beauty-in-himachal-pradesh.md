@@ -21,7 +21,7 @@ Parashar Lake, a pristine alpine lake nestled amidst the Dhauladhar ranges in Hi
 The lake and the nearby temple are steeped in mythology. Legend has it that Rishi Parashar, a revered sage known for his meditation practices, meditated at this site. It's believed that the lake was created by Bhima, one of the Pandava brothers from the epic Mahabharata. As the story goes, Bhima, while returning from the Himalayas, used his mace to carve out a valley and create the lake.
 
 The temple dedicated to Rishi Parashar, a prominent architectural landmark, further solidifies the site's historical and cultural importance. The temple, constructed in the typical Himachali Pagoda style, dates back to the 14th century and is a testament to the craftsmanship and artistry of the region. The architecture is a harmonious blend of wood and stone, featuring intricate carvings and a unique three-tiered roof. The annual festival, held in June, is a vibrant celebration showcasing the rich local traditions and drawing devotees from far and wide.
-<placeholder image tag for the Parashar Lake Temple>
+
 
 ### **Natural Beauty**
 
@@ -29,7 +29,7 @@ The landscape surrounding Parashar Lake is a visual masterpiece. Towering snow-c
 
 The lake offers panoramic views of the Pir Panjal and Dhauladhar ranges, creating a picturesque panorama. The floating island, a unique geological feature, is a mesmerizing spectacle. The dense forest cover around the lake provides opportunities for nature walks and bird watching, with diverse species of birds and other wildlife. The air is crisp and clean, filled with the fragrance of pine and deodar trees, offering a rejuvenating experience.
 
-<placeholder image tag for the Parashar Lake and the surrounding landscape>
+
 
 ### **Must-Visit Attractions**
 
@@ -84,7 +84,7 @@ Accommodation near Parashar Lake is limited but available:
 *   **Guest Houses:** Basic guest houses are located in the vicinity of the lake, offering simple but comfortable accommodations.
 *   **Camping:** Camping is a great option, offering an immersive experience in nature (permits may be required).
 *   **Hotels & Resorts:** For more options, stay in Mandi, where you can find a range of hotels and guesthouses to suit different budgets.
-<placeholder image tag for a Guest House near Parashar Lake>
+
 
 ### **Offbeat Experiences**
 

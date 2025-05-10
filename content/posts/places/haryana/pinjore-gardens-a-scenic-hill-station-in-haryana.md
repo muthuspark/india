@@ -23,13 +23,13 @@ The history of Pinjore Gardens can be traced back to the 17th century. The garde
 
 Culturally, Pinjore Gardens hold a significant place in Haryana's heritage. The garden’s architectural style is influenced by Mughal sensibilities, which were infused with local Rajasthani elements, showcasing a unique blend. Annual mango festivals and other cultural events are also held here that attract large crowds. While there are no specific religious sites within the garden complex, the overall environment has a spiritual calmness. The garden has a historical significance being a legacy of Mughal and Rajput rulers. The architecture is a testament to the artistic skills of the bygone era.
 <br>
-`<img src="placeholder_pinjore_gardens_historical_image.jpg" alt="Pinjore Gardens Historical Image">`
+``
 
 ### **Natural Beauty**
 
 Pinjore Gardens are set against the backdrop of the scenic Shivalik Hills, offering breathtaking views of the surrounding landscape. The garden's design is inspired by the Charbagh style of gardens. The site features multiple terraces connected by water channels, fountains, and pavilions. The cascading water and the lush greenery contribute to the natural beauty of the area. Visitors can experience panoramic views from various viewpoints within the garden, especially from the uppermost terrace. The garden's beauty is enhanced by the variety of flowers and trees, with a well-maintained garden adding to the overall aesthetic appeal.
 <br>
-`<img src="placeholder_pinjore_gardens_natural_beauty_image.jpg" alt="Pinjore Gardens Natural Beauty Image">`
+``
 
 ### **Must-Visit Attractions**
 
@@ -39,7 +39,7 @@ Pinjore Gardens offer a wealth of attractions for visitors. The key structures, 
 
 While Pinjore Gardens primarily cater to a leisurely experience, the surrounding area offers limited adventure activities. Given its proximity to the Shivalik hills, trekking or hiking can be possible in nearby areas. Options include nature walks to the lower hills.
 <br>
-`<img src="placeholder_pinjore_gardens_adventure_image.jpg" alt="Pinjore Gardens Adventure Image">`
+``
 
 ### **Local Markets and Handicrafts**
 
@@ -53,7 +53,7 @@ The food stalls within Pinjore Gardens offer a variety of snacks and refreshment
 
 The Pinjore Gardens are well-known for their carefully maintained and diverse flora. The garden showcases various species of flowers, trees, and shrubs, making it an ideal place for nature lovers. The surrounding Shivalik hills are home to a variety of bird species, making the area suitable for bird-watching enthusiasts.
 <br>
-`<img src="placeholder_pinjore_gardens_flora_fauna_image.jpg" alt="Pinjore Gardens Flora Fauna Image">`
+``
 
 ### **Best Time to Visit**
 

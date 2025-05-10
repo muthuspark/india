@@ -28,11 +28,11 @@ The cultural heritage of Yamunotri is deeply rooted in the Garhwali traditions. 
 
 ### **Natural Beauty**
 
-Yamunotri's natural beauty is simply awe-inspiring. The landscape is dominated by towering, snow-capped peaks, lush green valleys, and dense forests. The main attraction is the Yamuna River, which originates from the Champasar Glacier, located just a few kilometers from the main temple. The region around Yamunotri boasts an incredible diversity of flora and fauna. The mountain slopes are covered with coniferous forests, and the alpine meadows offer stunning views. The hot water springs, like the Surya Kund, are another unique feature of the area. The views from the temple, and along the trekking route, are breathtaking, offering panoramic vistas of the surrounding Himalayan ranges. <placeholder image tag for panoramic view of the Himalayas>
+Yamunotri's natural beauty is simply awe-inspiring. The landscape is dominated by towering, snow-capped peaks, lush green valleys, and dense forests. The main attraction is the Yamuna River, which originates from the Champasar Glacier, located just a few kilometers from the main temple. The region around Yamunotri boasts an incredible diversity of flora and fauna. The mountain slopes are covered with coniferous forests, and the alpine meadows offer stunning views. The hot water springs, like the Surya Kund, are another unique feature of the area. The views from the temple, and along the trekking route, are breathtaking, offering panoramic vistas of the surrounding Himalayan ranges. 
 
 ### **Must-Visit Attractions**
 
-*   **Yamunotri Temple:** This is the primary attraction, dedicated to the Goddess Yamuna. The temple is a simple, traditional structure and houses a black marble idol of the goddess. Pilgrims offer prayers and perform rituals at the temple. <placeholder image tag for Yamunotri temple>
+*   **Yamunotri Temple:** This is the primary attraction, dedicated to the Goddess Yamuna. The temple is a simple, traditional structure and houses a black marble idol of the goddess. Pilgrims offer prayers and perform rituals at the temple. 
 *   **Surya Kund:** A hot water spring where pilgrims cook rice and potatoes as an offering to the deity. The water is extremely hot, and the steam rising from the kund is a common sight.
 *   **Divya Shila:** A rock pillar near the Surya Kund where devotees perform rituals and pay their respects before entering the temple.
 *   **Champasar Glacier:** The actual source of the Yamuna River. A trek of approximately 6 km from Yamunotri takes you to this sacred glacier, offering spectacular views. However, the trek is challenging and not recommended for everyone.

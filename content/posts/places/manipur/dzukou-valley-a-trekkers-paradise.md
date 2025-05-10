@@ -6,7 +6,7 @@ categories:
   - Manipur
   - None
 description: "Nestled in the northeastern state of Manipur, Dzukou Valley is a breathtakingly beautiful landscape known for its lush greenery and serene atmosphere. Situated at an elevation of over 2,000 meters, it offers stunning views of the surrounding hills and valleys. The valley is particularly famous among trekkers and adventure enthusiasts, offering trails that lead to picturesque viewpoints and opportunities for bird watching and eco-tourism."
-image: <image>
+image: images/image_dzukou-valley.png
 tags: 
   - Mountain Landscapes
   - Wildlife Sanctuaries
@@ -23,7 +23,7 @@ Dzukou Valley's history is less documented than its natural beauty. The valley h
 
 ### **Natural Beauty**
 
-<placeholder image tag: Dzukou Valley panoramic view>
+
 
 Dzukou Valley's most striking feature is its landscape. It is a valley of rolling hills, covered in emerald green grass during the summer and a golden hue in the winter. The entire area is encompassed by lush forests that provide a dramatic contrast to the open valley floor. The Dzukou River meanders through the valley, adding to its serenity. The most renowned aspect of the valley is its unique floral diversity. The valley floor blooms with a tapestry of wildflowers during the summer, especially the iconic Dzukou Lily, a distinctive species found only in this area.
 
@@ -31,7 +31,7 @@ Key viewpoints are easily accessible after treks. The ridge tops offer panoramic
 
 ### **Must-Visit Attractions**
 
-<placeholder image tag: Dzukou Lily close-up>
+
 
 The primary attraction of Dzukou Valley *is* the valley itself. There are no man-made structures within the valley, which adds to its charm and isolation. However, the trekking routes themselves become attractions, winding through the various terrains.
 
@@ -43,7 +43,7 @@ Although there aren't specific religious or historical sites *within* the valley
 
 ### **Adventure Activities**
 
-<placeholder image tag: Trekkers in Dzukou Valley>
+
 
 Dzukou Valley is an excellent destination for adventure activities, primarily trekking.
 
@@ -61,7 +61,7 @@ Since the primary access points are outside the valley, the local markets and ha
 
 ### **Food and Cuisine**
 
-<placeholder image tag: Local Naga Thali>
+
 
 The cuisine in the region is distinctive, primarily relying on locally sourced ingredients. In the valley itself, carrying your own food and water is essential. Food stalls and accommodations are only found at the beginning of the treks from Viswema. However, in the surrounding areas, the Naga cuisine is worth exploring.
 
@@ -71,7 +71,7 @@ The cuisine in the region is distinctive, primarily relying on locally sourced i
 
 ### **Flora and Fauna**
 
-<placeholder image tag: Dzukou Valley flora and fauna>
+
 
 Dzukou Valley and its surrounding areas are rich in biodiversity. Although there are no specific national parks within the valley, the entire area is considered an important natural habitat.
 
@@ -95,7 +95,7 @@ The best time to visit Dzukou Valley is during the spring and summer months (Apr
 
 ### **Accommodation Options**
 
-<placeholder image tag: Camp site in Dzukou Valley>
+
 
 Accommodation options are limited *within* the valley itself. However, options are available near the starting points:
 

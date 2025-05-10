@@ -22,17 +22,17 @@ Tezu, the headquarters of the Lohit district in the northeastern state of Arunac
 
 The history of Tezu is intrinsically linked with the indigenous Mishmi people, who form the dominant tribal group of the region. Historically, the Mishmi people have had a complex relationship with neighboring tribes and the plains, characterized by trade, occasional conflicts, and distinct social structures. The British colonial presence in the region was initially limited, with greater influence slowly establishing after the 19th century. The strategic location of Tezu gained importance, influencing the development of administration and trade. The town's development has always been shaped by the tribal traditions of the Mishmi community, marked by unique customs, language, and a strong sense of community.
 
-Culture flourishes in the form of the festivals of the Mishmi community such as the Tamladu festival celebrated every year on 15th February. Religious sites are present throughout the region. The town retains much of its indigenous culture, with traditional handicrafts and handloom products reflecting the skill and creativity of the local artisans. <placeholder image tag for a photo of a cultural festival or local craftsmanship>
+Culture flourishes in the form of the festivals of the Mishmi community such as the Tamladu festival celebrated every year on 15th February. Religious sites are present throughout the region. The town retains much of its indigenous culture, with traditional handicrafts and handloom products reflecting the skill and creativity of the local artisans. 
 
 ### **Natural Beauty**
 
-Tezu is blessed with an extraordinary natural landscape characterized by lush green hills, meandering rivers, and dense forests. The Lohit River, also known as the Zayul Chu in Tibet, flows through the region, adding to its scenic beauty and providing essential lifeblood for the surrounding ecosystem. <placeholder image tag for a photo of the Lohit River or surrounding mountains> The forests are home to a variety of flora and fauna, contributing to the region's rich biodiversity. The views from the surrounding hills and viewpoints offer panoramic vistas of the valleys, rivers, and the Himalayan range, creating an atmosphere of serenity. The climate is sub-tropical, influenced by monsoon rains, which intensify the greenery and refresh the environment. The region is punctuated by numerous waterfalls and scenic spots, making it an ideal destination for nature lovers and photographers.
+Tezu is blessed with an extraordinary natural landscape characterized by lush green hills, meandering rivers, and dense forests. The Lohit River, also known as the Zayul Chu in Tibet, flows through the region, adding to its scenic beauty and providing essential lifeblood for the surrounding ecosystem.  The forests are home to a variety of flora and fauna, contributing to the region's rich biodiversity. The views from the surrounding hills and viewpoints offer panoramic vistas of the valleys, rivers, and the Himalayan range, creating an atmosphere of serenity. The climate is sub-tropical, influenced by monsoon rains, which intensify the greenery and refresh the environment. The region is punctuated by numerous waterfalls and scenic spots, making it an ideal destination for nature lovers and photographers.
 
 ### **Must-Visit Attractions**
 
 Tezu offers a range of attractions for visitors:
 
-*   **Parshuram Kund:** A significant Hindu pilgrimage site located a short distance from Tezu. It’s where, according to Hindu mythology, Parshuram washed away the sin of matricide. <placeholder image tag for a photo of Parshuram Kund>
+*   **Parshuram Kund:** A significant Hindu pilgrimage site located a short distance from Tezu. It’s where, according to Hindu mythology, Parshuram washed away the sin of matricide. 
 *   **Gompa (Buddhist Monastery):** Tezu houses several Buddhist monasteries showcasing the local Buddhist faith and architecture. These monasteries are adorned with intricate carvings, prayer flags, and provide insight into the region's religious practices.
 *   **Mini Zoo & Botanical Garden:** This provides a great opportunity to experience the local wildlife and flora.
 *   **Ita Fort:** Although a bit of a drive, Ita Fort (located near Itanagar) is a historical site, showcasing the architectural skills of the region. (Note: This is outside Tezu, but worth considering for a more extended trip if time permits).
@@ -53,7 +53,7 @@ Tezu’s markets provide an insight into the local life and are great for shoppi
 
 *   **Local Bazaars:** The bustling local markets offer a vibrant display of traditional handicrafts, handloom products, and local produce.
 *   **Handloom & Handicrafts:** The Mishmi tribe is renowned for their handloom skills, particularly the weaving of colorful textiles and intricate designs, including woolen carpets. Visitors can purchase traditional dresses, shawls, bags, and other items.
-*   **Souvenirs:** Look for items such as bamboo products, wooden carvings, and local artwork to take home as souvenirs. <placeholder image tag for a photo of local market or handicraft item>
+*   **Souvenirs:** Look for items such as bamboo products, wooden carvings, and local artwork to take home as souvenirs. 
 
 ### **Food and Cuisine**
 

@@ -27,7 +27,7 @@ The fort played a significant role in the region's power struggles, serving as a
 
 Gooty Fort's elevated position offers breathtaking vistas of the surrounding landscape. The fort's location atop a hill provides a natural vantage point, with panoramic views extending across the expansive plains. The landscape surrounding Gooty is typically semi-arid, characterized by rocky outcrops, scrub vegetation, and occasional patches of cultivated land. The fort itself blends seamlessly with the natural rock formations, making it an integral part of the environment.
 
-<img src="placeholder_image_gttfort_landscape.jpg" alt="Gooty Fort Landscape">
+
 
 Visitors can enjoy the sunrise or sunset from various points within the fort complex, offering stunning views of the changing colors in the sky. The fort's strategic location allowed for surveillance of the area, making it a perfect place to observe the natural surroundings.
 
@@ -36,7 +36,7 @@ Visitors can enjoy the sunrise or sunset from various points within the fort com
 The primary attraction in Gooty is undoubtedly the fort itself. Within the fort complex, visitors can explore a variety of structures, including:
 
 *   **The Fort Walls and Bastions:** The massive fortifications with numerous bastions offer spectacular views.
-<img src="placeholder_image_gttfort_wall.jpg" alt="Gooty Fort Wall">
+
 
 *   **Granaries and Stables:** remnants of the fort's past as a military establishment.
 *   **Residential Quarters:** Explore the residential structures which offers a peek into the life of the people who lived in the fort.
@@ -48,7 +48,7 @@ While specific museums or cultural hubs are not located directly within the fort
 
 Gooty Fort is ideal for trekking and hiking enthusiasts. Climbing the steps and navigating the fort's pathways provides a moderate level of physical activity. Exploring the numerous bastions and ramparts provides excellent opportunities for photography and enjoying the panoramic views. The rocky terrain around the fort also provides opportunities for rock climbing, though this may require prior arrangements and safety precautions.
 
-<img src="placeholder_image_gttfort_trekking.jpg" alt="Gooty Fort Trekking">
+
 
 Bird watching can also be enjoyed in the surrounding areas. The vastness around the fort offers ample space for cycling, but the availability of marked trails or guided tours may vary.
 
@@ -60,7 +60,7 @@ Gooty town has local markets where visitors can explore everyday goods and produ
 
 The local cuisine in and around Gooty is characteristic of Andhra Pradesh. Traditional dishes include rice-based meals, spicy curries, and various vegetarian and non-vegetarian options. You can try some local street food.
 
-<img src="placeholder_image_gttfort_food.jpg" alt="Gooty Fort Food">
+
 
 It's worth trying the local varieties of dals, vegetable curries, and biryani. The availability of restaurants and food stalls may vary, so it's advisable to check in advance. Popular restaurants and food stalls can be found in the nearby towns.
 
@@ -84,7 +84,7 @@ Gooty is well-connected by road and rail.
 
 Accommodation options in Gooty town may be limited. You can find budget hotels and guesthouses. For a wider range of options, consider staying in nearby towns like Anantapur.
 
-<img src="placeholder_image_gttfort_hotel.jpg" alt="Gooty Fort Hotel">
+
 
 Nearby towns offer a wider selection of hotels, ranging from budget-friendly to mid-range options. Heritage properties or luxury resorts are not readily available in close proximity to Gooty.
 
@@ -92,7 +92,7 @@ Nearby towns offer a wider selection of hotels, ranging from budget-friendly to 
 
 For offbeat experiences, consider exploring the rural areas surrounding Gooty. Visitors can enjoy a relaxing environment by visiting local villages and farms.
 
-<img src="placeholder_image_gttfort_villages.jpg" alt="Gooty Fort Villages">
+
 
 Engage with the locals and witness their traditional lifestyles. Interacting with the locals can offer you a real glimpse into the cultural heritage of the region.
 

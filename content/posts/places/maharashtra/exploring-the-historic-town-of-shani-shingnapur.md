@@ -28,7 +28,7 @@ The cultural heritage of Shani Shingnapur is centered on its devotion to Lord Sh
 
 While Shani Shingnapur itself is a village and not a scenic tourist spot in the conventional sense, the surrounding region showcases the rural beauty of Maharashtra. The landscape is typical of the Deccan Plateau, with rolling hills, farmlands, and the Panasnala River (which, in the past, delivered the idol) meandering through the area. The open fields and the clear, starlit nights offer a sense of tranquility. The best way to appreciate the natural beauty is to take a drive through the rural areas surrounding Shani Shingnapur.
 
-<img src="placeholder_image_landscape.jpg" alt="Landscape surrounding Shani Shingnapur" width="600">
+
 
 ### **Must-Visit Attractions**
 
@@ -38,7 +38,7 @@ The primary attraction is, undoubtedly, the **Shani Shingnapur Temple**. The ope
 *   **Shani Mandir Trust:** The trust manages the temple and provides facilities for devotees.
 *   **The Village:** A walk around the village itself, to observe the doorless houses, shops, and police station, offers a unique experience.
 
-<img src="placeholder_image_temple.jpg" alt="Shani Shingnapur Temple" width="600">
+
 
 ### **Adventure Activities**
 

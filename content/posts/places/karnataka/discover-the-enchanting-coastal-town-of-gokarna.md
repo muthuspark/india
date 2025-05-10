@@ -28,14 +28,14 @@ The cultural heritage of Gokarna is primarily tied to its Hindu traditions. The 
 
 Gokarna boasts a stunning coastline, characterized by numerous crescent-shaped beaches and lush green landscapes. The terrain is marked by rolling hills that meet the sea, creating dramatic cliffs and viewpoints. The Arabian Sea, with its turquoise waters and golden sands, forms the primary natural attraction. The region experiences a tropical climate, with warm temperatures throughout the year.
 
-Some of the best viewpoints include Kudle Beach Point, Om Beach Cliff, and Half Moon Beach Cliff, offering panoramic views of the coastline and sunsets. The vegetation is primarily tropical, featuring coconut palms, cashew plantations, and other coastal flora. While Gokarna doesn't have extensive formal parks, the natural beauty of its beaches serves as a natural park for visitors. <placeholder image tag for scenic view of Gokarna beaches>
+Some of the best viewpoints include Kudle Beach Point, Om Beach Cliff, and Half Moon Beach Cliff, offering panoramic views of the coastline and sunsets. The vegetation is primarily tropical, featuring coconut palms, cashew plantations, and other coastal flora. While Gokarna doesn't have extensive formal parks, the natural beauty of its beaches serves as a natural park for visitors. 
 
 ### **Must-Visit Attractions**
 
 The key attractions in Gokarna primarily center around its temples and beaches.
 
-*   **Maha Baleshwar Temple:** This ancient temple is the primary pilgrimage site, housing the Atmalinga of Lord Shiva. <placeholder image tag for Maha Baleshwar Temple>
-*   **Om Beach:** Named for its natural shape resembling the auspicious Hindu symbol "Om," this beach is a popular spot for sunbathing, swimming, and water sports. <placeholder image tag for Om Beach>
+*   **Maha Baleshwar Temple:** This ancient temple is the primary pilgrimage site, housing the Atmalinga of Lord Shiva. 
+*   **Om Beach:** Named for its natural shape resembling the auspicious Hindu symbol "Om," this beach is a popular spot for sunbathing, swimming, and water sports. 
 *   **Kudle Beach:** A quieter beach with a more relaxed atmosphere, perfect for watching the sunset or enjoying a quiet swim.
 *   **Half Moon Beach:** Accessible by trekking from Om Beach, this secluded beach offers a tranquil escape.
 *   **Paradise Beach:** Located further south, this beach offers pristine sands and is a great spot for nature walks.
@@ -107,7 +107,7 @@ Gokarna offers various accommodation options to suit different budgets and prefe
 *   **Budget Stays:** Numerous guesthouses, homestays, and budget hotels are available near the beaches and in Gokarna town.
 *   **Mid-Range Hotels:** You can find mid-range hotels and resorts offering comfortable stays with basic amenities.
 *   **Luxury Resorts:** Some luxury resorts are located on or near Om Beach and other locations.
-*   **Beach Huts:** You can find beach huts offering unique, rustic accommodation experiences, close to the sea. <placeholder image tag for a beach hut or guesthouse>
+*   **Beach Huts:** You can find beach huts offering unique, rustic accommodation experiences, close to the sea. 
 
 ### **Offbeat Experiences**
 

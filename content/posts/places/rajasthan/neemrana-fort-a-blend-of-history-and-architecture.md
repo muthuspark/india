@@ -26,15 +26,15 @@ Neemrana's history dates back to 1464 AD when the Chauhan Rajputs established th
 
 Neemrana's landscape is characterized by the Aravalli hills, creating a scenic backdrop for the town. The region is semi-arid, with a mix of rocky terrains and some patches of green vegetation. The scenery is particularly beautiful during the monsoon season when the landscape transforms with fresh greenery. While Neemrana does not boast of large water bodies like lakes or rivers within its immediate vicinity, the Aravalli hills provide panoramic viewpoints. The best views can be obtained from various points within the Neemrana Fort Palace itself, as well as from some of the higher vantage points around the region. There are no specific natural parks or reserves within Neemrana, but the surrounding environment provides opportunities for scenic drives and exploration of the hills.
 
-<img src="placeholder_image_natural_beauty.jpg" alt="Scenic view of Aravalli Hills in Neemrana">
+
 
 ### **Must-Visit Attractions**
 
-The primary attraction in Neemrana is the **Neemrana Fort Palace**. <img src="placeholder_image_neemrana_fort.jpg" alt="Neemrana Fort Palace"> This historical fort has been converted into a heritage hotel and is a must-visit for its architectural grandeur, historical significance, and stunning views. Beyond the fort, other attractions include:
+The primary attraction in Neemrana is the **Neemrana Fort Palace**.  This historical fort has been converted into a heritage hotel and is a must-visit for its architectural grandeur, historical significance, and stunning views. Beyond the fort, other attractions include:
 
 *   **Baori (Stepwell):** Located a short distance from the Neemrana Fort Palace, this ancient stepwell offers insights into the region's historical water management techniques and provides an opportunity for exploration.
 
-<img src="placeholder_image_baori.jpg" alt="Image of Neemrana Stepwell">
+
 
 *   **Sariska Tiger Reserve:** While a bit further (approximately 60km/37 miles), the Sariska Tiger Reserve is within day-trip distance and allows visitors to experience the natural wildlife of the region.
 

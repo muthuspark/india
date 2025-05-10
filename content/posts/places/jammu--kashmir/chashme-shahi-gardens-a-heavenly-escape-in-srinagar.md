@@ -22,7 +22,7 @@ Chashme Shahi Garden, a Persian-style garden situated in Srinagar, Jammu & Kashm
 
 ### **History and Cultural Heritage**
 
-The Chashme Shahi Garden was built by Ali Mardan Khan, a governor of Mughal emperor Shah Jahan, in 1632 AD. It was constructed around a natural mountain spring, which, according to local legend, had medicinal properties. Shah Jahan commissioned the garden for his eldest son, Dara Shikoh. The design of the garden reflects the traditional Persian style, which was highly favored by the Mughals. The garden's design is characterized by its terraced layout, flowing water channels, and symmetrically arranged flowerbeds. The central water channel, known as the "nahar," is a prominent feature of the garden. During the Mughal era, the garden served as a place of relaxation, recreation, and a source of spiritual enrichment for the royalty. After the decline of the Mughal Empire, the garden underwent periods of neglect and restoration. Today, it stands as a reminder of the rich Mughal legacy in Kashmir and the fusion of Persian and local architectural styles. <img src="placeholder_image_1.jpg" alt="Historical Landmark">
+The Chashme Shahi Garden was built by Ali Mardan Khan, a governor of Mughal emperor Shah Jahan, in 1632 AD. It was constructed around a natural mountain spring, which, according to local legend, had medicinal properties. Shah Jahan commissioned the garden for his eldest son, Dara Shikoh. The design of the garden reflects the traditional Persian style, which was highly favored by the Mughals. The garden's design is characterized by its terraced layout, flowing water channels, and symmetrically arranged flowerbeds. The central water channel, known as the "nahar," is a prominent feature of the garden. During the Mughal era, the garden served as a place of relaxation, recreation, and a source of spiritual enrichment for the royalty. After the decline of the Mughal Empire, the garden underwent periods of neglect and restoration. Today, it stands as a reminder of the rich Mughal legacy in Kashmir and the fusion of Persian and local architectural styles. 
 
 ### **Natural Beauty**
 
@@ -37,7 +37,7 @@ The primary attraction in Chashme Shahi is, without a doubt, the garden itself. 
 *   **The Natural Spring:** The natural spring is the source of the garden’s charm and also provides drinking water.
 *   **The Viewpoint:** The uppermost terrace of the garden provides an excellent viewpoint to enjoy the breathtaking views of the Dal Lake and the surrounding mountain ranges.
 
-<img src="placeholder_image_2.jpg" alt="View of Dal Lake">
+
 
 ### **Adventure Activities**
 
@@ -69,7 +69,7 @@ Kashmiri cuisine is known for its rich flavors and use of aromatic spices. Some 
 *   **Kahwa:** A traditional Kashmiri green tea flavored with saffron, almonds, and cardamom.
 *   **Restaurants and Cafes:** Srinagar offers various restaurants and cafes serving both local and international cuisine.
 
-<img src="placeholder_image_3.jpg" alt="Kashmiri Cuisine">
+
 
 ### **Flora and Fauna**
 
@@ -105,7 +105,7 @@ Srinagar offers a wide range of accommodation options to suit all budgets.
 *   **Budget Hotels and Guesthouses:** Houseboats on Dal Lake, which offer a unique experience.
 *   **Homestays:** Offering an immersive experience with local families.
 
-<img src="placeholder_image_4.jpg" alt="Hotel or Houseboat">
+
 
 ### **Offbeat Experiences**
 

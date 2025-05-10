@@ -25,7 +25,7 @@ The history of Solan is intertwined with the princely states of the British era.
 
 Culturally, Solan is a melting pot, reflecting the customs and traditions of the local Himachali people. The town is influenced by both Hindu and Tibetan cultures, particularly evident in its festivals and religious sites. The Shoolini Mata Temple is the most prominent religious site in Solan and is the focal point of the annual Shoolini Fair. The fair is a colorful celebration, attracting devotees and tourists with vibrant processions, traditional music, and local cuisine. Other temples and monasteries reflect the region's spiritual diversity. The local culture is warm and welcoming, with a strong emphasis on community and hospitality.
 
-<img src="placeholder_shoolini_mata_temple.jpg" alt="Shoolini Mata Temple" width="600">
+
 
 ### **Natural Beauty**
 
@@ -33,20 +33,20 @@ Solan's landscape is defined by rolling hills covered in dense forests of pine, 
 
 The area is dotted with scenic trails for nature walks and treks, providing opportunities to immerse oneself in the serene beauty of the region.  The presence of clean air and the abundance of greenery make Solan a refreshing escape from urban pollution.  Nearby areas like Kasauli further enhance the natural allure of the Solan region.
 
-<img src="placeholder_scenic_view_of_solan.jpg" alt="Scenic View of Solan" width="600">
+
 
 ### **Must-Visit Attractions**
 
 *   **Shoolini Mata Temple:** The most important temple in Solan, dedicated to the local deity Shoolini Devi. This temple is especially vibrant during the annual Shoolini Fair.
-    <img src="placeholder_shoolini_mata_temple_interior.jpg" alt="Interior of Shoolini Mata Temple" width="600">
+    
 *   **Menri Monastery:** This Tibetan monastery offers a glimpse into Tibetan culture and provides a serene environment for meditation and reflection.
-    <img src="placeholder_menri_monastery.jpg" alt="Menri Monastery" width="600">
+    
 *   **Dagshai Jail Museum:**  A historical jail dating back to the British era, which has been converted into a museum. The museum provides insights into the colonial penal system.
-    <img src="placeholder_dagshai_jail_museum.jpg" alt="Dagshai Jail Museum" width="600">
+    
 *   **Kasauli:** While not directly in Solan, the charming hill station of Kasauli is a short drive away and is a must-visit for its scenic beauty, colonial architecture, and peaceful ambiance.
-    <img src="placeholder_kasauli_view.jpg" alt="View from Kasauli" width="600">
+    
 *   **Chail:** Another nearby destination known for the world's highest cricket ground.
-    <img src="placeholder_chail_cricket_ground.jpg" alt="Chail Cricket Ground" width="600">
+    
 *   **Bon Monastery:** Located near the Menri Monastery, offering an alternative perspective on Tibetan Buddhism.
 
 ### **Adventure Activities**
@@ -75,7 +75,7 @@ Himachali cuisine is a delightful blend of flavors, with influences from Tibetan
 *   **Restaurants and Cafes:** Solan offers a range of restaurants and cafes, from small eateries serving authentic Himachali cuisine to cafes offering international dishes.
 *   **Bakeries:** Enjoy fresh baked goods, including breads, cakes, and pastries at local bakeries.
 
-<img src="placeholder_himachali_thali.jpg" alt="Himachali Thali" width="600">
+
 
 ### **Flora and Fauna**
 

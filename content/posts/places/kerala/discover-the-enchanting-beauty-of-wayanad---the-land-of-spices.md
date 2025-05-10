@@ -23,7 +23,7 @@ Wayanad, nestled in the lush green embrace of the Western Ghats in the northern 
 
 Wayanad's history is as rich and layered as its landscapes. Evidence suggests that the region was inhabited since the Mesolithic age, and it has been a crossroads of various empires and dynasties. Throughout history, Wayanad was part of the various kingdoms, including the Pazhassi Rajas of Kottayam (not to be confused with Kottayam in Central Kerala), the Mysore Sultans, and later, the British. The British colonial presence left an indelible mark on the region, influencing its infrastructure and administration.
 
-<img src="placeholder_image_historical_site.jpg" alt="Historical Site in Wayanad">
+
 
 Culturally, Wayanad is a melting pot of traditions. It's home to a significant tribal population, including the Paniyas, Kurichiyas, Adiyars, and Kattunayakans, each with their unique customs, languages, and art forms. Traditional dances, such as the Gadhika, and vibrant festivals, celebrated with music, dance, and elaborate rituals, showcase the region's cultural richness. Prominent religious sites include temples dedicated to various deities, reflecting a blend of Hinduism and local tribal beliefs. The Edakkal Caves, with their prehistoric petroglyphs, are a testament to the region's ancient past.
 
@@ -31,7 +31,7 @@ Culturally, Wayanad is a melting pot of traditions. It's home to a significant t
 
 Wayanad is a treasure trove of natural beauty, often referred to as the "Green Paradise." The region is characterized by mist-clad hills, dense forests, sprawling plantations, and cascading waterfalls. The Western Ghats provide a dramatic backdrop, with peaks reaching towards the sky.
 
-<img src="placeholder_image_scenic_view.jpg" alt="Scenic View in Wayanad">
+
 
 The landscape is dominated by lush green forests, providing a habitat for diverse flora and fauna. The numerous viewpoints across the region offer panoramic views of the valleys, tea and coffee plantations, and the distant hills. Notable natural attractions include Chembra Peak, the highest peak in Wayanad, providing stunning vistas; Soochipara Falls, a three-tiered waterfall offering a refreshing experience; and Banasura Sagar Dam, which provides excellent views of the surrounding landscape.
 
@@ -39,12 +39,12 @@ The landscape is dominated by lush green forests, providing a habitat for divers
 
 Wayanad boasts a plethora of attractions catering to diverse interests.
 
-*   **Edakkal Caves:** These ancient caves are renowned for their prehistoric petroglyphs, believed to date back to the Neolithic age. <img src="placeholder_image_edakkal_caves.jpg" alt="Edakkal Caves">
+*   **Edakkal Caves:** These ancient caves are renowned for their prehistoric petroglyphs, believed to date back to the Neolithic age. 
 *   **Chembra Peak:** The highest peak in Wayanad offers stunning views of the surrounding hills and valleys. Trekking to the peak is a popular activity.
 *   **Soochipara Falls (Sentinel Rock Waterfalls):** This three-tiered waterfall is a popular spot for swimming and enjoying the natural beauty.
 *   **Meenmutty Falls:** Another spectacular waterfall known for its cascading water and lush surroundings.
 *   **Banasura Sagar Dam:** The largest earthen dam in India, providing picturesque views and opportunities for boating.
-*   **Pookode Lake:** A natural freshwater lake surrounded by hills and forests, perfect for boating and nature walks. <img src="placeholder_image_pookode_lake.jpg" alt="Pookode Lake">
+*   **Pookode Lake:** A natural freshwater lake surrounded by hills and forests, perfect for boating and nature walks. 
 *   **Thirunelli Temple:** An ancient temple dedicated to Lord Vishnu, situated amidst lush greenery.
 
 ### **Adventure Activities**

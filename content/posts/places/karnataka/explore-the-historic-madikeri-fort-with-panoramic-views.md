@@ -24,13 +24,13 @@ Madikeri's history is a tapestry woven with threads of various dynasties and inf
 
 The Kodava people, the indigenous community of Madikeri, have a distinct culture with unique traditions. Their martial traditions are reflected in their elaborate festivals and attire, including the traditional Kodava saree for women and the Kupya, a unique garment worn by men. The annual "Kailpodh" festival, celebrating the worship of weapons, and "Puttari," a harvest festival, are vibrant cultural events. Key historical landmarks include the Madikeri Fort, the Omkareshwara Temple, a unique blend of Islamic and Gothic architecture, and the Raja's Seat, a popular viewpoint.
 ```html
-<img src="placeholder_image_madikeri_fort.jpg" alt="Madikeri Fort">
+
 ```
 ### **Natural Beauty**
 
 Madikeri's landscape is characterized by rolling hills, dense forests, and verdant valleys. The Western Ghats provide a breathtaking backdrop to the town. The region is renowned for its coffee and spice plantations, which blanket the hillsides in a vibrant green carpet. Numerous viewpoints offer panoramic vistas of the landscape, including the Raja's Seat, which is known for its stunning sunrise and sunset views, and the Abbey Falls, where the water cascades down rugged terrain creating a mesmerizing spectacle. The Brahmagiri Wildlife Sanctuary, located nearby, is a haven for diverse flora and fauna, offering opportunities for nature walks and wildlife spotting. The Pushpagiri Wildlife Sanctuary, also in the vicinity, showcases the rich biodiversity of the region.
 ```html
-<img src="placeholder_image_abbey_falls.jpg" alt="Abbey Falls">
+
 ```
 
 ### **Must-Visit Attractions**
@@ -46,7 +46,7 @@ Madikeri and its surroundings boast a variety of attractions catering to diverse
 *   **Bhagamandala:** A pilgrimage site where three rivers, the Cauvery, the Kannike, and the Sujyoti, converge.
 *   **Nisargadhama:** A beautiful island formed by the Cauvery River, accessible via a hanging bridge.
 ```html
-<img src="placeholder_image_raja_seat.jpg" alt="Raja's Seat">
+
 ```
 
 ### **Adventure Activities**
@@ -87,7 +87,7 @@ The Madikeri region is rich in biodiversity, with dense forests, coffee plantati
 *   **Flora:** Teak, rosewood, and mahogany trees, along with coffee and spice plantations, dominate the landscape. The region is also rich in flowering plants, including various species of orchids and other wildflowers.
 *   **Fauna:** The area supports a diverse range of animals, including elephants, tigers, leopards, gaurs, deer, and various species of birds. Bird-watching is a popular activity, with opportunities to spot numerous species of local and migratory birds.
 ```html
-<img src="placeholder_image_coffee_plantation.jpg" alt="Coffee Plantation">
+
 ```
 
 ### **Best Time to Visit**

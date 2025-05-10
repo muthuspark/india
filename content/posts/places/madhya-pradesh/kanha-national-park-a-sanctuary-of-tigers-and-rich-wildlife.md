@@ -25,13 +25,13 @@ Culturally, the influence of the Gond and Baiga tribes is still evident in the l
 
 ### **Natural Beauty**
 
-Kanha National Park is a tapestry of diverse landscapes. Its dominant features include the rolling meadows, such as the renowned "Kanha meadows", vast plateaus and the dense sal and mixed deciduous forests. <placeholder image tag - Image of Kanha Meadows>. The Banjar and the Halon rivers add to the park’s aquatic ecosystems. The dense forest cover creates a picturesque backdrop. The best viewpoints are found within the park, offering panoramic views from elevated areas and watchtowers where visitors can marvel at the undulating terrain and the canopy of trees. The park’s environment is characterized by varying seasonal conditions that change its overall beauty, turning it into a breathtaking destination for the wildlife enthusiasts.
+Kanha National Park is a tapestry of diverse landscapes. Its dominant features include the rolling meadows, such as the renowned "Kanha meadows", vast plateaus and the dense sal and mixed deciduous forests. . The Banjar and the Halon rivers add to the park’s aquatic ecosystems. The dense forest cover creates a picturesque backdrop. The best viewpoints are found within the park, offering panoramic views from elevated areas and watchtowers where visitors can marvel at the undulating terrain and the canopy of trees. The park’s environment is characterized by varying seasonal conditions that change its overall beauty, turning it into a breathtaking destination for the wildlife enthusiasts.
 
 ### **Must-Visit Attractions**
 
 The primary attraction of Kanha National Park is, of course, wildlife viewing. Jungle safaris are the most popular way to explore the park and spot wildlife.
 
-*   **Kanha Zone:** This is the core zone, and the most famous section of the park, offering the highest chances of tiger sightings. <placeholder image tag - Image of Tiger in Kanha>
+*   **Kanha Zone:** This is the core zone, and the most famous section of the park, offering the highest chances of tiger sightings. 
 *   **Kisli Zone:** Located in the heart of Kanha, this zone provides incredible jungle experiences, including sightings of the Gaur, the Indian Bison.
 *   **Mukki Zone:** Located near the Mukki gate, it offers a rugged and raw jungle experience.
 *   **Sarhi Zone:** Sarhi is renowned for its diverse flora and fauna.
@@ -40,7 +40,7 @@ Apart from wildlife, the park includes landmarks such as the Shrawan Tal, a smal
 
 ### **Adventure Activities**
 
-The primary adventure activity in Kanha National Park is the **jungle safari**. Jeep safaris are the most popular way to navigate the varied terrains of the park, offering a thrilling experience in search of wildlife. <placeholder image tag - Image of Jeep Safari in Kanha>. Elephant safaris (limited availability) offer a unique perspective. Nature walks, accompanied by trained guides, offer a more intimate experience of the park's flora and fauna, allowing for bird-watching and observation of smaller creatures. Bird-watching is a favorite activity here.
+The primary adventure activity in Kanha National Park is the **jungle safari**. Jeep safaris are the most popular way to navigate the varied terrains of the park, offering a thrilling experience in search of wildlife. . Elephant safaris (limited availability) offer a unique perspective. Nature walks, accompanied by trained guides, offer a more intimate experience of the park's flora and fauna, allowing for bird-watching and observation of smaller creatures. Bird-watching is a favorite activity here.
 
 ### **Local Markets and Handicrafts**
 
@@ -59,7 +59,7 @@ The restaurants and cafes in the surrounding hotels and lodges serve a range of 
 
 ### **Flora and Fauna**
 
-Kanha National Park is a biodiversity hotspot, teeming with a diverse range of flora and fauna. It is famous for the Royal Bengal tiger, the Indian leopard, and the sloth bear, among other large mammals. Other notable animals include the Barasingha (swamp deer), wild dogs (dholes), gaur (Indian bison), sambar deer, chital deer, and various species of monkeys. <placeholder image tag - Image of Barasingha in Kanha>. The park is also a birdwatcher's paradise, boasting over 300 species of birds, including the Indian roller, painted stork, peafowl, and many migratory birds. The park is dominated by sal forests, but other flora includes teak, bamboo, and a variety of medicinal plants.
+Kanha National Park is a biodiversity hotspot, teeming with a diverse range of flora and fauna. It is famous for the Royal Bengal tiger, the Indian leopard, and the sloth bear, among other large mammals. Other notable animals include the Barasingha (swamp deer), wild dogs (dholes), gaur (Indian bison), sambar deer, chital deer, and various species of monkeys. . The park is also a birdwatcher's paradise, boasting over 300 species of birds, including the Indian roller, painted stork, peafowl, and many migratory birds. The park is dominated by sal forests, but other flora includes teak, bamboo, and a variety of medicinal plants.
 
 ### **Best Time to Visit**
 
@@ -81,7 +81,7 @@ Kanha National Park is relatively accessible, with several transportation option
 
 Kanha offers a range of accommodation options, to suit different budgets and preferences.
 
-*   **Luxury Resorts:** Luxurious lodges and resorts are available within and near the park, offering world-class amenities and often providing guided safaris. <placeholder image tag - Image of Luxury Resort in Kanha>.
+*   **Luxury Resorts:** Luxurious lodges and resorts are available within and near the park, offering world-class amenities and often providing guided safaris. .
 *   **Mid-Range Hotels and Lodges:** There are various lodges and hotels offering comfortable stays at more affordable prices.
 *   **Budget-Friendly Options:** Budget guesthouses and homestays are available in the surrounding villages, allowing for a more intimate experience with local life.
 *   **Eco-Lodges and Campsites:** Some properties offer eco-friendly accommodation and camping experiences.

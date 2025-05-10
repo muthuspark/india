@@ -33,15 +33,15 @@ Kanatal is a visual feast, surrounded by the majestic Himalayan ranges, verdant 
 *   **Tehri Lake:** The Tehri Lake is relatively new, as it formed due to the construction of Tehri Dam. It is a large artificial lake, which is also a major source of tourism and adventure sports.
 *   **Scenic Viewpoints:** The entire region offers numerous spots where you can simply soak in the majestic views.
 
-<img src="placeholder_image_kanatal_scenic_view.jpg" alt="Kanatal Scenic View">
+
 
 ### **Must-Visit Attractions**
 
 Kanatal offers a blend of natural beauty and spiritual sites, providing a diverse experience for visitors.
 
-*   **Surkanda Devi Temple:** <img src="placeholder_image_surkanda_devi.jpg" alt="Surkanda Devi Temple"> Perched atop a hill at an elevation of 9,995 feet (3,047 meters), this ancient temple dedicated to Goddess Surkanda Devi is a major pilgrimage site. The trek to the temple, especially during the sunrise or sunset, offers spectacular views.
+*   **Surkanda Devi Temple:**  Perched atop a hill at an elevation of 9,995 feet (3,047 meters), this ancient temple dedicated to Goddess Surkanda Devi is a major pilgrimage site. The trek to the temple, especially during the sunrise or sunset, offers spectacular views.
 *   **Tehri Lake:** This large man-made lake, is a hub for adventure sports.
-*   **Kodia Forest:** <img src="placeholder_image_kodia_forest.jpg" alt="Kodia Forest"> A dense forest area ideal for nature walks, and birdwatching. This forest reserve provides a glimpse into the region’s rich flora and fauna.
+*   **Kodia Forest:**  A dense forest area ideal for nature walks, and birdwatching. This forest reserve provides a glimpse into the region’s rich flora and fauna.
 *   **Eco Park:** A well-maintained park area that offers a relaxing environment and beautiful views.
 *   **Dhanaulti Eco Park:** It is a serene park area, also popular for family picnics and nature walks.
 
@@ -49,9 +49,9 @@ Kanatal offers a blend of natural beauty and spiritual sites, providing a divers
 
 Kanatal is an adventure enthusiast's paradise, offering a variety of activities amidst its breathtaking landscapes.
 
-*   **Trekking:** <img src="placeholder_image_trekking_kanatal.jpg" alt="Trekking in Kanatal"> Numerous trekking routes are available, ranging from easy nature walks to more challenging hikes, including the trek to Surkanda Devi Temple.
+*   **Trekking:**  Numerous trekking routes are available, ranging from easy nature walks to more challenging hikes, including the trek to Surkanda Devi Temple.
 *   **Camping:** Several campsites provide options to experience the wilderness. Enjoy campfires and stargazing.
-*   **Valley Crossing:** <img src="placeholder_image_valley_crossing.jpg" alt="Valley Crossing in Kanatal"> Cross the valley using a rope.
+*   **Valley Crossing:**  Cross the valley using a rope.
 *   **Zip-lining:** Zip lining is very popular activity and is offered by several adventure operators in the area.
 *   **Rappelling and Rock Climbing:** Perfect for adventure enthusiasts to scale the mountain peaks and discover hidden waterfalls.
 *   **Boating/Jet Skiing:** Available on the Tehri Lake.
@@ -61,7 +61,7 @@ Kanatal is an adventure enthusiast's paradise, offering a variety of activities 
 
 While Kanatal itself has limited options, you can explore the nearby towns of Mussoorie and Dehradun for shopping.
 
-*   **Mussoorie's Mall Road:** <img src="placeholder_image_mall_road_mussoorie.jpg" alt="Mussoorie's Mall Road"> A hub for shopping, offering a wide variety of items, including traditional handicrafts, woolens, and souvenirs.
+*   **Mussoorie's Mall Road:**  A hub for shopping, offering a wide variety of items, including traditional handicrafts, woolens, and souvenirs.
 *   **Local Handicrafts:** Explore the local shops and find handcrafted items such as woolen shawls, caps, and other locally produced goods.
 
 ### **Food and Cuisine**
@@ -77,7 +77,7 @@ The cuisine in Kanatal and the surrounding regions primarily features North Indi
 
 Kanatal’s rich biodiversity provides opportunities for wildlife enthusiasts and nature lovers.
 
-*   **Forests:** <img src="placeholder_image_kanatal_flora_fauna.jpg" alt="Kanatal Flora & Fauna"> Dense forests provide habitat for a variety of wildlife species.
+*   **Forests:**  Dense forests provide habitat for a variety of wildlife species.
 *   **Kodia Forest:** Explore the forest area for bird watching and wildlife spotting.
 *   **Common Wildlife:** You may spot animals such as leopards, deer, and various bird species during your visit.
 *   **Vegetation:** The area is rich in vegetation, with trees like pine, oak, and deodar.
@@ -86,9 +86,9 @@ Kanatal’s rich biodiversity provides opportunities for wildlife enthusiasts an
 
 The best time to visit Kanatal depends on your preferences:
 
-*   **Summer (March to June):** <img src="placeholder_image_kanatal_summer.jpg" alt="Kanatal Summer"> The weather is pleasant, making it ideal for sightseeing, trekking, and outdoor activities. The temperatures range from 10°C to 25°C.
+*   **Summer (March to June):**  The weather is pleasant, making it ideal for sightseeing, trekking, and outdoor activities. The temperatures range from 10°C to 25°C.
 *   **Monsoon (July to September):** The area experiences heavy rainfall, resulting in lush green landscapes. Although scenic, travel can be challenging due to landslides.
-*   **Winter (October to February):** <img src="placeholder_image_kanatal_winter.jpg" alt="Kanatal Winter"> The weather is cold, and the region may experience snowfall, making it perfect for those who enjoy a snowy landscape. Temperatures can drop to below freezing.
+*   **Winter (October to February):**  The weather is cold, and the region may experience snowfall, making it perfect for those who enjoy a snowy landscape. Temperatures can drop to below freezing.
 *   **Festivals:** Festivals such as Diwali and Holi are celebrated with much enthusiasm.
 
 ### **How to Reach**
@@ -107,7 +107,7 @@ Kanatal is accessible via various modes of transportation:
 
 Kanatal offers a range of accommodation options to suit all budgets.
 
-*   **Resorts and Hotels:** <img src="placeholder_image_kanatal_resorts.jpg" alt="Kanatal Resorts"> Numerous resorts and hotels offer comfortable stays with modern amenities.
+*   **Resorts and Hotels:**  Numerous resorts and hotels offer comfortable stays with modern amenities.
 *   **Campsites:** Experience a night in the wilderness with camping options available.
 *   **Budget Hotels and Guesthouses:** Budget-friendly options are available for budget travelers.
 *   **Homestays:** Some local families offer homestays, providing an opportunity to experience local culture.

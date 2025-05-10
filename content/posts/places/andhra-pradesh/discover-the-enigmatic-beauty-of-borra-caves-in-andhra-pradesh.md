@@ -20,7 +20,7 @@ The Borra Caves, located in the Ananthagiri hills of the Visakhapatnam district 
 
 The history of the Borra Caves is intertwined with local legends and tribal beliefs. The caves are considered sacred by the local tribes, particularly the Jatapu, Porja, Konda Dora, and Valmiki communities, who have inhabited this region for centuries. Legend has it that a lingam (a symbol of Lord Shiva) was discovered within the cave, leading to the construction of a temple inside. This temple is still a site of religious significance, with devotees offering prayers and performing rituals.
 
-<img src="placeholder_image_borra_caves_temple.jpg" alt="Temple inside Borra Caves">
+
 
 The caves were discovered by William King, a British geologist, in 1807. Since then, they have been studied extensively by geologists, revealing their geological history and formations. The caves also bear the marks of past inhabitation, with archaeological findings suggesting early human presence. The cultural landscape is vibrant, marked by tribal traditions, folk music, and dances that are performed during festivals. Key events include local fairs and the celebration of festivals connected with Lord Shiva, reflecting the integration of religious beliefs with the geological wonder.
 
@@ -28,7 +28,7 @@ The caves were discovered by William King, a British geologist, in 1807. Since t
 
 The Borra Caves are nestled amidst the scenic beauty of the Eastern Ghats. The landscape is characterized by lush green hills, valleys, and a rich biodiversity. The caves are formed on limestone deposits and are carved by the Gosthani River, which flows through the caves, creating breathtaking formations.
 
-<img src="placeholder_image_borra_caves_landscape.jpg" alt="Landscape surrounding Borra Caves">
+
 
 Inside the caves, the natural beauty takes on an entirely different dimension. Stalactites (hanging formations) and stalagmites (formations rising from the floor) created by the continuous dripping of mineral-rich water have formed intricate patterns. These structures resemble various shapes, prompting locals and visitors alike to give them creative names and interpret them in different ways. The Gosthani River flowing through the caves adds to the dramatic effect, as its movement has further shaped the formations over millennia.
 
@@ -40,7 +40,7 @@ The primary attraction is, of course, the Borra Caves themselves. The intricate 
 *   **Mother-Child Formation:** A prominent stalactite formation that, as the name suggests, resembles a mother and child.
 *   **Various Other Formations:** Many other formations that have been given names and that resemble figures like a human brain, a tiger, and more.
 
-<img src="placeholder_image_borra_caves_inside.jpg" alt="Inside the Borra Caves">
+
 
 The area around the caves offers further exploration:
 
@@ -71,7 +71,7 @@ The local cuisine reflects the tribal culture and Andhra Pradesh's culinary heri
 *   **Andhra Style Dishes:** Rice, curries, and spicy preparations are common.
 *   **Local Restaurants:** Several small restaurants and stalls offer local dishes.
 
-<img src="placeholder_image_borra_caves_food.jpg" alt="Bamboo Chicken">
+
 
 ### **Flora and Fauna**
 

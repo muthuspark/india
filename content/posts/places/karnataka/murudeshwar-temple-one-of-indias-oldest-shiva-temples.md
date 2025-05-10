@@ -26,22 +26,22 @@ The history of Murudeshwar is deeply intertwined with the religious significance
 
 Murudeshwar’s natural beauty is defined by its pristine coastline, lush greenery, and panoramic views of the Arabian Sea. The town boasts of beautiful beaches that offer opportunities for relaxation and water activities. The backdrop of the Western Ghats adds to the scenic charm, with hills cascading down to meet the sea. One of the most captivating viewpoints is from the top of the temple's Raja Gopura (tower), which offers a stunning vista of the temple, the Shiva statue, the beach, and the vast expanse of the sea. The surrounding environment is rich in natural beauty, with opportunities for exploring the coastline, enjoying the sunset, and observing the local flora and fauna.
 
-<img src="placeholder_image_beach.jpg" alt="Murudeshwar Beach">
-<img src="placeholder_image_view_from_temple.jpg" alt="View from Murudeshwar Temple">
+
+
 
 ### **Must-Visit Attractions**
 
 The primary attraction in Murudeshwar is the Shri Murudeshwar temple, one of the most significant temples dedicated to Lord Shiva in Karnataka. The temple complex houses the massive 249 feet tall statue of Lord Shiva, which is a sight to behold. Visitors can climb the Raja Gopura for a panoramic view of the area. Adjacent to the temple is the Murudeshwar beach, where visitors can relax, take a stroll, or participate in water sports. Another unique attraction is the Netrani Island, located offshore, which is renowned for its scuba diving and snorkeling opportunities, allowing visitors to explore the rich marine life. The temple also features a unique elevator system to the top of the Raja Gopura, providing easy access for visitors to enjoy the breathtaking views.
 
-<img src="placeholder_image_shiva_statue.jpg" alt="Murudeshwar Shiva Statue">
-<img src="placeholder_image_murudeshwar_temple.jpg" alt="Murudeshwar Temple">
+
+
 
 ### **Adventure Activities**
 
 Murudeshwar offers a variety of adventure activities for thrill-seekers. Water sports are a major attraction, including jet skiing, boating, parasailing, and banana boat rides. The Netrani Island is a hotspot for scuba diving and snorkeling, providing a chance to explore the vibrant coral reefs and diverse marine life. Trekking enthusiasts can explore the nearby hills and trails for nature walks and panoramic views. Beach volleyball and other recreational sports are also popular among visitors.
 
-<img src="placeholder_image_watersports.jpg" alt="Murudeshwar Water Sports">
-<img src="placeholder_image_netrani_island.jpg" alt="Netrani Island">
+
+
 
 ### **Local Markets and Handicrafts**
 
@@ -51,7 +51,7 @@ While Murudeshwar is not known for extensive markets, visitors can find local sh
 
 The cuisine of Murudeshwar reflects the coastal influences and the use of fresh seafood and local spices. Traditional dishes include fish curries, prawn preparations, and other seafood delicacies. Rice is a staple, often served with fish or vegetable dishes. Coconut is widely used in cooking. Travelers can savor local flavors at the restaurants and food stalls near the temple and the beach. Some popular dishes include fish thali, squid fry, and local desserts.
 
-<img src="placeholder_image_food.jpg" alt="Murudeshwar Food">
+
 
 ### **Flora and Fauna**
 
@@ -73,7 +73,7 @@ Murudeshwar is accessible by road, rail, and air.
 
 Murudeshwar offers a range of accommodation options to suit different budgets and preferences. You can find budget-friendly guesthouses, mid-range hotels, and luxury resorts, offering comfortable stays with sea views. Several hotels are located near the beach and the temple, providing easy access to attractions. Options range from basic rooms to well-appointed suites, catering to the needs of both budget travelers and those seeking a premium experience.
 
-<img src="placeholder_image_accommodation.jpg" alt="Murudeshwar Accommodation">
+
 
 ### **Offbeat Experiences**
 

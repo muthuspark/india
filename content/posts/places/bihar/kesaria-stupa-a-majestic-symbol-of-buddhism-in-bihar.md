@@ -23,11 +23,11 @@ The history of Kesaria Stupa is deeply intertwined with the life and teachings o
 
 ### **Natural Beauty**
 
-The landscape surrounding Kesaria Stupa is characterized by the fertile plains of the Indo-Gangetic region. The area is relatively flat, with lush agricultural fields, creating a serene and tranquil environment.  The Stupa is set against a backdrop of verdant greenery, particularly during the monsoon season when the landscape flourishes. The nearby Gandak River and its tributaries contribute to the area's water resources and add to its scenic beauty. While the immediate surroundings do not boast dramatic mountain ranges, the vast expanse of the plains provides a sense of openness and allows for clear views of the stupa. The simplicity of the natural environment provides a perfect contrast to the grandeur of the Stupa, enhancing the overall experience for visitors.  <img src="placeholder_image_for_nearby_landscape.jpg" alt="Landscape surrounding Kesaria Stupa">
+The landscape surrounding Kesaria Stupa is characterized by the fertile plains of the Indo-Gangetic region. The area is relatively flat, with lush agricultural fields, creating a serene and tranquil environment.  The Stupa is set against a backdrop of verdant greenery, particularly during the monsoon season when the landscape flourishes. The nearby Gandak River and its tributaries contribute to the area's water resources and add to its scenic beauty. While the immediate surroundings do not boast dramatic mountain ranges, the vast expanse of the plains provides a sense of openness and allows for clear views of the stupa. The simplicity of the natural environment provides a perfect contrast to the grandeur of the Stupa, enhancing the overall experience for visitors.  
 
 ### **Must-Visit Attractions**
 
-The primary attraction in Kesaria is, undoubtedly, the Kesaria Stupa itself. This massive brick structure is a must-visit for anyone interested in history, architecture, or Buddhist culture. It offers a profound glimpse into the ancient past. Visitors can climb the steps to the top (though access might be restricted to certain levels for preservation) and experience the panoramic view of the surrounding area.  The archaeological site surrounding the stupa provides valuable insights into the region's history. The remains of ancient structures and artifacts discovered during excavations offer a deeper understanding of the people who built and maintained the stupa. Local markets near the Stupa, with traditional crafts and souvenirs, offer a slice of local life. There is a small museum nearby where artifacts recovered from the site are exhibited. <img src="placeholder_image_for_Kesaria_Stupa.jpg" alt="Kesaria Stupa">
+The primary attraction in Kesaria is, undoubtedly, the Kesaria Stupa itself. This massive brick structure is a must-visit for anyone interested in history, architecture, or Buddhist culture. It offers a profound glimpse into the ancient past. Visitors can climb the steps to the top (though access might be restricted to certain levels for preservation) and experience the panoramic view of the surrounding area.  The archaeological site surrounding the stupa provides valuable insights into the region's history. The remains of ancient structures and artifacts discovered during excavations offer a deeper understanding of the people who built and maintained the stupa. Local markets near the Stupa, with traditional crafts and souvenirs, offer a slice of local life. There is a small museum nearby where artifacts recovered from the site are exhibited. 
 
 ### **Adventure Activities**
 
@@ -87,7 +87,7 @@ Accommodation options near Kesaria Stupa are limited. You can consider:
 *   **Mid-Range Hotels:** There are mid-range hotels are available in Motihari.
 *   **Homestays**: Some guesthouses and homestays are starting to come up in nearby villages for more authentic experiences.
 
-<img src="placeholder_image_for_accommodation.jpg" alt="Hotel near Kesaria Stupa">
+
 
 ### **Offbeat Experiences**
 

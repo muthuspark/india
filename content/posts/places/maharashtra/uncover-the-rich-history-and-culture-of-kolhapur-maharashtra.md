@@ -23,7 +23,7 @@ Kolhapur, a historic city nestled in the southwestern part of Maharashtra, India
 
 Kolhapur boasts a rich historical lineage, dating back to ancient times. It was once a prominent seat of the Shilahara dynasty and later flourished under the Maratha Empire, particularly during the reign of Chhatrapati Shahu Maharaj, a progressive ruler who championed social reforms and education. The British colonial period saw the city becoming a princely state, further shaping its cultural identity.
 
-<img src="placeholder_image_kolhapur_history.jpg" alt="Historical architecture in Kolhapur" >
+
 
 The cultural heart of Kolhapur beats strongest in its festivals and traditions. The city is known for its vibrant celebrations of the annual *Ganeshotsav* (Ganesh Chaturthi), *Sharda Navratri*, and the *Mahalaxmi Yatra*, a grand pilgrimage to the Mahalaxmi Temple. Wrestling, or *Kushti*, is deeply ingrained in the local culture, with numerous *akhadas* (wrestling schools) and regular competitions. The region also boasts traditional art forms like the *Kolhapuri Saaj* (a traditional necklace) and handcrafted leather items. The Kolhapur Municipal Corporation is working to promote this heritage even further by offering guided cultural walks and heritage tourism experiences.
 
@@ -33,7 +33,7 @@ The city is also home to numerous historical landmarks. The New Palace (construc
 
 Kolhapur is blessed with a scenic landscape, fringed by the lush greenery of the Western Ghats. The undulating terrain, punctuated by hills, valleys, and the Panchaganga River, offers a tranquil escape from the city's bustle.
 
-<img src="placeholder_image_kolhapur_nature.jpg" alt="Scenic view near Kolhapur" >
+
 
 The picturesque Rankala Lake provides a tranquil backdrop for leisurely strolls and boating. The Panhala Fort, situated on a hilltop about 20 kilometers (12 miles) from Kolhapur, offers panoramic views of the surrounding valleys and is a perfect spot for witnessing breathtaking sunsets. The nearby forests are home to diverse flora and fauna, making it a haven for nature lovers.
 
@@ -41,7 +41,7 @@ The picturesque Rankala Lake provides a tranquil backdrop for leisurely strolls 
 
 Kolhapur's attractions reflect its rich history, cultural significance, and architectural beauty. The most prominent landmark is the **Mahalaxmi Temple**, dedicated to Goddess Mahalaxmi, a significant Shakti Peetha.
 
-<img src="placeholder_image_mahalaxmi_temple.jpg" alt="Mahalaxmi Temple" >
+
 
 Other key attractions include:
 
@@ -74,7 +74,7 @@ Kolhapur is a shopper's paradise, especially for those seeking authentic handicr
 
 Kolhapur is renowned for its spicy and flavourful cuisine, a culinary adventure for every food lover.
 
-<img src="placeholder_image_kolhapuri_cuisine.jpg" alt="Kolhapuri Thali" >
+
 
 *   **Kolhapuri Misal**: A spicy preparation of sprouts, farsan, and a fiery gravy.
 *   **Tambada Rassa and Pandhra Rassa**: The iconic red and white curries, usually served with mutton or chicken.

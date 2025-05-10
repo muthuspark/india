@@ -21,7 +21,7 @@ Manali, nestled in the heart of Himachal Pradesh, is a captivating hill station 
 
 Manali's history is deeply intertwined with its religious and cultural roots. Traditionally, the region was a significant stop on ancient trade routes. The name "Manali" is believed to be derived from "Manu-Alaya," meaning the "abode of Manu," the progenitor of mankind in Hindu mythology. Legend has it that after the great flood, Manu’s ark came to rest in Manali, thus marking the area as a sacred site.
 
-<img src="placeholder_manali_history.jpg" alt="Manali's historic and cultural heritage" width="600">
+
 
 The cultural tapestry of Manali is rich with the traditions of the local communities, primarily the Kullu and Manali tribes. The Hadimba Devi Temple, an ancient shrine dedicated to the goddess Hadimba, a figure in the Mahabharata, is a cornerstone of the town's heritage. Festivals like Dussehra and the Manali Winter Carnival are celebrated with great enthusiasm, showcasing local music, dance, and traditions. Traditional handicrafts, including woven shawls, caps, and woodwork, reflect the artistic skills passed down through generations. The monasteries of Manali further enrich its cultural landscape, reflecting the influence of Tibetan Buddhism in the region.
 
@@ -29,7 +29,7 @@ The cultural tapestry of Manali is rich with the traditions of the local communi
 
 Manali is a paradise for nature enthusiasts, surrounded by towering peaks, verdant valleys, and lush forests. The landscape is dominated by the majestic Himalayas, particularly the Dhauladhar and Pir Panjal ranges, creating a dramatic backdrop. The Beas River, originating from Beas Kund near Rohtang Pass, flows through the valley, adding to the scenic beauty.
 
-<img src="placeholder_manali_natural_beauty.jpg" alt="Manali's natural beauty with mountains and valleys" width="600">
+
 
 Several viewpoints offer panoramic vistas, including Solang Valley and Gulaba, where the landscape is truly breathtaking. The dense forests of deodar, pine, and oak provide a vibrant green contrast to the snow-capped peaks. The natural beauty extends to its surrounding areas with waterfalls, meadows, and trails, making it perfect for nature walks and photography.
 
@@ -37,13 +37,13 @@ Several viewpoints offer panoramic vistas, including Solang Valley and Gulaba, w
 
 Manali offers a plethora of attractions for every type of traveler.
 
-*   **Hadimba Devi Temple:** <img src="placeholder_hadimba_devi_temple.jpg" alt="Hadimba Devi Temple" width="300"> An ancient temple dedicated to the goddess Hadimba, set amidst a cedar forest, it is one of the most iconic landmarks in Manali.
+*   **Hadimba Devi Temple:**  An ancient temple dedicated to the goddess Hadimba, set amidst a cedar forest, it is one of the most iconic landmarks in Manali.
 *   **Vashisht Temple and Hot Springs:** Located in a village just outside Manali, this temple is known for its natural hot water springs, believed to have healing properties.
-*   **Rohtang Pass (seasonal):** <img src="placeholder_rohtang_pass.jpg" alt="Rohtang Pass" width="300"> A high mountain pass offering stunning views of the surrounding mountains and valleys.
+*   **Rohtang Pass (seasonal):**  A high mountain pass offering stunning views of the surrounding mountains and valleys.
 *   **Solang Valley:** A popular destination for adventure activities, also known for its scenic beauty.
 *   **Manu Temple:** Dedicated to the sage Manu, this temple is of great religious significance.
 *   **Old Manali:** A charming village with a bohemian vibe, known for its cafes, guesthouses, and laid-back atmosphere.
-*   **Jogini Falls:** <img src="placeholder_jogini_falls.jpg" alt="Jogini Falls" width="300"> A beautiful waterfall located a short trek from Vashisht.
+*   **Jogini Falls:**  A beautiful waterfall located a short trek from Vashisht.
 *   **Tibetan Monasteries:** Manali is home to several Tibetan monasteries, showcasing Tibetan art and culture.
 
 ### **Adventure Activities**
@@ -51,7 +51,7 @@ Manali offers a plethora of attractions for every type of traveler.
 Manali is an adventurer's paradise, offering a wide array of thrilling activities.
 
 *   **Trekking:** Numerous trekking trails cater to both beginners and experienced trekkers, including treks to Beas Kund, Hampta Pass, and Chandratal Lake.
-*   **Paragliding:** <img src="placeholder_paragliding_manali.jpg" alt="Paragliding in Manali" width="300"> Solang Valley and other locations offer paragliding experiences for breathtaking views.
+*   **Paragliding:**  Solang Valley and other locations offer paragliding experiences for breathtaking views.
 *   **River Rafting:** The Beas River provides opportunities for white-water rafting.
 *   **Zorbing:** Enjoy the thrill of rolling downhill inside a transparent ball in Solang Valley.
 *   **Skiing and Snowboarding (seasonal):** Rohtang Pass and Solang Valley are popular destinations for winter sports.
@@ -69,7 +69,7 @@ Manali's local markets and handicrafts reflect the vibrant culture of the region
 *   **Bhuttico:** A renowned emporium for authentic Kullu shawls, caps, and other woolen products.
 *   **Handicrafts:** Wood carvings, traditional jewelry, paintings, and other local crafts are widely available.
 
-<img src="placeholder_manali_market.jpg" alt="Manali's local market" width="600">
+
 
 ### **Food and Cuisine**
 
@@ -84,7 +84,7 @@ Manali's cuisine offers a delightful blend of local Himachali dishes and interna
 
 Manali is blessed with a rich biodiversity. The region’s flora includes a diverse range of trees like deodar, pine, oak, and rhododendrons. The forests and valleys are home to various species of birds, including the Himalayan Monal and the Western Tragopan. Wildlife sightings include the snow leopard, brown bear, and various deer species.
 
-<img src="placeholder_manali_flora_fauna.jpg" alt="Manali's flora and fauna" width="600">
+
 
 ### **Best Time to Visit**
 

@@ -19,19 +19,19 @@ Nagore Dargah, officially known as the Nagore Dargah Shareef, is a revered Sufi 
 
 ### **History and Cultural Heritage**
 
-The Nagore Dargah’s history is deeply intertwined with the life of the Sufi saint Shahul Hamid (also known as Meera Sahib), who arrived in Nagore in the 16th century. He is believed to have performed miracles and dedicated his life to serving the poor. <img src="placeholder_image_dargah_history.jpg" alt="Nagore Dargah Historical Image">The dargah was built over several centuries, with significant contributions from various rulers, including the Maratha King Pratap Singh, the Tanjore Nayak dynasty, and the British East India Company. This demonstrates the site’s importance and widespread respect. The dargah's architecture reflects a blend of Mughal, Hindu, and Tamil styles, showcasing the cultural fusion that has shaped the region. The annual Kanduri festival, celebrated with great pomp and fervor, is the most significant event, attracting hundreds of thousands of devotees. During this time, the flag is hoisted, and various rituals are performed, honoring the saint and his legacy. The dargah remains a symbol of communal harmony and faith, where people of all religions are welcomed to offer their prayers and seek blessings.
+The Nagore Dargah’s history is deeply intertwined with the life of the Sufi saint Shahul Hamid (also known as Meera Sahib), who arrived in Nagore in the 16th century. He is believed to have performed miracles and dedicated his life to serving the poor. The dargah was built over several centuries, with significant contributions from various rulers, including the Maratha King Pratap Singh, the Tanjore Nayak dynasty, and the British East India Company. This demonstrates the site’s importance and widespread respect. The dargah's architecture reflects a blend of Mughal, Hindu, and Tamil styles, showcasing the cultural fusion that has shaped the region. The annual Kanduri festival, celebrated with great pomp and fervor, is the most significant event, attracting hundreds of thousands of devotees. During this time, the flag is hoisted, and various rituals are performed, honoring the saint and his legacy. The dargah remains a symbol of communal harmony and faith, where people of all religions are welcomed to offer their prayers and seek blessings.
 
 ### **Natural Beauty**
 
-Nagore itself is located on the coast, offering a serene environment with views of the Bay of Bengal. While not known for dramatic landscapes, the area is characterized by lush greenery, rice paddies, and the calming sounds of the sea. <img src="placeholder_image_nagore_landscape.jpg" alt="Nagore Landscape Image">The coastline offers opportunities for peaceful walks and witnessing the local fishing activities. Nearby areas boast more extensive natural attractions, including bird sanctuaries and estuaries.
+Nagore itself is located on the coast, offering a serene environment with views of the Bay of Bengal. While not known for dramatic landscapes, the area is characterized by lush greenery, rice paddies, and the calming sounds of the sea. The coastline offers opportunities for peaceful walks and witnessing the local fishing activities. Nearby areas boast more extensive natural attractions, including bird sanctuaries and estuaries.
 
 ### **Must-Visit Attractions**
 
-The primary attraction is, undoubtedly, the Nagore Dargah itself. <img src="placeholder_image_dargah_exterior.jpg" alt="Nagore Dargah Exterior Image">The complex consists of several structures, including the main tomb of Shahul Hamid, mosques, minarets, and numerous courtyards. Each structure is intricately designed and decorated with vibrant colors. Within the Dargah complex, visitors can explore the many structures, including the tombs of Shahul Hamid’s family members and close disciples. The Chandanakoodu festival, the main event, is a spectacle of religious fervor and cultural expressions. Other local attractions include the Nagore Beach, offering tranquil views, and nearby temples, reflecting the rich cultural heritage of the region.
+The primary attraction is, undoubtedly, the Nagore Dargah itself. The complex consists of several structures, including the main tomb of Shahul Hamid, mosques, minarets, and numerous courtyards. Each structure is intricately designed and decorated with vibrant colors. Within the Dargah complex, visitors can explore the many structures, including the tombs of Shahul Hamid’s family members and close disciples. The Chandanakoodu festival, the main event, is a spectacle of religious fervor and cultural expressions. Other local attractions include the Nagore Beach, offering tranquil views, and nearby temples, reflecting the rich cultural heritage of the region.
 
 ### **Adventure Activities**
 
-While Nagore itself does not offer extensive adventure activities, the surrounding areas provide opportunities for water sports, especially during favorable weather conditions. <img src="placeholder_image_nagore_beach.jpg" alt="Nagore Beach Activity Image">Activities such as boating and beach volleyball are readily available at the coast. Visitors can explore the nearby bird sanctuaries for nature walks.
+While Nagore itself does not offer extensive adventure activities, the surrounding areas provide opportunities for water sports, especially during favorable weather conditions. Activities such as boating and beach volleyball are readily available at the coast. Visitors can explore the nearby bird sanctuaries for nature walks.
 
 ### **Local Markets and Handicrafts**
 
@@ -39,7 +39,7 @@ Nagore is a traditional town. Local markets and shops offer a glimpse into the d
 
 ### **Food and Cuisine**
 
-Nagore’s cuisine reflects the rich cultural diversity of the region. You can find delicious biryanis, kebabs, and other non-vegetarian dishes influenced by Muslim cooking styles. <img src="placeholder_image_nagore_food.jpg" alt="Nagore Food Image">Local eateries also serve a range of Tamil dishes, including rice-based meals, curries, and seafood. Street food stalls offer an array of snacks and sweets. You can get the best food around the dargah area.
+Nagore’s cuisine reflects the rich cultural diversity of the region. You can find delicious biryanis, kebabs, and other non-vegetarian dishes influenced by Muslim cooking styles. Local eateries also serve a range of Tamil dishes, including rice-based meals, curries, and seafood. Street food stalls offer an array of snacks and sweets. You can get the best food around the dargah area.
 
 ### **Flora and Fauna**
 
@@ -51,7 +51,7 @@ The best time to visit Nagore is during the cooler months, from October to March
 
 ### **How to Reach**
 
-Nagore is well-connected by road and rail. The nearest airport is Tiruchirappalli International Airport (TRZ), approximately 150 km away. <img src="placeholder_image_nagore_transport.jpg" alt="Nagore Transport Image">The nearest railway station is Nagore Railway Station, which connects the town to major cities in Tamil Nadu and other parts of India. The town is easily accessible via National Highway 45A.
+Nagore is well-connected by road and rail. The nearest airport is Tiruchirappalli International Airport (TRZ), approximately 150 km away. The nearest railway station is Nagore Railway Station, which connects the town to major cities in Tamil Nadu and other parts of India. The town is easily accessible via National Highway 45A.
 
 ### **Accommodation Options**
 

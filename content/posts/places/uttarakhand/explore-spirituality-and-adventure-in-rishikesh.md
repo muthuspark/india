@@ -28,7 +28,7 @@ The cultural landscape of Rishikesh is dominated by Hinduism. The town is dotted
 
 Rishikesh is blessed with stunning natural beauty. The majestic Himalayas provide a breathtaking backdrop to the crystal-clear waters of the Ganges. The landscape is characterized by lush green hills, dense forests, and the powerful flow of the river. The riverbanks are lined with ghats (steps leading to the river) and offer spectacular views, particularly during sunrise and sunset.
 
-<img src="placeholder_image_river_view.jpg" alt="View of the Ganges River in Rishikesh">
+
 
 The region is characterized by dramatic gorges, and rocky terrain, perfect for adventure activities. Several viewpoints along the hiking trails offer panoramic views of the valley and surrounding mountains. The Rajaji National Park, located nearby, provides opportunities to experience the region's rich biodiversity, with chances to spot elephants, tigers, leopards, and various species of birds.
 
@@ -36,7 +36,7 @@ The region is characterized by dramatic gorges, and rocky terrain, perfect for a
 
 Rishikesh offers a plethora of attractions for all types of travelers. The iconic Lakshman Jhula and Ram Jhula are suspension bridges that offer stunning views of the Ganges and connect the eastern and western parts of the town.
 
-<img src="placeholder_image_lakshman_jhula.jpg" alt="Lakshman Jhula Suspension Bridge in Rishikesh">
+
 
 *   **Triveni Ghat:** A revered bathing ghat where devotees perform rituals and offer prayers.
 *   **Neelkanth Mahadev Temple:** Located atop a hill, this temple dedicated to Lord Shiva is a popular pilgrimage site with breathtaking views.
@@ -49,7 +49,7 @@ Rishikesh offers a plethora of attractions for all types of travelers. The iconi
 
 Rishikesh is a haven for adventure enthusiasts. The fast-flowing Ganges provides an ideal setting for white-water rafting, with rapids ranging from Grade I to Grade IV.
 
-<img src="placeholder_image_rafting.jpg" alt="White water rafting in Rishikesh">
+
 
 *   **River Rafting:** Enjoy the thrill of navigating the rapids of the Ganges.
 *   **Bungee Jumping:** Experience a freefall from a height of over 80 meters.
@@ -63,7 +63,7 @@ Rishikesh is a haven for adventure enthusiasts. The fast-flowing Ganges provides
 
 Rishikesh offers vibrant local markets and bazaars where visitors can purchase various items. These markets are a treasure trove for unique souvenirs and handicrafts.
 
-<img src="placeholder_image_market.jpg" alt="Local market in Rishikesh">
+
 
 *   **Local Bazaars:** Offer clothing, jewelry, religious items, and yoga accessories.
 *   **Ram Jhula and Lakshman Jhula Markets:** Known for traditional Indian clothing, handicrafts, and religious artifacts.

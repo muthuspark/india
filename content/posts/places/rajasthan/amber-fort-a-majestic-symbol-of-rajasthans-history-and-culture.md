@@ -24,13 +24,13 @@ The Amber Fort has a long and fascinating history, dating back to the 16th centu
 
 The fort reflects a blend of Rajput and Mughal architectural influences. The intricate carvings, delicate mirror work (Shish Mahal), and imposing structures showcase the artistic sensibilities of the period. The fort played a significant role in defending the kingdom against invaders, serving as a vital military stronghold and a symbol of Rajput power. The annual Amber Fort Festival, held around March, celebrates the cultural heritage of the region with traditional music, dance performances, and processions. The fort is also a site of religious significance, with numerous temples dedicated to various deities, including Shila Devi.
 
-<img src="placeholder_image_amber_fort_history.jpg" alt="History and Cultural Heritage of Amber Fort">
+
 
 ### **Natural Beauty**
 
 The Amber Fort is nestled amidst the rugged Aravalli Hills, offering a stunning backdrop to the architectural marvel. The fort is positioned atop a hill, providing panoramic views of the surrounding landscape, including the scenic Maota Lake at the base. The lush gardens and courtyards within the fort offer a respite from the desert climate. The natural environment offers opportunities for scenic walks and photography, particularly during sunrise and sunset when the fort's silhouette is dramatically cast against the horizon.
 
-<img src="placeholder_image_amber_fort_natural_beauty.jpg" alt="Natural Beauty of Amber Fort">
+
 
 ### **Must-Visit Attractions**
 
@@ -44,7 +44,7 @@ The Amber Fort is nestled amidst the rugged Aravalli Hills, offering a stunning 
 *   **Elephant Ride:** The traditional way to ascend the hill to reach the fort's entrance. (Note: Be mindful of animal welfare concerns associated with elephant rides, and consider alternative methods of transport)
 *   **Sound and Light Show:** In the evening, a captivating show narrates the history of the fort and the region.
 
-<img src="placeholder_image_amber_fort_attractions.jpg" alt="Must-Visit Attractions of Amber Fort">
+
 
 ### **Adventure Activities**
 
@@ -64,7 +64,7 @@ Jaipur is a shopper's paradise, known for its vibrant markets and traditional ha
 *   **Leather Goods:** Shops offer a range of leather products like bags, wallets, and shoes.
 *   **Bazaars in Jaipur:** Take a short trip to the bustling bazaars of Jaipur (such as Johari Bazaar, Bapu Bazaar, and Tripolia Bazaar) to delve deeper into the city's shopping scene.
 
-<img src="placeholder_image_amber_fort_local_markets.jpg" alt="Local Markets and Handicrafts around Amber Fort">
+
 
 ### **Food and Cuisine**
 
@@ -77,7 +77,7 @@ Rajasthani cuisine is known for its rich flavors and use of spices. Here's what 
 *   **Restaurants near the Fort:** Several restaurants offer a range of cuisines, from traditional Rajasthani dishes to international options.
 *   **Cafes with a View:** Enjoy a meal or a cup of coffee at a cafe overlooking the fort for a memorable dining experience.
 
-<img src="placeholder_image_amber_fort_food.jpg" alt="Food and Cuisine around Amber Fort">
+
 
 ### **Flora and Fauna**
 
@@ -105,7 +105,7 @@ Jaipur offers a wide range of accommodation options to suit all budgets:
 *   **Mid-Range Hotels:** Numerous hotels offer comfortable accommodation at affordable prices.
 *   **Budget-Friendly Stays:** Guesthouses, hostels, and budget hotels cater to backpackers and budget travelers.
 
-<img src="placeholder_image_amber_fort_accommodation.jpg" alt="Accommodation Options near Amber Fort">
+
 
 ### **Offbeat Experiences**
 
@@ -114,7 +114,7 @@ Jaipur offers a wide range of accommodation options to suit all budgets:
 *   **Cooking Classes:** Learn to cook traditional Rajasthani dishes.
 *   **Photography Tours:** Capture the beauty of the fort and the surrounding landscape.
 
-<img src="placeholder_image_amber_fort_offbeat.jpg" alt="Offbeat Experiences near Amber Fort">
+
 
 ### **Conclusion**
 

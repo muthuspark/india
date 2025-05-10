@@ -23,7 +23,7 @@ Manikarnika Ghat, nestled in the ancient city of Varanasi, Uttar Pradesh, India,
 
 Manikarnika Ghat's history is intertwined with Hindu mythology and the profound belief in its sacredness. The ghat's name is derived from the earrings (Manikarnika) of the goddess Sati, which are believed to have fallen here when Lord Shiva was carrying her burnt body. This event solidified the ghat's position as a gateway to liberation (Moksha) and a revered place for cremation.
 
-<img src="placeholder_image_manikarnika_ghat_historical.jpg" alt="Historical view of Manikarnika Ghat">
+
 
 For centuries, Manikarnika Ghat has been a site of continuous cremation. The practice is steeped in ancient Vedic traditions, and the act of cremation here is believed to ensure that the deceased attains liberation from the cycle of birth and death. The rituals are elaborate and performed by the Dom community, traditionally tasked with managing the cremation process. The ghat is a stage for a continuous cycle of birth, death, and rebirth.
 
@@ -31,7 +31,7 @@ For centuries, Manikarnika Ghat has been a site of continuous cremation. The pra
 
 The natural beauty of Manikarnika Ghat is directly related to its proximity to the sacred Ganges River. The ghats are steps leading down to the river, and the flowing river reflects the changing light throughout the day, creating captivating views.
 
-<img src="placeholder_image_manikarnika_ghat_river.jpg" alt="View of Ganges River from Manikarnika Ghat">
+
 
 The sunrise and sunset offer especially beautiful views, as the light dances on the water, and the silhouettes of the ghats and the boats create a striking image. The ghat is often shrouded in mist in the early morning hours, adding a mystical quality to the atmosphere. While the primary focus is the ghat itself, the surrounding landscape of Varanasi, with its ancient temples and bustling streets, contributes to the overall experience.
 
@@ -44,7 +44,7 @@ While Manikarnika Ghat itself is the primary attraction, its location in Varanas
 *   **Assi Ghat:** The southernmost ghat, known for its peaceful atmosphere and cultural events.
 *   **Sarnath:** Located a short distance from Varanasi, Sarnath is an important Buddhist pilgrimage site where Buddha delivered his first sermon.
 
-<img src="placeholder_image_manikarnika_ghat_attractions.jpg" alt="Nearby attractions to Manikarnika Ghat">
+
 
 Exploring these sites complements the experience of visiting Manikarnika Ghat, providing a broader understanding of Varanasi's spiritual and cultural significance.
 
@@ -66,7 +66,7 @@ Varanasi is renowned for its local markets, offering a range of handicrafts, tex
 *   **Thatheri Bazaar:** Known for brassware, jewelry, and other metal crafts.
 *   **Godowlia Market:** A bustling market where visitors can find clothing, handicrafts, and food.
 
-<img src="placeholder_image_manikarnika_ghat_market.jpg" alt="Local market near Manikarnika Ghat">
+
 
 The specialties include Banarasi silk sarees, intricately woven textiles, wooden toys, and religious items. Negotiating prices is common in these markets.
 
@@ -79,7 +79,7 @@ Varanasi is a culinary destination, with diverse flavors to be savored:
 *   **Traditional Indian Thalis:** Experience a variety of local dishes in one plate.
 *   **Sweet Shops:** Explore shops offering a variety of sweets, like *malaiyo* (a seasonal delicacy).
 
-<img src="placeholder_image_manikarnika_ghat_food.jpg" alt="Local cuisine near Manikarnika Ghat">
+
 
 Many restaurants and food stalls are near the ghats, offering convenient options.
 
@@ -108,7 +108,7 @@ Varanasi offers a wide range of accommodation options, from budget-friendly gues
 *   **Mid-Range Hotels:** Several hotels offer comfortable stays with decent amenities.
 *   **Heritage Hotels:** The city has a few heritage properties that offer a unique experience.
 
-<img src="placeholder_image_manikarnika_ghat_accommodation.jpg" alt="Accommodation near Manikarnika Ghat">
+
 
 Consider booking accommodation in advance, especially during peak season.
 

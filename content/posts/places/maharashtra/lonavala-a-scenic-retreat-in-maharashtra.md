@@ -21,12 +21,12 @@ Lonavala & Khandala, nestled in the Sahyadri mountain range of Maharashtra, Indi
 ### **History and Cultural Heritage**
 
 The history of Lonavala & Khandala is intertwined with the rich heritage of the Maratha Empire and the influences of British colonization. The area served as an important strategic location due to its geographical advantage and accessibility. During the British Raj, these hill stations became popular retreats for the colonial officers escaping the summer heat. The development of infrastructure, including roads and railway lines, further boosted their popularity. The Karla Caves, dating back to the 2nd century BC, showcase ancient Buddhist rock-cut architecture, providing a glimpse into the region's historical and religious significance. The Ekvira Devi Temple, located near Karla Caves, is another significant religious site revered by local communities. The region's culture is a blend of Marathi traditions, reflecting a vibrant lifestyle with festivals like Ganesh Chaturthi and Diwali celebrated with immense enthusiasm.
-<img src="placeholder_image_karlacaves.jpg" alt="Karla Caves" width="500" height="300">
+
 
 ### **Natural Beauty**
 
 The beauty of Lonavala & Khandala is dominated by the Western Ghats, offering breathtaking vistas and diverse landscapes. The area transforms during the monsoon season, with the hills draped in a vibrant green blanket and numerous waterfalls cascading down the slopes. Rajmachi Fort offers panoramic views of the surrounding valleys and the Sahyadri range. The Bhushi Dam is a popular spot where the overflowing water cascades down, creating a natural pool for visitors to enjoy. Lonavala Lake and the serene waters of the Tungarli Lake add to the region's tranquility. The region is dotted with viewpoints, including Tiger Point, Lion's Point, and Duke's Nose (Nagphani), offering stunning views of the valleys and surrounding landscapes, especially during sunrise and sunset.
-<img src="placeholder_image_tigerpoint.jpg" alt="Tiger Point" width="500" height="300">
+
 
 ### **Must-Visit Attractions**
 
@@ -41,7 +41,7 @@ Lonavala & Khandala boast several must-visit attractions.
 *   **Duke's Nose (Nagphani):** A unique rock formation offering a thrilling hiking experience and scenic views.
 *   **Ryewood Park:** A beautiful garden in Lonavala perfect for a relaxed stroll.
 *   **Tungarli Lake:** A serene lake surrounded by hills, ideal for picnics and relaxation.
-<img src="placeholder_image_lohagadfort.jpg" alt="Lohagad Fort" width="500" height="300">
+
 
 ### **Adventure Activities**
 
@@ -61,7 +61,7 @@ Lonavala is known for its local markets that cater to tourists. The main market 
 *   **Handmade Items:** Handicrafts, souvenirs, and decorative items.
 *   **Clothing:** Local garments and accessories.
 Visitors can find various shops selling these goods near the railway station and in the main market area.
-<img src="placeholder_image_chikki.jpg" alt="Chikki" width="500" height="300">
+
 
 ### **Food and Cuisine**
 

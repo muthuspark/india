@@ -21,7 +21,7 @@ The Kamakhya Temple, a revered Shakti Peetha, stands as a testament to ancient H
 
 The history of the Kamakhya Temple is shrouded in myth and legend. According to the *Kalika Purana*, one of the major works associated with the temple, it is believed to be the site where the yoni (vagina) of the goddess Sati fell after her death. Sati's husband, Lord Shiva, carried her corpse and wandered in grief across the earth. Lord Vishnu, attempting to alleviate Shiva's suffering, used his Sudarshan Chakra to dismember Sati's body. Wherever a part of her body fell, a Shakti Peetha emerged. The Kamakhya Temple marks the spot where the yoni fell, making it a sacred place for the worship of the divine feminine.
 
-<placeholder image tag: historical timeline of the temple>
+
 
 The temple has undergone multiple reconstructions and renovations over the centuries. The current structure is believed to date back to the 16th century, commissioned by the Koch king Naranarayan. The temple has also seen influence from the Ahom rulers who provided patronage and made significant contributions to its upkeep.
 
@@ -31,7 +31,7 @@ The annual Ambubachi Mela, held in the month of *Ashaadh* (June-July), is a sign
 
 The Kamakhya Temple is situated on the Nilachal Hill, which offers a stunning panorama of the Brahmaputra River, one of the world's largest rivers. The lush green hills, dotted with forests, create a serene backdrop.
 
-<placeholder image tag: panoramic view from Nilachal Hill>
+
 
 The views from the temple premises are particularly rewarding during sunrise and sunset, offering spectacular vistas of the river and the city of Guwahati. The landscape is characterized by dense vegetation and is a habitat for diverse flora and fauna.
 
@@ -39,7 +39,7 @@ The views from the temple premises are particularly rewarding during sunrise and
 
 The main attraction is, of course, the **Kamakhya Temple** itself. This includes the main temple structure, the inner sanctum (Garbhagriha) housing the yoni shrine, and various smaller temples and shrines within the complex. The architecture is a unique blend of Assamese, Bengali, and other styles.
 
-<placeholder image tag: exterior view of the Kamakhya Temple>
+
 
 Other attractions within the complex include the **Kali Temple**, the **Tara Temple**, and other smaller shrines dedicated to various deities.
 
@@ -77,7 +77,7 @@ Assamese cuisine is characterized by its unique flavors, which are often influen
 
 The Kamakhya Temple area benefits from the surrounding environment. The region around Guwahati is lush with vegetation. Assam is home to a diverse range of flora and fauna.
 
-<placeholder image tag: flora and fauna around Guwahati>
+
 
 *   **Assam State Zoo cum Botanical Garden:** It’s home to various animals, including the one-horned rhinoceros, elephants, and tigers.
 
@@ -85,7 +85,7 @@ The Kamakhya Temple area benefits from the surrounding environment. The region a
 
 The best time to visit the Kamakhya Temple is during the cooler and drier months, from **October to March**. The weather is pleasant during this time, making it ideal for sightseeing and temple visits.
 
-<placeholder image tag: picture of the Kamakhya Temple during the best season>
+
 
 The Ambubachi Mela is a significant event and a major draw for many visitors, but it can also be a crowded time. If you plan to attend the Ambubachi Mela, plan in advance and make appropriate arrangements.
 

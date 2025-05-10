@@ -15,7 +15,7 @@ tags:
 
 ### **Introduction**
 
-Shaniwar Wada, a historic fortification located in the heart of Pune, Maharashtra, India, stands as a powerful symbol of the Maratha Empire. Situated at an elevation of approximately 560 meters (1,840 feet) above sea level, this majestic structure is easily accessible from various parts of Pune city and is a short distance from other popular destinations like Aga Khan Palace and Sinhagad Fort. It’s renowned for its intricate architecture, historical significance, and the dramatic tales of its past. Shaniwar Wada is not just a monument; it's a living testament to the grandeur and legacy of the Peshwa rulers. <img src="placeholder_shaniwar_wada_intro.jpg" alt="Shaniwar Wada - Introduction">
+Shaniwar Wada, a historic fortification located in the heart of Pune, Maharashtra, India, stands as a powerful symbol of the Maratha Empire. Situated at an elevation of approximately 560 meters (1,840 feet) above sea level, this majestic structure is easily accessible from various parts of Pune city and is a short distance from other popular destinations like Aga Khan Palace and Sinhagad Fort. It’s renowned for its intricate architecture, historical significance, and the dramatic tales of its past. Shaniwar Wada is not just a monument; it's a living testament to the grandeur and legacy of the Peshwa rulers. 
 
 ### **History and Cultural Heritage**
 
@@ -23,11 +23,11 @@ The foundation stone of Shaniwar Wada was laid in 1730 by Bajirao I, the Peshwa 
 
 The Wada witnessed numerous historical events, including political intrigues, battles, and assassinations. The most tragic event associated with it is the murder of Narayanrao Peshwa, a young ruler, in 1773, which gave rise to the infamous story of "Aamhi Tyala Marle!" (We killed him!), supposedly echoing from within the Wada’s walls. The architecture reflects a blend of Maratha and Mughal styles. The Wada features intricately carved wooden doors, massive teakwood pillars, and elaborate courtyards.
 
-The Wada’s cultural significance extends to the many festivals and celebrations that occurred within its walls during the Peshwa era. Though no longer actively hosting such large-scale events, the spirit of these traditions is kept alive through cultural performances and festivals held in Pune. <img src="placeholder_shaniwar_wada_history.jpg" alt="Shaniwar Wada - History">
+The Wada’s cultural significance extends to the many festivals and celebrations that occurred within its walls during the Peshwa era. Though no longer actively hosting such large-scale events, the spirit of these traditions is kept alive through cultural performances and festivals held in Pune. 
 
 ### **Natural Beauty**
 
-While Shaniwar Wada itself isn’t surrounded by vast natural landscapes, it is located in a city known for its pleasant climate and proximity to the Sahyadri mountain range. The surrounding area offers a balance of urban landscapes and patches of green. A short drive from Pune takes you to scenic viewpoints in the Western Ghats offering panoramic views of the hills and valleys. The Mulshi Lake and the Tamhini Ghat are popular locations for enjoying nature. The city of Pune, while urbanized, still has several gardens and parks like Bund Garden and Vetal Tekdi (hill) where one can experience natural beauty. <img src="placeholder="placeholder_shaniwar_wada_nature.jpg" alt="Shaniwar Wada - Natural Beauty">
+While Shaniwar Wada itself isn’t surrounded by vast natural landscapes, it is located in a city known for its pleasant climate and proximity to the Sahyadri mountain range. The surrounding area offers a balance of urban landscapes and patches of green. A short drive from Pune takes you to scenic viewpoints in the Western Ghats offering panoramic views of the hills and valleys. The Mulshi Lake and the Tamhini Ghat are popular locations for enjoying nature. The city of Pune, while urbanized, still has several gardens and parks like Bund Garden and Vetal Tekdi (hill) where one can experience natural beauty. 
 
 ### **Must-Visit Attractions**
 
@@ -39,7 +39,7 @@ Other nearby attractions include:
 *   **Raja Dinkar Kelkar Museum:** Houses a vast collection of Indian artifacts and art.
 *   **Sinhagad Fort:** A historic hill fort, offering trekking opportunities and panoramic views.
 *   **Pataleshwar Cave Temple:** A rock-cut temple dedicated to Lord Shiva.
-*   **Dagdusheth Halwai Ganpati Temple:** A famous Hindu temple known for its ornate idol of Lord Ganesha. <img src="placeholder_shaniwar_wada_attractions.jpg" alt="Shaniwar Wada - Attractions">
+*   **Dagdusheth Halwai Ganpati Temple:** A famous Hindu temple known for its ornate idol of Lord Ganesha. 
 
 ### **Adventure Activities**
 
@@ -64,7 +64,7 @@ Pune also offers numerous shops specializing in local handicrafts:
 *   **Paithani Sarees:** Exquisite silk sarees with intricate designs.
 *   **Handmade Jewelry:** Silver and other jewelry are commonly available.
 
-<img src="placeholder_shaniwar_wada_markets.jpg" alt="Shaniwar Wada - Local Markets">
+
 
 ### **Food and Cuisine**
 
@@ -82,7 +82,7 @@ Popular restaurants and food stalls:
 *   **SPDP:** A popular chain of restaurants offering authentic Maharashtrian cuisine.
 *   Numerous street food stalls around the city.
 
-<img src="placeholder_shaniwar_wada_food.jpg" alt="Shaniwar Wada - Food and Cuisine">
+
 
 ### **Flora and Fauna**
 
@@ -102,7 +102,7 @@ Festivals:
 *   **Diwali:** The festival of lights is celebrated with joy and fervor.
 *   **Pune Festival:** A cultural event showcasing various art forms, music, and dance performances.
 
-<img src="placeholder_shaniwar_wada_best_time.jpg" alt="Shaniwar Wada - Best time">
+
 
 ### **How to Reach**
 
@@ -111,7 +111,7 @@ Festivals:
 *   **By Road:** Pune is well-connected by road, with several national highways passing through the city. The Mumbai-Pune Expressway provides quick access from Mumbai.
 *   **From Pune Junction:** Shaniwar Wada is easily accessible from Pune Junction by auto-rickshaw, taxi, or local bus. It’s approximately 4 km away.
 
-<img src="placeholder_shaniwar_wada_how_to_reach.jpg" alt="Shaniwar Wada - How to Reach">
+
 
 ### **Accommodation Options**
 
@@ -122,7 +122,7 @@ Pune offers a wide range of accommodation options to suit all budgets:
 *   **Budget Hotels:** Numerous budget-friendly hotels, guesthouses, and hostels are available throughout the city.
 *   **Heritage Hotels:** For a unique experience, consider staying at a heritage property like The Corinthians Resort & Club Pune.
 
-<img src="placeholder_shaniwar_wada_accommodation.jpg" alt="Shaniwar Wada - Accommodation">
+
 
 ### **Offbeat Experiences**
 
@@ -132,7 +132,7 @@ Pune offers a wide range of accommodation options to suit all budgets:
 *   **Explore Old Pune:** Wander the older parts of the city to discover hidden gems, traditional architecture, and local shops.
 *   **Volunteer:** Engage in volunteer activities with local organizations to contribute to the community.
 
-<img src="placeholder_shaniwar_wada_offbeat.jpg" alt="Shaniwar Wada - Offbeat Experiences">
+
 
 ### **Conclusion**
 

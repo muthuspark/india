@@ -45,7 +45,7 @@ Other attractions within Mysuru include:
 *   **Jaganmohan Palace:** Originally used by the Mysore royal family, it now houses an art gallery.
 *   **Railway Museum:** A collection of railway artifacts showcasing the history of the Indian Railways.
 
-<img src="placeholder_image_mysore_palace_durbar_hall.jpg" alt="Mysore Palace Durbar Hall">
+
 
 ### **Adventure Activities**
 
@@ -100,7 +100,7 @@ The best time to visit Mysore is during the cooler months, from **October to Mar
 *   **By Rail:** Mysuru Junction railway station is well-connected to major cities in India. Regular train services operate from Bengaluru, Chennai, and other significant cities.
 *   **By Road:** Mysuru is easily accessible by road. Major highways connect the city to Bengaluru (NH275), Chennai, and other nearby destinations. Buses and taxis are available. The distance from Bengaluru is approximately 140 km (87 miles).
 
-<img src="placeholder_image_mysore_palace_aerial_view.jpg" alt="Mysore Palace Aerial View">
+
 
 ### **Accommodation Options**
 

@@ -31,13 +31,13 @@ Kargil is a visual feast for the eyes. The landscape is characterized by towerin
 
 Popular viewpoints offer panoramic vistas of the surrounding valleys and mountains. The confluence of the Indus and Zanskar rivers near Nimoo, while not in Kargil itself, is often visited as part of a larger tour. The dramatic lunar landscapes of the region near Kargil are a testament to the region's unique geology.
 
-<img src="placeholder_image_kargil_natural_beauty.jpg" alt="Kargil's Natural Beauty">
+
 
 ### **Must-Visit Attractions**
 
-*   **Kargil War Memorial (Drass):**  This memorial, located in Drass, offers a moving tribute to the soldiers who lost their lives in the 1999 Kargil War. <img src="placeholder_image_kargil_war_memorial.jpg" alt="Kargil War Memorial">
+*   **Kargil War Memorial (Drass):**  This memorial, located in Drass, offers a moving tribute to the soldiers who lost their lives in the 1999 Kargil War. 
 *   **Mulbekh Monastery:** Situated approximately 45 kilometers (28 miles) from Kargil, the Mulbekh Monastery is famous for its giant statue of Maitreya Buddha carved into a rock face.  This demonstrates the region's Buddhist heritage.
-*   **Suru Valley:** This valley is the heart of the Kargil district and offers stunning views of the surrounding mountains and the Suru River. It is a popular trekking route. <img src="placeholder_image_suru_valley.jpg" alt="Suru Valley">
+*   **Suru Valley:** This valley is the heart of the Kargil district and offers stunning views of the surrounding mountains and the Suru River. It is a popular trekking route. 
 *   **Shri Machchhar, a Cave Temple:** This is one of the well known temples in the area, known for its architectural significance.
 *   **Sankoo:** A picturesque town situated in the heart of the Suru Valley, Sankoo is known for its lush green fields and stunning mountain views. It serves as a base for treks.
 
@@ -80,7 +80,7 @@ The region's flora and fauna are adapted to the harsh, high-altitude climate. Wh
 *   **Wildlife:** Himalayan marmots, ibex, snow leopards (rare), and various bird species.
 *   **Flora:**  Alpine meadows, with wildflowers blooming during the warmer months.
 
-<img src="placeholder_image_kargil_flora_fauna.jpg" alt="Kargil Flora and Fauna">
+
 
 ### **Best Time to Visit**
 

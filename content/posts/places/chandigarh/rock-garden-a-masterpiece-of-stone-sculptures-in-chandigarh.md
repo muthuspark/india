@@ -29,16 +29,16 @@ Chand's work reflects the Indian tradition of transforming waste and repurposing
 
 While the Rock Garden itself is entirely man-made, the surrounding city of Chandigarh offers some green spaces. Chandigarh, known for its well-planned layout, incorporates several parks and gardens that reflect a commitment to urban design.  The Rock Garden, although not defined by natural beauty, is a unique landscape built in a natural ravine.
 
-<img src="placeholder_rock_garden_natural_landscape.jpg" alt="The ravine-like layout of the Rock Garden">
+
 
 ### **Must-Visit Attractions**
 
 The Rock Garden is, without a doubt, the primary attraction. It is divided into multiple phases, each with its own thematic focus.
 
 *   **Phase I:** Features initial creations, including sculptures of animals, figures, and architectural forms made from waste.
-    <img src="placeholder_rock_garden_phase_1.jpg" alt="Sculptures in Phase 1 of the Rock Garden">
+    
 *   **Phase II:** Showcases an extended range of sculptures and pathways, with intricate designs and visual storytelling.
-    <img src="placeholder_rock_garden_phase_2.jpg" alt="Intricate sculptures and pathways in Phase 2">
+    
 *   **Phase III:** Continues to expand the artistic narrative, featuring elaborate figures, mosaics, and a variety of creative installations.
 
 The garden is a maze of pathways, hidden courtyards, and interconnected spaces, each offering new surprises and perspectives.
@@ -57,7 +57,7 @@ The Rock Garden itself doesn't offer adventure activities, but Chandigarh, as a 
 Chandigarh has several markets where visitors can find handicrafts and local products:
 
 *   **Sector 17 Market:** A bustling commercial hub that sells clothing, accessories, electronics, and souvenirs.
-    <img src="placeholder_sector_17_market.jpg" alt="Shopping at Sector 17 Market">
+    
 *   **Palika Bazaar:** A popular market known for budget-friendly clothing, handicrafts, and other items.
 
 Although not directly related to the Rock Garden itself, these markets offer opportunities to experience the local culture and shop for unique souvenirs.
@@ -75,7 +75,7 @@ Chandigarh's cuisine is a fusion of Punjabi, North Indian, and international fla
 Chandigarh has several parks and green spaces which support biodiversity.
 
 *   **Sukhna Wildlife Sanctuary:** Located near Sukhna Lake, this sanctuary provides a habitat for various bird species and other wildlife.
-    <img src="placeholder_sukhna_lake.jpg" alt="View of Sukhna Lake in Chandigarh">
+    
 *   **Rose Garden:** As the name suggests, this garden showcases a diverse collection of roses.
 
 ### **Best Time to Visit**

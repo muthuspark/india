@@ -27,7 +27,7 @@ The town flourished during the British era, becoming a center for political and 
 
 Shimla's cultural heritage is a colorful tapestry of traditions, festivals, and spiritual sites. The Ridge, a large open space in the heart of the town, often hosts fairs, festivals, and cultural events. The Jakhoo Temple, dedicated to Lord Hanuman, is a significant religious site. The Mall Road, with its shops, restaurants, and historical buildings, reflects the town's vibrant cultural scene.
 
-<img src="placeholder_image_jakhoo_temple.jpg" alt="Jakhoo Temple, Shimla">
+
 
 ### **Natural Beauty**
 
@@ -35,7 +35,7 @@ Shimla is blessed with stunning natural beauty. The town is surrounded by lush g
 
 Prominent viewpoints such as Scandal Point, the Ridge, and Jakhoo Hill offer panoramic vistas of the surrounding valleys and the distant snow-clad peaks. The Chadwick Falls, surrounded by lush forests, provides a serene escape into nature. The town's proximity to nature allows visitors to enjoy leisurely walks through the forests, experience the fresh mountain air, and revel in the tranquility of the surroundings.
 
-<img src="placeholder_image_shimla_landscape.jpg" alt="Panoramic View of Shimla">
+
 
 ### **Must-Visit Attractions**
 
@@ -52,7 +52,7 @@ Shimla is a treasure trove of attractions that cater to varied interests:
 *   **Gaiety Theatre:** A Victorian-era theatre, offering a glimpse into the town's colonial past.
 *   **State Museum:** Showcases the rich history and cultural heritage of Himachal Pradesh.
 
-<img src="placeholder_image_christ_church.jpg" alt="Christ Church, Shimla">
+
 
 ### **Adventure Activities**
 
@@ -65,7 +65,7 @@ Shimla offers a range of adventure activities for thrill-seekers:
 *   **Zip-lining:** Engage in the thrilling activity of zip-lining in Kufri.
 *   **Ice skating:** During winters, the open-air rink at the town hall is an attraction.
 
-<img src="placeholder_image_skiing_kufri.jpg" alt="Skiing in Kufri, Shimla">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -78,7 +78,7 @@ Shimla's local markets are a delight for shoppers:
 
 Handmade shawls, woolen caps, intricately carved wooden items, and traditional jewelry are some of the specialties that visitors can find in Shimla. Local artisans create unique souvenirs that capture the essence of the region's culture.
 
-<img src="placeholder_image_shimla_market.jpg" alt="Shopping on the Mall Road, Shimla">
+
 
 ### **Food and Cuisine**
 
@@ -125,7 +125,7 @@ Shimla offers a wide range of accommodation options to suit every budget and pre
 *   **Budget Hotels:** Numerous budget-friendly hotels and guesthouses are available throughout the town.
 *   **Homestays:** Many families offer comfortable homestay options, giving you an authentic local experience.
 
-<img src="placeholder_image_oberoi_cecil.jpg" alt="The Oberoi Cecil, Shimla">
+
 
 ### **Offbeat Experiences**
 

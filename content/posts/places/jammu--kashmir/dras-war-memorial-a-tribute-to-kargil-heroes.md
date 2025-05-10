@@ -25,7 +25,7 @@ The Kargil War, a conflict fought between India and Pakistan in 1999, fundamenta
 
 The Dras War Memorial is set amidst the stark and stunning beauty of the Ladakh region. The landscape is characterized by rugged mountains, deep valleys, and a cold, high-altitude desert environment. The memorial itself offers panoramic views of the surrounding peaks, including Tiger Hill, Tololing, and other strategic heights that were the scenes of intense battles. The Dras Valley, where the memorial is situated, is often referred to as the "Gateway to Ladakh" due to its location along the Srinagar-Leh highway.  The scenic beauty of the region is a stark contrast to the intense conflict that unfolded here, adding a layer of poignancy to the experience. The area is known for its cold climate and harsh winters, with a dramatic shift in scenery depending on the season.
 
-<img src="placeholder_image_dras_landscape.jpg" alt="Panoramic view of Dras Valley" width="800" height="400">
+
 
 ### **Must-Visit Attractions**
 
@@ -67,7 +67,7 @@ The flora and fauna of Dras are adapted to the harsh climatic conditions of the 
 *   **Flora:** The vegetation is sparse, with hardy grasses and shrubs. Wildflowers bloom during the summer months, adding color to the landscape.
 *   **Fauna:** Wildlife can be seen, including the Himalayan Marmot, the Snow Leopard (rarely seen), and various species of birds. The environment supports a range of animal life, adapted to the challenging climate. Wildlife sightings, however, are less frequent and dependent on the season and the particular region.
 
-<img src="placeholder_image_wildlife_dras.jpg" alt="Wildlife sightings in Dras" width="800" height="400">
+
 
 ### **Best Time to Visit**
 

@@ -22,7 +22,7 @@ The historical background of Aharbal is interwoven with the broader narrative of
 
 ### **Natural Beauty**
 
-The natural beauty of Aharbal is undoubtedly its greatest draw.  The cascading waterfall is the focal point, with the Veshav River dramatically plummeting into a gorge below. <img src="placeholder_AharbalWaterfall.jpg" alt="Aharbal Waterfall"> The lush green meadows, dense forests of pine and fir, and the clear mountain air contribute to a captivating environment. The landscape surrounding the waterfall is characterized by steep, verdant hills, making it ideal for scenic hikes.  The viewpoints around the waterfall offer stunning panoramic views of the surrounding valley. The air is crisp and clean, providing a refreshing escape from the pollution of city life. The forests are also home to a diverse range of flora and fauna, contributing to the region's rich biodiversity.
+The natural beauty of Aharbal is undoubtedly its greatest draw.  The cascading waterfall is the focal point, with the Veshav River dramatically plummeting into a gorge below.  The lush green meadows, dense forests of pine and fir, and the clear mountain air contribute to a captivating environment. The landscape surrounding the waterfall is characterized by steep, verdant hills, making it ideal for scenic hikes.  The viewpoints around the waterfall offer stunning panoramic views of the surrounding valley. The air is crisp and clean, providing a refreshing escape from the pollution of city life. The forests are also home to a diverse range of flora and fauna, contributing to the region's rich biodiversity.
 
 ### **Must-Visit Attractions**
 
@@ -37,7 +37,7 @@ While Aharbal Waterfall is the main attraction, the surrounding area offers seve
 
 Aharbal offers several opportunities for adventure and outdoor activities:
 
-*   **Trekking:** The area is perfect for trekking, with trails leading to Kounsar Lake and through the surrounding forests and meadows. <img src="placeholder_TrekkingAharbal.jpg" alt="Trekking in Aharbal">
+*   **Trekking:** The area is perfect for trekking, with trails leading to Kounsar Lake and through the surrounding forests and meadows. 
 *   **Nature Walks:** Enjoy leisurely nature walks through the forests and along the riverbanks, taking in the fresh air and natural beauty.
 *   **Photography:** The stunning landscapes and the waterfall itself provide ample opportunities for photographers of all skill levels.
 *   **Camping:** The surrounding area is conducive to camping, allowing visitors to immerse themselves in nature and enjoy the tranquility of the environment.
@@ -53,7 +53,7 @@ While Aharbal doesn't have large-scale markets within the immediate vicinity, yo
 
 ### **Food and Cuisine**
 
-Kashmiri cuisine is known for its rich flavors and aromatic spices.  <img src="placeholder_KashmiriFood.jpg" alt="Kashmiri Food"> Here are some dishes and options to look out for:
+Kashmiri cuisine is known for its rich flavors and aromatic spices.   Here are some dishes and options to look out for:
 
 *   **Rogan Josh:** A classic Kashmiri dish of tender lamb cooked in a rich gravy with aromatic spices.
 *   **Yakhni:** A yogurt-based lamb stew, often flavored with cardamom and other spices.

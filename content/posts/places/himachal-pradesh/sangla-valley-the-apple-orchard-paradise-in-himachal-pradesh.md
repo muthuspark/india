@@ -17,7 +17,7 @@ tags:
 
 Sangla Valley, a breathtakingly scenic region nestled in the Kinnaur district of Himachal Pradesh, India, is a jewel of the Himalayas. Located at an altitude of approximately 2,743 meters (9,000 feet) above sea level, the valley is famed for its stunning natural beauty, characterized by towering snow-capped mountains, lush green meadows, and the gushing Baspa River. Sangla Valley is a gateway to the higher reaches of Kinnaur and lies approximately 240 kilometers (150 miles) from Shimla, the state capital. Its unique blend of pristine landscapes, ancient culture, and adventurous opportunities makes it a captivating destination for travelers seeking an escape from the ordinary. The valley's charm lies in its tranquil ambiance and the unspoiled beauty that offers a glimpse into the untouched grandeur of the Himalayas.
 
-<img src="placeholder_image_sangla_valley_introduction.jpg" alt="Sangla Valley - Introduction" style="width: 800px;"/>
+
 
 ### **History and Cultural Heritage**
 
@@ -25,7 +25,7 @@ The history of Sangla Valley is interwoven with the rich cultural tapestry of th
 
 The culture of Sangla Valley is primarily Kinnauri, reflecting a blend of Hinduism and Buddhism. The Kinnauri people, known for their warm hospitality, have preserved their unique customs, traditions, and language. The local population is primarily rural and follows a self-sustaining agricultural way of life, with a large proportion of them cultivating apples. The vibrant culture is reflected in their colorful festivals, local dances, and intricate handicrafts. Key religious sites, like the Kamru Fort and Temple, showcase the region's rich religious and architectural heritage. The annual Fulaich festival, celebrated with great zeal, is a prominent cultural event that attracts many visitors.
 
-<img src="placeholder_image_sangla_valley_history_culture.jpg" alt="Sangla Valley - History and Cultural Heritage" style="width: 800px;"/>
+
 
 ### **Natural Beauty**
 
@@ -33,20 +33,20 @@ Sangla Valley is a paradise for nature lovers. The landscape is dominated by tow
 
 The valley is a popular destination for its viewpoints, offering panoramic vistas of the surrounding mountains and valleys. Places like Batseri, Rakcham, and Chitkul offer breathtaking views and opportunities to immerse oneself in the natural surroundings. The valley is also known for its diverse flora and fauna. The forests are home to several species of birds, including the Himalayan Monal, and various wild animals like the snow leopard and the musk deer.
 
-<img src="placeholder_image_sangla_valley_natural_beauty.jpg" alt="Sangla Valley - Natural Beauty" style="width: 800px;"/>
+
 
 ### **Must-Visit Attractions**
 
 Sangla Valley is home to several attractions that highlight its historical, religious, and natural beauty:
 
 *   **Kamru Fort and Temple:** A historical fort and temple complex, situated at a height of approximately 2,600 meters (8,500 feet), is an architectural marvel offering stunning views of the surrounding valley.
-    <img src="placeholder_image_sangla_valley_kamru_fort.jpg" alt="Kamru Fort and Temple" style="width: 800px;"/>
+    
 *   **Chitkul:** The last inhabited village near the Indo-Tibet border, Chitkul, offers unparalleled views of the mountains and is known for its picturesque beauty and peaceful atmosphere.
-    <img src="placeholder_image_sangla_valley_chitkul.jpg" alt="Chitkul" style="width: 800px;"/>
+    
 *   **Batseri:** A charming village on the banks of the Baspa River, Batseri is known for its apple orchards, traditional wooden houses, and the beautiful views of the valley.
-    <img src="placeholder_image_sangla_valley_batseri.jpg" alt="Batseri" style="width: 800px;"/>
+    
 *   **Rakcham:** Another scenic village offering serene surroundings, Rakcham is a great spot for nature walks and enjoying the mountain landscape.
-    <img src="placeholder_image_sangla_valley_rakcham.jpg" alt="Rakcham" style="width: 800px;"/>
+    
 *   **Baspa River:** The fast-flowing river offers stunning views and is a treat to watch as it flows through the valley.
 
 ### **Adventure Activities**
@@ -66,7 +66,7 @@ The local markets in Sangla and nearby villages offer a glimpse into the region'
 *   **Handloom Products:** Local handloom products, including carpets, rugs, and other textiles, showcase the traditional weaving skills of the Kinnauri people.
 *   **Local Souvenirs:** Markets also offer souvenirs such as locally made jewelry, keychains, and decorative items.
 
-<img src="placeholder_image_sangla_valley_market_handicrafts.jpg" alt="Sangla Valley - Local Markets and Handicrafts" style="width: 800px;"/>
+
 
 ### **Food and Cuisine**
 
@@ -87,7 +87,7 @@ Sangla Valley is rich in biodiversity:
 
 The best time to visit Sangla Valley is during the summer months, from March to June, when the weather is pleasant, and the roads are usually open. Another good time to visit is from September to November (autumn), when the weather is clear and the skies are blue. This period also offers stunning views of the autumn foliage. The monsoon season (July-August) can be tricky due to landslides and road closures, so it's best to avoid this period. Winter (December to February) is extremely cold, with heavy snowfall, making some areas inaccessible.
 
-<img src="placeholder_image_sangla_valley_best_time_to_visit.jpg" alt="Sangla Valley - Best Time to Visit" style="width: 800px;"/>
+
 
 ### **How to Reach**
 
@@ -105,7 +105,7 @@ Sangla Valley offers a variety of accommodation options:
 *   **Budget Stays:** There are budget-friendly guesthouses and lodges available.
 *   **Luxury Resorts:** Resorts with modern amenities are also available.
 
-<img src="placeholder_image_sangla_valley_accommodation.jpg" alt="Sangla Valley - Accommodation" style="width: 800px;"/>
+
 
 ### **Offbeat Experiences**
 

@@ -23,15 +23,15 @@ While Bannerghatta National Park doesn't possess a rich tapestry of historical m
 
 ### **Natural Beauty**
 
-Bannerghatta National Park boasts a lush, undulating landscape characterized by hills, valleys, and dense forests. The park’s topography is dotted with seasonal streams and a few small lakes, contributing to its rich biodiversity.  <img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty of Bannerghatta National Park">  The dense vegetation, primarily comprising dry deciduous and moist deciduous forests, provides a perfect habitat for the wildlife. The park offers panoramic viewpoints that offer breathtaking vistas of the surrounding hills and valleys, particularly during sunrise and sunset. The beauty of the park changes with the seasons, with vibrant greenery during the monsoon and a drier, more rugged landscape during the summer.
+Bannerghatta National Park boasts a lush, undulating landscape characterized by hills, valleys, and dense forests. The park’s topography is dotted with seasonal streams and a few small lakes, contributing to its rich biodiversity.    The dense vegetation, primarily comprising dry deciduous and moist deciduous forests, provides a perfect habitat for the wildlife. The park offers panoramic viewpoints that offer breathtaking vistas of the surrounding hills and valleys, particularly during sunrise and sunset. The beauty of the park changes with the seasons, with vibrant greenery during the monsoon and a drier, more rugged landscape during the summer.
 
 ### **Must-Visit Attractions**
 
 Bannerghatta National Park offers a diverse range of attractions:
 
-*   **Bannerghatta Zoo:** A major highlight, the zoo houses a large collection of animals, including tigers, lions, bears, elephants, and various species of birds and reptiles. A safari through the zoo is a must-do. <img src="placeholder_image_bannerghatta_zoo.jpg" alt="Bannerghatta Zoo Safari">
+*   **Bannerghatta Zoo:** A major highlight, the zoo houses a large collection of animals, including tigers, lions, bears, elephants, and various species of birds and reptiles. A safari through the zoo is a must-do. 
 *   **Safari:** The park offers a variety of safaris, including the Grand Safari (covering all the animals) and tiger and lion safaris. These offer close encounters with the wildlife in a controlled environment.
-*   **Butterfly Park:**  One of India's largest butterfly parks, housing a vibrant collection of butterflies within a carefully maintained ecosystem. <img src="placeholder_image_butterfly_park.jpg" alt="Bannerghatta Butterfly Park">
+*   **Butterfly Park:**  One of India's largest butterfly parks, housing a vibrant collection of butterflies within a carefully maintained ecosystem. 
 *   **Temple:** The park also has a beautiful ancient temple that visitors can explore.
 *   **Hiking Trails:** Visitors can indulge in moderate-level trekking and explore the beauty of nature.
 *   **Boating:** Boating facilities are also available.
@@ -66,7 +66,7 @@ The food scene around Bannerghatta National Park and in Bangalore is diverse. Wh
 Bannerghatta National Park is a biodiversity hotspot, rich in both flora and fauna.
 
 *   **Flora:** The park is predominantly covered with dry deciduous and moist deciduous forests. Common trees include sandalwood, teak, eucalyptus, and bamboo.
-*   **Fauna:** The park is home to a variety of animals, including tigers, lions, elephants, leopards, gaurs, sambar deer, spotted deer, and several species of primates. The park also boasts a rich birdlife, including various species of migratory birds, and a variety of reptiles and amphibians. <img src="placeholder_image_flora_fauna.jpg" alt="Flora and Fauna of Bannerghatta">
+*   **Fauna:** The park is home to a variety of animals, including tigers, lions, elephants, leopards, gaurs, sambar deer, spotted deer, and several species of primates. The park also boasts a rich birdlife, including various species of migratory birds, and a variety of reptiles and amphibians. 
 
 ### **Best Time to Visit**
 

@@ -19,20 +19,20 @@ Ranthambore National Park, a jewel of Rajasthan, India, is a sprawling expanse o
 
 ### **History and Cultural Heritage**
 
-Ranthambore’s history is intertwined with the rich cultural heritage of Rajasthan. The park’s name is derived from the historic Ranthambore Fort, a significant landmark within its boundaries. The fort has a long and illustrious history, dating back to the 10th century. It served as a strategic stronghold for various Rajput dynasties, including the Chauhans and the Mughals, playing a crucial role in several historical battles. <img src="placeholder_ranthambore_fort.jpg" alt="Ranthambore Fort"> The fort stands as a testament to the region's architectural prowess, showcasing intricate carvings, majestic gates, and a rich repository of history.
+Ranthambore’s history is intertwined with the rich cultural heritage of Rajasthan. The park’s name is derived from the historic Ranthambore Fort, a significant landmark within its boundaries. The fort has a long and illustrious history, dating back to the 10th century. It served as a strategic stronghold for various Rajput dynasties, including the Chauhans and the Mughals, playing a crucial role in several historical battles.  The fort stands as a testament to the region's architectural prowess, showcasing intricate carvings, majestic gates, and a rich repository of history.
 
 The area's cultural tapestry is also rich with local traditions and customs. Festivals like Diwali, Holi, and Teej are celebrated with great fervor in nearby villages, offering visitors a glimpse into the vibrant local culture. Several temples and religious sites within and around the park reflect the spiritual influences of Hinduism and Jainism. The Trinetra Ganesh Temple within the Ranthambore Fort is particularly significant, attracting devotees from all over India. The cultural heritage of Ranthambore is an integral part of its charm, adding a unique dimension to the overall visitor experience.
 
 ### **Natural Beauty**
 
-Ranthambore National Park boasts a varied and captivating landscape. The dominant ecosystem is dry deciduous forest, characterized by a mix of Dhok, Banyan, and Mango trees. <img src="placeholder_ranthambore_landscape.jpg" alt="Ranthambore Landscape"> The park is dissected by the perennial Banas River and several seasonal water bodies, providing crucial habitats for various species. The topography is generally rugged, with rocky outcrops and steep hillsides, offering a picturesque setting. Several viewpoints within the park allow visitors to soak in the panoramic beauty of the landscape, including scenic vistas of the lakes and undulating terrain. The picturesque beauty of the landscape is further accentuated during the monsoon season when the vegetation flourishes, adding a touch of freshness and vibrancy to the surroundings.
+Ranthambore National Park boasts a varied and captivating landscape. The dominant ecosystem is dry deciduous forest, characterized by a mix of Dhok, Banyan, and Mango trees.  The park is dissected by the perennial Banas River and several seasonal water bodies, providing crucial habitats for various species. The topography is generally rugged, with rocky outcrops and steep hillsides, offering a picturesque setting. Several viewpoints within the park allow visitors to soak in the panoramic beauty of the landscape, including scenic vistas of the lakes and undulating terrain. The picturesque beauty of the landscape is further accentuated during the monsoon season when the vegetation flourishes, adding a touch of freshness and vibrancy to the surroundings.
 
 ### **Must-Visit Attractions**
 
 The heart of Ranthambore’s appeal lies in its key attractions:
 
 *   **Ranthambore Fort:** This imposing fort offers stunning views of the park. Its architecture and historical significance make it a must-visit.
-*   **Trinetra Ganesh Temple:** Located inside the fort, this ancient temple dedicated to Lord Ganesha is a significant pilgrimage site. <img src="placeholder_trinetra_ganesh_temple.jpg" alt="Trinetra Ganesh Temple">
+*   **Trinetra Ganesh Temple:** Located inside the fort, this ancient temple dedicated to Lord Ganesha is a significant pilgrimage site. 
 *   **Padam Talao:** One of the largest lakes in the park, offering scenic views and the opportunity to spot wildlife at the water's edge.
 *   **Raj Bagh Talao:** Another picturesque lake area, known for its serene ambiance and diverse wildlife sightings.
 *   **Jogi Mahal:** A historic rest house, offering unique architectural insights.
@@ -40,7 +40,7 @@ The heart of Ranthambore’s appeal lies in its key attractions:
 
 ### **Adventure Activities**
 
-The primary adventure activity at Ranthambore is, of course, the wildlife safari. These safaris take place in open-top jeeps or canters, allowing visitors to explore the park's core zones in search of tigers and other wildlife. <img src="placeholder_ranthambore_safari.jpg" alt="Ranthambore Safari"> The thrill of the safari, the anticipation of spotting a tiger, and the opportunity to witness other wildlife in their natural habitat make this a quintessential Ranthambore experience. Beyond safaris, opportunities for bird-watching are abundant, especially around the lakes. The park also provides trekking opportunities for a more immersive experience, though restricted to certain areas.
+The primary adventure activity at Ranthambore is, of course, the wildlife safari. These safaris take place in open-top jeeps or canters, allowing visitors to explore the park's core zones in search of tigers and other wildlife.  The thrill of the safari, the anticipation of spotting a tiger, and the opportunity to witness other wildlife in their natural habitat make this a quintessential Ranthambore experience. Beyond safaris, opportunities for bird-watching are abundant, especially around the lakes. The park also provides trekking opportunities for a more immersive experience, though restricted to certain areas.
 
 ### **Local Markets and Handicrafts**
 
@@ -52,7 +52,7 @@ Sawai Madhopur, the nearest town, offers several local markets and bazaars where
 *   **Pottery:** Hand-painted and glazed pottery.
 *   **Spices:** Locally sourced spices and herbs.
 
-<img src="placeholder_ranthambore_market.jpg" alt="Ranthambore Market">
+
 
 ### **Food and Cuisine**
 
@@ -100,7 +100,7 @@ Ranthambore offers a range of accommodation options, from budget-friendly guest 
 *   **Budget-Friendly Guest Houses:** Suitable for budget travelers.
 *   **Jungle Lodges:** These lodges offer immersive experiences close to nature.
 
-<img src="placeholder_ranthambore_accommodation.jpg" alt="Ranthambore Accommodation">
+
 
 ### **Offbeat Experiences**
 

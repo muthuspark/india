@@ -21,20 +21,20 @@ Patna Sahib, officially known as Takht Sri Patna Sahib, is one of the five Takht
 
 ### **History and Cultural Heritage**
 
-The history of Patna Sahib is intrinsically linked to the life of Guru Gobind Singh Ji. He was born here on December 22, 1666, at what is now the Takht Sri Patna Sahib. This location was also where the Guru spent his early years, receiving initial education and training. The Gurdwara, a magnificent structure built in memory of the Guru, serves as the focal point of the area. The site was initially built by Maharaja Ranjit Singh but has been renovated over time. <img src="placeholder_image_takht_sri_patna_sahib.jpg" alt="Takht Sri Patna Sahib">
+The history of Patna Sahib is intrinsically linked to the life of Guru Gobind Singh Ji. He was born here on December 22, 1666, at what is now the Takht Sri Patna Sahib. This location was also where the Guru spent his early years, receiving initial education and training. The Gurdwara, a magnificent structure built in memory of the Guru, serves as the focal point of the area. The site was initially built by Maharaja Ranjit Singh but has been renovated over time. 
 
 Culturally, Patna Sahib is characterized by the vibrant Sikh traditions and practices. The Gurdwara regularly hosts *kirtans* (devotional singing), and *langar* (community kitchen) providing free meals to all visitors regardless of their background is a crucial aspect of Sikh hospitality. The festivals of *Prakash Utsav* (birth anniversary of Guru Gobind Singh Ji) and *Holi* are celebrated with great enthusiasm. The local culture is also influenced by the broader Bihari traditions, particularly with influences of Bhojpuri and Magahi languages and cuisine. Several historical artifacts related to Guru Gobind Singh Ji are preserved within the Takht, including his weapons and personal items, adding to the historical weight of the place.
 
 ### **Natural Beauty**
 
-While Patna Sahib itself is an urban area, its location in Bihar offers access to natural beauty. Bihar is largely a fertile plain, with the Ganges and other rivers forming the lifeblood of the region. Nearby, visitors can find stretches of lush green fields and farms. <img src="placeholder_image_bihar_countryside.jpg" alt="Bihar Countryside">
+While Patna Sahib itself is an urban area, its location in Bihar offers access to natural beauty. Bihar is largely a fertile plain, with the Ganges and other rivers forming the lifeblood of the region. Nearby, visitors can find stretches of lush green fields and farms. 
 
 *   **Ganges River:** The sacred Ganges River flows near Patna, offering serene views and opportunities for boat rides (though not directly near the Sahib site).
 *   **Parks and Gardens:** While not within the immediate vicinity, the city of Patna does boast of parks and gardens such as Eco Park, and Sanjay Gandhi Biological Park, providing spaces for relaxation and enjoying nature.
 
 ### **Must-Visit Attractions**
 
-*   **Takht Sri Patna Sahib (Gurdwara):** The most important attraction, the Gurdwara is a grand structure with stunning architecture. Visitors can experience the spiritual atmosphere, attend *kirtans*, and participate in the *langar*. <img src="placeholder_image_gurdwara_interior.jpg" alt="Gurdwara Interior">
+*   **Takht Sri Patna Sahib (Gurdwara):** The most important attraction, the Gurdwara is a grand structure with stunning architecture. Visitors can experience the spiritual atmosphere, attend *kirtans*, and participate in the *langar*. 
 *   **Patna Museum:** Located in Patna, the museum houses a rich collection of artifacts related to Bihar's history, including relics from the Mauryan and Gupta periods, offering an insight into the region’s past.
 *   **Khuda Bakhsh Oriental Public Library:** A renowned library in Patna, preserving a vast collection of ancient manuscripts and Islamic books.
 *   **Agam Kuan:** An ancient well associated with Mauryan Emperor Ashoka and believed to be over 2,000 years old. Located in the heart of Patna.
@@ -54,7 +54,7 @@ Patna Sahib and the broader Patna area offer several opportunities for shopping 
 
 *   **Khaitan Market:** A popular market known for clothing, fabrics, and general merchandise.
 *   **Maurya Lok Complex:** Offers a mix of shops selling various items, including clothes, accessories, and electronics.
-*   **Handloom Products:** Bihar is known for its handloom textiles, and visitors can find local weavers and vendors selling handwoven fabrics like cotton, silk, and linen. <img src="placeholder_image_bihar_handloom.jpg" alt="Bihar Handloom">
+*   **Handloom Products:** Bihar is known for its handloom textiles, and visitors can find local weavers and vendors selling handwoven fabrics like cotton, silk, and linen. 
 *   **Madhubani Paintings:** Although not directly in Patna Sahib, Madhubani paintings, a unique style of folk art from Bihar, can be found in Patna.
 
 ### **Food and Cuisine**

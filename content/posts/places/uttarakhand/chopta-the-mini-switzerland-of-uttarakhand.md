@@ -25,15 +25,15 @@ While Chopta itself doesn't have a rich documented history in terms of royal pat
 
 ###  **Natural Beauty**
 
-Chopta's primary allure lies in its unspoiled natural beauty. The landscape is dominated by rolling green meadows, dense forests of rhododendron, deodar, and pine trees, and, of course, the majestic Himalayan peaks. The prominent peaks visible from Chopta include Chaukhamba, Nanda Devi, and Trisul, which offer spectacular views, particularly during sunrise and sunset. The area is part of the Kedarnath Wildlife Sanctuary, making it a haven for diverse flora and fauna. <img src="placeholder_image_chopta_landscape.jpg" alt="Chopta Landscape"> The trails offer panoramic views, and the air is crisp and pure, carrying the scent of pine and blooming wildflowers in season. The Chandrashila summit offers an unparalleled 360-degree view of the surrounding mountains, making it a highlight for trekkers.
+Chopta's primary allure lies in its unspoiled natural beauty. The landscape is dominated by rolling green meadows, dense forests of rhododendron, deodar, and pine trees, and, of course, the majestic Himalayan peaks. The prominent peaks visible from Chopta include Chaukhamba, Nanda Devi, and Trisul, which offer spectacular views, particularly during sunrise and sunset. The area is part of the Kedarnath Wildlife Sanctuary, making it a haven for diverse flora and fauna.  The trails offer panoramic views, and the air is crisp and pure, carrying the scent of pine and blooming wildflowers in season. The Chandrashila summit offers an unparalleled 360-degree view of the surrounding mountains, making it a highlight for trekkers.
 
 ### **Must-Visit Attractions**
 
-The primary attraction near Chopta is the Tungnath Temple, the highest Shiva temple in the world. <img src="placeholder_image_tungnath_temple.jpg" alt="Tungnath Temple"> A short trek from Chopta (approximately 3-4 km) leads to this ancient temple. The trek further extends to Chandrashila Peak (another 1-2 km), which offers breathtaking views of the Himalayas. Deoria Tal, a high-altitude lake about 25 km from Chopta, is another must-visit attraction. The reflection of the Chaukhamba peak in the clear waters of Deoria Tal is a visual treat. Further afield, the Kedarnath Wildlife Sanctuary itself offers opportunities for wildlife viewing (though wildlife sightings are more common during treks).
+The primary attraction near Chopta is the Tungnath Temple, the highest Shiva temple in the world.  A short trek from Chopta (approximately 3-4 km) leads to this ancient temple. The trek further extends to Chandrashila Peak (another 1-2 km), which offers breathtaking views of the Himalayas. Deoria Tal, a high-altitude lake about 25 km from Chopta, is another must-visit attraction. The reflection of the Chaukhamba peak in the clear waters of Deoria Tal is a visual treat. Further afield, the Kedarnath Wildlife Sanctuary itself offers opportunities for wildlife viewing (though wildlife sightings are more common during treks).
 
 ### **Adventure Activities**
 
-Chopta is a paradise for adventure enthusiasts. The primary activity here is trekking. The trek to Tungnath Temple and Chandrashila Peak is relatively moderate and can be completed by people of varying fitness levels. The trails offer stunning views and an immersive experience in nature. <img src="placeholder_image_chopta_trekking.jpg" alt="Trekking in Chopta"> In the winter months, when the area is covered in snow, opportunities for snow trekking and skiing may be available. Other activities include camping under the starry Himalayan sky and nature walks through the surrounding forests, perfect for bird-watching.
+Chopta is a paradise for adventure enthusiasts. The primary activity here is trekking. The trek to Tungnath Temple and Chandrashila Peak is relatively moderate and can be completed by people of varying fitness levels. The trails offer stunning views and an immersive experience in nature.  In the winter months, when the area is covered in snow, opportunities for snow trekking and skiing may be available. Other activities include camping under the starry Himalayan sky and nature walks through the surrounding forests, perfect for bird-watching.
 
 ### **Local Markets and Handicrafts**
 
@@ -41,7 +41,7 @@ Chopta itself has a limited number of shops. However, during the trekking season
 
 ### **Food and Cuisine**
 
-The cuisine in Chopta is simple but hearty, designed to fuel the trekkers. Restaurants and dhabas typically offer vegetarian options, including Dal, Roti, Sabzi, and rice. Local specialties to try include Mandua (buckwheat) roti, and Gahat Dal. <img src="placeholder_image_chopta_food.jpg" alt="Chopta Food"> Basic amenities are available at Chopta, while Ukhimath, the nearest town with a wider variety of restaurants, has more diverse food options. Hot tea and Maggi noodles are staple comfort food for trekkers.
+The cuisine in Chopta is simple but hearty, designed to fuel the trekkers. Restaurants and dhabas typically offer vegetarian options, including Dal, Roti, Sabzi, and rice. Local specialties to try include Mandua (buckwheat) roti, and Gahat Dal.  Basic amenities are available at Chopta, while Ukhimath, the nearest town with a wider variety of restaurants, has more diverse food options. Hot tea and Maggi noodles are staple comfort food for trekkers.
 
 ### **Flora and Fauna**
 
@@ -61,7 +61,7 @@ Chopta offers a range of accommodation options, from budget-friendly stays to ba
 
 ### **Offbeat Experiences**
 
-For those seeking offbeat experiences, Chopta offers several possibilities. <img src="placeholder_image_offbeat_chopta.jpg" alt="Offbeat Chopta"> Consider staying at a local village home-stay to experience the Garhwali culture and lifestyle. You could explore the lesser-known trails around Chopta and discover hidden waterfalls and viewpoints. Interact with the locals and learn about their traditions and way of life. Visit nearby villages and explore local markets, experiencing the authentic village life. Participate in local cultural events (if any) to immerse yourself in the culture.
+For those seeking offbeat experiences, Chopta offers several possibilities.  Consider staying at a local village home-stay to experience the Garhwali culture and lifestyle. You could explore the lesser-known trails around Chopta and discover hidden waterfalls and viewpoints. Interact with the locals and learn about their traditions and way of life. Visit nearby villages and explore local markets, experiencing the authentic village life. Participate in local cultural events (if any) to immerse yourself in the culture.
 
 ### **Conclusion**
 

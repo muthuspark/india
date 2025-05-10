@@ -21,7 +21,7 @@ Vaishno Devi, also known as Mata Vaishno Devi, is one of the most revered Hindu 
 
 The origins of the Vaishno Devi shrine are shrouded in legend and myth. The most popular narrative recounts the story of Mata Vaishnavi, a devotee of Lord Vishnu, who meditated in the cave. The history surrounding the shrine is deeply intertwined with the reverence of Shakti, the divine feminine energy. The cave itself is considered a sacred place where Vaishnavi merged with the divine energies of the three goddesses: Mahakali, Mahalakshmi, and Mahasaraswati.
 
-<img src="placeholder_vaishno_devi_history.jpg" alt="Vaishno Devi Historical Image">
+
 
 Historically, the shrine has been a destination of pilgrimage for centuries. The journey to Vaishno Devi has always been challenging, involving a trek through the mountains, adding to the spiritual significance of the pilgrimage. Over time, the path has been improved and facilities have been enhanced to accommodate the increasing number of pilgrims. The local culture is deeply influenced by the pilgrimage, with the town of Katra thriving on the hospitality and service provided to the devotees. The annual Navaratri festival is particularly significant, drawing large crowds and transforming the region into a vibrant spectacle of devotion and celebration.
 
@@ -29,7 +29,7 @@ Historically, the shrine has been a destination of pilgrimage for centuries. The
 
 The landscape surrounding Vaishno Devi is a visual feast, dominated by the majestic Trikuta Mountains, which form a part of the Shivalik range. The journey to the shrine takes one through rugged terrain, lush green valleys, and cascading waterfalls. The air is fresh and crisp, and the views from higher altitudes are simply breathtaking.
 
-<img src="placeholder_vaishno_devi_scenery.jpg" alt="Vaishno Devi Natural Beauty Image">
+
 
 The region’s natural beauty is a constant companion throughout the trek. The views from Bhawan, the main shrine, are particularly spectacular, especially at sunrise and sunset. The verdant landscapes provide a perfect backdrop for a spiritual journey, enhancing the overall experience.
 
@@ -37,7 +37,7 @@ The region’s natural beauty is a constant companion throughout the trek. The v
 
 The primary attraction in the region is undoubtedly the **Vaishno Devi Temple** itself, housed within a natural cave. The darshan (holy viewing) of the three *Pindis* (natural rock formations symbolizing the three goddesses) is the main purpose of the pilgrimage.
 
-<img src="placeholder_vaishno_devi_cave.jpg" alt="Vaishno Devi Temple Image">
+
 
 Other points of interest include:
 

@@ -25,7 +25,7 @@ The history of Dawki is closely intertwined with the Jaintia people, the indigen
 
 Dawki's natural beauty is its defining characteristic. The landscape is characterized by lush, rolling hills covered in dense vegetation, offering a backdrop of vibrant green against a clear blue sky. The Umngot River, with its strikingly transparent waters, takes center stage. The river meanders through a scenic valley, bordered by steep cliffs and verdant forests. The play of sunlight on the river's clear surface creates an enchanting spectacle.
 
-<img src="placeholder_dawki_natural_beauty.jpg" alt="Dawki's Natural Beauty - The crystal clear Umngot River" width="600">
+
 
 The surrounding forests are rich in biodiversity, supporting a wide range of flora and fauna. Viewpoints along the riverbank and on the surrounding hills offer spectacular panoramic views. Several smaller streams and waterfalls add to the scenic charm of the area.
 
@@ -33,7 +33,7 @@ The surrounding forests are rich in biodiversity, supporting a wide range of flo
 
 The primary attraction in Dawki is undoubtedly the **Umngot River**. Visitors can hire boats to explore the river and marvel at the crystal-clear waters. **Dawki Bridge**, an iconic suspension bridge, offers stunning views of the river and the surrounding landscape.
 
-<img src="placeholder_dawki_bridge_boat.jpg" alt="Dawki Bridge and Boat" width="600">
+
 
 Other nearby attractions include:
 

@@ -25,9 +25,9 @@ Sivasagar’s history is inextricably linked to the Ahom dynasty, who ruled Assa
 The cultural landscape of Sivasagar is equally vibrant. The town is dotted with temples and religious sites, reflecting the deep-rooted faith of the people. The *Bohag Bihu* festival, the Assamese New Year, is celebrated with great enthusiasm, marked by traditional dances like *Bihu* and vibrant cultural performances. Other important festivals include *Magh Bihu* and *Kaati Bihu*, each celebrated with unique rituals and customs.
 
 Historical landmarks are central to Sivasagar’s identity. The most iconic structure is the *Rang Ghar*, a two-storied pavilion considered to be one of the oldest amphitheaters in Asia. The *Kareng Ghar*, also known as the Garhgaon Palace, was another major palace complex, illustrating the architectural and administrative capabilities of the Ahom rulers. The *Talatal Ghar* is an underground structure which was used for strategic purposes, while the *Sivadol*, *Vishnudol*, and *Devidol* temple complexes reflect the religious beliefs of the Ahom rulers.
-<placeholder image tag for: Rang Ghar>
-<placeholder image tag for: Kareng Ghar>
-<placeholder image tag for: Sivadol>
+
+
+
 
 ### **Natural Beauty**
 
@@ -45,7 +45,7 @@ Sivasagar offers an array of attractions that showcase its historical and cultur
 *   **Sivadol, Vishnudol, and Devidol**: These three temples are dedicated to Lord Shiva, Lord Vishnu, and Goddess Durga, respectively, forming an important religious complex.
 *   **Joysagar Tank and Temple**: A large tank with a beautiful temple on its banks, offering a serene environment.
 *   **Charaideo Maidams**: (approx. 30km away) The burial mounds of Ahom kings and queens, a UNESCO World Heritage Site candidate, offering insights into royal rituals and architecture.
-<placeholder image tag for: Charaideo Maidams>
+
 *   **Gargaon Village**: Experience village life, interact with the local people, and get a glimpse of the rural culture of Assam.
 
 ### **Adventure Activities**

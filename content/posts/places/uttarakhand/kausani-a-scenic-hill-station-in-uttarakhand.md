@@ -20,13 +20,13 @@ Kausani, a serene hill station nestled in the Bageshwar district of Uttarakhand,
 
 ### **History and Cultural Heritage**
 
-Kausani's history is intertwined with the region's broader development under the Katyuri and Chand dynasties. While not boasting extensive royal palaces or grand historical monuments, the area holds significant cultural relevance. Its proximity to ancient trade routes and pilgrimage sites has contributed to its evolving cultural landscape. The region is predominantly Hindu, and the local culture reflects a blend of traditional Kumaoni customs with influences from neighboring Himalayan communities. The area celebrates various local festivals, marked by vibrant processions, traditional music, and dance. <image placeholder="Historical Image of Kausani if available">
+Kausani's history is intertwined with the region's broader development under the Katyuri and Chand dynasties. While not boasting extensive royal palaces or grand historical monuments, the area holds significant cultural relevance. Its proximity to ancient trade routes and pilgrimage sites has contributed to its evolving cultural landscape. The region is predominantly Hindu, and the local culture reflects a blend of traditional Kumaoni customs with influences from neighboring Himalayan communities. The area celebrates various local festivals, marked by vibrant processions, traditional music, and dance. 
 
 A major historical landmark in Kausani is the **Anasakti Ashram**, also known as Gandhi Ashram, where Mahatma Gandhi spent time and penned his commentary on Anasakti Yoga. This site provides insight into Gandhi's philosophy and his connection with the region.
 
 ### **Natural Beauty**
 
-Kausani’s primary allure is its unparalleled natural beauty. The majestic Himalayas form a breathtaking backdrop, with stunning views of the Trishul, Nanda Devi, and Panchchuli peaks. The area is surrounded by dense pine and deodar forests, contributing to the area's fresh, crisp air. The Kausani viewpoint, located near the Anasakti Ashram, offers a spectacular 360-degree panorama of the Himalayan range, especially during sunrise and sunset. <image placeholder="Image of Kausani's view from viewpoint">
+Kausani’s primary allure is its unparalleled natural beauty. The majestic Himalayas form a breathtaking backdrop, with stunning views of the Trishul, Nanda Devi, and Panchchuli peaks. The area is surrounded by dense pine and deodar forests, contributing to the area's fresh, crisp air. The Kausani viewpoint, located near the Anasakti Ashram, offers a spectacular 360-degree panorama of the Himalayan range, especially during sunrise and sunset. 
 
 The region is dotted with lush green valleys, cascading streams, and terraced fields, making it a treat for nature lovers. The surrounding landscape is ideal for nature walks and experiencing the tranquility of the Himalayas.
 
@@ -35,7 +35,7 @@ The region is dotted with lush green valleys, cascading streams, and terraced fi
 Kausani and its surroundings offer several attractions for tourists:
 
 *   **Anasakti Ashram:** This ashram is a must-visit for those interested in Mahatma Gandhi’s legacy. It houses a small museum with photographs and writings related to Gandhi.
-*   **Baijnath Temple:** Located on the banks of the Gomati River, this ancient temple complex is dedicated to Lord Shiva and is known for its architectural beauty and religious significance. <image placeholder="Image of Baijnath Temple">
+*   **Baijnath Temple:** Located on the banks of the Gomati River, this ancient temple complex is dedicated to Lord Shiva and is known for its architectural beauty and religious significance. 
 *   **Kausani Tea Estate:** A visit to the tea estate offers a glimpse into tea processing and the opportunity to sample fresh tea.
 *   **Rudradhari Falls and Caves:** Situated a short distance from Kausani, this spot offers scenic waterfalls and ancient caves, making it a perfect location for a day trip and nature exploration.
 *   **Lakshmi Ashram:** This ashram is focused on women's empowerment and education and offers a serene environment.
@@ -62,7 +62,7 @@ The local cuisine of Kausani is a delightful blend of Kumaoni flavors. The food 
 
 *   **Traditional Dishes:** Try local dishes like *Aloo ke Gutke* (potatoes cooked in a unique style), *Bhatt ki Churkani* (a dish made from black soybeans), and *Bal Mithai* (a sweet made from condensed milk).
 *   **Street Food:** Enjoy local snacks like *momos* and other street food found in the market areas.
-*   **Restaurants:** Several restaurants in Kausani serve a mix of local Kumaoni and North Indian cuisine. <image placeholder="Image of local Kausani dish">
+*   **Restaurants:** Several restaurants in Kausani serve a mix of local Kumaoni and North Indian cuisine. 
 
 ### **Flora and Fauna**
 
@@ -82,7 +82,7 @@ Kausani can be reached by various means of transport:
 
 *   **By Air:** The nearest airport is Pantnagar Airport (approximately 175 km away). From the airport, taxis or buses are available to reach Kausani.
 *   **By Rail:** Kathgodam Railway Station (approx. 140 km away) is the nearest railway station. From Kathgodam, taxis and buses are available to Kausani.
-*   **By Road:** Kausani is well-connected by road. Buses and taxis are readily available from major cities like Delhi (400 km), Dehradun, and Nainital. The drive to Kausani is scenic, but road conditions can vary. <image placeholder="Image of road to Kausani">
+*   **By Road:** Kausani is well-connected by road. Buses and taxis are readily available from major cities like Delhi (400 km), Dehradun, and Nainital. The drive to Kausani is scenic, but road conditions can vary. 
 
 ### **Accommodation Options**
 

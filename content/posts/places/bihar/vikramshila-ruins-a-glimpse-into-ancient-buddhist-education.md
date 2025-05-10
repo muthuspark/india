@@ -24,13 +24,13 @@ Vikramshila University was founded by King Dharmapala, a ruler of the Pala dynas
 
 The site's cultural heritage is deeply rooted in Buddhism, particularly the Vajrayana school. The intricate sculptures, artwork, and architectural designs found at the ruins are representative of the artistic and spiritual expressions of the Pala period. The university was eventually destroyed in the 13th century, possibly during the invasion of Bakhtiyar Khilji. Despite its destruction, Vikramshila has left an indelible mark on the history of education, scholarship, and religious exchange, especially in the spread of Buddhism to Tibet. The remains of the university, with its central stupa, cells, and other structures, are of significant historical importance and offer insights into the life, rituals, and academic pursuits of the people who lived and studied there.
 
-<img src="placeholder_image_Vikramshila_Ruins_historical_landmark.jpg" alt="Vikramshila Ruins - A view of the excavated structures of the university" width="600">
+
 
 ### **Natural Beauty**
 
 The ruins of Vikramshila University are situated within the fertile plains of the Ganges River basin. The surrounding landscape is characterized by vast agricultural fields, interspersed with small villages and waterways. The area experiences a humid subtropical climate. The Ganges River, once a vital lifeline for the university, offers a scenic backdrop to the site. The best viewpoints are within the excavated areas themselves, offering a panorama of the ancient structures against the backdrop of the rural landscape. The site itself doesn't have extensive parks or reserves, but the general rural environment offers a tranquil and natural setting. The serenity of the area contrasts with the bustling towns and cities, creating a peaceful atmosphere for visitors.
 
-<img src="placeholder_image_Vikramshila_Ruins_natural_landscape.jpg" alt="Vikramshila Ruins - Scenic view of the surrounding landscape." width="600">
+
 
 ### **Must-Visit Attractions**
 
@@ -64,7 +64,7 @@ The local cuisine mainly comprises of Bihari dishes. Some popular options includ
 *   **Dal Pitha:** Steamed rice cake served with lentil stew.
 *   **Street Food:** Simple food from roadside stalls is available.
 
-<img src="placeholder_image_Vikramshila_Ruins_local_food.jpg" alt="Vikramshila Ruins - Local food" width="600">
+
 
 ### **Flora and Fauna**
 

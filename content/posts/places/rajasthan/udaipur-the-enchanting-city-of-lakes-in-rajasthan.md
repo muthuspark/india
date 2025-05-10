@@ -24,20 +24,20 @@ Udaipur boasts a rich history dating back to 1559 when Maharana Udai Singh II fo
 
 The cultural heritage of Udaipur is deeply rooted in Rajput traditions. Festivals are celebrated with vibrant colors, music, and dance. The Gangaur festival, a significant event dedicated to Goddess Gauri, showcases the local culture with processions and traditional performances. The annual Mewar Festival also brings the city to life with cultural programs and celebrations that coincide with the festival of Holi.
 
-The City Palace, a majestic complex overlooking Lake Pichola, stands as a testament to Mewar's rich history. <placeholder image tag: City Palace, Udaipur> Other notable landmarks include Jag Mandir, Jagdish Temple, and the Saheliyon-ki-Bari (Garden of the Maidens), each echoing tales of the city's glorious past. The Shilpgram, a crafts village, displays the diversity of Rajasthani art and culture.
+The City Palace, a majestic complex overlooking Lake Pichola, stands as a testament to Mewar's rich history.  Other notable landmarks include Jag Mandir, Jagdish Temple, and the Saheliyon-ki-Bari (Garden of the Maidens), each echoing tales of the city's glorious past. The Shilpgram, a crafts village, displays the diversity of Rajasthani art and culture.
 
 ### **Natural Beauty**
 
 Udaipur's beauty is defined by its stunning natural landscapes. The city's most iconic feature is its network of interconnected lakes, namely Lake Pichola, Fateh Sagar Lake, Udai Sagar Lake, and Bada Mahal. These lakes provide not only scenic beauty but also play a vital role in the city's water management.
 
-The Aravalli hills provide a stunning backdrop, offering panoramic views from various viewpoints. The Monsoon Palace (Sajjangarh Fort), perched atop a hill, provides an unparalleled view of the entire city and its lakes. <placeholder image tag: view from Sajjangarh Fort, Udaipur> The surrounding regions are covered with lush greenery, especially during and after the monsoon season. The wildlife sanctuary, Sajjangarh Wildlife Sanctuary, is also a great place for experiencing the nature around the city.
+The Aravalli hills provide a stunning backdrop, offering panoramic views from various viewpoints. The Monsoon Palace (Sajjangarh Fort), perched atop a hill, provides an unparalleled view of the entire city and its lakes.  The surrounding regions are covered with lush greenery, especially during and after the monsoon season. The wildlife sanctuary, Sajjangarh Wildlife Sanctuary, is also a great place for experiencing the nature around the city.
 
 ### **Must-Visit Attractions**
 
 Udaipur is a treasure trove of attractions, catering to various interests.
 
 *   **City Palace:** A majestic complex of palaces, courtyards, and museums overlooking Lake Pichola. It's a must-visit for its architectural grandeur.
-*   **Lake Pichola:** This iconic lake offers boat rides to islands like Jag Mandir and Lake Palace. <placeholder image tag: Boat ride on Lake Pichola, Udaipur>
+*   **Lake Pichola:** This iconic lake offers boat rides to islands like Jag Mandir and Lake Palace. 
 *   **Jag Mandir:** A palace located on an island in Lake Pichola, known for its stunning architecture and serene atmosphere.
 *   **Lake Palace (Taj Lake Palace):** A luxury hotel located in the middle of Lake Pichola. It is best viewed from a boat trip on the lake.
 *   **Jagdish Temple:** A beautiful temple dedicated to Lord Vishnu, known for its intricate carvings and architectural brilliance.
@@ -94,7 +94,7 @@ Recommendations:
 
 Udaipur's surrounding environment supports a diverse range of flora and fauna.
 
-*   **Sajjangarh Wildlife Sanctuary:** This sanctuary is home to various species of animals, including panthers, jackals, and a variety of bird species. <placeholder image tag: Sajjangarh Wildlife Sanctuary, Udaipur>
+*   **Sajjangarh Wildlife Sanctuary:** This sanctuary is home to various species of animals, including panthers, jackals, and a variety of bird species. 
 *   **Flora:** The region is characterized by the presence of deciduous forests, with species like dhok, salar, and teak.
 
 ### **Best Time to Visit**

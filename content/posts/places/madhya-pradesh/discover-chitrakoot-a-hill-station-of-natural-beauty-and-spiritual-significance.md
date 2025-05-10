@@ -18,38 +18,38 @@ tags:
 
 Chitrakoot, straddling the border between Uttar Pradesh and Madhya Pradesh, is a city steeped in mythology and history. Located in the Chitrakoot district of Madhya Pradesh, this sacred site is nestled amidst the Vindhya mountain range, offering a serene and spiritually rich experience. While the city itself is located in Madhya Pradesh, its significance and cultural influence extend across both states. Chitrakoot is known for its lush green hills, the sacred Mandakini River, and its deep connection to the Ramayana. It is a place where, according to legend, Lord Rama, his wife Sita, and his brother Lakshmana spent eleven and a half years of their exile. This association has made Chitrakoot a significant pilgrimage site for Hindus, attracting devotees and travelers alike.
 
-<img src="placeholder_chitrakoot_introduction.jpg" alt="Chitrakoot - Introduction" width="600">
+
 
 ### **History and Cultural Heritage**
 
 Chitrakoot's history is deeply intertwined with the epic Ramayana. According to the Valmiki Ramayana, Chitrakoot was chosen as the ideal abode for Rama due to its peaceful environment and abundance of resources. The place is mentioned frequently throughout the epic, marking significant events in Rama's exile. It’s believed that the great sage Atri and his wife Anasuya, who was known for her devotion and penance, resided in Chitrakoot. The impact of this religious and mythological background is profoundly felt throughout the region. The area is dotted with temples, ashrams, and ghats, each echoing stories of the Ramayana. The cultural heritage is primarily Hindu, with festivals and traditions celebrating Rama, Sita, Lakshmana, and Hanuman. The local culture embodies simplicity and devotion, reflecting the serene atmosphere of the region.
 
-<img src="placeholder_chitrakoot_history_cultural_heritage.jpg" alt="Chitrakoot - History and Cultural Heritage" width="600">
+
 
 ### **Natural Beauty**
 
 Chitrakoot's natural beauty is a major draw for visitors. The landscape is characterized by the picturesque Vindhya hills, the life-giving Mandakini River (also known as the Payasvini River) that flows through the heart of the town, and lush greenery. The numerous ghats along the riverbanks offer stunning views, especially during sunrise and sunset. The hills are a popular spot for trekking and exploring the numerous caves and rock formations. The forests surrounding Chitrakoot support a rich biodiversity, with various species of flora and fauna. The region also experiences a pleasant climate during the winter months, making it an ideal time to explore the natural surroundings.
 
-<img src="placeholder_chitrakoot_natural_beauty.jpg" alt="Chitrakoot - Natural Beauty" width="600">
+
 
 ### **Must-Visit Attractions**
 
 Chitrakoot is dotted with places of religious and historical significance. Key attractions include:
 
 *   **Ramghat:** The main ghat on the Mandakini River where devotees take a holy dip. Boat rides are also popular here.
-    <img src="placeholder_ramghat.jpg" alt="Ramghat" width="600">
+    
 *   **Kamadgiri Parvat:** Considered a sacred hill, pilgrims circumambulate this hill as part of their worship.
-    <img src="placeholder_kamadgiri.jpg" alt="Kamadgiri" width="600">
+    
 *   **Bharat Koop:** Believed to be the place where Bharat, Rama's brother, collected soil from all the holy places to consecrate this well.
-    <img src="placeholder_bharat_koop.jpg" alt="Bharat Koop" width="600">
+    
 *   **Sati Anusuya Ashram:** The ashram of sage Atri and his wife Anasuya. It is believed that Sita spent time here during her exile and was blessed with divine powers.
-    <img src="placeholder_sati_anusuya_ashram.jpg" alt="Sati Anusuya Ashram" width="600">
+    
 *   **Sphatik Shila:** Rocks on the banks of the Mandakini River where it's believed that Rama and Sita sat and viewed the beauty of Chitrakoot.
-    <img src="placeholder_sphatik_shila.jpg" alt="Sphatik Shila" width="600">
+    
 *   **Gupt Godavari:** Two caves where it’s believed that Rama and Lakshmana held court.
-    <img src="placeholder_gupt_godavari.jpg" alt="Gupt Godavari" width="600">
+    
 *   **Hanuman Dhara:** A temple dedicated to Hanuman located on a hilltop, with a natural spring said to have been created by Lord Rama.
-    <img src="placeholder_hanuman_dhara.jpg" alt="Hanuman Dhara" width="600">
+    
 *   **Shabari Waterfall:** This beautiful waterfall is another attraction near Chitrakoot.
 
 ### **Adventure Activities**
@@ -83,7 +83,7 @@ The area around Chitrakoot boasts a diverse ecosystem, though formal wildlife re
 
 The ideal time to visit Chitrakoot is during the winter months, from October to March. The weather is pleasant, with temperatures ranging from 10°C to 25°C, making it perfect for sightseeing and outdoor activities. The monsoon season (July to September) also brings lush greenery, but travel may be affected by heavy rainfall.
 
-<img src="placeholder_best_time_to_visit.jpg" alt="Best Time to Visit" width="600">
+
 
 ### **How to Reach**
 

@@ -25,21 +25,21 @@ The history of Jalori Pass is intertwined with the broader history of the Kullu 
 ###  **Natural Beauty**
 
 Jalori Pass is a paradise for nature lovers, offering unparalleled views of the majestic Himalayan range. The landscape is characterized by lush green forests of deodar, oak, and rhododendron trees. The pass itself offers panoramic views of snow-capped peaks, verdant valleys, and deep gorges.  The drive up to Jalori Pass is an experience in itself, winding through stunning landscapes.
-<img src="placeholder_image_jalori_pass_natural_beauty.jpg" alt="Jalori Pass Natural Beauty">
+
 
 Specific viewpoints offer breathtaking scenes. From the top of the pass, the surrounding valleys unveil, revealing dramatic changes in scenery with the seasons.  The air is pure, and the silence is often broken only by the sounds of nature – the rustling of leaves, the chirping of birds, and the gurgling of streams. The area is a part of a greater ecosystem, showcasing the diverse flora and fauna of the region, contributing to a vibrant and healthy environment.
 
 ### **Must-Visit Attractions**
 
 The most popular attraction near Jalori Pass is undoubtedly Serolsar Lake.
-<img src="placeholder_image_serolsar_lake.jpg" alt="Serolsar Lake">
+
 
 Located a short trek away, this pristine alpine lake is surrounded by lush forests and is considered sacred by the local people. The temple beside the lake is dedicated to the local deity, and visiting it provides a glimpse into the local religious beliefs. Other nearby attractions include the quaint village of Shoja, known for its peaceful ambiance and beautiful views. The historic fort of Raghupur Fort also is a must-visit, offering a glimpse into the region's history and architecture.
 
 ### **Adventure Activities**
 
 Jalori Pass is a haven for adventure enthusiasts. The most popular activity is trekking. Several trekking routes originate from Jalori Pass, leading to destinations like Serolsar Lake, Raghupur Fort, and even longer treks towards the other valleys.  These treks range from easy to moderate, catering to both beginners and experienced trekkers.
-<img src="placeholder_image_trekking_jalori_pass.jpg" alt="Trekking at Jalori Pass">
+
 
 Camping is another popular adventure, with options for both organized campsites and self-planned adventures. The area also offers opportunities for nature walks, bird-watching, and photography, with its abundant wildlife. The rugged terrain and challenging routes provide a perfect setting for adventure, allowing visitors to connect with nature.
 
@@ -50,21 +50,21 @@ While Jalori Pass itself doesn't have a traditional market, the nearby villages 
 ### **Food and Cuisine**
 
 The local cuisine reflects the flavors of the Kullu region, with a focus on fresh, locally sourced ingredients. Traditional dishes include Siddu, a steamed wheat bread, and Dham, a festive thali usually served during celebrations.  Other popular dishes include various types of dals (lentils), vegetable curries, and rice.
-<img src="placeholder_image_local_food_jalori_pass.jpg" alt="Local Cuisine Jalori Pass">
+
 
 Street food options are limited at Jalori Pass but available near Shoja and in Banjar. One can find small dhabas (roadside eateries) serving simple yet flavorful meals. Travelers should try the local tea and snacks to savor the distinct flavors of the region.
 
 ### **Flora and Fauna**
 
 The area around Jalori Pass is rich in biodiversity. The forests are home to a variety of trees, including deodar, oak, pine, and rhododendron. The region supports a wide range of fauna, including the elusive Himalayan Monal (state bird of Himachal Pradesh), various other bird species, and mammals.
-<img src="placeholder_image_flora_fauna_jalori_pass.jpg" alt="Flora and Fauna at Jalori Pass">
+
 
 While there are no formal national parks or wildlife reserves in the immediate vicinity, the area is a habitat for various species. Birdwatchers can spot numerous species, and the area's forests and meadows are ideal for wildlife observation.
 
 ### **Best Time to Visit**
 
 The best time to visit Jalori Pass is during the summer months, from March to June, and the post-monsoon period, from September to November. During these periods, the weather is pleasant, the skies are clear, and the views are at their best.
-<img src="placeholder_image_best_time_to_visit_jalori_pass.jpg" alt="Best time to visit Jalori Pass">
+
 
 The monsoon season (July-August) can bring heavy rainfall, making the roads difficult to navigate. The winter months (December-February) can be very cold, with the pass often closed due to heavy snowfall. However, the snow-covered landscape during winter offers a different kind of beauty.
 
@@ -75,7 +75,7 @@ Jalori Pass is accessible by road. The nearest airport is Bhuntar Airport (Kullu
 ### **Accommodation Options**
 
 Accommodation options near Jalori Pass range from budget-friendly guesthouses to comfortable homestays and eco-lodges. In Shoja and Banjar, you can find various hotels and guesthouses catering to different budgets.
-<img src="placeholder_image_accommodation_jalori_pass.jpg" alt="Accommodation Options Jalori Pass">
+
 
 Camping is also popular, with several campsites offering basic amenities. For a more immersive experience, consider staying in a homestay to interact with the local families and experience their way of life. Luxury resorts are not available in the immediate area, keeping it a more offbeat, nature-focused experience.
 

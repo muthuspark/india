@@ -21,15 +21,15 @@ Kolli Hills, also known as Kolli Malai, is a verdant mountain range located in t
 
 ### **History and Cultural Heritage**
 
-The history of Kolli Hills is steeped in mystery and folklore. The region is believed to have been ruled by various dynasties, including the Cheras and the Cholas. The name "Kolli Malai" is often associated with the deity, Kolli Paavai, a local guardian goddess considered by some to be the embodiment of beauty and destruction. Legends depict her as a formidable protector of the hills, with tales of her warding off evil and safeguarding the locals. <img src="[PLACEHOLDER IMAGE: An image of a local temple, perhaps the Arapaleeswarar Temple, depicting traditional architecture.]" alt="Local Temple"> The Arapaleeswarar Temple, dedicated to Lord Shiva, is the most prominent religious site, dating back to the 1st century AD and reflecting ancient Dravidian architectural styles. The indigenous tribal communities, known as Malayalis, have lived in these hills for centuries, preserving their unique traditions, customs, and language. Their festivals and rituals are integral to the cultural fabric of Kolli Hills.
+The history of Kolli Hills is steeped in mystery and folklore. The region is believed to have been ruled by various dynasties, including the Cheras and the Cholas. The name "Kolli Malai" is often associated with the deity, Kolli Paavai, a local guardian goddess considered by some to be the embodiment of beauty and destruction. Legends depict her as a formidable protector of the hills, with tales of her warding off evil and safeguarding the locals.  The Arapaleeswarar Temple, dedicated to Lord Shiva, is the most prominent religious site, dating back to the 1st century AD and reflecting ancient Dravidian architectural styles. The indigenous tribal communities, known as Malayalis, have lived in these hills for centuries, preserving their unique traditions, customs, and language. Their festivals and rituals are integral to the cultural fabric of Kolli Hills.
 
 ### **Natural Beauty**
 
-Kolli Hills is a visual treat for nature lovers. The landscape is dominated by dense forests, waterfalls, and undulating hills covered in a carpet of green. The region receives plentiful rainfall, resulting in a lush ecosystem teeming with biodiversity. <img src="[PLACEHOLDER IMAGE: A panoramic view of the Kolli Hills landscape, showcasing the green hills and valleys.]" alt="Kolli Hills Landscape"> The viewpoints provide stunning panoramic views of the surrounding valleys and plains. Some of the best viewpoints include the Seekuparai Viewpoint, which offers a breathtaking view of the surrounding valleys, and the Agaya Gangai waterfalls are also a spectacular attraction. The forests are home to a variety of flora, including sandalwood trees, medicinal herbs, and a plethora of flowering plants.
+Kolli Hills is a visual treat for nature lovers. The landscape is dominated by dense forests, waterfalls, and undulating hills covered in a carpet of green. The region receives plentiful rainfall, resulting in a lush ecosystem teeming with biodiversity.  The viewpoints provide stunning panoramic views of the surrounding valleys and plains. Some of the best viewpoints include the Seekuparai Viewpoint, which offers a breathtaking view of the surrounding valleys, and the Agaya Gangai waterfalls are also a spectacular attraction. The forests are home to a variety of flora, including sandalwood trees, medicinal herbs, and a plethora of flowering plants.
 
 ### **Must-Visit Attractions**
 
-*   **Arapaleeswarar Temple:** A historically significant temple dedicated to Lord Shiva. <img src="[PLACEHOLDER IMAGE: Close up of the Arapaleeswarar Temple, focusing on architectural details.]" alt="Arapaleeswarar Temple Details">
+*   **Arapaleeswarar Temple:** A historically significant temple dedicated to Lord Shiva. 
 *   **Agaya Gangai Waterfalls:** A stunning waterfall cascading down from a height of approximately 300 feet. The trek down to the falls is an adventure in itself.
 *   **Seekuparai Viewpoint:** Offers panoramic views of the hills and valleys, providing an excellent spot for photography and enjoying the natural beauty.
 *   **Botanical Garden:** A well-maintained garden showcasing a variety of plant species.
@@ -47,7 +47,7 @@ Kolli Hills offers a variety of adventure activities for thrill-seekers.
 
 ### **Local Markets and Handicrafts**
 
-Although Kolli Hills is not known for extensive commercial markets, it's possible to find local handicrafts and products. <img src="[PLACEHOLDER IMAGE: An image of local handicrafts or products available in Kolli Hills, possibly at a local market.]" alt="Local Handicrafts"> You might come across stalls selling hand-woven textiles, local spices, honey, and other forest produce. Support the local economy by purchasing these items as souvenirs.
+Although Kolli Hills is not known for extensive commercial markets, it's possible to find local handicrafts and products.  You might come across stalls selling hand-woven textiles, local spices, honey, and other forest produce. Support the local economy by purchasing these items as souvenirs.
 
 ### **Food and Cuisine**
 

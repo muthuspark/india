@@ -23,14 +23,14 @@ Raigad Fort is inextricably linked to the Maratha warrior king, Chhatrapati Shiv
 
 The cultural significance of Raigad Fort is deeply rooted in the Maratha heritage. The fort's architecture reflects the ingenuity of the Maratha engineers, designed to withstand attacks and provide a secure base. The ruins of the fort hold the echoes of the Maratha court, the military strategies, and the everyday lives of the people who lived within its walls. The Samadhi (memorial) of Shivaji Maharaj and his loyal dog, Waghya, within the fort compound, is a place of reverence and pilgrimage for many, serving as a symbol of loyalty and devotion. The fort also witnesses annual festivals and commemorations, celebrating Shivaji Maharaj's legacy and Maratha history.
 <br>
-<img src = "placeholder_image_raigad_fort_history.jpg" alt="Raigad Fort Historical Landmark" style = "width: 600px; height: 400px;">
+
 
 ### **Natural Beauty**
 
 Raigad Fort is a feast for the eyes, surrounded by the rugged beauty of the Sahyadri mountain range. The fort is perched atop a steep hill, offering stunning panoramic views of the valleys, hills, and forests that stretch out below. The rugged terrain and lush greenery create a captivating landscape, especially during the monsoon season when the entire area is enveloped in a misty veil.
 The climb to the fort, either via steps or the ropeway, offers glimpses of the natural beauty, including waterfalls cascading down the hillsides during the monsoon. The fort itself provides viewpoints where visitors can experience the best views of the surrounding regions, showcasing the vastness and grandeur of the natural environment. The fort isn't directly situated within a park or reserve, but its location within the mountain range places it amid a diverse ecosystem, adding to its natural charm.
 <br>
-<img src = "placeholder_image_raigad_fort_natural_beauty.jpg" alt="Raigad Fort Panoramic view" style = "width: 600px; height: 400px;">
+
 
 ### **Must-Visit Attractions**
 
@@ -47,7 +47,7 @@ The primary attraction within Raigad Fort is, undoubtedly, its historical landma
 *   **Market Area Remains:** You can visit the remains of the old market area, which was once a bustling center.
 
 <br>
-<img src = "placeholder_image_raigad_fort_attractions.jpg" alt="Raigad Fort Must-Visit Attractions" style = "width: 600px; height: 400px;">
+
 
 ### **Adventure Activities**
 
@@ -127,6 +127,6 @@ For travelers seeking offbeat experiences, the Raigad region offers several alte
 
 Raigad Fort is far more than just an ancient structure; it is a living testament to the valor, vision, and strategic genius of Chhatrapati Shivaji Maharaj and the Maratha Empire. Its historical significance, breathtaking natural beauty, and the sense of pride it evokes make it a must-visit destination for anyone seeking a journey through India's rich history. From the majestic panoramic views from the fort to the reverence of Shivaji Maharaj’s Samadhi, a visit to Raigad Fort promises a truly memorable and enriching experience. Explore the beauty, history, and culture of this magnificent fort, and leave with a deeper appreciation for the legacy of the Maratha Empire.
 <br>
-<img src = "placeholder_image_raigad_fort_conclusion.jpg" alt="Raigad Fort Aerial view" style = "width: 600px; height: 400px;">
+
 
 

@@ -23,7 +23,7 @@ Lamayuru Monastery, a captivating gem in the heart of Ladakh, India, is a testam
 
 The Lamayuru Monastery, also known as Yungdrung Gompa (meaning "eternal monastery"), boasts a history that stretches back over a millennium. According to local legends, the area was once a lake.  The Indian Buddhist scholar Naropa is said to have meditated here, leading to the lake's gradual disappearance and the emergence of the unique moon-like landscape.  The monastery itself is believed to have been founded in the 11th century by Rinchen Zangpo, a renowned translator and Buddhist scholar. The monastery originally housed 300 monks, but over time this number has dwindled, although the monastery still retains its spiritual importance.
 
-<img src="placeholder_image_lamayuru_history.jpg" alt="Lamayuru Monastery Historical Image">
+
 
 The monastery belongs to the Drikung Kagyu school of Tibetan Buddhism.  It houses several temples (Lakhang) and chapels which are adorned with elaborate murals, intricate carvings, and statues of various deities.  The most important temples include the main assembly hall (Du-khang), a temple dedicated to Avalokitesvara, and a temple housing the image of Vajrabhairava.  Lamayuru hosts an annual two-day festival called the *Yuru Kabgyat* festival, which features masked dances, known as *cham dances*, performed by monks. These dances depict various deities and aim to ward off evil spirits.  The festival is a vibrant showcase of Buddhist culture and draws many visitors.
 
@@ -31,7 +31,7 @@ The monastery belongs to the Drikung Kagyu school of Tibetan Buddhism.  It house
 
 The landscape surrounding Lamayuru Monastery is nothing short of extraordinary. The "Moonland" moniker perfectly describes the terrain, characterized by eroded hills and valleys that resemble the surface of the moon. This unique geological phenomenon is due to the sedimentary rock formations which have been sculpted over millennia by wind and water erosion.
 
-<img src="placeholder_image_moonland.jpg" alt="Moonland Landscape Image">
+
 
 The panoramic vistas are simply breathtaking, offering endless photo opportunities. The changing light throughout the day transforms the colors and textures of the landscape, adding to the otherworldly feel.  The best viewpoints are found from the monastery itself and from vantage points on the surrounding hills.  Hiking in the surrounding areas offers a chance to experience the beauty firsthand. The monastery also sits near the confluence of the Indus and Zanskar rivers, adding to the area’s geographical diversity.
 
@@ -39,7 +39,7 @@ The panoramic vistas are simply breathtaking, offering endless photo opportuniti
 
 The primary attraction in Lamayuru is, of course, the Lamayuru Monastery itself. Exploring the monastery complex is a captivating experience.
 
-<img src="placeholder_image_monastery_attractions.jpg" alt="Lamayuru Monastery Complex Image">
+
 
 **Within the Monastery:**
 *   **Main Assembly Hall (Du-khang):** Admire the elaborate murals and statues.
@@ -79,7 +79,7 @@ Lamayuru, being a small village, offers limited dining options. However, you can
 *   **Thenthuk:** A hand-pulled noodle soup, similar to Thukpa.
 *   **Local Barley Beer (Chang):** A traditional alcoholic beverage (available in limited places).
 
-<img src="placeholder_image_lamayuru_food.jpg" alt="Lamayuru Food Image">
+
 
 Restaurants near the monastery often offer simple meals. It's advisable to carry some snacks and water, especially if you're planning to explore the surrounding areas.
 
@@ -109,7 +109,7 @@ The winter months (October to April) are very cold, with heavy snowfall, making 
     *   **From Leh:** The distance is approximately 127 km, and the drive takes about 3-4 hours. The road is part of the Leh-Srinagar highway.
     *   **From Srinagar:** You can travel to Lamayuru from Srinagar, which involves crossing the Zoji La Pass. The road journey is long (around 400 km) and may take over 10 hours, depending on road conditions.
 
-<img src="placeholder_image_lamayuru_road.jpg" alt="Lamayuru Road Image">
+
 
 Shared taxis and private taxis are available from both Leh and Srinagar.
 

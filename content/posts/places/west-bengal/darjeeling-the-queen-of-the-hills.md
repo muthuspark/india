@@ -15,19 +15,19 @@ tags:
 
 ### **Introduction**
 
-Darjeeling, a town nestled in the northern reaches of West Bengal, India, is a jewel of the Eastern Himalayas. Renowned globally for its tea industry, stunning natural beauty, and vibrant cultural tapestry, Darjeeling sits at an average elevation of 6,700 feet (2,042 meters), offering breathtaking views of the snow-capped Kanchenjunga, the world's third-highest peak. Located in the Darjeeling Himalayan region, it is approximately 65 kilometers (40 miles) from Siliguri, the nearest major transportation hub. The town's unique blend of British colonial heritage, Tibetan Buddhist influences, and the indigenous Lepcha culture makes it a captivating destination for travelers seeking both adventure and tranquility. <img src="placeholder_image_darjeeling_introduction.jpg" alt="Darjeeling Introduction Image">
+Darjeeling, a town nestled in the northern reaches of West Bengal, India, is a jewel of the Eastern Himalayas. Renowned globally for its tea industry, stunning natural beauty, and vibrant cultural tapestry, Darjeeling sits at an average elevation of 6,700 feet (2,042 meters), offering breathtaking views of the snow-capped Kanchenjunga, the world's third-highest peak. Located in the Darjeeling Himalayan region, it is approximately 65 kilometers (40 miles) from Siliguri, the nearest major transportation hub. The town's unique blend of British colonial heritage, Tibetan Buddhist influences, and the indigenous Lepcha culture makes it a captivating destination for travelers seeking both adventure and tranquility. 
 
 ### **History and Cultural Heritage**
 
 Darjeeling's history is relatively recent. Before the British arrived, the area was part of the Kingdom of Sikkim and had a sparse population. In 1780, the Gorkhas of Nepal invaded and annexed Darjeeling. However, the British East India Company recognized the strategic importance of the region and leased Darjeeling from the Chogyal of Sikkim in 1835. The British quickly developed Darjeeling into a sanatorium and hill station, attracted by its cool climate and scenic beauty. Tea plantations were established in the mid-19th century, which soon became the region's economic backbone, transforming the landscape and the lives of its people.
 
-The cultural heritage of Darjeeling is a rich mosaic. The indigenous Lepcha people were the original inhabitants, followed by significant Nepali and Tibetan communities who arrived over time. This mix has led to a vibrant blend of traditions, languages, and religions. Festivals are celebrated with great enthusiasm, including the Tibetan Losar (New Year), the Nepali Dasain and Tihar, and various Buddhist celebrations. Darjeeling also boasts a significant number of monasteries, including the Ghoom Monastery, one of the oldest in the region, reflecting the strong influence of Tibetan Buddhism. Historical landmarks such as the Chowrasta, a central square and meeting point, and colonial-era buildings are tangible reminders of its fascinating past. <img src="placeholder_image_darjeeling_history.jpg" alt="Darjeeling History Image">
+The cultural heritage of Darjeeling is a rich mosaic. The indigenous Lepcha people were the original inhabitants, followed by significant Nepali and Tibetan communities who arrived over time. This mix has led to a vibrant blend of traditions, languages, and religions. Festivals are celebrated with great enthusiasm, including the Tibetan Losar (New Year), the Nepali Dasain and Tihar, and various Buddhist celebrations. Darjeeling also boasts a significant number of monasteries, including the Ghoom Monastery, one of the oldest in the region, reflecting the strong influence of Tibetan Buddhism. Historical landmarks such as the Chowrasta, a central square and meeting point, and colonial-era buildings are tangible reminders of its fascinating past. 
 
 ### **Natural Beauty**
 
 Darjeeling’s natural beauty is legendary. The landscape is dominated by rolling hills, lush green tea gardens cascading down the slopes, and dense forests. The panoramic views of the snow-capped Kanchenjunga are the town’s main attraction, particularly during sunrise from Tiger Hill. Other scenic viewpoints offer stunning vistas of the surrounding valleys and the Teesta River.
 
-The region is endowed with a diverse ecosystem. The Singalila National Park, at a higher altitude, offers spectacular trekking opportunities and is home to the red panda, the Himalayan black bear, and various bird species. The Barsey Rhododendron Sanctuary, known for its vibrant rhododendrons, is another natural treasure. The cascading waterfalls and gurgling streams add to the region’s charm, making it an ideal destination for nature lovers and photographers. <img src="placeholder_image_darjeeling_natural_beauty.jpg" alt="Darjeeling Natural Beauty Image">
+The region is endowed with a diverse ecosystem. The Singalila National Park, at a higher altitude, offers spectacular trekking opportunities and is home to the red panda, the Himalayan black bear, and various bird species. The Barsey Rhododendron Sanctuary, known for its vibrant rhododendrons, is another natural treasure. The cascading waterfalls and gurgling streams add to the region’s charm, making it an ideal destination for nature lovers and photographers. 
 
 ### **Must-Visit Attractions**
 
@@ -35,7 +35,7 @@ Darjeeling offers a plethora of attractions to explore:
 
 *   **Tiger Hill:** Famous for its breathtaking sunrise views over Kanchenjunga.
 *   **Ghoom Monastery (Yiga Choeling Monastery):** One of the oldest Tibetan Buddhist monasteries in the area, featuring a massive Maitreya Buddha statue.
-*   **Batasia Loop:** A unique railway loop with a war memorial, offering panoramic views. <img src="placeholder_image_batasia_loop.jpg" alt="Batasia Loop Image">
+*   **Batasia Loop:** A unique railway loop with a war memorial, offering panoramic views. 
 *   **Darjeeling Himalayan Railway (Toy Train):** A UNESCO World Heritage Site, offering a scenic journey through the hills.
 *   **Padmaja Naidu Himalayan Zoological Park:** Home to rare Himalayan animals, including the red panda and snow leopard.
 *   **Happy Valley Tea Estate:** One of Darjeeling's oldest tea plantations, offering guided tours and tea tasting.

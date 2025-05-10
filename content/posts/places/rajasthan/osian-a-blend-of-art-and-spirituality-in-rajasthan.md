@@ -29,11 +29,11 @@ Osian is set against the backdrop of the vast, undulating Thar Desert. The lands
 
 Osian's primary draw is its collection of ancient temples. Here are some must-visit attractions:
 
-*   **Sachiya Mata Temple:** <img src="placeholder_image_sachiya_mata_temple.jpg" alt="Sachiya Mata Temple" width="500"> Dedicated to the goddess Sachiya, this temple complex offers stunning views of Osian. It's a marvel of intricate carvings.
-*   **Sun Temple:** <img src="placeholder_image_sun_temple_osian.jpg" alt="Sun Temple" width="500"> The oldest temple in Osian, this 8th-century structure is dedicated to the sun god, Surya. The temple architecture and intricate carvings will leave you mesmerized.
-*   **Mahavira Temple:** <img src="placeholder_image_mahavira_temple_osian.jpg" alt="Mahavira Temple" width="500"> This Jain temple, dating back to the 8th century, showcases intricate carvings and religious significance.
+*   **Sachiya Mata Temple:**  Dedicated to the goddess Sachiya, this temple complex offers stunning views of Osian. It's a marvel of intricate carvings.
+*   **Sun Temple:**  The oldest temple in Osian, this 8th-century structure is dedicated to the sun god, Surya. The temple architecture and intricate carvings will leave you mesmerized.
+*   **Mahavira Temple:**  This Jain temple, dating back to the 8th century, showcases intricate carvings and religious significance.
 *   **Harihara Temples:** These temples, dating back to the 8th century, are dedicated to both Vishnu (Hari) and Shiva (Hara), highlighting the syncretic nature of religious practices in the region.
-*   **Osian Sand Dunes:** <img src="placeholder_image_osian_sand_dunes.jpg" alt="Osian Sand Dunes" width="500"> A visit to the sand dunes is a must for an experience of the desert terrain.
+*   **Osian Sand Dunes:**  A visit to the sand dunes is a must for an experience of the desert terrain.
 
 ### **Adventure Activities**
 
@@ -87,7 +87,7 @@ Osian is relatively easy to reach:
 
 Osian offers a range of accommodation options:
 
-*   **Luxury Camps and Resorts:** For a luxurious stay, consider the many desert camps and resorts. <img src="placeholder_image_luxury_camp_osian.jpg" alt="Luxury Camp in Osian" width="500"> These offer comfortable tents or rooms and often include desert safari packages.
+*   **Luxury Camps and Resorts:** For a luxurious stay, consider the many desert camps and resorts.  These offer comfortable tents or rooms and often include desert safari packages.
 *   **Mid-Range Hotels:** These provide comfortable lodging with modern amenities.
 *   **Budget Hotels and Guesthouses:** These are available for travelers looking for affordable options.
 *   **Homestays:** Some guesthouses provide accommodation with options to stay.

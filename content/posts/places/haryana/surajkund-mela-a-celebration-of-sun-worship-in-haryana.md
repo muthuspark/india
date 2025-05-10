@@ -15,7 +15,7 @@ tags:
 
 ### **Introduction**
 
-Surajkund Mela, an annual crafts fair held in Surajkund, Haryana, is a vibrant celebration of Indian culture, handicrafts, and traditions. Located in the Faridabad district of Haryana, it is a short distance from Delhi, making it easily accessible for both domestic and international tourists. <img src="placeholder_image_surajkund_mela_overview.jpg" alt="Surajkund Mela Overview"> The mela (fair) is unique in its focus on showcasing the rich tapestry of Indian arts, crafts, and textiles, attracting artisans and craftspeople from all over India and even other countries. It's a dynamic and colorful experience offering a glimpse into the diverse heritage of India.
+Surajkund Mela, an annual crafts fair held in Surajkund, Haryana, is a vibrant celebration of Indian culture, handicrafts, and traditions. Located in the Faridabad district of Haryana, it is a short distance from Delhi, making it easily accessible for both domestic and international tourists.  The mela (fair) is unique in its focus on showcasing the rich tapestry of Indian arts, crafts, and textiles, attracting artisans and craftspeople from all over India and even other countries. It's a dynamic and colorful experience offering a glimpse into the diverse heritage of India.
 
 ### **History and Cultural Heritage**
 
@@ -23,11 +23,11 @@ The Surajkund Mela has been held annually since 1987. Its primary objective is t
 
 ### **Natural Beauty**
 
-The Surajkund area is nestled in the Aravalli hills, providing a picturesque backdrop to the fair. <img src="placeholder_image_surajkund_hills.jpg" alt="Surajkund Hills Backdrop"> The hills offer a rugged landscape with a semi-arid climate. While the immediate fairground is primarily a man-made expanse, the surrounding hills offer opportunities for scenic drives and glimpses of natural beauty. The nearby Asola-Bhatti Wildlife Sanctuary provides a haven for various bird species, making it an attractive option for nature enthusiasts and birdwatchers who wish to extend their visit beyond the mela.
+The Surajkund area is nestled in the Aravalli hills, providing a picturesque backdrop to the fair.  The hills offer a rugged landscape with a semi-arid climate. While the immediate fairground is primarily a man-made expanse, the surrounding hills offer opportunities for scenic drives and glimpses of natural beauty. The nearby Asola-Bhatti Wildlife Sanctuary provides a haven for various bird species, making it an attractive option for nature enthusiasts and birdwatchers who wish to extend their visit beyond the mela.
 
 ### **Must-Visit Attractions**
 
-The main attraction is undoubtedly the **Surajkund Mela** itself. <img src="placeholder_image_mela_stall.jpg" alt="Mela Stall"> Visitors can immerse themselves in the vibrant atmosphere, exploring numerous stalls that showcase handcrafted items from across India. These include textiles, pottery, woodcraft, metalwork, jewellery, and traditional clothing. Beyond the Mela, the **Surajkund reservoir**, a historical monument believed to have been built by King Suraj Pal of the Tomar dynasty in the 10th century, is a must-visit. The semi-circular amphitheater-shaped reservoir is a testament to ancient engineering and architectural skill. The area near the reservoir often hosts cultural performances and events during the Mela.
+The main attraction is undoubtedly the **Surajkund Mela** itself.  Visitors can immerse themselves in the vibrant atmosphere, exploring numerous stalls that showcase handcrafted items from across India. These include textiles, pottery, woodcraft, metalwork, jewellery, and traditional clothing. Beyond the Mela, the **Surajkund reservoir**, a historical monument believed to have been built by King Suraj Pal of the Tomar dynasty in the 10th century, is a must-visit. The semi-circular amphitheater-shaped reservoir is a testament to ancient engineering and architectural skill. The area near the reservoir often hosts cultural performances and events during the Mela.
 
 ### **Adventure Activities**
 
@@ -35,11 +35,11 @@ While the primary focus of Surajkund is on culture and crafts, the proximity to 
 
 ### **Local Markets and Handicrafts**
 
-The entire Surajkund Mela is essentially a massive market dedicated to handicrafts. Visitors can find a vast array of products, from intricately designed textiles, including handloom sarees and embroidered fabrics, to exquisite pottery and terracotta items. <img src="placeholder_image_handicrafts.jpg" alt="Handicrafts"> Wooden toys, furniture, and decorative items, along with metalwork, including brass and copper items, are also prominently displayed. The "Theme State" and "Partner Nation" pavilions offer a focused opportunity to explore the crafts and textiles unique to those regions or countries.
+The entire Surajkund Mela is essentially a massive market dedicated to handicrafts. Visitors can find a vast array of products, from intricately designed textiles, including handloom sarees and embroidered fabrics, to exquisite pottery and terracotta items.  Wooden toys, furniture, and decorative items, along with metalwork, including brass and copper items, are also prominently displayed. The "Theme State" and "Partner Nation" pavilions offer a focused opportunity to explore the crafts and textiles unique to those regions or countries.
 
 ### **Food and Cuisine**
 
-The Surajkund Mela is a haven for food lovers, offering a wide variety of regional Indian cuisines. Food stalls and restaurants serve traditional dishes from various states of India, allowing visitors to embark on a culinary journey. From Rajasthani dal baati churma and Bihari litti chokha to Punjabi parathas and South Indian idli-dosa, there's something for every palate. <img src="placeholder_image_food_stall.jpg" alt="Food Stall"> Street food like chaat, golgappe, and jalebis add to the festive ambiance. The food stalls are a major draw, creating a lively and flavorful atmosphere.
+The Surajkund Mela is a haven for food lovers, offering a wide variety of regional Indian cuisines. Food stalls and restaurants serve traditional dishes from various states of India, allowing visitors to embark on a culinary journey. From Rajasthani dal baati churma and Bihari litti chokha to Punjabi parathas and South Indian idli-dosa, there's something for every palate.  Street food like chaat, golgappe, and jalebis add to the festive ambiance. The food stalls are a major draw, creating a lively and flavorful atmosphere.
 
 ### **Flora and Fauna**
 
@@ -51,7 +51,7 @@ The Surajkund Mela is held annually, typically in the first two weeks of Februar
 
 ### **How to Reach**
 
-Surajkund is well-connected to major cities. The nearest airport is the Indira Gandhi International Airport (DEL) in Delhi, which is approximately 30-40 kilometers away. The nearest railway station is Faridabad Railway Station, which is located approximately 8 kilometers from Surajkund. <img src="placeholder_image_travel.jpg" alt="Travel"> The location is easily accessible by road via the Delhi-Mathura Road (NH-19). Regular bus services and taxis are available from Delhi and nearby cities like Gurgaon and Noida.
+Surajkund is well-connected to major cities. The nearest airport is the Indira Gandhi International Airport (DEL) in Delhi, which is approximately 30-40 kilometers away. The nearest railway station is Faridabad Railway Station, which is located approximately 8 kilometers from Surajkund.  The location is easily accessible by road via the Delhi-Mathura Road (NH-19). Regular bus services and taxis are available from Delhi and nearby cities like Gurgaon and Noida.
 
 ### **Accommodation Options**
 

@@ -24,7 +24,7 @@ Keylong has a rich cultural heritage deeply rooted in Tibetan Buddhism. Historic
 
 The prominent monasteries, like Kardang Monastery, are significant historical landmarks. These monasteries house ancient scriptures, intricate murals, and statues of Buddha and various deities. The annual Losar festival, marking the Tibetan New Year, and the Galdan Namchot festival are major cultural celebrations that showcase the vibrant colors, music, and dance of the region. The local architecture reflects the traditional Tibetan style, with houses constructed of mud and stone, often adorned with prayer flags and intricate carvings.
 
-<img src="placeholder_image_Kardang_Monastery.jpg" alt="Kardang Monastery">
+
 
 ### **Natural Beauty**
 
@@ -36,7 +36,7 @@ The Chandra River, a major tributary of the Chenab River, flows through the vall
 
 *   **Kardang Monastery:** The largest and most important monastery in the Lahaul Valley, Kardang Monastery is a significant center of Buddhist learning. It houses ancient texts, Thangkas (religious paintings), and statues of Buddha and various deities. Its architecture and peaceful ambiance make it a must-visit.
 
-<img src="placeholder_image_Keylong_Monastery.jpg" alt="Keylong Monastery">
+
 
 *   **Shashur Monastery:** Located a short distance from Keylong, Shashur Monastery is known for its intricate Thangka paintings and vibrant colors. The monastery offers a glimpse into the rich Buddhist art and culture of the region.
 

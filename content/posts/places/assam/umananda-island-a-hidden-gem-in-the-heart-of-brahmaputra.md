@@ -27,7 +27,7 @@ The Umananda Temple, believed to have been built by the Ahom king Gadadhar Singh
 
 Umananda Island presents a picturesque landscape, even though it is relatively small in size. The mighty Brahmaputra River surrounds the island, providing a stunning backdrop. The island's greenery, coupled with the gentle flow of the river and the backdrop of Guwahati city, offers a soothing ambiance.
 
-<img src="placeholder_image_umananda_natural_beauty.jpg" alt="Umananda Island: Natural Beauty" style="width: 600px;"/>
+
 
 The best views of the island can be enjoyed from the ferry as you approach, or from viewpoints along the Guwahati riverfront. The sunrise and sunset over the Brahmaputra offer particularly spectacular views. The river's changing hues add to the island's charm throughout the day.
 
@@ -35,7 +35,7 @@ The best views of the island can be enjoyed from the ferry as you approach, or f
 
 The primary attraction on Umananda Island is undoubtedly the **Umananda Temple**. This ancient temple is dedicated to Lord Shiva and features intricate carvings depicting various Hindu deities. Visitors can participate in the traditional rituals and seek blessings from the residing priests.
 
-<img src="placeholder_image_umananda_temple.jpg" alt="Umananda Temple" style="width: 600px;"/>
+
 
 Although small, the island also offers serene natural beauty. Walking around the island allows for a closer appreciation of its greenery, and it provides a unique perspective of Guwahati city. The tranquil atmosphere is a welcome respite from the urban bustle.
 
@@ -59,7 +59,7 @@ Visitors can explore the markets in Guwahati before or after their visit to the 
 
 While there are limited dining options directly on Umananda Island itself, a variety of food stalls and restaurants can be found near the ferry ghats in Guwahati. These establishments offer a taste of Assamese cuisine, known for its unique flavors and fresh ingredients.
 
-<img src="placeholder_image_assamese_cuisine.jpg" alt="Assamese Cuisine" style="width: 600px;"/>
+
 
 **Must-Try Dishes:**
 
@@ -72,7 +72,7 @@ While there are limited dining options directly on Umananda Island itself, a var
 
 Umananda Island, though small, does offer some biodiversity. The island is home to a number of Rhesus macaques (monkeys) who have adapted to the presence of humans, and visitors are often greeted by their playful antics. The monkeys are considered a part of the island's ecosystem.
 
-<img src="placeholder_image_umananda_monkey.jpg" alt="Umananda Monkey" style="width: 600px;"/>
+
 
 The surrounding river attracts various species of birds. Birdwatchers can look out for various local and migratory birds. The greenery of the island provides a suitable habitat for several plant species.
 

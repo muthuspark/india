@@ -17,7 +17,7 @@ tags:
 
 Ganga Aarti at Har Ki Pauri, Haridwar, Uttarakhand, is a profoundly spiritual and visually stunning spectacle that draws millions of devotees and tourists annually. Located in the heart of Haridwar, a city considered one of the holiest places in Hinduism, Har Ki Pauri translates to "footsteps of Lord Hari" (Vishnu). The site is nestled along the banks of the sacred Ganges River, where the river descends from the Himalayas and enters the plains. Har Ki Pauri is positioned at an elevation of approximately 294 meters (965 feet) above sea level. It lies in close proximity to other significant pilgrimage sites and tourist destinations within Uttarakhand, such as Rishikesh and Dehradun. This makes it a key hub for travelers exploring the region. The unique draw of Har Ki Pauri is the daily Ganga Aarti, a ritual of offering light to the river, accompanied by hymns and chanting, creating an atmosphere of intense devotion and ethereal beauty.
 
-<img src="placeholder_image_gange_aarti_har_ki_pauri.jpg" alt="Ganga Aarti at Har Ki Pauri">
+
 
 ### **History and Cultural Heritage**
 
@@ -31,7 +31,7 @@ Historical landmarks near Har Ki Pauri, such as the Mansa Devi Temple and Chandi
 
 Har Ki Pauri is not just a place of religious significance; it is also blessed with the natural beauty typical of the Himalayan foothills. The sacred Ganges River, in all its glory, is the dominant natural feature. Its clear waters, flowing swiftly towards the plains, create a stunning contrast against the surrounding ghats and buildings. The ghats themselves, built of stone and marble, are meticulously maintained, providing a clean and aesthetically pleasing environment. The area is dotted with temples, shrines, and ashrams, which add to the spiritual ambiance and charm. The surrounding hills and forests of the Shivalik range also offer an impressive backdrop to the spectacle. Sunsets and sunrises over the Ganges River at Har Ki Pauri are particularly breathtaking, casting a golden hue over the waters and the surrounding architecture.
 
-<img src="placeholder_image_ganges_river_har_ki_pauri.jpg" alt="The Ganges River at Har Ki Pauri">
+
 
 ### **Must-Visit Attractions**
 
@@ -61,7 +61,7 @@ Haridwar and the area around Har Ki Pauri are filled with bustling local markets
 *   **Local handicrafts:** Items include religious artifacts, handmade jewelry, clothing, and souvenirs. You can also find a variety of local spices and herbal products.
 *   **Religious paraphernalia:** Shops selling prayer beads, incense, idols, and other religious items are abundant.
 
-<img src="placeholder_image_local_market_haridwar.jpg" alt="Local market in Haridwar">
+
 
 ### **Food and Cuisine**
 

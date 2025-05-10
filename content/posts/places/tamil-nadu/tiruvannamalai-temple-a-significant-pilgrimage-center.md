@@ -28,7 +28,7 @@ The town's cultural landscape is heavily influenced by Shaivism, the worship of 
 
 Tiruvannamalai is graced with the imposing Annamalai hills, also known as Arunachala, which dominate the landscape and provide a stunning backdrop to the town. The hills are a haven for biodiversity, with diverse flora and fauna. The terrain offers numerous opportunities for trekking and exploration, with trails leading to scenic viewpoints, caves, and hidden temples. The surrounding area features lush greenery, particularly during and after the monsoon season.
 
-<img src="placeholder_image_of_Annamalai_Hills.jpg" alt="Annamalai Hills">
+
 
 The serene environment provides a perfect escape from the hustle and bustle of city life. Several viewpoints around the hills offer breathtaking panoramic views of the town and the surrounding landscapes, especially during sunrise and sunset. The natural beauty complements the spiritual significance, creating a peaceful atmosphere for meditation and reflection.
 
@@ -36,7 +36,7 @@ The serene environment provides a perfect escape from the hustle and bustle of c
 
 The Arunachaleswarar Temple is the heart of Tiruvannamalai and a must-visit attraction. Dedicated to Lord Shiva, the temple is an architectural marvel, sprawling over a vast area with towering gopurams (gateway towers), intricate carvings, and multiple shrines.
 
-<img src="placeholder_image_of_Arunachaleswarar_Temple.jpg" alt="Arunachaleswarar Temple">
+
 
 Other significant sites include:
 
@@ -69,7 +69,7 @@ The local cuisine in Tiruvannamalai is predominantly South Indian, with a focus 
 *   **Street Food:** Explore street food stalls for local snacks and treats.
 *   **Restaurants:** Several restaurants near the temple and in town offer a variety of cuisines, including South Indian, North Indian, and international options.
 
-<img src="placeholder_image_of_Tamil_Nadu_Cuisine.jpg" alt="Tamil Nadu Cuisine">
+
 
 ### **Flora and Fauna**
 
@@ -90,7 +90,7 @@ Tiruvannamalai is well-connected by road and rail.
 *   **By Rail:** Tiruvannamalai has a railway station that connects it to major cities in Tamil Nadu and other parts of India.
 *   **By Road:** Tiruvannamalai is well-connected by road, with regular bus services from Chennai, Bangalore, and other nearby cities. The town is accessible via major highways.
 
-<img src="placeholder_image_of_Tiruvannamalai_Bus_Stand.jpg" alt="Tiruvannamalai Bus Stand">
+
 
 ### **Accommodation Options**
 

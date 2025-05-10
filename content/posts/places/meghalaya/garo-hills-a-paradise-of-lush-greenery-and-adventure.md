@@ -27,7 +27,7 @@ The Garo culture is rich in traditions, folklore, and vibrant festivals. The Wan
 
 The Nokrek Biosphere Reserve, located in the heart of the Garo Hills, is a site of significant cultural importance. It is considered the ancestral home of the Garos and is revered for its biodiversity and the presence of the *Memang Narang*, a sacred citrus fruit.
 
-<img src="placeholder_image_garo_cultural_festival.jpg" alt="A photo of the Wangala festival" width="600" height="400">
+
 
 ### **Natural Beauty**
 
@@ -35,7 +35,7 @@ The Garo Hills are a treasure trove of natural beauty, boasting lush green valle
 
 The Nokrek National Park, a part of the Nokrek Biosphere Reserve, is a prime example of the area's natural beauty. It's renowned for its rich biodiversity, including the red panda, the Asian elephant, and several species of primates. The Tura Peak offers panoramic views of the entire region, including the low-lying plains of Bangladesh. The Siju Caves, located on the banks of the Simsang River, are a network of limestone caves known for their stunning stalactite and stalagmite formations.
 
-<img src="placeholder_image_garo_hills_landscape.jpg" alt="A photo of the landscape of the Garo Hills" width="600" height="400">
+
 
 ### **Must-Visit Attractions**
 
@@ -67,7 +67,7 @@ Garo Hills’ local markets and bazaars offer a glimpse into the region’s uniq
 *   **Wooden carvings:** The Garos create intricate wooden carvings, often depicting tribal motifs and symbols.
 *   **Pottery:** Traditional pottery is another local craft that can be found in the markets.
 
-<img src="placeholder_image_garo_local_market.jpg" alt="A photo of a local market in the Garo Hills" width="600" height="400">
+
 
 ### **Food and Cuisine**
 
@@ -110,7 +110,7 @@ The Garo Hills offer a range of accommodation options to suit different budgets:
 *   **Homestays:** For a more immersive experience, consider staying in homestays, which are available in some villages.
 *   **Eco-resorts:** Some eco-resorts in the area offer a more sustainable and nature-focused experience.
 
-<img src="placeholder_image_garo_hills_accommodation.jpg" alt="A photo of a hotel in the Garo Hills" width="600" height="400">
+
 
 ### **Offbeat Experiences**
 

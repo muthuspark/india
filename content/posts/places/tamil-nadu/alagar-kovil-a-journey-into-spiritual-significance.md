@@ -23,11 +23,11 @@ The history of Alagar Kovil stretches back centuries, with the temple's origins 
 
 ### **Natural Beauty**
 
-The location of Alagar Kovil, nestled in the Alagar Hills, provides a beautiful natural setting. <img src="placeholder_image_mountains.jpg" alt="Alagar Hills" width="600"> The hills are part of the Eastern Ghats and offer scenic landscapes, lush vegetation, and refreshing air. The surrounding area is known for its semi-evergreen forests and rich biodiversity. The Alagar Hills are also home to various natural springs, including the Noopura Gangai, considered sacred by devotees. The panoramic views from the hills offer breathtaking vistas, making it a pleasant experience for nature lovers and photographers.
+The location of Alagar Kovil, nestled in the Alagar Hills, provides a beautiful natural setting.  The hills are part of the Eastern Ghats and offer scenic landscapes, lush vegetation, and refreshing air. The surrounding area is known for its semi-evergreen forests and rich biodiversity. The Alagar Hills are also home to various natural springs, including the Noopura Gangai, considered sacred by devotees. The panoramic views from the hills offer breathtaking vistas, making it a pleasant experience for nature lovers and photographers.
 
 ### **Must-Visit Attractions**
 
-*   **Azhagar Kovil Temple (Sri Kallazhagar Temple):** The main attraction, featuring intricate carvings, vibrant sculptures, and a serene atmosphere. <img src="placeholder_image_temple.jpg" alt="Kallazhagar Temple" width="600"> Visitors can experience the divine presence of Lord Vishnu and witness traditional rituals.
+*   **Azhagar Kovil Temple (Sri Kallazhagar Temple):** The main attraction, featuring intricate carvings, vibrant sculptures, and a serene atmosphere.  Visitors can experience the divine presence of Lord Vishnu and witness traditional rituals.
 *   **Noopura Gangai:** A natural spring located within the temple complex. Its waters are believed to be holy and are often used for bathing.
 *   **Pazhamudircholai:** A hilltop temple dedicated to Lord Muruga, offering panoramic views of the surrounding landscape. It's one of the six abodes of Lord Muruga (Arupadai Veedu).
 *   **Silappathikaram Museum:** This museum showcases the Tamil epic Silappathikaram, providing insights into the region's history and culture.
@@ -66,7 +66,7 @@ The Alagar Hills and its surroundings possess a diverse ecosystem.
 *   **Semi-evergreen forests** provide habitat for various plant and animal species.
 *   **Birdlife:** The area attracts many bird species.
 *   **Wildlife:** Small mammals and reptiles can be found in the forested areas.
-    <img src="placeholder_image_flora_fauna.jpg" alt="Alagar Kovil Wildlife" width="600">
+    
 
 ### **Best Time to Visit**
 
@@ -90,7 +90,7 @@ While there aren't many hotels directly in Alagar Kovil, there are options avail
 
 ### **Offbeat Experiences**
 
-*   **Visit Nearby Villages:** Engage with the local community by visiting nearby villages. <img src="placeholder_image_villages.jpg" alt="Alagar Kovil Villages" width="600">
+*   **Visit Nearby Villages:** Engage with the local community by visiting nearby villages. 
 *   **Attend Local Events:** Participate in local festivals or events, providing a unique insight into the region's culture.
 *   **Explore Lesser-Known Temples:** Discover smaller temples around Alagar Kovil, providing a glimpse into the region's religious diversity.
 

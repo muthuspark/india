@@ -28,7 +28,7 @@ Other key cultural aspects include:
 *   **Festivals:** Various festivals like Mahashivratri, Navratri, and local celebrations mark the city's vibrant cultural life.
 *   **Historical Landmarks:** Besides the Mahakaleshwar Temple, Ujjain features sites like the Harsiddhi Temple, Bhartrihari Caves, and the Vedha Shala (Jantar Mantar).
 
-<img src="placeholder_image_of_Mahakaleshwar_Temple.jpg" alt="Mahakaleshwar Temple" width="500" height="300">
+
 
 ### **Natural Beauty**
 
@@ -48,7 +48,7 @@ The key attractions in Ujjain are:
 *   **Bhartrihari Caves:** Caves associated with the legendary king and poet Bhartrihari.
 *   **Kal Bhairav Temple:** A temple dedicated to Lord Bhairava, known for its unique rituals.
 
-<img src="placeholder_image_of_Shipra_River_Ghats.jpg" alt="Shipra River Ghats" width="500" height="300">
+
 
 ### **Adventure Activities**
 
@@ -72,7 +72,7 @@ Ujjain's cuisine reflects the flavors of Madhya Pradesh:
 *   **Street Food:** Sample local street food around the temple areas.
 *   **Popular Restaurants/Stalls:** Various restaurants and food stalls offer both vegetarian and non-vegetarian options, catering to diverse tastes.
 
-<img src="placeholder_image_of_Local_Cuisine.jpg" alt="Local Cuisine" width="500" height="300">
+
 
 ### **Flora and Fauna**
 

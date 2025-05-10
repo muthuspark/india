@@ -22,13 +22,13 @@ Cellular Jail, also known as Kala Pani (Black Water), stands as a poignant testa
 
 The construction of Cellular Jail began in 1896 and was completed in 1906. Designed to house Indian political prisoners, it was a solitary confinement facility. Its architecture, a complex structure with seven wings radiating from a central tower, aimed at isolating inmates and preventing communication. The jail was infamous for its brutal treatment of prisoners, including enforced manual labor, such as oil mills and coir making. Prominent Indian freedom fighters, including Veer Savarkar, Batukeshwar Dutt, and Yogendra Shukla, were imprisoned here. The jail served as a symbol of British oppression and a crucible of the Indian independence movement. Following India's independence in 1947, Cellular Jail was declared a national memorial. A museum and light and sound show are now operational, narrating the history of the jail and the stories of the inmates. The jail's legacy continues to be a source of inspiration and reflection on the sacrifices made for India's freedom.
 
-<placeholder image tag: Image of the Cellular Jail exterior>
+
 
 ###  **Natural Beauty**
 
 Port Blair, and the Andaman Islands in general, are renowned for their pristine natural beauty. While the Cellular Jail is located in an urban setting, the surrounding landscape is characterized by lush tropical vegetation and the turquoise waters of the Andaman Sea. The islands boast dense rainforests, coral reefs, and pristine beaches. Though the jail itself is not directly surrounded by natural wonders, visitors can easily access other natural attractions from Port Blair. The area's natural environment is incredibly diverse, with opportunities for exploring marine life and enjoying scenic views.
 
-<placeholder image tag: Image of the Andaman Sea and tropical vegetation>
+
 
 ### **Must-Visit Attractions**
 
@@ -40,7 +40,7 @@ The primary attraction is, undoubtedly, the **Cellular Jail itself**. Visitors s
 *   **North Bay Island (Coral Island):** Known for its coral reefs and marine life, making it a great spot for snorkeling and scuba diving.
 *   **Wandoor Beach and Mahatma Gandhi Marine National Park:** Perfect for exploring diverse marine life and mangrove forests.
 
-<placeholder image tag: Image of Cellular Jail Museum interiors>
+
 
 ### **Adventure Activities**
 
@@ -53,7 +53,7 @@ While the Cellular Jail itself is not a site for adventure activities, Port Blai
 *   **Trekking:** Though less common around the jail itself, trekking opportunities are available in some parts of the islands, especially in the hills.
 *   **Bird Watching:** The Andaman Islands are home to various bird species, offering opportunities for bird watching enthusiasts.
 
-<placeholder image tag: Image of people snorkeling near coral reefs>
+
 
 ### **Local Markets and Handicrafts**
 
@@ -69,7 +69,7 @@ Specialties of the area include:
 *   **Spices:** Locally grown spices can be found in the markets.
 *   **Coconut Products:** Products made from coconuts such as oils, soaps, and other items.
 
-<placeholder image tag: Image of local handicrafts for sale>
+
 
 ### **Food and Cuisine**
 
@@ -94,7 +94,7 @@ Popular restaurants and cafes in Port Blair are:
 *   **Lighthouse Restaurant:** Offers a variety of cuisines.
 *   **Waves Restaurant:** Known for seafood and waterfront dining.
 
-<placeholder image tag: Image of a seafood platter>
+
 
 ### **Flora and Fauna**
 
@@ -107,7 +107,7 @@ The Andaman and Nicobar Islands are renowned for their rich biodiversity. Althou
 *   **Bird Sanctuaries:** Various bird sanctuaries can be found on the islands.
 *   **Unique Species:** Several unique and rare species of plants and animals can be found, including Andaman Woodpigeon, Nicobar Megapode, and various species of sea turtles.
 
-<placeholder image tag: Image of colorful coral reefs>
+
 
 ### **Best Time to Visit**
 
@@ -119,7 +119,7 @@ The best time to visit Port Blair and the Andaman and Nicobar Islands is during 
 
 Peak tourist season is typically from **December to February**. While the peak season may have higher prices and increased crowds, the weather conditions are at their best.
 
-<placeholder image tag: Image of people enjoying the beach during the best time to visit>
+
 
 ### **How to Reach**
 
@@ -133,7 +133,7 @@ Peak tourist season is typically from **December to February**. While the peak s
     *   Kolkata: Approximately 1,200 km (by air)
     *   Delhi: Approximately 2,200 km (by air)
 
-<placeholder image tag: Image of an airplane taking off from the Port Blair airport>
+
 
 ### **Accommodation Options**
 
@@ -151,7 +151,7 @@ Some recommended accommodations:
 *   **Mid-Range:** Peerless Sarovar Port Blair, Sinclairs Bayview.
 *   **Luxury:** Taj Exotica Resort & Spa, Havelock Island (if you want to stay on Havelock Island, which is a short ferry ride away)
 
-<placeholder image tag: Image of a luxury hotel room>
+
 
 ### **Offbeat Experiences**
 
@@ -167,7 +167,7 @@ For a more immersive experience:
 
 Encourage travelers to seek out local guides and interact with the local communities for a more authentic experience.
 
-<placeholder image tag: Image of a local village>
+
 
 ### **Conclusion**
 

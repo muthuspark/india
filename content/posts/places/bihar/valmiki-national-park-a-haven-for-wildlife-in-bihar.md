@@ -23,14 +23,14 @@ The history of the region around Valmiki National Park is interwoven with the cu
 
 ### **Natural Beauty**
 
-The natural beauty of Valmiki National Park is its primary draw. The park is part of the Indo-Gangetic plain and is situated in the Terai region. The terrain is characterized by dense forests, rolling hills, and the meandering Gandak River. <img src="placeholder_image_landscape.jpg" alt="Landscape of Valmiki National Park"> The forest cover is predominantly moist deciduous, with a significant presence of Sal trees. The landscape includes diverse vegetation, ranging from riverine forests to grasslands and bamboo thickets. Several viewpoints offer breathtaking panoramic vistas of the park's expanse. The dense forests are home to numerous streams and water bodies, which add to the scenic beauty of the area. The serene atmosphere and lush greenery offer a perfect escape from the hustle and bustle of city life, creating a tranquil ambiance for nature lovers.
+The natural beauty of Valmiki National Park is its primary draw. The park is part of the Indo-Gangetic plain and is situated in the Terai region. The terrain is characterized by dense forests, rolling hills, and the meandering Gandak River.  The forest cover is predominantly moist deciduous, with a significant presence of Sal trees. The landscape includes diverse vegetation, ranging from riverine forests to grasslands and bamboo thickets. Several viewpoints offer breathtaking panoramic vistas of the park's expanse. The dense forests are home to numerous streams and water bodies, which add to the scenic beauty of the area. The serene atmosphere and lush greenery offer a perfect escape from the hustle and bustle of city life, creating a tranquil ambiance for nature lovers.
 
 ### **Must-Visit Attractions**
 
 Within Valmiki National Park, several attractions beckon visitors.
 
 *   **Valmiki Ashram:** This ancient ashram is the center of attraction for its religious importance and peaceful environment, located in the Valmiki Nagar.
-*   **Madanpur Forest Rest House:** This offers excellent views of the surrounding wildlife. <img src="placeholder_image_forest_resthouse.jpg" alt="Madanpur Forest Rest House">
+*   **Madanpur Forest Rest House:** This offers excellent views of the surrounding wildlife. 
 *   **Valmiki Tiger Reserve:** While the entire park is considered a reserve, specific zones within the Tiger Reserve are popular for wildlife sightings.
 *   **Ganauli:** A charming village to observe the local Tharu community and experience their lifestyle and culture.
 *   **Naurangia Range:** Popular for wildlife safaris and spotting tigers and other animals.
@@ -48,7 +48,7 @@ For the adventurous, Valmiki National Park offers a variety of activities.
 
 ### **Local Markets and Handicrafts**
 
-While the area surrounding the park is not known for extensive commercial markets, visitors can find traditional handicrafts and souvenirs in local villages and towns nearby. <img src="placeholder_image_local_market.jpg" alt="Local Market Scene"> The Tharu community creates handcrafted items, including woven textiles, bamboo products, and wooden artifacts. These items provide a glimpse into their traditional skills and culture. Exploring local markets is a great way to find unique souvenirs and support the local economy. The markets offer a chance to interact with the locals and experience the local culture firsthand.
+While the area surrounding the park is not known for extensive commercial markets, visitors can find traditional handicrafts and souvenirs in local villages and towns nearby.  The Tharu community creates handcrafted items, including woven textiles, bamboo products, and wooden artifacts. These items provide a glimpse into their traditional skills and culture. Exploring local markets is a great way to find unique souvenirs and support the local economy. The markets offer a chance to interact with the locals and experience the local culture firsthand.
 
 ### **Food and Cuisine**
 
@@ -65,7 +65,7 @@ The local cuisine in and around Valmiki National Park is a reflection of the Bih
 Valmiki National Park is a significant biodiversity hotspot, recognized for its rich flora and fauna.
 
 *   **Flora:** The park is characterized by moist deciduous forests, with prominent trees like Sal, teak, and bamboo. Other plant species include various herbs, shrubs, and medicinal plants.
-*   **Fauna:** The park is home to the Bengal tiger, Indian leopard, Indian rhinoceros, sloth bear, Indian elephant, wild boar, and various species of deer. <img src="placeholder_image_wildlife.jpg" alt="Wildlife of Valmiki National Park"> It is also a paradise for bird watchers, with over 300 species of birds, including the great hornbill, peafowl, and various migratory birds. The park is an integral part of the Valmiki Tiger Reserve, which focuses on the conservation of tigers and their habitat.
+*   **Fauna:** The park is home to the Bengal tiger, Indian leopard, Indian rhinoceros, sloth bear, Indian elephant, wild boar, and various species of deer.  It is also a paradise for bird watchers, with over 300 species of birds, including the great hornbill, peafowl, and various migratory birds. The park is an integral part of the Valmiki Tiger Reserve, which focuses on the conservation of tigers and their habitat.
 
 ### **Best Time to Visit**
 

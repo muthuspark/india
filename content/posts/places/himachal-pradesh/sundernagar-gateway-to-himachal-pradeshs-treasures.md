@@ -28,7 +28,7 @@ Festivals are an integral part of the local culture, with celebrations like Duss
 
 Sundernagar is blessed with stunning natural beauty, characterized by verdant valleys, pine forests, and panoramic views of the majestic Dhauladhar mountain range. The town is located on a hillock overlooking the Beas-Sutlej Link Project, a significant engineering marvel. The lush greenery and the clean mountain air provide a refreshing respite from the hustle and bustle of city life.
 
-<img src="placeholder_image_natural_beauty_sundernagar.jpg" alt="Natural Beauty of Sundernagar">
+
 
 Several viewpoints offer breathtaking perspectives of the surrounding landscape. One of the most popular spots is the viewpoint near the Sundernagar Thermal Power Plant, offering an expansive view of the Beas River and the surrounding valleys. The surrounding forests provide ample opportunities for nature walks and exploration. The area is also rich in flora, including deodar, pine, and oak trees, and diverse wildlife.
 
@@ -36,7 +36,7 @@ Several viewpoints offer breathtaking perspectives of the surrounding landscape.
 
 Sundernagar offers a range of attractions catering to different interests.
 
-*   **Mahamaya Temple:** A revered Hindu temple dedicated to the goddess Mahamaya, believed to be the protector of the region. <img src="placeholder_image_mahamaya_temple.jpg" alt="Mahamaya Temple">
+*   **Mahamaya Temple:** A revered Hindu temple dedicated to the goddess Mahamaya, believed to be the protector of the region. 
 *   **Shukar Khad:** A picturesque spot near the Beas River, perfect for picnics and leisurely strolls.
 *   **Sunder Nagar Thermal Power Plant:** Though a power plant, the adjacent viewpoints offer stunning panoramic views.
 *   **BBMB Colony:** Explore this well-planned colony with beautiful gardens and a relaxed atmosphere.

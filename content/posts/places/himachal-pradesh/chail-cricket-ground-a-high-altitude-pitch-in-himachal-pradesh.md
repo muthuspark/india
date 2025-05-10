@@ -23,7 +23,7 @@ The history of Chail Cricket Ground is intrinsically linked to the former prince
 
 ###  **Natural Beauty**
 
-<img src="placeholder_chail_cricket_ground_view.jpg" alt="Chail Cricket Ground View">
+
 
 Chail is renowned for its pristine natural beauty. The landscape is dominated by dense forests of pine and deodar trees, which provide a lush green backdrop to the cricket ground and the surrounding area. The elevation provides stunning panoramic views of the Shivalik range and the snow-capped Himalayan peaks on a clear day. The air is crisp and clean, making it an ideal destination for those seeking a respite from urban pollution. There are several viewpoints around Chail where visitors can soak in the stunning vistas, including the Chail Sanctuary, which offers opportunities to spot various species of birds and animals amidst the serene environment. The combination of verdant forests, rolling hills, and the majestic mountain ranges creates a truly picturesque setting. The location, far from the hustle and bustle of major cities, contributes to its tranquility and natural charm.
 
@@ -56,7 +56,7 @@ Chail is not a major commercial hub, but visitors can find some local shops and 
 
 ### **Food and Cuisine**
 
-<img src="placeholder_chail_restaurant_food.jpg" alt="Delicious food at Chail Restaurants">
+
 
 Chail offers a mix of local and international cuisine. While not a gastronomic hotspot, the restaurants provide a pleasant dining experience.
 
@@ -67,7 +67,7 @@ Chail offers a mix of local and international cuisine. While not a gastronomic h
 
 ### **Flora and Fauna**
 
-<img src="placeholder_chail_wildlife_sanctuary.jpg" alt="Chail Wildlife Sanctuary View">
+
 
 The flora and fauna of Chail are diverse, particularly within the Chail Wildlife Sanctuary.
 
@@ -91,7 +91,7 @@ The best time to visit Chail is during the summer months (March to June) when th
 
 ### **Accommodation Options**
 
-<img src="placeholder_chail_palace_hotel.jpg" alt="Chail Palace Hotel">
+
 
 Chail offers a range of accommodation options to suit different budgets.
 

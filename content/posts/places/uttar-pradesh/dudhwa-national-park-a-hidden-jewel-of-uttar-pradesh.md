@@ -27,7 +27,7 @@ While the park’s history is largely focused on wildlife conservation, the surr
 
 Dudhwa National Park is a visual feast, boasting diverse landscapes that create a haven for wildlife and a spectacle for visitors. The terrain varies from dense sal forests to vast grasslands and wetlands. The Sharda River, a major river that flows near the park, is an integral part of the ecosystem, supporting its water requirements and enriching the biodiversity of the landscape.
 
-<img src="placeholder_image_for_dudhwa_national_park_landscape.jpg" alt="Landscape of Dudhwa National Park">
+
 
 The park's lush grasslands, known as 'Phantas', are a sight to behold, especially during the monsoons and winters when they are at their peak. These areas, teeming with wildlife, offer excellent opportunities for observation and photography. The dense forests create a canopy that provides shelter and sustenance to a variety of animals and birds. The presence of numerous water bodies, including the lakes and the marshes, further enhances the park's beauty and provides a diverse ecosystem for aquatic life.
 
@@ -36,7 +36,7 @@ The park's lush grasslands, known as 'Phantas', are a sight to behold, especiall
 Dudhwa National Park is the primary attraction, drawing visitors with its wildlife safaris and natural splendor. However, the surrounding areas also offer several points of interest that complement the park experience.
 
 *   **Dudhwa National Park:** This is, of course, the primary attraction. The park offers jeep safaris, elephant safaris (subject to availability and regulations), and nature walks, providing immersive experiences within the wilderness.
-    <img src="placeholder_image_for_dudhwa_national_park_safari.jpg" alt="Dudhwa National Park Safari">
+    
 *   **Kishanpur Wildlife Sanctuary:** Adjacent to Dudhwa, this sanctuary is a haven for a variety of wildlife species, including tigers, leopards, and a large number of bird species.
 *   **Sathiana:** A scenic spot within the park known for its lush grasslands and the opportunity to spot wildlife, especially during the early mornings and late evenings.
 *   **Banke:** Offers an excellent vantage point for viewing wildlife and enjoying the serene beauty of the region.
@@ -74,7 +74,7 @@ Dudhwa National Park is renowned for its rich biodiversity, hosting a vast array
 
 *   **Flora:** The park is characterized by dense sal forests, grasslands, and wetlands. The vegetation provides a habitat for many species and contributes to the park's overall ecological health.
 *   **Fauna:** The park is famous for its tiger population, as well as elephants, rhinos, leopards, sloth bears, swamp deer (Barasingha), and various species of deer, like sambar.
-    <img src="placeholder_image_for_flora_and_fauna_of_dudhwa.jpg" alt="Wildlife of Dudhwa National Park">
+    
 *   **Avian Life:** It's a birdwatcher’s paradise, with over 450 species of birds, including the Bengal Florican, painted stork, and a large number of migratory birds during winter.
 
 ### **Best Time to Visit**

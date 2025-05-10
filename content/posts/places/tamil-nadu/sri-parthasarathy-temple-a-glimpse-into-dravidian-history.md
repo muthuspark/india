@@ -23,7 +23,7 @@ Mahabalipuram, also known as Mamallapuram, is a historic coastal town located in
 
 The history of Mahabalipuram is deeply intertwined with the Pallava dynasty, who ruled from the 6th to 9th centuries. The name "Mahabalipuram" is believed to be derived from "Mamallan," a title of the Pallava king Narasimhavarman I, who ruled during the 7th century. He was a great wrestler and the town was named in his honor. The Pallavas were great patrons of art and architecture, and they transformed the landscape of Mahabalipuram with their innovative rock-cut sculptures and temples.
 
-<img src="placeholder_image_historical_landmark.jpg" alt="Historical Landmark">
+
 
 The cultural heritage of Mahabalipuram is visible in its iconic monuments. These include the Shore Temple, a complex that has withstood the test of time and the ravages of the sea, the Five Rathas (Pancha Rathas), five monolithic rock-cut temples each dedicated to a different deity or a member of the royal family, and Arjuna's Penance, also known as Descent of the Ganges, a massive open-air bas-relief sculpture depicting scenes from the Mahabharata. The annual Mamallapuram Dance Festival, held every year, showcases classical Indian dance forms, drawing performers and audiences from across India and the world, further enriching the cultural tapestry of the town.
 
@@ -31,7 +31,7 @@ The cultural heritage of Mahabalipuram is visible in its iconic monuments. These
 
 Mahabalipuram offers a beautiful coastal landscape. The town is blessed with the long stretch of the Bay of Bengal coastline, offering picturesque views and opportunities for relaxation. The coast provides stunning views, especially during sunrise and sunset, painting the sky with beautiful colors.
 
-<img src="placeholder_image_coastal_view.jpg" alt="Coastal View">
+
 
 The natural environment around Mahabalipuram is also home to the local flora and fauna. The nearby forests and coastal areas are perfect for nature walks and bird-watching.
 
@@ -45,13 +45,13 @@ Mahabalipuram is home to a number of stunning attractions. The Shore Temple, a m
 *   **Tiger Caves:** A rock-cut cave temple along the beach.
 *   **Museum of Sculpture:** Showcasing various sculptures and artifacts.
 
-<img src="placeholder_image_shore_temple.jpg" alt="Shore Temple">
+
 
 ### **Adventure Activities**
 
 Mahabalipuram offers several adventure activities. The long beaches provide ample opportunities for water sports, including surfing, jet skiing, and parasailing.
 
-<img src="placeholder_image_watersports.jpg" alt="Water Sports">
+
 
 There are also opportunities for cycling along the scenic coastal routes, beach walks, and exploring the local villages.
 
@@ -59,7 +59,7 @@ There are also opportunities for cycling along the scenic coastal routes, beach 
 
 The local markets of Mahabalipuram are treasure troves for art lovers and souvenir hunters. The town is known for its exquisite stone sculptures, including miniature statues and large-scale carvings, that are replicas of those at the temple sites. You can find these sculptures in local shops and roadside stalls.
 
-<img src="placeholder_image_local_market.jpg" alt="Local Market">
+
 
 Other handicrafts include items made from wood, shell crafts, and traditional textiles. The local markets are the perfect place to find souvenirs, traditional clothing, and other unique gifts.
 
@@ -67,7 +67,7 @@ Other handicrafts include items made from wood, shell crafts, and traditional te
 
 Mahabalipuram offers a delightful culinary experience, particularly for seafood lovers. Freshly caught fish and seafood dishes are a specialty. Traditional South Indian cuisine is also prevalent.
 
-<img src="placeholder_image_local_cuisine.jpg" alt="Local Cuisine">
+
 
 Some of the must-try dishes include:
 
@@ -94,7 +94,7 @@ Mahabalipuram is easily accessible by various modes of transport:
 *   **By Rail:** The nearest railway station is Chengalpattu, which is about 30 kilometers (19 miles) away. From there, you can take a taxi or bus to Mahabalipuram.
 *   **By Road:** Mahabalipuram is well-connected by road and can be reached by car or bus from Chennai and other major cities in Tamil Nadu.
 
-<img src="placeholder_image_transportation.jpg" alt="Transportation Options">
+
 
 ### **Accommodation Options**
 
@@ -104,7 +104,7 @@ Mahabalipuram offers a range of accommodation options to suit different budgets 
 *   **Mid-Range Hotels:** Hotels with comfortable rooms and convenient locations are readily available.
 *   **Budget Stays:** Guesthouses, budget hotels, and homestays provide affordable accommodation.
 
-<img src="placeholder_image_accommodation.jpg" alt="Accommodation Options">
+
 
 There are also heritage properties, offering a unique and immersive experience. It's best to book your stay in advance, especially during the peak season.
 

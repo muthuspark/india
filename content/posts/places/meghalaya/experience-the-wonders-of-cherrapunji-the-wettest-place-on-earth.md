@@ -31,22 +31,22 @@ Sohra's defining characteristic is its spectacular natural beauty. The region is
 
 ###  **Must-Visit Attractions**
 
-<img src="placeholder_image_for_Nohkalikai_Falls.jpg" alt="Nohkalikai Falls Image">
+
 *   **Nohkalikai Falls:** This is India's tallest plunge waterfall, cascading down from a height of approximately 340 meters (1,115 feet) into a deep gorge. The view from the top is simply breathtaking, particularly during the monsoon season when the falls are at their fullest.
 
-<img src="placeholder_image_for_Mawsmai_Caves.jpg" alt="Mawsmai Caves Image">
+
 *   **Mawsmai Caves:** These limestone caves offer a thrilling experience, with their intricate formations of stalactites and stalagmites. They are a testament to the natural forces that have shaped the region over millennia.
 
-<img src="placeholder_image_for_Thangkharang_Park.jpg" alt="Thangkharang Park Image">
+
 *   **Thangkharang Park:**  Located near the Khoh Ramhah (pillar rock), this park provides panoramic views of the surrounding valleys and the plains of Bangladesh. It is a great place to relax and enjoy the stunning scenery.
 
-<img src="placeholder_image_for_Eco_Park.jpg" alt="Eco Park Image">
+
 *   **Eco Park:** This park was developed by the Meghalaya government and offers an amazing view of the Kynrem Falls and the surrounding areas. The park also offers a stunning view of the plains of Bangladesh.
 
-<img src="placeholder_image_for_Living_Root_Bridges.jpg" alt="Living Root Bridges Image">
+
 *   **Living Root Bridges:** The unique living root bridges, created by intertwining the roots of rubber trees, are a must-see. The Umshiang Double-Decker Root Bridge is a remarkable example of the Khasis’ ingenious craftsmanship and can be reached through a trek down the hills from Tyrna village.
 
-<img src="placeholder_image_for_Dain_Thlen_Falls.jpg" alt="Dain Thlen Falls Image">
+
 *   **Dain Thlen Falls:** Another spectacular waterfall known for its unique rock formations, and located a short distance away from Sohra, offering easy access.
 
 ### **Adventure Activities**

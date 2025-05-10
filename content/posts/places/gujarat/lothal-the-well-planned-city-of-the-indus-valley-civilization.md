@@ -16,12 +16,12 @@ tags:
 ### **Introduction**
 
 Lothal, a significant archaeological site located in the state of Gujarat, India, near the village of Bhagwanpur, stands as a testament to the advanced civilization of the Indus Valley Civilization (IVC). This ancient city offers a captivating glimpse into the urban planning, trade, and daily life of the Harappan people. Situated approximately 85 kilometers (53 miles) southwest of Ahmedabad, Lothal provides a tangible link to a bygone era, offering a unique and immersive experience for history enthusiasts and curious travelers alike. It's strategically located near the Gulf of Khambhat (Cambay), making it a key port and a major trading hub during its time. <br>
-<center><img src="placeholder_image_lothal_overview.jpg" alt="Overview of Lothal"></center>
+<center></center>
 
 ### **History and Cultural Heritage**
 
 Lothal's history stretches back over 4,500 years, placing it within the heart of the Indus Valley Civilization (also known as the Harappan Civilization), which flourished from approximately 2600 to 1900 BCE. Excavations conducted by the Archaeological Survey of India (ASI) unearthed the remarkably well-planned city, revealing a sophisticated understanding of urban design, engineering, and trade. The site demonstrates the standardized brick-making techniques, drainage systems, and a planned grid-like layout characteristic of the IVC. Lothal's significance lies in its advanced infrastructure including its monumental dockyard, believed to be one of the earliest known examples of a port. The artifacts discovered at Lothal, including pottery, jewelry, seals, and tools, offer insights into the lifestyle, religious beliefs, and trade routes of the Harappan people. The site faced decline with the decline of the IVC.
-<center><img src="placeholder_image_lothal_history.jpg" alt="Artifacts found at Lothal"></center>
+<center></center>
 
 ### **Natural Beauty**
 
@@ -31,7 +31,7 @@ While Lothal is primarily a historical site, the surrounding landscape of Gujara
 
 *   **The Lothal Archaeological Site:** The centerpiece is, of course, the ruins of the ancient city. Visitors can explore the remains of the dockyard, the acropolis (the upper part of the city, probably for elite residents), the lower town, and the warehouses. The layout reveals the meticulous planning of the Harappan people.
 *   **Lothal Museum:** The on-site museum displays a rich collection of artifacts recovered from the excavation, providing a comprehensive understanding of the daily life, trade practices, and craftsmanship of the Lothal people. Displays include pottery, beads, jewelry, tools, seals, and terracotta figurines.
-<center><img src="placeholder_image_lothal_museum.jpg" alt="Lothal Museum"></center>
+<center></center>
 
 ### **Adventure Activities**
 
@@ -53,7 +53,7 @@ Gujarati cuisine is known for its vegetarian dishes, with a blend of sweet, savo
 *   **Thali:** A comprehensive platter featuring a variety of dishes such as dal (lentils), roti (Indian bread), rice, vegetables, and sweets.
 *   **Dhokla:** A steamed savory cake made from fermented batter.
 *   **Khandvi:** Rolled, bite-sized snacks made from gram flour.
-<center><img src="placeholder_image_gujarati_food.jpg" alt="Gujarati Food"></center>
+<center></center>
 
 ### **Flora and Fauna**
 

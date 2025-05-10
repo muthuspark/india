@@ -22,7 +22,7 @@ Kalibangan, a fascinating archaeological site located in the Hanumangarh distric
 
 Kalibangan's history is deeply intertwined with the Indus Valley Civilization, flourishing between approximately 3500-1700 BCE. Archaeological excavations, primarily conducted by the Archaeological Survey of India, have unearthed a planned city with two distinct parts: a citadel (the fortified higher section, likely for the ruling elite) and a lower town (residential area). These findings reveal a sophisticated understanding of urban planning, including a grid-patterned layout with well-defined streets and lanes, brick houses, and a drainage system. The most remarkable finds include evidence of a ploughed field, pre-dating similar evidence in other parts of the world. The site also offers evidence of fire altars used for religious rituals, pottery, seals, and other artifacts, providing insight into the religious beliefs, social structures, and trade practices of the people. Though the people of Kalibangan disappeared for reasons currently unknown, this Indus Valley Civilization offers a huge cultural significance and historical background to this place.
 
-<img src="placeholder_kalibangan_archaeological_site.jpg" alt="Kalibangan Archaeological Site" width="600">
+
 
 ### **Natural Beauty**
 
@@ -34,11 +34,11 @@ The primary attraction at Kalibangan is undeniably the archaeological site itsel
 
 *   **The Citadel:** This elevated area provides a glimpse into the administrative and possibly religious center of the city.
 
-<img src="placeholder_kalibangan_citadel.jpg" alt="Kalibangan Citadel" width="600">
+
 
 *   **The Lower Town:** Wander through the residential area, where you can observe the street layout, houses, and the ingenious drainage system, which speak to the meticulous planning of the settlement.
 
-<img src="placeholder_kalibangan_lower_town.jpg" alt="Kalibangan Lower Town" width="600">
+
 
 *   **The Ploughed Field:** Witness the evidence of early agriculture, a unique find that highlights the farming practices of the civilization.
 *   **The Museum:** The Archaeological Museum, located nearby (if the site has one), showcases the artifacts unearthed at Kalibangan, including pottery, seals, jewelry, and tools.

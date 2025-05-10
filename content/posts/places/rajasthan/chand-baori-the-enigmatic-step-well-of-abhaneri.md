@@ -27,7 +27,7 @@ Abhaneri itself is located in a semi-arid region, and its natural beauty is less
 
 ### **Must-Visit Attractions**
 
-The primary attraction in Abhaneri is undoubtedly the **Chand Baori** <placeholder image tag - Chand Baori>, an architectural marvel comprising 3,500 precisely constructed steps descending 13 stories deep. Its intricate design, with symmetrical steps on three sides and a pavilion with a raised platform on the fourth, is a testament to the advanced engineering skills of the ancient Indians. The play of light and shadow within the well creates a stunning visual experience.  Adjacent to the Chand Baori is the partially ruined **Harshat Mata Temple** <placeholder image tag - Harshat Mata Temple>, dedicated to the goddess of happiness and joy. While partially destroyed, the temple’s remaining carvings and architectural remnants offer insight into the artistry and religious beliefs of the era.  Exploring the area around the Chand Baori and the temple provides visitors with a deep appreciation for the historical and cultural significance of Abhaneri.
+The primary attraction in Abhaneri is undoubtedly the **Chand Baori** , an architectural marvel comprising 3,500 precisely constructed steps descending 13 stories deep. Its intricate design, with symmetrical steps on three sides and a pavilion with a raised platform on the fourth, is a testament to the advanced engineering skills of the ancient Indians. The play of light and shadow within the well creates a stunning visual experience.  Adjacent to the Chand Baori is the partially ruined **Harshat Mata Temple** , dedicated to the goddess of happiness and joy. While partially destroyed, the temple’s remaining carvings and architectural remnants offer insight into the artistry and religious beliefs of the era.  Exploring the area around the Chand Baori and the temple provides visitors with a deep appreciation for the historical and cultural significance of Abhaneri.
 
 ### **Adventure Activities**
 
@@ -72,7 +72,7 @@ The best time to visit Abhaneri is during the cooler months, from **October to M
 Accommodation options within Abhaneri itself are limited.
 
 *   **Limited Options in Abhaneri:** Expect very basic guesthouses or homestays in the village.
-*   **Day Trip from Jaipur:** Most visitors opt to stay in Jaipur and take a day trip to Abhaneri. This provides a wider range of accommodation options, from budget hotels to luxury resorts and heritage properties. <placeholder image tag - Jaipur hotel example>
+*   **Day Trip from Jaipur:** Most visitors opt to stay in Jaipur and take a day trip to Abhaneri. This provides a wider range of accommodation options, from budget hotels to luxury resorts and heritage properties. 
 
 ### **Offbeat Experiences**
 

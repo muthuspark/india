@@ -33,12 +33,12 @@ The Malaprabha River, a tributary of the Krishna River, flows nearby. While Aiho
 
 Aihole's primary allure lies in its numerous temples. Key attractions include:
 
-*   **Durga Temple:** <img src="placeholder_durga_temple.jpg" alt="Durga Temple"> A unique apsidal temple with a blend of architectural styles, showcasing a semi-circular plan.
-*   **Lad Khan Temple:** <img src="placeholder_lad_khan_temple.jpg" alt="Lad Khan Temple"> A temple with a distinct architectural style and a square plan, dedicated to Shiva, named after a Muslim chieftain who used it as his residence for a short period.
-*   **Huchappayya Matha Temple:** <img src="placeholder_huchappayya_matha_temple.jpg" alt="Huchappayya Matha Temple"> Features intricate carvings and structural details.
-*   **Ravana Phadi Cave Temple:** <img src="placeholder_ravana_phadi_cave.jpg" alt="Ravana Phadi Cave Temple"> A rock-cut cave temple with carvings of Shiva and Parvati.
-*   **Gaudara Gudi:** <img src="placeholder_gaudara_gudi.jpg" alt="Gaudara Gudi Temple"> Another significant temple showcasing early Chalukyan architecture.
-*   **Chikki Gudi:** <img src="placeholder_chikki_gudi.jpg" alt="Chikki Gudi Temple"> A small but finely carved temple offering a glimpse into the intricate work of the artisans.
+*   **Durga Temple:**  A unique apsidal temple with a blend of architectural styles, showcasing a semi-circular plan.
+*   **Lad Khan Temple:**  A temple with a distinct architectural style and a square plan, dedicated to Shiva, named after a Muslim chieftain who used it as his residence for a short period.
+*   **Huchappayya Matha Temple:**  Features intricate carvings and structural details.
+*   **Ravana Phadi Cave Temple:**  A rock-cut cave temple with carvings of Shiva and Parvati.
+*   **Gaudara Gudi:**  Another significant temple showcasing early Chalukyan architecture.
+*   **Chikki Gudi:**  A small but finely carved temple offering a glimpse into the intricate work of the artisans.
 
 Additionally, the Archaeological Museum in Aihole houses a collection of sculptures, artifacts, and inscriptions discovered in and around the region, providing context to the historical and artistic significance of the site.
 

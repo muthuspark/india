@@ -27,7 +27,7 @@ Kasol's cultural landscape is now a fascinating mix, reflecting influences from 
 
 ### **Natural Beauty**
 
-<img src="placeholder_image_kasol_natural_beauty.jpg" alt="Kasol's natural beauty: Lush green mountains, the Parvati River, and clear skies">
+
 
 Kasol is renowned for its breathtaking natural beauty. The landscape is dominated by the towering peaks of the Himalayas, covered in lush green forests of pine, deodar, and oak trees. The Parvati River, a crystal-clear waterway, meanders through the valley, adding to the area's serenity. Numerous waterfalls cascade down the mountainsides, particularly during the monsoon season.
 
@@ -35,7 +35,7 @@ The best viewpoints in and around Kasol offer panoramic vistas. The trail to Cha
 
 ### **Must-Visit Attractions**
 
-<img src="placeholder_image_kasol_must_visit_attractions.jpg" alt="Popular attractions in Kasol and surrounding areas">
+
 
 *   **Parvati River:** The lifeblood of the valley, the Parvati River is a must-see. You can relax by its banks, take a dip in the cool water (exercise caution as the current can be strong), or simply admire its beauty.
 *   **Manikaran Sahib:** Located a short drive from Kasol, this Sikh Gurudwara and Hindu temple complex is famous for its hot springs. The hot springs are believed to have healing properties and are a major draw for pilgrims.
@@ -56,7 +56,7 @@ Kasol and its surroundings offer ample opportunities for adventure enthusiasts:
 
 ### **Local Markets and Handicrafts**
 
-<img src="placeholder_image_kasol_local_markets_and_handicrafts.jpg" alt="Shops and markets in Kasol, showcasing local crafts">
+
 
 Kasol itself has a small but vibrant market. You'll find shops selling various items:
 
@@ -79,7 +79,7 @@ Kasol offers a diverse culinary scene, catering to a wide range of tastes:
 
 ### **Flora and Fauna**
 
-<img src="placeholder_image_kasol_flora_fauna.jpg" alt="Variety of plants and animals found in Kasol and surrounding areas">
+
 
 The Parvati Valley and the surrounding areas are rich in biodiversity. The forests are home to a variety of tree species, including pine, deodar, oak, and rhododendron (during the blooming season). The area is also home to various species of birds, including Himalayan Monal, Koklass Pheasant, and various migratory birds. Wildlife sightings can be rare, but you might spot deer, leopards, and other animals in the more remote areas. It is essential to follow all local guidelines and not disturb the natural environment.
 
@@ -110,7 +110,7 @@ Kasol offers a range of accommodation options to suit different budgets:
 
 ### **Offbeat Experiences**
 
-<img src="placeholder_image_kasol_offbeat_experiences.jpg" alt="Explore lesser-known villages and experiences in Kasol">
+
 
 *   **Explore Nearby Villages:** Visit the less-traveled villages of Grahan, Malana (with permission), or Pulga to experience a more authentic way of life.
 *   **Volunteer:** Check for opportunities to volunteer with local organizations or at eco-friendly projects.

@@ -27,9 +27,9 @@ The landscape of Tanjore is predominantly characterized by the fertile plains of
 
 ### **Must-Visit Attractions**
 
-The Brihadeeswarar Temple, a UNESCO World Heritage Site, is the centerpiece of Tanjore. <img src="placeholder_brihadeeswarar_temple.jpg" alt="Brihadeeswarar Temple"> The temple is a magnificent example of Dravidian architecture, built entirely of granite and crowned by a massive monolithic "vimana" (tower). Other significant attractions include:
+The Brihadeeswarar Temple, a UNESCO World Heritage Site, is the centerpiece of Tanjore.  The temple is a magnificent example of Dravidian architecture, built entirely of granite and crowned by a massive monolithic "vimana" (tower). Other significant attractions include:
 
-*   **Tanjore Palace:** This historic palace showcases a mix of architectural styles and houses museums displaying royal artifacts and art. <img src="placeholder_tanjore_palace.jpg" alt="Tanjore Palace">
+*   **Tanjore Palace:** This historic palace showcases a mix of architectural styles and houses museums displaying royal artifacts and art. 
 *   **Saraswathi Mahal Library:** A treasure trove of ancient manuscripts, it's one of Asia's oldest libraries.
 *   **Tanjore Art Gallery:** Showcases a rich collection of Tanjore paintings and other artifacts.
 *   **Thanjavur Maratha Palace and Fort:** Structures demonstrating the influence of Maratha rulers.

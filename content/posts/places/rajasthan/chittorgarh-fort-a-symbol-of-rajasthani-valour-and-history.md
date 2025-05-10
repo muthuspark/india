@@ -27,19 +27,19 @@ Culturally, Chittorgarh Fort is a treasure trove of Rajput traditions and belief
 
 Chittorgarh Fort, being located on a hilltop, offers panoramic views of the surrounding landscape. The plateau on which the fort is built is characterized by rocky terrain with scrub vegetation. Though not known for dense forests, the fort's surroundings showcase the arid beauty typical of Rajasthan.  The elevated position provides stunning vistas of the modern city of Chittorgarh sprawling below. The best viewpoints are from the fort walls, offering a breathtaking panorama of the Aravalli hills in the distance, especially during sunrise and sunset. The fort is also surrounded by water bodies like Gaumukh Reservoir.
 
-<img src="placeholder_chittorgarh_natural_beauty.jpg" alt="Chittorgarh Fort's view">
+
 
 ### **Must-Visit Attractions**
 
 Chittorgarh Fort is home to a plethora of historical and architectural marvels:
 
-*   **Vijay Stambh (Victory Tower):** A 37-meter-high tower built by Rana Kumbha to commemorate his victory over the Sultan of Malwa in 1440 AD. <img src="placeholder_vijay_stambh.jpg" alt="Vijay Stambh">
+*   **Vijay Stambh (Victory Tower):** A 37-meter-high tower built by Rana Kumbha to commemorate his victory over the Sultan of Malwa in 1440 AD. 
 *   **Kirti Stambh (Tower of Fame):** A 22-meter-high tower dedicated to Adinath, the first Jain Tirthankara.
-*   **Rana Kumbha Palace:** The ruins of the palace where Rani Padmini performed Jauhar and the birthplace of Maharana Pratap. <img src="placeholder_rana_kumbha_palace.jpg" alt="Rana Kumbha Palace">
+*   **Rana Kumbha Palace:** The ruins of the palace where Rani Padmini performed Jauhar and the birthplace of Maharana Pratap. 
 *   **Padmini Palace:** A beautiful palace with a water body where, according to legend, Alauddin Khilji caught a glimpse of the legendary beauty of Rani Padmini.
 *   **Gaumukh Reservoir:** A water body fed by a natural spring believed to resemble a cow's mouth (Gaumukh).
 *   **Kalika Mata Temple:** An ancient temple dedicated to Goddess Kali.
-*   **Meera Bai Temple:** A temple dedicated to the revered saint Meera Bai, a devotee of Lord Krishna. <img src="placeholder_meera_bai_temple.jpg" alt="Meera Bai Temple">
+*   **Meera Bai Temple:** A temple dedicated to the revered saint Meera Bai, a devotee of Lord Krishna. 
 *   **Fateh Prakash Palace:** A palace converted into a museum exhibiting sculptures, artifacts, and weapons.
 *   **Jain Temples:** Several Jain temples within the fort showcasing intricate carvings and religious significance.
 
@@ -85,7 +85,7 @@ The best time to visit Chittorgarh Fort is during the winter months, from Octobe
 *   **Nearest Railway Station:** Chittorgarh Railway Station is well-connected to major cities in India.
 *   **By Road:** Chittorgarh is well-connected by road to major cities like Udaipur, Jaipur, and Delhi. You can travel by bus, taxi, or self-drive.
 
-<img src="placeholder_how_to_reach_chittorgarh.jpg" alt="How to reach Chittorgarh Fort">
+
 
 ### **Accommodation Options**
 

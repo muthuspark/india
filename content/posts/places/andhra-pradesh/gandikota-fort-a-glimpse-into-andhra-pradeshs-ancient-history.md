@@ -27,7 +27,7 @@ Gandikota is home to several historical landmarks that are testaments to its ric
 
 Gandikota's landscape is dominated by the dramatic gorge created by the Penna River, carving its path through the Erramala hills. The surrounding cliffs are composed of stunning red sandstone, creating a visual spectacle reminiscent of the Grand Canyon in the United States. The river, winding its way through the gorge, offers a tranquil contrast to the stark beauty of the cliffs.
 
-<img src="placeholder_image_gandikota_gorge_view.jpg" alt="View of the Gandikota Gorge">
+
 
 The best views can be experienced from the fort's ramparts, particularly during sunrise and sunset, when the light dramatically enhances the red hue of the cliffs. Another excellent viewpoint is the Pennar River viewpoint, providing a panoramic perspective of the gorge. The region is semi-arid, with a characteristic landscape of rocky terrain and sparse vegetation.
 
@@ -36,24 +36,24 @@ The best views can be experienced from the fort's ramparts, particularly during 
 Gandikota Fort is the primary attraction, a historical complex offering a glimpse into the region’s past. Within the fort, several key landmarks await exploration:
 
 *   **Gandikota Fort:** The central attraction, offering stunning views and historical ruins.
-    <img src="placeholder_image_gandikota_fort.jpg" alt="Gandikota Fort">
+    
 *   **Jumma Masjid:** A mosque built in the fort, showcasing Indo-Islamic architecture.
-    <img src="placeholder_image_jumma_masjid.jpg" alt="Jumma Masjid">
+    
 *   **Charminar:** A structure reminiscent of the iconic Charminar of Hyderabad.
-    <img src="placeholder_image_gandikota_charminar.jpg" alt="Gandikota Charminar">
+    
 *   **Madhavaraya Temple:** A well-preserved temple, an example of Vijayanagara architecture.
-    <img src="placeholder_image_madhavaraya_temple.jpg" alt="Madhavaraya Temple">
+    
 *   **Ranganatha Swamy Temple:** Another significant temple within the fort premises.
-    <img src="placeholder_image_ranganatha_temple.jpg" alt="Ranganatha Swamy Temple">
+    
 *   **Penna River Viewpoint:** Offers a panoramic view of the dramatic gorge.
-    <img src="placeholder_image_penna_river_viewpoint.jpg" alt="Penna River Viewpoint">
+    
 
 ### **Adventure Activities**
 
 Gandikota's unique terrain makes it an exciting location for adventure enthusiasts.
 
 *   **Rock Climbing:** The red sandstone cliffs provide excellent opportunities for rock climbing, with routes suitable for both beginners and experienced climbers.
-    <img src="placeholder_image_rock_climbing.jpg" alt="Rock Climbing in Gandikota">
+    
 *   **Trekking:** Trekking within and around the fort provides opportunities to explore the natural beauty of the area.
 *   **Camping:** The area around the fort is suitable for camping, allowing visitors to experience the landscape and stargazing at night.
 *   **Rappelling:** Another exciting activity suitable for adventure lovers.

@@ -23,11 +23,11 @@ The history of Satkosia Gorge is intertwined with the region's tribal heritage a
 
 ### **Natural Beauty**
 
-The natural beauty of Satkosia Gorge is its defining characteristic. The landscape is dominated by the imposing gorge, a deep chasm carved by the powerful Mahanadi River through the ancient Eastern Ghats. <placeholder image tag> The river itself is a lifeline, flowing with a varying intensity depending on the season. The gorge walls are steep and dramatic, rising hundreds of feet above the water, showcasing layers of geological formations. The surrounding forests are lush and verdant, a mix of deciduous and evergreen trees that support a diverse ecosystem. Several viewpoints offer spectacular panoramas of the gorge and the surrounding landscape. One of the most popular is Tikarpara, which provides an exceptional view of the river cutting through the mountains. Other areas within the tiger reserve offer views of the dense forest and surrounding hills. Natural attractions include the Satkosia Tiger Reserve, which protects the gorge and its surrounding areas. The landscape is not just visually stunning but also rich in geological and ecological diversity.
+The natural beauty of Satkosia Gorge is its defining characteristic. The landscape is dominated by the imposing gorge, a deep chasm carved by the powerful Mahanadi River through the ancient Eastern Ghats.  The river itself is a lifeline, flowing with a varying intensity depending on the season. The gorge walls are steep and dramatic, rising hundreds of feet above the water, showcasing layers of geological formations. The surrounding forests are lush and verdant, a mix of deciduous and evergreen trees that support a diverse ecosystem. Several viewpoints offer spectacular panoramas of the gorge and the surrounding landscape. One of the most popular is Tikarpara, which provides an exceptional view of the river cutting through the mountains. Other areas within the tiger reserve offer views of the dense forest and surrounding hills. Natural attractions include the Satkosia Tiger Reserve, which protects the gorge and its surrounding areas. The landscape is not just visually stunning but also rich in geological and ecological diversity.
 
 ### **Must-Visit Attractions**
 
-The primary attraction is, without a doubt, the Satkosia Gorge itself. Boat rides along the Mahanadi River are a popular way to experience the gorge's majesty, with opportunities to spot wildlife and enjoy the stunning scenery. <placeholder image tag>
+The primary attraction is, without a doubt, the Satkosia Gorge itself. Boat rides along the Mahanadi River are a popular way to experience the gorge's majesty, with opportunities to spot wildlife and enjoy the stunning scenery. 
 
 *   **Tikarpara**: This is one of the most well-known attractions, known for its scenic views of the gorge.
 *   **Deulajhari**: A scenic spot with several ancient Shiva temples located near a natural hot water spring.
@@ -83,7 +83,7 @@ Satkosia Gorge and the surrounding area are a biodiversity hotspot, home to a wi
 
 ### **Best Time to Visit**
 
-The ideal time to visit Satkosia Gorge is during the winter months, from **October to March**. <placeholder image tag>
+The ideal time to visit Satkosia Gorge is during the winter months, from **October to March**. 
 
 *   **Weather**: The weather during these months is pleasant, with cool and dry conditions, making outdoor activities more enjoyable.
 *   **Wildlife Viewing**: This is the best time to spot wildlife, as animals tend to come out to the water sources.

@@ -28,16 +28,16 @@ Pragpur's culture is deeply rooted in the traditions of Himachal Pradesh. The lo
 
 Pragpur is blessed with a stunning natural environment. The village is surrounded by lush green hills, providing a picturesque backdrop to the historic architecture. The Beas River flows nearby, adding to the natural beauty of the area and supporting local agriculture.
 
-The landscape features a variety of viewpoints and natural attractions. Visitors can enjoy panoramic views of the Kangra Valley from various vantage points, capturing the scenic beauty of the Himalayan foothills. <placeholder image tag for scenic viewpoint> The surrounding forests and rolling hills offer excellent opportunities for nature walks and hikes. The local environment is rich in flora and fauna. The village's position near the foothills makes it a great place for observing diverse plant and animal life. The fresh air, serene atmosphere, and natural beauty contribute to a relaxing and rejuvenating experience.
+The landscape features a variety of viewpoints and natural attractions. Visitors can enjoy panoramic views of the Kangra Valley from various vantage points, capturing the scenic beauty of the Himalayan foothills.  The surrounding forests and rolling hills offer excellent opportunities for nature walks and hikes. The local environment is rich in flora and fauna. The village's position near the foothills makes it a great place for observing diverse plant and animal life. The fresh air, serene atmosphere, and natural beauty contribute to a relaxing and rejuvenating experience.
 
 ### **Must-Visit Attractions**
 
 Pragpur Heritage Village boasts several must-visit attractions that showcase its history and charm.
 
-*   **The Judge's Court:** A heritage hotel housed in a restored ancestral home, providing a glimpse into the colonial era with its architecture, antique furnishings, and lush gardens. <placeholder image tag for Judge's Court>
+*   **The Judge's Court:** A heritage hotel housed in a restored ancestral home, providing a glimpse into the colonial era with its architecture, antique furnishings, and lush gardens. 
 *   **Nehar Cottage:** Another heritage property, offering a similar experience of colonial architecture and a peaceful retreat.
 *   **Chaupal:** The village community meeting place and a central hub, it presents an insight into the daily life and social fabric of the people.
-*   **Lala Rerumal Haveli:** An example of traditional architecture, this haveli offers a glimpse into the local craftsmanship and lifestyle. <placeholder image tag for Lala Rerumal Haveli>
+*   **Lala Rerumal Haveli:** An example of traditional architecture, this haveli offers a glimpse into the local craftsmanship and lifestyle. 
 *   **Various Temples:** The village and its surroundings feature several temples and shrines, reflecting the religious beliefs of the locals. These are beautiful examples of local religious architecture.
 
 Offbeat locations to explore include the local markets and the surrounding villages, which offer opportunities for authentic cultural immersion and interaction with the residents.
@@ -119,7 +119,7 @@ Pragpur offers various offbeat experiences for travelers seeking authentic cultu
 
 *   **Village Walks:** Exploring the surrounding villages and interacting with the locals offers a unique experience.
 *   **Local Markets:** Visiting local markets and interacting with artisans enables visitors to see and experience local culture.
-*   **Photography Tours:** Capture the beauty of the village and the surrounding landscape through photography. <placeholder image tag for photography tour>
+*   **Photography Tours:** Capture the beauty of the village and the surrounding landscape through photography. 
 *   **Interaction with Locals:** Engaging with the locals offers a better experience than being a normal tourist.
 *   **Cooking Classes:** Learning the local cuisine through cooking classes.
 *   **Nearby Attractions:** Visiting nearby attractions such as Pong Dam Lake and the Kangra Fort to explore the region's historical and natural beauty.

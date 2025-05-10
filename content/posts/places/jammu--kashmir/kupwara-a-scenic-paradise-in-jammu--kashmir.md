@@ -28,7 +28,7 @@ The cultural heritage of Kupwara is predominantly Islamic, reflecting the religi
 
 Kupwara is renowned for its unparalleled natural beauty, boasting a landscape of verdant valleys, dense forests, and crystal-clear streams. The district is framed by the mighty Himalayas, with snow-capped peaks providing a majestic backdrop to the lush scenery. The Lolab Valley, often called the "Valley of Love," is a significant highlight, famous for its apple orchards, rice fields, and a profusion of wildflowers that bloom in the spring and summer. The Lolab River, with its meandering course, adds to the picturesque beauty of the valley. Another notable area is the Bungus Valley, known for its unspoiled beauty and panoramic views. The dense deodar forests and meadows create a haven for both nature enthusiasts and those seeking a peaceful retreat.
 
-**<img src="placeholder_image_natural_beauty_kupwara.jpg" alt="Natural Beauty of Kupwara">**
+****
 
 Specific viewpoints that offer the best views in the region include the high vantage points within the Lolab and Bungus Valleys. From these locations, visitors can enjoy sweeping vistas of the entire district. These vantage points are often accessible via trekking routes, making the journey as rewarding as the destination. The natural environment is a key aspect of Kupwara’s appeal, with several designated forests and preserved areas. These reserves offer a glimpse into the region's diverse flora and fauna. The area's pristine lakes and waterways provide a habitat for various species of fish and other aquatic life.
 
@@ -37,9 +37,9 @@ Specific viewpoints that offer the best views in the region include the high van
 Due to its relative remoteness and underdeveloped tourism infrastructure, Kupwara, while rich in potential, doesn't have the same level of well-established tourist attractions as some other parts of Kashmir. However, the region offers several unique attractions that are gradually becoming popular:
 
 *   **Lolab Valley:** This is arguably the most popular destination in Kupwara, known for its lush greenery, fruit orchards, and stunning natural beauty. It's an excellent place for hiking, picnics, and enjoying the serene environment.
-    **<img src="placeholder_image_lolab_valley.jpg" alt="Lolab Valley">**
+    ****
 *   **Bungus Valley:** This valley is a relatively unexplored gem, known for its pristine beauty and panoramic views. It’s ideal for those seeking off-the-beaten-path experiences, offering trekking and camping opportunities.
-    **<img src="placeholder_image_bungus_valley.jpg" alt="Bungus Valley">**
+    ****
 *   **Karnah:** Located near the Line of Control (LoC), Karnah provides a glimpse into the cultural and social life of the people living close to the border. It also offers stunning views of the surrounding mountains.
 *   **Hazrat Baba Reshi Shrine:** This significant religious site attracts devotees from all over the region, offering a serene environment for spiritual reflection. It's an important pilgrimage site.
 
@@ -53,7 +53,7 @@ Kupwara presents significant opportunities for adventure activities, though they
 *   **Camping:** The pristine landscapes make Kupwara an ideal destination for camping. Camping can be arranged in the valleys.
 *   **River Rafting/Water Sports:** While not extensively developed, the rivers offer potential for white-water rafting and other water sports.
 
-**<img src="placeholder_image_trekking_kupwara.jpg" alt="Trekking in Kupwara">**
+****
 
 Opportunities for nature walks and bird watching are abundant, especially in the Lolab Valley. The forests and meadows offer a chance to observe the region’s rich biodiversity. Due to the sensitive location of Kupwara, it's important to inquire about necessary permits and permissions before undertaking adventure activities.
 
@@ -65,7 +65,7 @@ Kupwara's local markets and bazaars offer an authentic glimpse into the everyday
 *   **Textiles:** Local markets sell beautifully embroidered textiles, including the traditional pheran (a long cloak-like garment) and other items of clothing.
 *   **Dry Fruits:** Kupwara's markets often offer a variety of local dry fruits, including walnuts, almonds, and apricots. These are often sourced directly from local orchards.
 
-**<img src="placeholder_image_local_market_kupwara.jpg" alt="Local Market in Kupwara">**
+****
 
 These markets provide an opportunity for visitors to purchase unique souvenirs and support the local economy.
 
@@ -79,7 +79,7 @@ Kupwara offers a distinct culinary experience that reflects Kashmiri traditions,
 *   **Street Food:** While not as extensive as in larger cities, local food stalls may offer snacks like _momos_ and _pakoras_.
 *   **Kashmiri Tea:** The unique Kashmiri tea, known as _Kahwa_, is a must-try, especially during colder weather.
 
-**<img src="placeholder_image_kashmiri_food.jpg" alt="Kashmiri Food">**
+****
 
 Popular restaurants and food stalls are limited in number but usually offer authentic Kashmiri dishes. It’s recommended to inquire locally for the best places to eat, as new establishments are opening up.
 
@@ -123,7 +123,7 @@ Accommodation options in Kupwara are more basic compared to more developed touri
 *   **Guesthouses:** Basic guesthouses are available in popular areas such as Lolab Valley.
 *   **Camping:** Camping is a viable option in many scenic locations, but it's important to make arrangements in advance.
 
-**<img src="placeholder_image_accommodation_kupwara.jpg" alt="Accommodation in Kupwara">**
+****
 
 Booking in advance is recommended, especially during peak season. It’s important to research accommodation options thoroughly and check for recent reviews and information.
 
@@ -136,7 +136,7 @@ For those seeking offbeat experiences, Kupwara provides plenty of opportunities 
 *   **Photography:** Capture the stunning landscapes and the everyday life of the locals.
 *   **Cultural Immersion:** Attend local events and festivals to experience the local culture.
 
-**<img src="placeholder_image_offbeat_experience_kupwara.jpg" alt="Offbeat Experience in Kupwara">**
+****
 
 Interacting with the locals is a rewarding experience, providing a deeper understanding of the region's culture and lifestyle. It's important to respect the local customs and traditions.
 

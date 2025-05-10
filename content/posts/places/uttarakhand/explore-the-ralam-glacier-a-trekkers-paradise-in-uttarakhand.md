@@ -24,7 +24,7 @@ The history of the Ralam Glacier region is intertwined with the traditions of th
 ###  **Natural Beauty**
 
 The landscape surrounding Ralam Glacier is truly breathtaking, characterized by towering snow-capped peaks, deep valleys carved by glaciers, and rushing rivers.  The glacier itself is a vast expanse of ice and snow, punctuated by crevasses and other glacial formations. The views are nothing short of awe-inspiring, particularly during sunrise and sunset when the snow-covered peaks take on a golden hue. The region offers stunning vantage points to take in these panoramic vistas. The flora of the region varies with altitude, transitioning from alpine meadows to the more sparse vegetation of the high-altitude glacial zone. This offers a unique opportunity to experience the varying ecosystems of the Himalayas in a relatively short amount of time.
-<img src="placeholder_image_of_Ralam_Glacier_area_landscape.jpg" alt="Landscape near Ralam Glacier">
+
 
 ### **Must-Visit Attractions**
 
@@ -41,7 +41,7 @@ Since the area is relatively remote, the opportunity to shop for souvenirs and o
 ### **Food and Cuisine**
 
 The cuisine in the region is characterized by its simplicity and heartiness. Traditional dishes include local versions of Dal, Roti, and seasonal vegetables. Expect to find more simple meals at tea-houses and campsites along the trekking route.  Dishes incorporating locally grown ingredients like potatoes and various types of beans are common. Thukpa and Momos, common in the Himalayas, can also be expected in more accessible areas near Joshimath.
-<img src="placeholder_image_of_local_cuisine.jpg" alt="Local Cuisine">
+
 
 ### **Flora and Fauna**
 
@@ -50,7 +50,7 @@ The higher reaches around Ralam Glacier offer a glimpse into high-altitude ecosy
 ### **Best Time to Visit**
 
 The ideal time to visit Ralam Glacier is during the summer months, typically from May to October. During this period, the weather is generally more stable, with clearer skies and manageable temperatures for trekking. The monsoon season (July-August) may bring heavy rainfall, making the trekking routes slippery and hazardous. The winter months (November-April) are extremely cold, with heavy snowfall, making it difficult to access the glacier.
-<img src="placeholder_image_of_Best_time_to_visit_Ralam_Glacier.jpg" alt="Best Time to Visit">
+
 
 ### **How to Reach**
 

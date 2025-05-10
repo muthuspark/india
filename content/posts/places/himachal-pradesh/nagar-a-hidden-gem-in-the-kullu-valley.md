@@ -30,7 +30,7 @@ The cultural landscape is equally captivating, with numerous temples dedicated t
 
 Naggar is blessed with stunning natural beauty, surrounded by majestic snow-capped mountains, lush green valleys, and the gushing Beas River. The landscape is a paradise for nature lovers, offering breathtaking views from various vantage points. The panoramic views of the Himalayan peaks are unparalleled, particularly during sunrise and sunset.
 
-<img src="placeholder_image_tag_naggar_landscape.jpg" alt="Naggar Landscape">
+
 
 The surrounding forests are rich in diverse flora and fauna, providing opportunities for nature walks and exploration. The nearby areas offer opportunities for trekking through apple orchards, pine forests, and serene trails. The landscape provides a sense of serenity and rejuvenation.
 
@@ -39,10 +39,10 @@ The surrounding forests are rich in diverse flora and fauna, providing opportuni
 Naggar offers a plethora of attractions catering to diverse interests.
 
 *   **Naggar Castle:** This historical castle, now a heritage hotel, offers stunning views and insights into the region's royal past.
-    <img src="placeholder_image_tag_naggar_castle.jpg" alt="Naggar Castle">
+    
 *   **Gauri Shankar Temple:** An ancient temple known for its intricate stone carvings and historical significance.
 *   **Roerich Art Gallery:** Showcases the works of Russian artist Nicholas Roerich, who made Naggar his home.
-    <img src="placeholder_image_tag_roerich_art_gallery.jpg" alt="Roerich Art Gallery">
+    
 *   **Jagati Patt Temple:** A significant temple known for its unique architecture and religious significance.
 *   **Uruswati Himalayan Folk Art Museum:** Dedicated to preserving and showcasing Himalayan culture and art.
 *   **The Tripura Sundari Temple:** An attractive temple dedicated to the deity Tripura Sundari is also worth visiting.
@@ -72,7 +72,7 @@ Naggar's cuisine offers a delightful experience with its local flavors.
 *   **Traditional Dishes:** Try traditional Himachali dishes like *Siddu*, *Chha Gosht*, and *Tudki Bhari*.
 *   **Street Food:** Enjoy local street food like momos and thukpa, commonly found in the region.
 *   **Restaurants and Cafes:** Several restaurants and cafes in Naggar offer a mix of Indian, Tibetan, and continental cuisine.
-    <img src="placeholder_image_tag_naggar_food.jpg" alt="Naggar Food">
+    
 
 ### **Flora and Fauna**
 

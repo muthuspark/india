@@ -26,7 +26,7 @@ The history of Simlipal is intertwined with the indigenous communities, particul
 
 Simlipal's landscape is a breathtaking tapestry of natural wonders. The park boasts dense sal forests, grasslands, and rolling hills, interspersed with stunning waterfalls and meandering rivers. The highest peak, *Khairiburu*, offers panoramic views of the undulating terrain.
 
-<img src="placeholder_image_simlipal_landscape.jpg" alt="Panoramic view of Simlipal National Park">
+
 
 The park is crisscrossed by several perennial rivers, including the Budhabalanga, which feeds majestic waterfalls such as Barehipani Falls and Joranda Falls. Barehipani Falls, one of the highest waterfalls in India, offers a mesmerizing sight as water plunges down from a considerable height. The scenic viewpoints, especially at sunrise and sunset, provide unforgettable vistas of the forest canopy and the surrounding hills. The natural environment within the park is truly pristine and supports the complex ecosystems with high biodiversity.
 
@@ -34,8 +34,8 @@ The park is crisscrossed by several perennial rivers, including the Budhabalanga
 
 The primary attractions within Simlipal National Park are its natural features.
 
-*   **Barehipani Falls:** A cascading waterfall that is one of the highest in India. <img src="placeholder_image_barehipani_falls.jpg" alt="Barehipani Falls">
-*   **Joranda Falls:** Another spectacular waterfall, offering a different perspective on the park's water features. <img src="placeholder_image_joranda_falls.jpg" alt="Joranda Falls">
+*   **Barehipani Falls:** A cascading waterfall that is one of the highest in India. 
+*   **Joranda Falls:** Another spectacular waterfall, offering a different perspective on the park's water features. 
 *   **Chahala:** A picturesque meadow that provides excellent opportunities for wildlife sighting, particularly elephants and deer.
 *   **Gudgudia Mahadev Temple:** A small but significant religious site for local communities.
 *   **Ushakothi Cave:** A pre-historic site
@@ -72,7 +72,7 @@ The local cuisine around Simlipal offers a taste of tribal flavors and tradition
 *   **Bamboo Shoot Dishes:** Local specialties made with freshly harvested bamboo shoots.
 *   **Street food:** Visitors can enjoy local snacks and street food.
 
-<img src="placeholder_image_local_cuisine.jpg" alt="Local cuisine photo">
+
 
 Popular restaurants and food stalls are primarily found in nearby towns like Baripada, offering a range of dining options.
 
@@ -95,7 +95,7 @@ The best time to visit Simlipal National Park is during the winter months, from 
 *   **Nearest Railway Station:** Baripada Railway Station is closest to the park’s entry points.
 *   **Road:** Well-connected by road. You can hire a taxi or take a bus from Bhubaneswar or other major cities in Odisha. The park is approximately 270 kilometers from Bhubaneswar.
 
-<img src="placeholder_image_transportation.jpg" alt="Image of a bus or train station">
+
 
 ### **Accommodation Options**
 
@@ -107,7 +107,7 @@ Accommodation options near Simlipal range from government-run forest guest house
 
 ### **Offbeat Experiences**
 
-*   **Village Visits:** Explore nearby tribal villages to experience their unique cultures and traditions. <img src="placeholder_image_tribal_village.jpg" alt="Tribal Village Image">
+*   **Village Visits:** Explore nearby tribal villages to experience their unique cultures and traditions. 
 *   **Interaction with Locals:** Engage with the local communities to learn about their way of life, cuisine, and traditional practices.
 *   **Birdwatching Trails:** Explore the park with experienced birdwatchers to identify various avian species.
 

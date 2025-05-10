@@ -23,7 +23,7 @@ The Valley of Flowers was unknown to the outside world until 1931 when British m
 
 ### **Natural Beauty**
 
-<img src="placeholder_valley_of_flowers_landscape.jpg" alt="Valley of Flowers Landscape">
+
 
 The Valley of Flowers is a testament to nature's artistry. Surrounded by the majestic Himalayan peaks, the landscape is dominated by rolling meadows, lush alpine forests, and the glistening Pushpawati River that meanders through the valley. The primary natural attraction is, of course, the vibrant tapestry of wildflowers that bloom during the monsoon season. These include:
 
@@ -44,7 +44,7 @@ The primary attraction is undoubtedly the **Valley of Flowers trek** itself. It'
 
 ### **Adventure Activities**
 
-<img src="placeholder_valley_of_flowers_trekking.jpg" alt="Valley of Flowers Trekking">
+
 
 The Valley of Flowers is primarily known for its trekking opportunities.
 
@@ -67,7 +67,7 @@ The food options are limited but sufficient, with Ghangaria being the only place
 
 ### **Flora and Fauna**
 
-<img src="placeholder_valley_of_flowers_flora.jpg" alt="Valley of Flowers Flora">
+
 
 The Valley of Flowers is renowned for its diverse flora. Beyond the wildflowers mentioned earlier, it is home to a variety of medicinal herbs and plants.
 

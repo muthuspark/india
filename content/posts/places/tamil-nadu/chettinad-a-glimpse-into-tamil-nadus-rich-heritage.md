@@ -24,7 +24,7 @@ The history of Chettinad is inextricably linked to the Nattukottai Chettiars, a 
 
 The region is dotted with magnificent mansions, a testament to the Chettiars' wealth and architectural prowess. These homes are not just dwellings; they are intricate works of art, showcasing a blend of local and international design elements. These structures often feature courtyards, elaborate wood carvings, stained-glass windows, and imported materials like marble and teak.
 
-Chettinad culture is deeply rooted in tradition. The region boasts vibrant festivals like the Pongal harvest festival, the Navaratri festival, and temple festivals, which are celebrated with great enthusiasm. These events are marked by elaborate rituals, colorful processions, and the display of intricate Kolam designs, traditional rice flour art. The community's temples, especially the ones dedicated to local deities, serve as the focal point of many cultural activities and social gatherings. <img src="placeholder_temple_festival.jpg" alt="Chettinad Temple Festival">
+Chettinad culture is deeply rooted in tradition. The region boasts vibrant festivals like the Pongal harvest festival, the Navaratri festival, and temple festivals, which are celebrated with great enthusiasm. These events are marked by elaborate rituals, colorful processions, and the display of intricate Kolam designs, traditional rice flour art. The community's temples, especially the ones dedicated to local deities, serve as the focal point of many cultural activities and social gatherings. 
 
 ### **Natural Beauty**
 
@@ -34,9 +34,9 @@ The landscape of Chettinad is characterized by a relatively flat terrain, dotted
 
 Chettinad offers a wealth of attractions for travelers seeking cultural immersion and architectural marvels.
 
-*   **Chettinad Mansions:** Explore the architectural grandeur of these sprawling homes. Kandanur, Athangudi, and Kanadukathan are well-known for their particularly impressive mansions, many of which are open to the public or offer accommodations. Visitors can walk through these mansions, marveling at their intricate designs and learning about Chettiar history. <img src="placeholder_chettinad_mansion.jpg" alt="Chettinad Mansion">
+*   **Chettinad Mansions:** Explore the architectural grandeur of these sprawling homes. Kandanur, Athangudi, and Kanadukathan are well-known for their particularly impressive mansions, many of which are open to the public or offer accommodations. Visitors can walk through these mansions, marveling at their intricate designs and learning about Chettiar history. 
 
-*   **Athangudi Tiles:** Witness the making of the famous Athangudi tiles. Handmade with local materials, these tiles are known for their vibrant colors and unique designs. Visitors can tour tile factories and observe the intricate manufacturing process. <img src="placeholder_athangudi_tiles.jpg" alt="Athangudi Tile Factory">
+*   **Athangudi Tiles:** Witness the making of the famous Athangudi tiles. Handmade with local materials, these tiles are known for their vibrant colors and unique designs. Visitors can tour tile factories and observe the intricate manufacturing process. 
 
 *   **Temples:** Visit the many ancient temples dedicated to local deities, such as the Sri Meenakshi Amman Temple in Kottaiyur and the Sri Kailasanathar Temple in Pillaiyarpatti. These temples are not just places of worship but also centers of cultural activity and architectural excellence.
 
@@ -122,6 +122,6 @@ Chettinad offers a variety of accommodation options.
 
 ### **Conclusion**
 
-Chettinad offers an enchanting blend of history, culture, architecture, and culinary delights. A journey to this region is a step back in time, allowing you to appreciate the intricate details of its magnificent mansions, the bold flavors of its cuisine, and the warmth of its people. Chettinad is a destination that caters to those seeking authentic travel experiences, offering a unique window into the rich heritage of Tamil Nadu. Explore the beauty, history, and culture, and create unforgettable memories in this remarkable region. <img src="placeholder_chettinad_panorama.jpg" alt="Chettinad Panorama">
+Chettinad offers an enchanting blend of history, culture, architecture, and culinary delights. A journey to this region is a step back in time, allowing you to appreciate the intricate details of its magnificent mansions, the bold flavors of its cuisine, and the warmth of its people. Chettinad is a destination that caters to those seeking authentic travel experiences, offering a unique window into the rich heritage of Tamil Nadu. Explore the beauty, history, and culture, and create unforgettable memories in this remarkable region. 
 
 

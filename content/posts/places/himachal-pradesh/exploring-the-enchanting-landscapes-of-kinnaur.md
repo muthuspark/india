@@ -26,7 +26,7 @@ Kinnaur's history is as captivating as its scenery. The region has been a vital 
 
 The Kinnauri people, the predominant ethnic group in the region, have a unique culture with a blend of both Buddhist and Hindu traditions. They are known for their colorful attire, intricate handicrafts, and vibrant festivals.  The Kinnauri culture is deeply intertwined with the landscape, with rituals and practices often reflecting the rhythms of nature.
 
-<img src="placeholder_image_kinnauri_culture.jpg" alt="Kinnauri Culture">
+
 
 Major historical landmarks include the ancient temples and monasteries such as the Kamru Fort in Sangla, the Raksham-Chitkul area, and the various gompas (monasteries) that dot the region. Festivals are integral to Kinnauri life, with prominent celebrations including the Fagli festival, which celebrates the harvest, and the Losar festival (Tibetan New Year). These events offer a deep dive into the local culture and heritage. The preservation of ancient dialects and traditions adds to the rich cultural tapestry of Kinnaur.
 
@@ -34,7 +34,7 @@ Major historical landmarks include the ancient temples and monasteries such as t
 
 Kinnaur’s landscape is a masterpiece of nature.  The region is characterized by its dramatic elevation changes, from verdant valleys filled with apple orchards and terraced farms to the snow-capped peaks of the Greater Himalayas.  The Baspa, Sutlej, and Spiti rivers carve their way through the valleys, adding to the scenic beauty.
 
-<img src="placeholder_image_kinnaur_landscape.jpg" alt="Kinnaur Landscape">
+
 
 Prominent viewpoints include the viewpoints along the Hindustan-Tibet road, offering panoramic views of the towering mountains, deep gorges, and the flowing Sutlej River. The Sangla Valley is particularly known for its lush landscapes, fruit orchards, and snow-covered mountain vistas. The Kinnaur Kailash peak, a sacred mountain for both Hindus and Buddhists, is a breathtaking sight, especially during sunrise and sunset when the light reflects off the mountain.  The surrounding forests are home to diverse flora and fauna, including the endangered Himalayan Ibex and various species of birds. Scenic spots include the villages of Chitkul, the last inhabited village near the Indo-Tibet border, and Kalpa, offering stunning views of the Kinnaur Kailash.
 
@@ -43,7 +43,7 @@ Prominent viewpoints include the viewpoints along the Hindustan-Tibet road, offe
 Kinnaur offers a diverse range of attractions, catering to various interests:
 
 *   **Kamru Fort (Sangla):** A historic fort with intricate wooden carvings, offering a glimpse into Kinnauri architecture and history.
-    <img src="placeholder_image_kamru_fort.jpg" alt="Kamru Fort">
+    
 *   **Chitkul:** The last inhabited village before the Indo-Tibet border, known for its scenic beauty, quaint houses, and the Baspa River.
 *   **Kalpa:** A village renowned for its panoramic views of the Kinnaur Kailash and its ancient temples, including the Hu-Bu-Lan-Kar monastery.
 *   **Reckong Peo:** The district headquarters, offering stunning views and a chance to experience local life.
@@ -72,7 +72,7 @@ The local markets in Kinnaur offer a glimpse into the region's rich traditions a
 *   **Local Specialties:** Look for locally made apple products such as juices, jams, and dried fruits. Traditional silverware and jewelry are also available.
 *   **Textiles:** Handwoven textiles with intricate designs, showcasing the skill of local artisans.
 
-<img src="placeholder_image_kinnauri_handicrafts.jpg" alt="Kinnauri Handicrafts">
+
 
 ### **Food and Cuisine**
 

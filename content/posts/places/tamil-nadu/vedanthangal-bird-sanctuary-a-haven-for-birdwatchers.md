@@ -25,7 +25,7 @@ The history of Vedanthangal Bird Sanctuary is interwoven with the local communit
 
 Vedanthangal Bird Sanctuary’s landscape is predominantly wetlands, a shallow lake surrounded by scrub forests and agricultural lands. The key feature is the large, shallow lake which is crucial for the birds to nest and feed.  The surrounding vegetation provides shelter and acts as a buffer zone. The area is relatively flat, enhancing the views of the birds and creating a perfect spot for photography. While there are no specific viewpoints offering panoramic vistas, the viewing platforms and pathways within the sanctuary offer excellent opportunities to observe the birds up close and capture stunning photographs of their natural behavior.  The natural environment of Vedanthangal is defined by the changing seasons and the annual influx of migratory birds. The area is rich in aquatic vegetation, providing a perfect ecosystem for the birds.
 
-<img src="placeholder_image_Vedanthangal_landscape.jpg" alt="Vedanthangal Bird Sanctuary Landscape">
+
 
 ### **Must-Visit Attractions**
 
@@ -34,7 +34,7 @@ The primary attraction of Vedanthangal Bird Sanctuary is, undeniably, the birds 
 *   **Viewing Platforms:** Strategically placed platforms offer excellent vantage points to observe the birds.
 *   **Walking Trails:**  Well-maintained pathways allow visitors to explore the sanctuary and experience the natural environment.
 
-<img src="placeholder_image_Vedanthangal_birdwatching.jpg" alt="Vedanthangal Bird Sanctuary Birdwatching">
+
 
 ### **Adventure Activities**
 
@@ -72,7 +72,7 @@ The flora and fauna of Vedanthangal Bird Sanctuary are of significant ecological
 
 The vegetation around the lake consists of a diverse range of plants that are an integral part of the ecosystem, providing a vital habitat for the birds.
 
-<img src="placeholder_image_Vedanthangal_flora_fauna.jpg" alt="Vedanthangal Bird Sanctuary Flora and Fauna">
+
 
 ### **Best Time to Visit**
 
@@ -94,7 +94,7 @@ Given its proximity to Chennai, many visitors choose to make Vedanthangal a day 
 *   **Mid-Range Hotels:** Mid-range hotels and resorts are available, providing comfortable stay options.
 *   **Luxury Stays:** For those seeking a more luxurious experience, options can be found in Chennai.
 
-<img src="placeholder_image_Vedanthangal_accommodation.jpg" alt="Vedanthangal Bird Sanctuary Accommodation">
+
 
 ### **Offbeat Experiences**
 

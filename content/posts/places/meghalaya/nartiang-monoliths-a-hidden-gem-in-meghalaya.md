@@ -21,17 +21,17 @@ The Nartiang Monoliths, a cluster of standing stones nestled in the Jaintia Hill
 ### **History and Cultural Heritage**
 
 The Nartiang Monoliths are steeped in Jaintia history and tradition. They are believed to be erected by the Jaintia kings and their subjects over a period of several centuries, starting from the 15th century. The monoliths commemorate the Jaintia rulers, warriors, and significant community members. The tallest of these stones, measuring around 25 feet, is said to have been erected by Mar Phlang, a general of the Jaintia Raja. These stones served as monuments, marking the accomplishments and memory of the deceased. They also held religious significance, likely connected to ancestor worship and communal rituals. The Jaintia people, with their matrilineal society and distinct traditions, have carefully preserved the site, making it a living monument to their heritage. The area surrounding the monoliths also hosts an ancient Durga Temple, showcasing a syncretic blend of Hindu and indigenous religious practices. The annual *Behdienkhlam* festival, though not held here, is closely related to the cultural beliefs surrounding the monoliths in the Jaintia Hills.
-<placeholder image tag: Nartiang Durga Temple>
+
 
 ### **Natural Beauty**
 
 The landscape surrounding the Nartiang Monoliths is quintessentially Meghalayan: rolling hills carpeted in verdant vegetation, cascading waterfalls, and a generally lush, green environment. The monoliths themselves are positioned on a slightly elevated ground, offering views of the surrounding valleys and the distant hills. The area experiences heavy rainfall during the monsoon season, transforming the region into a vibrant paradise. The fresh, crisp air and the sounds of nature, including the occasional bird call, add to the overall tranquility of the site. The natural beauty of the Jaintia Hills is integral to the mystique of the Nartiang Monoliths, enhancing the sense of timelessness that permeates the place.
-<placeholder image tag: Scenic view of the Jaintia Hills from Nartiang>
+
 
 ### **Must-Visit Attractions**
 
 The primary attraction in Nartiang is, undoubtedly, the Nartiang Monoliths themselves. Visitors can wander among the stones, observing their varying sizes, shapes, and states of preservation. Each monolith tells a silent story of the past. The adjacent Durga Temple, an ancient structure that reflects the interaction between Hindu and local Jaintia religious practices, is another key attraction. Exploring the temple's architecture and observing the local rituals offers a deeper understanding of the region’s cultural tapestry. Visitors may also find the local village interesting and engaging.
-<placeholder image tag: Close up of the Nartiang Monoliths>
+
 
 ### **Adventure Activities**
 
@@ -40,7 +40,7 @@ While Nartiang itself doesn't offer high-intensity adventure activities, the Jai
 ### **Local Markets and Handicrafts**
 
 The local market in Nartiang is small, but visitors can find traditional items and experience the local way of life. In nearby towns like Jowai, there are opportunities to purchase local handicrafts, textiles, and souvenirs. These items often reflect the unique patterns and designs associated with the Jaintia culture.
-<placeholder image tag: Local handicraft market in Jowai>
+
 
 ### **Food and Cuisine**
 
@@ -49,7 +49,7 @@ Meghalayan cuisine is known for its distinctive flavors and use of local ingredi
 ### **Flora and Fauna**
 
 The Jaintia Hills region supports a diverse range of flora and fauna. The forests are home to various species of trees, plants, and flowers. Birdwatchers can spot a variety of birds in the area. The region is rich in biodiversity, and exploring the forests and surrounding areas offers a chance to connect with nature.
-<placeholder image tag: Flora and fauna of the Jaintia Hills>
+
 
 ### **Best Time to Visit**
 
@@ -58,7 +58,7 @@ The ideal time to visit Nartiang is during the dry season, from October to May. 
 ### **How to Reach**
 
 The nearest airport is the Umroi Airport in Shillong, which is about 80 km away. The closest railway station is Guwahati Railway Station (about 170 km away), from which you can hire a taxi or take a bus to Shillong and then to Nartiang. From Shillong, one can easily hire a taxi or take a shared jeep to Nartiang, which is approximately a 2-hour drive. The roads are generally in good condition.
-<placeholder image tag: Map showing how to reach Nartiang from Shillong>
+
 
 ### **Accommodation Options**
 

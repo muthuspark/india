@@ -24,7 +24,7 @@ The history of Nubra Valley is closely tied to the Silk Route, a historical trad
 
 The cultural heritage of Nubra Valley is deeply rooted in Tibetan Buddhism. The local population primarily follows Tibetan Buddhist practices, with a strong presence of monasteries and gompas scattered across the region. Prominent festivals like the Dosmoche festival are celebrated with great fervor, featuring traditional dances, mask dances (Cham dances), and religious ceremonies. The Diskit Monastery, the oldest and largest monastery in Nubra Valley, is a testament to the area's spiritual heritage. The Maitreya Buddha statue, perched high above the valley, stands as a symbol of peace and prosperity. The culture is also reflected in the colorful prayer flags that adorn the mountain passes and the traditional Ladakhi architecture of the villages.
 
-<img src="placeholder_image_tag_for_Diskit_Monastery.jpg" alt="Diskit Monastery">
+
 
 ### **Natural Beauty**
 
@@ -32,7 +32,7 @@ Nubra Valley's natural beauty is unparalleled. The valley is a cold desert, fram
 
 The views from the high-altitude passes like Khardung La, which acts as a gateway to Nubra Valley, provide panoramic vistas of the surrounding landscape. The panoramic view of the valley from Sumur, with its lush green patches, is a sight to behold. The vast expanse of the cold desert, punctuated by the serpentine rivers, adds to the overall allure of the natural beauty.
 
-<img src="placeholder_image_tag_for_Hunder_Sand_Dunes.jpg" alt="Hunder Sand Dunes">
+
 
 ### **Must-Visit Attractions**
 
@@ -46,7 +46,7 @@ Nubra Valley boasts a number of must-visit attractions, each offering a unique g
 *   **Ensa Monastery:** A less-visited monastery located near Diskit, offering a serene and secluded experience.
 *   **Maitreya Buddha Statue (Diskit):** The colossal statue of the Buddha overlooking the Diskit Monastery.
 
-<img src="placeholder_image_tag_for_Maitreya_Buddha_Statue.jpg" alt="Maitreya Buddha Statue">
+
 
 ### **Adventure Activities**
 
@@ -67,7 +67,7 @@ Local markets in Nubra Valley offer a chance to experience the local culture and
 *   **Jewelry:** You can find silver and turquoise jewelry, as well as traditional Ladakhi ornaments.
 *   **Souvenirs:** Markets also offer a variety of souvenirs, such as prayer flags, Buddhist artifacts, and local clothing.
 
-<img src="placeholder_image_tag_for_local_handicrafts.jpg" alt="Local Handicrafts">
+
 
 ### **Food and Cuisine**
 
@@ -109,7 +109,7 @@ Nubra Valley offers a range of accommodation options to suit different budgets:
 *   **Campsites:** Camping is a popular option, especially near Hunder, offering unique views of the sand dunes and the night sky.
 *   **Hotels:** Hotels offering varying levels of comfort are available in Diskit and Hunder.
 
-<img src="placeholder_image_tag_for_accommodation.jpg" alt="Accommodation">
+
 
 ### **Offbeat Experiences**
 

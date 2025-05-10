@@ -16,7 +16,7 @@ tags:
 
 ### **Introduction**
 
-Ponmudi, a picturesque hill station in Kerala, also known as the "Golden Peak," is a verdant paradise nestled within the Western Ghats. While it's not located in Kottayam, it is situated in the Thiruvananthapuram district. The region's proximity to popular destinations in Kerala, such as Kovalam and Trivandrum, makes it an easily accessible escape from the coastal heat. Ponmudi's charm lies in its rolling hills, lush tea plantations, and the ever-present mist that often shrouds the peaks, creating a magical and serene atmosphere. The elevation of Ponmudi is approximately 1,100 meters (3,600 ft) above sea level. This altitude ensures a perpetually pleasant climate, making it a perfect destination for nature lovers and those seeking respite from the hustle and bustle of city life. <img src="placeholder_image_ponmudi_intro.jpg" alt="Ponmudi Introduction">
+Ponmudi, a picturesque hill station in Kerala, also known as the "Golden Peak," is a verdant paradise nestled within the Western Ghats. While it's not located in Kottayam, it is situated in the Thiruvananthapuram district. The region's proximity to popular destinations in Kerala, such as Kovalam and Trivandrum, makes it an easily accessible escape from the coastal heat. Ponmudi's charm lies in its rolling hills, lush tea plantations, and the ever-present mist that often shrouds the peaks, creating a magical and serene atmosphere. The elevation of Ponmudi is approximately 1,100 meters (3,600 ft) above sea level. This altitude ensures a perpetually pleasant climate, making it a perfect destination for nature lovers and those seeking respite from the hustle and bustle of city life. 
 
 ### **History and Cultural Heritage**
 
@@ -24,14 +24,14 @@ While the history of Ponmudi itself is relatively recent, the region surrounding
 
 ### **Natural Beauty**
 
-Ponmudi's natural beauty is its defining characteristic. The landscape is dominated by verdant hills, often draped in a thick blanket of mist. The area is part of the Western Ghats, a UNESCO World Heritage site, renowned for its rich biodiversity. The air is cool and crisp, carrying the scent of pine and eucalyptus. Key viewpoints offer breathtaking panoramic vistas. The Golden Valley provides access to the Kallar River, offering a picturesque experience with crystal clear waters and the sounds of nature. <img src="placeholder_image_ponmudi_natural_beauty.jpg" alt="Ponmudi Natural Beauty"> The region also has a mini waterfalls which add charm to this hillstation. The surrounding forests are a haven for nature enthusiasts, offering opportunities for trekking and bird-watching. The region surrounding Ponmudi also has tea plantations, which contributes to the scenic beauty and pleasant climate.
+Ponmudi's natural beauty is its defining characteristic. The landscape is dominated by verdant hills, often draped in a thick blanket of mist. The area is part of the Western Ghats, a UNESCO World Heritage site, renowned for its rich biodiversity. The air is cool and crisp, carrying the scent of pine and eucalyptus. Key viewpoints offer breathtaking panoramic vistas. The Golden Valley provides access to the Kallar River, offering a picturesque experience with crystal clear waters and the sounds of nature.  The region also has a mini waterfalls which add charm to this hillstation. The surrounding forests are a haven for nature enthusiasts, offering opportunities for trekking and bird-watching. The region surrounding Ponmudi also has tea plantations, which contributes to the scenic beauty and pleasant climate.
 
 ### **Must-Visit Attractions**
 
 While Ponmudi itself doesn't have many individual structures, the entire area serves as a continuous attraction, offering a complete and unforgettable experience. Key attractions include:
 
 *   **Ponmudi View Point:** Offering unparalleled panoramic views of the surrounding hills, valleys, and the lush greenery.
-*   **Golden Valley:** A picturesque spot alongside the Kallar River, ideal for spending a day by the river. <img src="placeholder_image_ponmudi_golden_valley.jpg" alt="Ponmudi Golden Valley">
+*   **Golden Valley:** A picturesque spot alongside the Kallar River, ideal for spending a day by the river. 
 *   **Mini Falls:** A beautiful waterfall, adding to the charm of the region and providing a refreshing experience.
 *   **Agasthyakoodam:** This is a trekker's paradise, although access is restricted and often requires permits and seasonal availability. This peak, part of the Agasthyamala Biosphere Reserve, is known for its rich biodiversity and offers challenging trekking experiences.
 
@@ -86,7 +86,7 @@ Ponmudi offers a range of accommodation options, suitable for various budgets:
 *   **Mid-Range Hotels:** Numerous mid-range hotels offer comfortable stays.
 *   **Resorts:** Some resorts are available for a luxurious experience, offering stunning views and amenities.
 
-<img src="placeholder_image_ponmudi_accommodation.jpg" alt="Ponmudi Accommodation">
+
 
 ### **Offbeat Experiences**
 

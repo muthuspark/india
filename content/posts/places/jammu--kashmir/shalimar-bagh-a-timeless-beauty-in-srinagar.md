@@ -26,7 +26,7 @@ Shalimar Bagh's history is deeply intertwined with the Mughal Empire. It was bui
 
 Shalimar Bagh is set against the stunning backdrop of the Zabarwan mountain range and the serene waters of Dal Lake. The garden itself is a testament to natural beauty, designed to incorporate the elements of the landscape seamlessly. Terraced lawns, meticulously planted with a variety of flowering plants and trees, create a visual symphony of color and texture. Fountains and water channels, strategically placed throughout the garden, add to the tranquility and beauty, reflecting the sky and surrounding scenery. The view from the uppermost terrace provides panoramic views of Dal Lake and the surrounding hills, offering a perfect blend of natural and architectural beauty. The Mughal architecture, combined with the natural environment, creates a breathtaking panorama.
 
-<img src="placeholder_image_shalimar_bagh_landscape.jpg" alt="Landscape of Shalimar Bagh, with Dal Lake and mountains in the background">
+
 
 ### **Must-Visit Attractions**
 
@@ -100,7 +100,7 @@ Srinagar offers a wide range of accommodation options, from budget-friendly hote
 *   **Houseboats:** An iconic stay experience on Dal Lake.
 *   **Heritage Hotels:** For a unique experience, consider staying in a heritage property reflecting local culture.
 
-<img src="placeholder_image_shalimar_bagh_hotel.jpg" alt="Hotel located near Shalimar Bagh">
+
 
 ### **Offbeat Experiences**
 

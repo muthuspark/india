@@ -24,7 +24,7 @@ The Mawphlang Sacred Forest, a verdant sanctuary nestled in the Khasi Hills of M
 
 The history of the Mawphlang Sacred Forest is deeply rooted in the traditional Khasi faith, known as *Niam Khasi*. For generations, the local Khasi community has held the forest sacred, believing it to be the abode of the local deity, *U Blei Mawphlang*. Access to the forest was and still is, regulated by the *Lyngdoh*, the hereditary High Priest who is the spiritual head of the village and the custodian of the forest.
 
-<placeholder image tag: Image of the Lyngdoh or a Khasi elder>
+
 
 The Khasi people have a matrilineal society, where lineage and inheritance are traced through the mother. This cultural aspect is reflected in their reverence for the earth, often seen as the mother of all life. The forest itself is considered a living entity, with a spirit to be respected. Cutting trees, removing anything from the forest, or even disturbing the natural order is strictly prohibited. The forest's protection is not enforced by any law but by the strong cultural taboos and beliefs of the community. This preservation is what makes the forest such an exceptional example of environmental stewardship. Historically, the forest has served as a place for traditional rituals, ceremonies, and conflict resolutions, solidifying its central role in the lives of the Mawphlang villagers.
 
@@ -32,7 +32,7 @@ The Khasi people have a matrilineal society, where lineage and inheritance are t
 
 The Mawphlang Sacred Forest is a lush, evergreen forest, a relic of the ancient forests that once covered this region. Unlike other forests that might have been altered by human activity, the Sacred Forest has remained virtually untouched for hundreds of years.
 
-<placeholder image tag: Panoramic view of the Mawphlang Sacred Forest>
+
 
 The landscape within the forest is diverse, featuring towering trees, dense undergrowth, and a unique ecosystem shaped by the strict protection of the community. The forest floor is covered with a thick carpet of moss, ferns, and a variety of other plants, creating a mystical atmosphere. The air is crisp and fresh, filled with the sounds of rustling leaves and the calls of unseen birds. One can witness the forest from various vantage points along the walking trails, observing the canopy of the trees. A key feature is the presence of many monoliths, large standing stones, that are scattered across the forest. These are believed to mark important locations and are a significant part of the Khasi rituals and ceremonies.
 
@@ -40,7 +40,7 @@ The landscape within the forest is diverse, featuring towering trees, dense unde
 
 The primary attraction in Mawphlang is, undoubtedly, the Sacred Forest itself. Visitors are typically accompanied by local guides who are intimately familiar with the forest's history, flora, and fauna.
 
-<placeholder image tag: Image of visitors with a local guide in the Sacred Forest>
+
 
 Walking through the forest is an immersive experience, with the guide explaining the significance of various plants, trees, and rock formations. While within the forest, visitors can observe the numerous monoliths scattered throughout. They are ancient stone structures that are believed to have religious or historical significance. These are an integral part of the Khasi cultural landscape. Although the interior of the forest is the core attraction, the village of Mawphlang itself, with its traditional houses and friendly locals, is also worth exploring to learn more about the Khasi way of life.
 
@@ -71,7 +71,7 @@ Khasi cuisine is known for its use of local ingredients and unique flavors.
 
 The Mawphlang Sacred Forest is rich in biodiversity.
 
-<placeholder image tag: Image of the unique flora of the Sacred Forest>
+
 
 *   **Flora:** The forest is a sanctuary for a variety of plant species, including many that are rare or endemic to the region. The forest is also home to unique orchids, medicinal plants, and a diverse range of trees.
 *   **Fauna:** While wildlife is not as visible due to the forest's undisturbed nature, it provides a home to various species of birds, insects, and small mammals.

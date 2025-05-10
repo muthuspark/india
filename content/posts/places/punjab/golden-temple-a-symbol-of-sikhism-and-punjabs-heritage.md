@@ -26,7 +26,7 @@ The cultural significance of the Golden Temple extends beyond religious boundari
 
 ###  **Natural Beauty**
 
-While Amritsar itself is primarily an urban center, the Golden Temple complex offers a serene and aesthetically pleasing environment. The temple is set in a large, rectangular water pool called the *Sarovar*, and its shimmering golden architecture reflects beautifully in the water. The surrounding areas are well-maintained, featuring gardens and pathways. The natural beauty is enhanced by the reflection of the temple in the water, the calm atmosphere, and the continuous recitation of Gurbani (Sikh hymns). The area is also surrounded by historical buildings and other Sikh places of worship, which adds to its beauty. <img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty around the Golden Temple">
+While Amritsar itself is primarily an urban center, the Golden Temple complex offers a serene and aesthetically pleasing environment. The temple is set in a large, rectangular water pool called the *Sarovar*, and its shimmering golden architecture reflects beautifully in the water. The surrounding areas are well-maintained, featuring gardens and pathways. The natural beauty is enhanced by the reflection of the temple in the water, the calm atmosphere, and the continuous recitation of Gurbani (Sikh hymns). The area is also surrounded by historical buildings and other Sikh places of worship, which adds to its beauty. 
 
 ### **Must-Visit Attractions**
 
@@ -39,7 +39,7 @@ The Golden Temple is, of course, the primary attraction. However, the complex of
 *   **Baba Deep Singh Gurdwara:** This is a historical structure that is connected to the history of the temple and the Sikh Gurus.
 *   **Rambagh Garden:** A historic garden located in the city that is a popular attraction.
 
-<img src="placeholder_image_must_visit_attractions.jpg" alt="Must-Visit Attractions">
+
 
 ### **Adventure Activities**
 
@@ -56,7 +56,7 @@ Amritsar is known for its vibrant markets, including:
 
 Specialties include traditional Punjabi suits, phulkari embroidery, and *juttis* (traditional Punjabi footwear). The city also produces beautiful handicrafts, including wooden carvings and hand-woven textiles.
 
-<img src="placeholder_image_local_markets.jpg" alt="Local Markets">
+
 
 ### **Food and Cuisine**
 
@@ -76,7 +76,7 @@ Popular food stalls and restaurants include:
 *   **Beera Chicken House:** Specializes in Tandoori chicken.
 *   **Makhan Fish and Chicken Corner:** Famous for its Fish Fry and other Non-Vegetarian Dishes.
 
-<img src="placeholder_image_food_and_cuisine.jpg" alt="Food and Cuisine">
+
 
 ### **Flora and Fauna**
 
@@ -98,7 +98,7 @@ Important festivals include:
 *   **By Rail:** Amritsar Junction Railway Station is well-connected to major Indian cities.
 *   **By Road:** Amritsar is easily accessible via major highways. It is approximately 250 km (155 miles) from Delhi and is well-connected by bus services from various cities in Punjab and neighboring states.
 
-<img src="placeholder_image_how_to_reach.jpg" alt="How to Reach">
+
 
 ### **Accommodation Options**
 
@@ -116,7 +116,7 @@ Amritsar offers various accommodation options:
 *   **Visit the Partition Museum:** Learn about the partition of India in 1947, which had a significant impact on Punjab.
 *   **Explore the Durgiana Temple:** It's a significant Hindu Temple.
 
-<img src="placeholder_image_offbeat_experiences.jpg" alt="Offbeat Experiences">
+
 
 ### **Conclusion**
 

@@ -22,7 +22,7 @@ Bundi, a hidden gem nestled in the Hadoti region of Rajasthan, India, is a city 
 
 Bundi’s history is deeply intertwined with the Hada Chauhans, a branch of the Chauhan clan who ruled the region for centuries. The town's origins can be traced back to the 12th century, when Rao Deva, a Hada chieftain, conquered the territory. Over the centuries, Bundi flourished as an independent state, renowned for its strategic location and artistic patronage. The rulers of Bundi were renowned for their contributions to art, literature, and architecture. They commissioned magnificent forts, palaces, and stepwells, which still stand as testaments to their power and artistic sensibilities. Bundi played a significant role in the Rajputana landscape and maintained a distinct identity.
 
-<placeholder image tag: Historical image of Bundi Fort or Palace>
+
 
 The cultural landscape of Bundi is rich with traditions and vibrant festivals. Festivals like Teej and Gangaur are celebrated with great enthusiasm, showcasing colorful processions, traditional music, and dance. Religious sites such as the various temples dotted across the city reflect the spiritual beliefs of the region. The intricately carved stepwells, known as *baoris*, are a unique architectural feature, reflecting the ingenuity of the local people in water conservation. These stepwells served as both a source of water and a social meeting place. The legacy of Bundi is evident in its exquisitely painted murals, miniature paintings, and the fine craftsmanship seen in its architecture.
 
@@ -30,11 +30,11 @@ The cultural landscape of Bundi is rich with traditions and vibrant festivals. F
 
 Bundi is nestled amidst the Aravalli hills, offering a stunning landscape of rugged terrain, lush green valleys (particularly during the monsoon), and serene lakes. The surrounding hills provide breathtaking views of the city and the countryside.
 
-<placeholder image tag: Landscape view of Bundi, showcasing the Aravalli hills>
+
 
 The Sukh Mahal, a palace on the edge of a lake, is a beautiful location to witness the natural beauty of Bundi. Nearby, the Jait Sagar Lake reflects the fort and palace, creating a picturesque panorama, especially during sunrise and sunset. The landscape is dotted with various viewpoints, offering opportunities to soak in the vistas of the surrounding hills and valleys.
 
-<placeholder image tag: Scenic view of Jait Sagar Lake with the palace in the background>
+
 
 The region is also home to a variety of flora and fauna, adding to its natural appeal. The monsoon season transforms the landscape into a vibrant green, creating an enchanting atmosphere.
 
@@ -43,15 +43,15 @@ The region is also home to a variety of flora and fauna, adding to its natural a
 Bundi is a treasure trove of historical and architectural wonders. Here are some of the must-visit attractions:
 
 *   **Taragarh Fort (Star Fort):** Perched atop a hill, this imposing fort offers panoramic views of the city and the surrounding countryside. It's known for its intricate carvings, imposing gateways, and historic significance.
-    <placeholder image tag: Image of Taragarh Fort from an angle>
+    
 *   **Bundi Palace:** A magnificent palace known for its exquisite murals, intricate architecture, and the famous Chitrashala, a gallery showcasing Bundi school miniature paintings.
-    <placeholder image tag: Image of Bundi Palace exterior or interior (Chitrashala)>
+    
 *   **Chitrashala:** A beautiful pavilion within the Bundi Palace, showcasing vibrant murals depicting scenes from the life of Lord Krishna, royal processions, and everyday life. It is considered a masterpiece of Bundi art.
-    <placeholder image tag: Image of a mural from Chitrashala>
+    
 *   **Stepwells (*Baoris*):** Bundi is famous for its numerous stepwells, showcasing remarkable architectural designs. Some notable examples include the Raniji ki Baori (Queen's Stepwell), a beautifully constructed stepwell, and the Dhabhai Kund.
-    <placeholder image tag: Image of Raniji ki Baori>
+    
 *   **Nawal Sagar Lake:** A serene lake located in the heart of the city, reflecting the image of the Taragarh Fort. It's a peaceful spot for relaxation and enjoying the scenic beauty.
-    <placeholder image tag: Image of Nawal Sagar Lake>
+    
 *   **Sukh Mahal:** A lakeside palace that served as the inspiration for Rudyard Kipling's novel *Kim*. The palace is beautiful and peaceful, offering spectacular views of the lake and surrounding hills.
 
 ### **Adventure Activities**

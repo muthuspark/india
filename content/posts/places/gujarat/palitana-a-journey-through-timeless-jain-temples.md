@@ -30,7 +30,7 @@ The landscape around Palitana is primarily characterized by the undulating terra
 
 The primary attraction in Palitana is undoubtedly the temple complex on the Shatrunjaya hill. The temple complex is a marvel of architecture, with over 3,000 temples built in marble.
 
-<img src="placeholder_palitana_temples.jpg" alt="Palitana Temples">
+
 
 Some of the most important temples include:
 
@@ -49,7 +49,7 @@ The primary physical activity in Palitana is the climb to the Shatrunjaya Hill, 
 
 Palitana has local markets where visitors can find souvenirs and religious items.
 
-<img src="placeholder_palitana_market.jpg" alt="Palitana Market">
+
 
 These include items such as idols, prayer beads (malas), and religious texts. While not widely known for specific handicrafts, you may find some small shops offering handmade items.
 
@@ -92,7 +92,7 @@ The Shibir festival, held annually, is a significant event, with many pilgrims v
 
 Palitana offers a range of accommodation options to suit different budgets.
 
-<img src="placeholder_palitana_hotels.jpg" alt="Palitana Hotels">
+
 
 *   **Budget Hotels:** Various guesthouses and budget hotels are available near the base of the Shatrunjaya hill and within the town.
 *   **Mid-Range Hotels:** Several comfortable hotels offer amenities for a more pleasant stay.

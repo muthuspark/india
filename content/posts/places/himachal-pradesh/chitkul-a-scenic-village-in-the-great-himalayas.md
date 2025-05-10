@@ -28,7 +28,7 @@ The local culture of Chitkul is primarily influenced by Tibetan Buddhism and Hin
 
 Chitkul is a paradise for nature lovers. The village is surrounded by dramatic landscapes, including snow-covered peaks, alpine meadows, and deep gorges carved by the Baspa River. The Baspa River, a major tributary of the Sutlej, flows through the valley, adding to the beauty of the area.
 
-<img src="placeholder_chitkul_scenic_view.jpg" alt="Scenic View of Chitkul">
+
 
 The surrounding mountains offer numerous viewpoints that provide panoramic views of the valley. The village itself is picturesque, with traditional houses adorned with colorful flags. During the spring and summer months, the valleys come alive with vibrant wildflowers and lush greenery, providing a mesmerizing contrast against the backdrop of the snow-capped mountains. The air here is crisp and clean, offering a refreshing experience for visitors. The natural beauty of Chitkul extends to its vibrant flora, including rhododendrons and various alpine flowers, contributing to the area's picturesque environment.
 
@@ -38,12 +38,12 @@ Chitkul, although small, offers several attractions that capture the essence of 
 
 *   **Mathi Temple:** The main temple dedicated to the local deity, Mathi, showcases the architectural and spiritual heart of Chitkul.
 
-<img src="placeholder_mathi_temple.jpg" alt="Mathi Temple in Chitkul">
+
 
 *   **Raktam Chandika Temple:** A significant temple that is a testament to the rich religious traditions of the region.
 *   **River Baspa:** The river itself is a sight to behold. Visitors can enjoy the sounds of the river, relax along its banks, or simply admire its beauty.
 
-<img src="placeholder_baspa_river.jpg" alt="Baspa River flowing through Chitkul">
+
 
 *   **Last Indian Road:** Explore the road that ends at the Indo-Tibetan border. This is the last point accessible by road for civilians.
 *   **Nearby Hiking Trails:** Various hiking trails around Chitkul offer stunning views and opportunities for exploration.

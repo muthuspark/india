@@ -26,7 +26,7 @@ The history of Kohima and the Naga people is deeply intertwined. The region has 
 
 Nagaland is renowned for its stunning natural beauty. The landscape is dominated by rolling hills, lush green valleys, and dense forests. The climate is subtropical, with warm and humid summers and cool winters. The areas around Kohima are a haven for nature lovers, with opportunities for trekking and exploring the scenic beauty.
 
-<img src="placeholder_image_for_nagaland_scenery.jpg" alt="Scenic view of Nagaland's hills and valleys">
+
 
 Prominent natural features near Kohima include:
 
@@ -73,7 +73,7 @@ Naga cuisine is distinct and flavorful, often featuring smoked meats and locally
 *   **Street Food:** Taste local snacks at the Hornbill Festival and the local markets like the steamed rice cakes, and the spicy Naga chilies.
 *   **Restaurants:** Try the local restaurants in Kohima, offering authentic Naga dishes. Some restaurants also offer continental and Indian food to cater to a wide audience. Some of the popular restaurants are:
 
-<img src="placeholder_image_of_naga_cuisine.jpg" alt="Naga Cuisine">
+
 
 ### **Flora and Fauna**
 

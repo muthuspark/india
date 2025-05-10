@@ -38,7 +38,7 @@ Kalpa’s greatest allure lies in its breathtaking natural beauty. The village i
 
 The surrounding forests are rich in diverse flora, including alpine flowers, medicinal herbs, and various species of trees. The clear mountain air and serene environment further enhance the natural beauty of Kalpa.
 
-<placeholder image tag for Natural Beauty - e.g., Kinnaur Kailash views>
+
 
 ### **Must-Visit Attractions**
 
@@ -52,7 +52,7 @@ Besides the Hu-Bu-Lan-Kar Gompa, several other attractions are worth exploring i
 *   **Chini Village:** Near Kalpa, known for its ancient monastery and picturesque setting.
 *   **Kinnaur Kailash Parikrama:** The trek around the Kinnaur Kailash mountain is an offbeat yet mesmerizing experience.
 
-<placeholder image tag for Hu-Bu-Lan-Kar Gompa>
+
 
 ### **Adventure Activities**
 
@@ -77,7 +77,7 @@ The local cuisine in Kalpa offers a delightful mix of traditional Himachali and 
 *   **Local Specialties:** Explore the local specialties like Siddu (steamed bread filled with nuts and spices).
 *   **Restaurants and Cafes:** Numerous restaurants and cafes in Kalpa serve a variety of dishes, including Indian, Chinese, and continental options.
 
-<placeholder image tag for Local Cuisine, e.g., Momo or Thukpa>
+
 
 ### **Flora and Fauna**
 
@@ -86,7 +86,7 @@ Kalpa is situated in an area with rich biodiversity. The region is home to a var
 *   **Flora:** Forests are predominantly composed of coniferous trees like deodar and pine, as well as apple orchards, wild flowers, and medicinal herbs.
 *   **Fauna:** Wildlife includes Himalayan black bears, snow leopards (in the higher reaches), ibex, and various species of birds.
 
-<placeholder image tag for Flora/Fauna, e.g., a picture of the local wildlife>
+
 
 ### **Best Time to Visit**
 
@@ -97,7 +97,7 @@ The best time to visit Kalpa is during the summer months, from **April to June**
 *   **Winter (December-March):** The village is covered in snow, but roads may be blocked due to heavy snowfall.
 *   **Monsoon (July-August):** The area experiences heavy rainfall, which can lead to landslides and road closures.
 
-<placeholder image tag for Best Time to Visit, e.g., a picture of the village during the best season>
+
 
 ### **How to Reach**
 
@@ -113,7 +113,7 @@ Kalpa offers a range of accommodation options to suit various budgets:
 *   **Homestays:** Homestays offer a chance to experience local hospitality and culture.
 *   **Budget Stays:** Budget-friendly guesthouses and lodges are available for backpackers and budget travelers.
 
-<placeholder image tag for Accommodation, e.g., hotel or homestay>
+
 
 ### **Offbeat Experiences**
 

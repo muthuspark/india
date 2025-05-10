@@ -27,7 +27,7 @@ The cultural fabric surrounding Tadoba is rich with Gond and Kolam tribal tradit
 
 Tadoba National Park is a verdant expanse of deciduous forests, predominantly teak and bamboo. The landscape is characterized by rugged terrain, with hills and valleys creating varied habitats for wildlife. The park is fed by the Andhari River, which meanders through the core area, adding to its natural charm. Two large lakes, Tadoba Lake and Kolsa Lake, are essential water sources and vital ecosystems within the park, attracting a variety of wildlife and avian species.
 
-<img src="placeholder_image_tadoba_landscape.jpg" alt="Landscape of Tadoba National Park">
+
 
 Specific viewpoints offer breathtaking panoramic views of the park's beauty. The "Tadoba Lake View Point" is a favorite spot for witnessing the sunset and wildlife activity around the lake. The "Junona View Point" provides a vantage point overlooking the lush green forests. The overall landscape, combined with the diverse ecosystems, makes Tadoba a photographer's and nature enthusiast's paradise.
 
@@ -35,7 +35,7 @@ Specific viewpoints offer breathtaking panoramic views of the park's beauty. The
 
 The primary attraction in Tadoba is, without a doubt, its wildlife. The elusive Bengal tiger is the star of the show, with frequent sightings making it a prime tiger reserve. The park boasts a significant population of tigers, making the chance of spotting one relatively high. Alongside tigers, visitors can spot leopards, sloth bears, dholes (wild dogs), gaurs (Indian bison), sambar deer, nilgai, chital, and a variety of other animals.
 
-<img src="placeholder_image_tadoba_tiger.jpg" alt="Bengal Tiger in Tadoba National Park">
+
 
 Wildlife safaris are the most common way to explore the park, and they are conducted in open-top jeeps. These safaris provide opportunities to observe the animals in their natural habitats. The park offers several zones, each with unique landscapes and wildlife spotting opportunities. Other attractions include:
 
@@ -56,7 +56,7 @@ Tadoba offers more than just wildlife safaris. The core adventure activity is, o
 
 The local markets and handicrafts of the region offer a glimpse into the cultural and artistic traditions of the area. While there isn't a large bustling marketplace *within* Tadoba, the towns surrounding the park (like Chandrapur) offer opportunities to purchase local handicrafts.
 
-<img src="placeholder_image_tadoba_handicrafts.jpg" alt="Local Handicrafts of Tadoba">
+
 
 *   **Textiles:** Traditional handloom textiles, often with tribal designs, can be found in local shops.
 *   **Bamboo Crafts:** The availability of bamboo in the region leads to the creation of various bamboo products like baskets, mats, and decorative items.
@@ -80,7 +80,7 @@ Tadoba National Park is a biodiversity hotspot, boasting a rich variety of flora
 *   **Flora:** The park's vegetation primarily consists of dense teak forests, interspersed with bamboo, mahua trees, and various other deciduous species. The forest cover provides an ideal habitat for diverse wildlife.
 *   **Fauna:** The park is famous for Bengal tigers, with a healthy population. Other prominent species include leopards, sloth bears, dholes (Indian wild dog), gaurs (Indian bison), sambar deer, nilgai, chital (spotted deer), and numerous other mammals. The park is also home to a wide array of birds, reptiles (including crocodiles), and insects.
 
-<img src="placeholder_image_tadoba_flora_fauna.jpg" alt="Diverse Flora and Fauna of Tadoba National Park">
+
 
 *   **Specific Species:**
     *   **Tigers (Panthera tigris tigris)**: The apex predator of the park, and a major draw for visitors.

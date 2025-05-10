@@ -21,11 +21,11 @@ Murud-Janjira Fort, a majestic sea fort, stands as a testament to the rich marit
 
 Murud-Janjira Fort has a rich and complex history, spanning several centuries and various rulers. Originally built by local Koli fishermen, the fort was later captured by the Siddis, a community of African origin who established their naval power in the region. The Siddis, known for their formidable naval strength, continuously fortified the island, making Janjira nearly impregnable. Despite numerous attempts by the Marathas, the Portuguese, and the British, the fort remained unconquered for over 350 years, earning it the reputation of being the "Unconquerable Fort."
 
-The fort’s history is interwoven with the rise and fall of empires and the strategic importance of the Arabian Sea. The architecture reveals a blend of indigenous, Mughal, and later colonial influences. Within its walls, remnants of palaces, mosques, and administrative buildings reflect a rich cultural heritage. The fort's cultural significance extends to the local traditions and the pride associated with its defense. The local community still cherishes stories of the fort's resilience and the Siddis' naval prowess. <img src="placeholder_image_history.jpg" alt="Historical Illustration of the fort or a historical figure">
+The fort’s history is interwoven with the rise and fall of empires and the strategic importance of the Arabian Sea. The architecture reveals a blend of indigenous, Mughal, and later colonial influences. Within its walls, remnants of palaces, mosques, and administrative buildings reflect a rich cultural heritage. The fort's cultural significance extends to the local traditions and the pride associated with its defense. The local community still cherishes stories of the fort's resilience and the Siddis' naval prowess. 
 
 ### **Natural Beauty**
 
-The landscape surrounding Murud-Janjira is characterized by the Arabian Sea, sandy beaches, and lush coastal vegetation. The fort itself sits on a rocky island, providing dramatic views of the azure waters and the coastline. The area around Murud is known for its scenic beauty, with coconut groves and casuarina trees lining the shores. <img src="placeholder_image_natural_beauty.jpg" alt="Image of Murud beach or the coastal scenery"> The natural environment of the island is also noteworthy, with unique rock formations and a vibrant marine ecosystem. The views from the fort are especially stunning at sunrise and sunset, offering breathtaking vistas of the sea and the mainland. Visitors can often spot seabirds and, occasionally, dolphins playing in the waters nearby. The calm sea is inviting, offering opportunities for boat rides and exploration.
+The landscape surrounding Murud-Janjira is characterized by the Arabian Sea, sandy beaches, and lush coastal vegetation. The fort itself sits on a rocky island, providing dramatic views of the azure waters and the coastline. The area around Murud is known for its scenic beauty, with coconut groves and casuarina trees lining the shores.  The natural environment of the island is also noteworthy, with unique rock formations and a vibrant marine ecosystem. The views from the fort are especially stunning at sunrise and sunset, offering breathtaking vistas of the sea and the mainland. Visitors can often spot seabirds and, occasionally, dolphins playing in the waters nearby. The calm sea is inviting, offering opportunities for boat rides and exploration.
 
 ### **Must-Visit Attractions**
 
@@ -37,7 +37,7 @@ The primary attraction in Murud is, of course, the Murud-Janjira Fort itself. Ac
 *   **Freshwater Lakes:** Remarkably, the fort has freshwater lakes within its walls, providing a crucial source of water during sieges.
 *   **Cannon Placement:** Remnants of huge cannons, the fort’s primary defense, are still visible. These cannons are a testament to the fort's military might.
 
-Beyond the fort, the nearby beaches of Murud and Kashid are popular destinations for relaxation. The town of Murud is a quaint place with local markets and temples. <img src="placeholder_image_fort_interiors.jpg" alt="Inside view of the fort's structures or ruins">
+Beyond the fort, the nearby beaches of Murud and Kashid are popular destinations for relaxation. The town of Murud is a quaint place with local markets and temples. 
 
 ### **Adventure Activities**
 
@@ -56,7 +56,7 @@ The local markets in Murud offer a glimpse into the daily life and culture of th
 *   **Clothing and Accessories:** You can find beachwear, clothing, and accessories, along with other souvenirs.
 *   **Fresh Seafood:** Local markets offer fresh seafood, including fish, prawns, and crabs, which are a must-try.
 
-<img src="placeholder_image_local_market.jpg" alt="Image of a local market or handicrafts stalls">
+
 
 ### **Food and Cuisine**
 
@@ -78,7 +78,7 @@ While there aren't any national parks or wildlife reserves within immediate prox
 *   **Marine Life:** The waters around the fort are home to various species of marine life, including fish, crustaceans, and various seabirds.
 *   **Bird Watching:** Birdwatchers often find various coastal birds in the area.
 
-<img src="placeholder_image_local_flora_fauna.jpg" alt="Image of a coastal bird or flora">
+
 
 ### **Best Time to Visit**
 
@@ -101,7 +101,7 @@ Murud offers a range of accommodation options to suit different budgets:
 *   **Luxury Resorts:** Some luxurious resorts offer premium amenities and services.
 *   **Homestays:** Consider homestays for a more authentic local experience.
 
-<img src="placeholder_image_accommodation.jpg" alt="Image of a hotel or guesthouse">
+
 
 ### **Offbeat Experiences**
 

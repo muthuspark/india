@@ -22,11 +22,11 @@ The history of Bhindawas Bird Sanctuary is intrinsically linked to its geographi
 
 ### **Natural Beauty**
 
-The landscape surrounding Bhindawas Bird Sanctuary is characterized by a relatively flat terrain, typical of the Haryana region. The sanctuary itself is dominated by the freshwater lake which is surrounded by agricultural lands. The wetland environment is the heart of the natural beauty, offering stunning reflections of the sky and the surrounding vegetation. The area is dotted with green fields, and patches of scrubland providing diverse habitats for wildlife. <img src="placeholder_image_of_bhindawas_landscape.jpg" alt="Bhindawas Bird Sanctuary Landscape"> The best viewpoints are along the perimeter of the lake, especially near the watchtowers and observation points which allow visitors to scan the water and surrounding areas for avian activity. The natural environment provides a vital ecosystem for numerous plant and animal species.
+The landscape surrounding Bhindawas Bird Sanctuary is characterized by a relatively flat terrain, typical of the Haryana region. The sanctuary itself is dominated by the freshwater lake which is surrounded by agricultural lands. The wetland environment is the heart of the natural beauty, offering stunning reflections of the sky and the surrounding vegetation. The area is dotted with green fields, and patches of scrubland providing diverse habitats for wildlife.  The best viewpoints are along the perimeter of the lake, especially near the watchtowers and observation points which allow visitors to scan the water and surrounding areas for avian activity. The natural environment provides a vital ecosystem for numerous plant and animal species.
 
 ### **Must-Visit Attractions**
 
-The primary attraction at Bhindawas is, undoubtedly, the birdlife. <img src="placeholder_image_of_bird_watching_at_Bhindawas.jpg" alt="Bird Watching at Bhindawas"> Visitors come to spot a wide variety of birds. The best way to experience the sanctuary is by taking a walk along the walking trails and using the observation posts and towers for bird-watching. The lake itself is a major attraction, offering serene views and chances to see birds fishing or taking flight. While Bhindawas is primarily a nature destination, there are nearby villages that offer a glimpse into the local lifestyle. Visitors can explore the rural surroundings and interact with the local communities. There are no prominent religious or historical sites within the immediate vicinity of the sanctuary, but the focus is on the natural environment and the diverse bird species.
+The primary attraction at Bhindawas is, undoubtedly, the birdlife.  Visitors come to spot a wide variety of birds. The best way to experience the sanctuary is by taking a walk along the walking trails and using the observation posts and towers for bird-watching. The lake itself is a major attraction, offering serene views and chances to see birds fishing or taking flight. While Bhindawas is primarily a nature destination, there are nearby villages that offer a glimpse into the local lifestyle. Visitors can explore the rural surroundings and interact with the local communities. There are no prominent religious or historical sites within the immediate vicinity of the sanctuary, but the focus is on the natural environment and the diverse bird species.
 
 ### **Adventure Activities**
 
@@ -38,11 +38,11 @@ While Bhindawas Bird Sanctuary itself doesn't have dedicated markets, the nearby
 
 ### **Food and Cuisine**
 
-The local cuisine in the Rewari district reflects the flavors of Haryana. Typical dishes include Bajra roti, Lassi, and various vegetarian preparations. Visitors can look for Dhabas and local eateries near Bhindawas for a taste of the local cuisine. Popular dishes include the local bread with various curries. <img src="placeholder_image_of_Haryanvi_Food.jpg" alt="Haryanvi Food"> There may not be many restaurants within close proximity to the sanctuary itself, but the nearby towns will have a variety of options.
+The local cuisine in the Rewari district reflects the flavors of Haryana. Typical dishes include Bajra roti, Lassi, and various vegetarian preparations. Visitors can look for Dhabas and local eateries near Bhindawas for a taste of the local cuisine. Popular dishes include the local bread with various curries.  There may not be many restaurants within close proximity to the sanctuary itself, but the nearby towns will have a variety of options.
 
 ### **Flora and Fauna**
 
-Bhindawas Bird Sanctuary's flora is largely represented by the wetland vegetation including aquatic plants and surrounding agricultural crops. The fauna is dominated by its birdlife, with hundreds of species, including migratory birds such as the bar-headed goose, common teal, northern pintail, and various species of ducks and herons. Resident birds like the grey francolin, black francolin, and various species of owls, eagles and kites are commonly observed. <img src="placeholder_image_of_Birds_of_Bhindawas.jpg" alt="Birds of Bhindawas"> The area is also home to some mammals like jackals, nilgai, and various reptiles and amphibians. The diversity makes the area ideal for wildlife photography and bird watching.
+Bhindawas Bird Sanctuary's flora is largely represented by the wetland vegetation including aquatic plants and surrounding agricultural crops. The fauna is dominated by its birdlife, with hundreds of species, including migratory birds such as the bar-headed goose, common teal, northern pintail, and various species of ducks and herons. Resident birds like the grey francolin, black francolin, and various species of owls, eagles and kites are commonly observed.  The area is also home to some mammals like jackals, nilgai, and various reptiles and amphibians. The diversity makes the area ideal for wildlife photography and bird watching.
 
 ### **Best Time to Visit**
 
@@ -58,7 +58,7 @@ Accommodation options are available in nearby towns such as Jhajjar, Rewari, or 
 
 ### **Offbeat Experiences**
 
-To experience an offbeat side of Bhindawas Bird Sanctuary, consider visiting the surrounding villages. Interact with the locals, and learn about their culture and lifestyle. <img src="placeholder_image_of_Village_Life_near_Bhindawas.jpg" alt="Village Life near Bhindawas"> You can volunteer for conservation-related activities or participate in local events if available. Explore the quieter trails around the sanctuary for a more personal experience with nature. Consider hiring a local guide to learn more about the sanctuary's environment and the birdlife.
+To experience an offbeat side of Bhindawas Bird Sanctuary, consider visiting the surrounding villages. Interact with the locals, and learn about their culture and lifestyle.  You can volunteer for conservation-related activities or participate in local events if available. Explore the quieter trails around the sanctuary for a more personal experience with nature. Consider hiring a local guide to learn more about the sanctuary's environment and the birdlife.
 
 ### **Conclusion**
 

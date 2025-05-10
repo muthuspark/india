@@ -24,7 +24,7 @@ Kullu, a district nestled in the heart of Himachal Pradesh, India, is a valley c
 
 Kullu has a rich and storied history, dating back to ancient times. Historically, it was an independent kingdom and a significant stopover on the trade route to Ladakh and Central Asia. The region was ruled by various dynasties, including the Pal dynasty, before coming under the influence of the British during the colonial era. The influence of both the local Rajput rulers and the British is evident in its architecture and social structures.
 
-<img src="placeholder_image_kullu_history.jpg" alt="Historical Kullu Image">
+
 
 Culturally, Kullu is known for its vibrant festivals, particularly the Kullu Dussehra, an internationally recognized festival celebrating the victory of good over evil, involving a grand procession of local deities. The region is deeply rooted in Hinduism, with numerous temples dedicated to local deities like Raghunath (Lord Rama), Hadimba Devi, and Bijli Mahadev. Traditional Kullu shawls, caps, and other handicrafts are symbols of the region's cultural identity. The local communities are known for their warm hospitality and traditional way of life, which is still remarkably preserved.
 
@@ -32,7 +32,7 @@ Culturally, Kullu is known for its vibrant festivals, particularly the Kullu Dus
 
 The natural beauty of Kullu is its primary draw. The valley is characterized by the meandering Beas River, surrounded by towering Himalayan peaks, dense pine forests, and sprawling apple orchards. The dramatic landscapes include lush green meadows, deep gorges, and cascading waterfalls, creating a picturesque panorama.
 
-<img src="placeholder_image_kullu_natural_beauty.jpg" alt="Natural Beauty Kullu Image">
+
 
 Notable viewpoints include the high passes leading to Manali and the numerous vantage points along the river. Scenic attractions such as the Great Himalayan National Park, a UNESCO World Heritage Site, which lies partially within Kullu, offers unparalleled opportunities for experiencing the region's diverse flora and fauna. The park is a haven for wildlife enthusiasts and offers trekking routes that provide breathtaking views.
 
@@ -48,7 +48,7 @@ Kullu offers a plethora of attractions for tourists.
 *   **Manikaran Sahib:** Famous for its hot springs and Gurudwara, located along the Parvati River.
 *   **Naggar Castle:** A historic castle that provides panoramic views of the surrounding valleys.
 
-<img src="placeholder_image_kullu_attractions.jpg" alt="Kullu Attractions Image">
+
 
 ### **Adventure Activities**
 
@@ -61,7 +61,7 @@ For adventure enthusiasts, Kullu is a paradise.
 *   **Mountain Biking:** Trails suitable for mountain biking offer a chance to explore the region at a faster pace.
 *   **Zorbing:** Experience rolling down a hill inside a transparent orb.
 
-<img src="placeholder_image_kullu_adventure.jpg" alt="Adventure Activities Kullu Image">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -72,7 +72,7 @@ Kullu is renowned for its vibrant markets and traditional handicrafts. The main 
 *   **Local Apparel:** Traditional Kullu dresses are sold along with other types of regional clothing items.
 *   **Souvenirs:** Visitors can find souvenirs such as miniature paintings, local fruits, and spices.
 
-<img src="placeholder_image_kullu_market.jpg" alt="Local Market Kullu Image">
+
 
 ### **Food and Cuisine**
 
@@ -84,7 +84,7 @@ The cuisine of Kullu reflects the flavors of Himachal Pradesh, emphasizing fresh
 
 **Popular Eateries:** Local dhabas and restaurants in Kullu and nearby towns serve authentic Himachali cuisine.
 
-<img src="placeholder_image_kullu_food.jpg" alt="Kullu Food Image">
+
 
 ### **Flora and Fauna**
 

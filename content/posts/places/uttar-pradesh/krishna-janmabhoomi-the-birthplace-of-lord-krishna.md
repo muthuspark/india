@@ -24,28 +24,28 @@ Mathura boasts a rich and complex history that dates back over 3,000 years. It h
 
 Festivals are an integral part of Mathura's cultural identity. The most significant celebration is Janmashtami, the annual celebration of Lord Krishna's birth. The festival is marked by elaborate processions, vibrant decorations, and devotional singing and dancing. Other notable festivals include Holi, the festival of colors, which is celebrated with unparalleled fervor in Mathura and Vrindavan, and Govardhan Puja, a festival commemorating Lord Krishna's lifting of the Govardhan Hill. Key historical landmarks include the Kesava Deo Temple (Krishna Janmabhoomi Temple), believed to be built on the very spot where Lord Krishna was born, and the Jama Masjid, a significant example of Mughal architecture.
 
-<img src="placeholder_image_kesava_deo_temple.jpg" alt="Kesava Deo Temple">
+
 
 ### **Natural Beauty**
 
 While predominantly a cultural and religious center, Mathura enjoys the gentle beauty of the Yamuna River, which flows through the city, adding to its spiritual ambiance. The ghats (steps leading to the river) along the Yamuna provide serene spots for reflection and viewing the river's flow. The landscape surrounding Mathura is primarily agricultural, with fertile plains supporting lush greenery. Although the region doesn't boast towering mountains or extensive forests, the landscape provides a calming backdrop to the city’s vibrant atmosphere. The serene banks of the Yamuna offer a respite from the bustling city.
 
-<img src="placeholder_image_yamuna_ghats.jpg" alt="Yamuna Ghats">
+
 
 ### **Must-Visit Attractions**
 
 Mathura is packed with temples and historical sites that are must-visit attractions:
 
 *   **Krishna Janmabhoomi Temple:** The most revered temple in Mathura, believed to be the birthplace of Lord Krishna.
-<img src="placeholder_image_krishna_janmabhoomi_temple_complex.jpg" alt="Krishna Janmabhoomi Temple Complex">
+
 *   **Dwarkadheesh Temple:** A prominent temple dedicated to Lord Krishna, famous for its elaborate architecture and daily rituals.
-<img src="placeholder_image_dwarkadheesh_temple.jpg" alt="Dwarkadheesh Temple">
+
 *   **Vishram Ghat:** The most sacred ghat on the Yamuna River where Lord Krishna is believed to have rested after defeating Kansa.
-<img src="placeholder_image_vishram_ghat.jpg" alt="Vishram Ghat">
+
 *   **Jama Masjid:** A magnificent mosque reflecting the architectural influence of Mughal times.
-<img src="placeholder_image_jama_masjid_mathura.jpg" alt="Jama Masjid">
+
 *   **Mathura Museum:** A treasure trove of sculptures, artifacts, and exhibits showcasing the region’s rich history and art, particularly the Mathura School of Art.
-<img src="placeholder_image_mathura_museum.jpg" alt="Mathura Museum">
+
 *   **Govardhan Hill (Nearby):** While technically not in Mathura city, Govardhan Hill, a site of significant religious importance associated with Lord Krishna, is within easy reach.
 
 ### **Adventure Activities**
@@ -91,7 +91,7 @@ Recommended places to eat:
 The flora and fauna of the Mathura region are typical of the Gangetic plains. While the city itself doesn't have extensive wildlife reserves, the agricultural landscapes support a variety of bird species. Some key features of the area include:
 
 *   **Keoladeo National Park (Bharatpur) - Nearby:** Though in Bharatpur, it is easily accessible and is a UNESCO World Heritage site known for its diverse birdlife.
-<img src="placeholder_image_keoladeo_national_park.jpg" alt="Keoladeo National Park">
+
 *   **Common Bird Species:** The region hosts several species of birds, including peacocks, pigeons, and various migratory birds.
 *   **Agricultural Lands:** Support diverse plant life and are a habitat for various small animals.
 

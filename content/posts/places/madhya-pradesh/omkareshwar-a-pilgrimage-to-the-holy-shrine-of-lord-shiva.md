@@ -25,7 +25,7 @@ The history of Omkareshwar dates back to ancient times, evidenced by numerous in
 
 The primary focus of Omkareshwar's cultural heritage is its temples. The most significant among these is the Omkareshwar Jyotirlinga Temple, dedicated to Lord Shiva, one of the twelve Jyotirlingas in India. The temple architecture showcases a blend of various styles, reflecting the influence of different dynasties that ruled the region.
 
-<img src="placeholder_Omkareshwar_Jyotirlinga_Temple.jpg" alt="Omkareshwar Jyotirlinga Temple">
+
 
 The festivals celebrated in Omkareshwar are deeply rooted in Hindu traditions, with Maha Shivaratri being the most prominent. This festival attracts a large number of devotees who come to offer their prayers and seek the blessings of Lord Shiva. Other festivals like Navratri and Diwali are also celebrated with great enthusiasm.
 
@@ -33,7 +33,7 @@ The festivals celebrated in Omkareshwar are deeply rooted in Hindu traditions, w
 
 Omkareshwar's charm extends beyond its religious significance, thanks to its captivating natural beauty. The Mandhata island is sculpted by the Narmada river, forming a unique landscape. The river, considered one of the holiest in India, flows serenely around the island, offering stunning views from the bridges and ghats. The lush green hills surrounding the area provide a picturesque backdrop to the temples and the river.
 
-<img src="placeholder_Mandhata_Island_view.jpg" alt="Mandhata Island View">
+
 
 Visitors can find scenic viewpoints along the island's perimeter, providing breathtaking panoramas of the river, surrounding hills, and the temples. Sunrises and sunsets are particularly mesmerizing, with the light reflecting off the water and the temples.
 
@@ -41,7 +41,7 @@ Visitors can find scenic viewpoints along the island's perimeter, providing brea
 
 The primary attraction in Omkareshwar is, of course, the Omkareshwar Jyotirlinga Temple. It is divided into two parts: the Omkareshwar temple and the Amareshwar temple, both dedicated to Lord Shiva. Devotees often circumambulate the island to visit both temples.
 
-<img src="placeholder_Omkareshwar_Temple_Complex.jpg" alt="Omkareshwar Temple Complex">
+
 
 Other notable attractions include:
 

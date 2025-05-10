@@ -29,7 +29,7 @@ Sattal is a paradise for nature lovers. The primary attraction is the interconne
 
 The views from various points around the lakes are spectacular. The sunrise and sunset over the water are particularly captivating, painting the sky with vibrant colors. The Garud Tal, being the highest lake, offers a panoramic view of the entire valley. The area is also known for its diverse ecosystem, making it ideal for nature walks and bird watching.
 
-<img src="placeholder_image_sattal_natural_beauty.jpg" alt="Natural Beauty of Sattal" />
+
 
 ### **Must-Visit Attractions**
 
@@ -41,7 +41,7 @@ Besides the seven lakes, Sattal offers several must-visit attractions:
 *   **Eco-Campsites:** Several eco-friendly campsites provide immersive experiences in nature.
 *   **Nal Damyanti Tal:** A beautiful lake surrounded by lush greenery, a perfect spot for a peaceful retreat.
 
-<img src="placeholder_image_sattal_attractions.jpg" alt="Attractions in Sattal" />
+
 
 ### **Adventure Activities**
 
@@ -62,7 +62,7 @@ While Sattal itself doesn't have large, bustling markets, you can find some loca
 *   **Handicrafts:** Wooden crafts, decorative items, and local art are available.
 *   **Local Souvenirs:** These often include handcrafted items, local produce, and mementos of the region.
 
-<img src="placeholder_image_sattal_markets.jpg" alt="Local Markets and Handicrafts" />
+
 
 ### **Food and Cuisine**
 
@@ -86,7 +86,7 @@ The area is home to a wide variety of fauna:
 *   **Mammals:** The forests surrounding the lakes are inhabited by various mammals, including leopards, barking deer, and monkeys, although sightings are not always guaranteed.
 *   **Butterflies:** The Butterfly Museum showcases a variety of butterfly species found in the region, and a butterfly walk is a great way to experience the natural beauty.
 
-<img src="placeholder_image_sattal_flora_fauna.jpg" alt="Flora and Fauna of Sattal" />
+
 
 ### **Best Time to Visit**
 
@@ -116,7 +116,7 @@ Sattal offers a range of accommodation options, from budget-friendly guesthouses
 *   **Campsites:** Eco-friendly campsites around the lakes offer an immersive experience in nature.
 *   **Ashrams:** The Methodist Ashram offers rooms for spiritual retreats.
 
-<img src="placeholder_image_sattal_accommodation.jpg" alt="Accommodation in Sattal" />
+
 
 ### **Offbeat Experiences**
 

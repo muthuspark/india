@@ -26,7 +26,7 @@ Culturally, Mussoorie reflects a fusion of colonial influence and local traditio
 
 Mussoorie is celebrated for its stunning natural beauty.  The landscape is characterized by rolling hills covered in lush green vegetation, including deodar, pine, and oak forests. The panoramic views of the snow-capped Himalayan peaks are unparalleled, particularly from viewpoints like Gun Hill, the second highest point in Mussoorie, accessible via a cable car, and Lal Tibba, the highest point.  The town is graced by scenic waterfalls, such as Kempty Falls, a popular attraction where visitors can enjoy the natural cascade.
 
-<img src="placeholder_image_kempty_falls.jpg" alt="Kempty Falls - Mussoorie">
+
 
 The surrounding natural environment includes the Benog Wildlife Sanctuary, which provides an opportunity to observe a variety of flora and fauna, including rare species of birds and animals.  The clouds often descend, enveloping the town in a mystical atmosphere. The scenic beauty extends to the numerous trails and pathways that wind through the hills, providing opportunities for nature walks and trekking.
 
@@ -35,21 +35,21 @@ The surrounding natural environment includes the Benog Wildlife Sanctuary, which
 Mussoorie offers a wide array of attractions for every traveler.
 
 *   **The Mall Road:** The heart of Mussoorie, this bustling promenade offers shops, restaurants, and scenic views.
-    <img src="placeholder_image_mall_road.jpg" alt="Mall Road, Mussoorie">
+    
 *   **Gun Hill:** Accessible by a cable car or a challenging trek, Gun Hill offers breathtaking panoramic views of the Himalayas.
-    <img src="placeholder_image_gun_hill.jpg" alt="View from Gun Hill, Mussoorie">
+    
 *   **Kempty Falls:**  A popular waterfall and picnic spot.
 *   **Lal Tibba:**  The highest point in Mussoorie, providing stunning views of the surrounding peaks.
 *   **Mussoorie Lake:** A scenic lake where visitors can enjoy boating.
 *   **Camel's Back Road:** A natural rock formation resembling a camel's hump, offering picturesque views and a pleasant walk.
-    <img src="placeholder_image_camel_back_road.jpg" alt="Camel's Back Road, Mussoorie">
+    
 *   **Jwala Devi Temple:** A significant religious site with panoramic views.
 *   **Company Garden:** A well-maintained garden with a variety of flowers and recreational activities.
 *   **Christ Church:** A beautiful colonial-era church, reflecting the town’s historical religious landscape.
 *   **Happy Valley:** Known for its Tibetan temples, this area offers a glimpse into Tibetan culture and a serene atmosphere.
-    <img src="placeholder_image_happy_valley.jpg" alt="Happy Valley, Mussoorie">
+    
 *   **Cloud's End:** Located at the edge of Mussoorie, it offers stunning views and a serene experience.
-    <img src="placeholder_image_cloud_s_end.jpg" alt="Cloud's End, Mussoorie">
+    
 
 ### **Adventure Activities**
 
@@ -57,7 +57,7 @@ Mussoorie caters to adventure enthusiasts with a variety of activities.
 
 *   **Trekking:** Numerous trekking trails offer opportunities for exploring the surrounding hills and forests.  Popular treks include the one to Cloud's End or to the various vantage points around the town.
 *   **Paragliding:** For a bird's-eye view, paragliding can be enjoyed, offering an exhilarating experience.
-    <img src="placeholder_image_paragliding.jpg" alt="Paragliding, Mussoorie">
+    
 *   **Ropeway Ride:** The ride to Gun Hill on the ropeway offers a scenic journey and thrilling views.
 *   **Nature Walks:** Explore the Benog Wildlife Sanctuary and surrounding trails to enjoy bird-watching and wildlife spotting.
 

@@ -20,12 +20,12 @@ Shivagange, a revered pilgrimage site and popular trekking destination, is locat
 ### **History and Cultural Heritage**
 
 Shivagange holds significant religious and historical importance. The hill has been a center of pilgrimage for centuries, attracting devotees of Lord Shiva. The area has a rich history, with evidence suggesting connections to various dynasties that ruled the region. Legend has it that the hill was once the abode of sages and saints. The primary deity is Sri Gangadhareshwara, a form of Lord Shiva, and the temple here is believed to have been established centuries ago. The hill and its surrounding area are mentioned in ancient scriptures and folklore, adding to its mystique. Throughout the year, numerous festivals are celebrated, with Shivaratri being the most significant, attracting a large influx of devotees.
-<img src="placeholder_Shivagange_History.jpg" alt="Shivagange Historical Image">
+
 
 ### **Natural Beauty**
 
 Shivagange is renowned for its stunning natural beauty. The monolithic rock formation, composed of granite, offers a breathtaking landscape. The surrounding area is dotted with lush green vegetation, contrasting the rocky terrain. The hill provides panoramic views of the surrounding plains, especially during sunrise and sunset. The views from the peak are spectacular, offering a vantage point to appreciate the beauty of the region. The natural formations on the hill are equally impressive, with various caves and rock cut pathways.
-<img src="placeholder_Shivagange_NaturalBeauty.jpg" alt="Shivagange Natural Beauty Image">
+
 
 ### **Must-Visit Attractions**
 
@@ -35,7 +35,7 @@ The primary attraction at Shivagange is the Sri Gangadhareshwara temple, a cave 
 *   **Patalagange:** A perennial stream that flows from the hill, believed to have medicinal properties.
 *   **Olakalu Theertha:** A natural spring known for its refreshing water.
 *   **Gavi Gangadhareshwara Temple:** Another temple dedicated to Lord Shiva, known for its unique cave structure.
-<img src="placeholder_Shivagange_Attractions.jpg" alt="Shivagange Attractions Image">
+
 
 ### **Adventure Activities**
 
@@ -48,7 +48,7 @@ There are no significant local markets within the immediate vicinity of Shivagan
 ### **Food and Cuisine**
 
 Food options around Shivagange are limited but include basic South Indian vegetarian fare. Near the temples, you can find stalls selling local snacks and refreshments. Visitors often bring their own food and water, especially when trekking. For a wider variety of food, you may need to travel back towards Tumkur or Bangalore.
-<img src="placeholder="placeholder_Shivagange_Food.jpg" alt="Shivagange Food Image">
+
 
 ### **Flora and Fauna**
 
@@ -65,7 +65,7 @@ The best time to visit Shivagange is during the cooler months, from October to M
 *   **By Road:** Shivagange is well-connected by road. It is about 60 km from Bangalore. You can reach it by hiring a taxi, taking a bus from Bangalore, or driving your own vehicle. The roads are generally in good condition.
 
     The distance from Bangalore to Shivagange is approximately 60 kilometers, with a drive of around 1.5 to 2 hours, depending on traffic.
-<img src="placeholder_Shivagange_Reach.jpg" alt="Shivagange Reach Image">
+
 
 ### **Accommodation Options**
 

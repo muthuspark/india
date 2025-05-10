@@ -25,7 +25,7 @@ The cultural heritage of the area is largely influenced by the local communities
 
 ### **Natural Beauty**
 
-St. Mary's Island's most defining feature is its unique geological composition. The islands are primarily composed of basalt rocks that have crystallized into distinct, columnar formations. These formations, often hexagonal in shape, are a result of the rapid cooling of molten lava. <img src="placeholder_image_1.jpg" alt="Columnar Basalt Formations" style="max-width: 600px;"> The beaches on these islands, particularly on the main island, are stunning. They are characterized by pristine white sand, clear turquoise waters, and the gentle sounds of the Arabian Sea. The views from the island are breathtaking, offering panoramic vistas of the sea and the surrounding coastline. The sunsets here are especially mesmerizing, with the vibrant hues of the sky reflecting on the water and the basalt columns creating a dramatic silhouette.
+St. Mary's Island's most defining feature is its unique geological composition. The islands are primarily composed of basalt rocks that have crystallized into distinct, columnar formations. These formations, often hexagonal in shape, are a result of the rapid cooling of molten lava.  The beaches on these islands, particularly on the main island, are stunning. They are characterized by pristine white sand, clear turquoise waters, and the gentle sounds of the Arabian Sea. The views from the island are breathtaking, offering panoramic vistas of the sea and the surrounding coastline. The sunsets here are especially mesmerizing, with the vibrant hues of the sky reflecting on the water and the basalt columns creating a dramatic silhouette.
 
 The islands are a vital habitat for various marine species, including crabs, sea shells, and a variety of seabirds. Although the vegetation is sparse, mostly consisting of coconut palms (hence the name Coconut Island), the natural beauty of the islands is in their geological uniqueness and the tranquil coastal environment.
 
@@ -37,7 +37,7 @@ The primary attraction on St. Mary's Island is the island itself. A boat ride fr
 *   **Beaches:** The white sandy beaches and turquoise waters provide a serene and picturesque setting for relaxation and photography. The beaches are mostly on the main island, ideal for strolling and enjoying the natural beauty.
 *   **Sunsets:** The island offers spectacular sunset views that are a must-see. The best spot to witness the sunset is from the beach, offering stunning views of the sun setting over the Arabian Sea.
 
-<img src="placeholder_image_2.jpg" alt="St Mary's Island Beach" style="max-width: 600px;">
+
 
 ### **Adventure Activities**
 
@@ -70,7 +70,7 @@ The cuisine in the region is primarily influenced by coastal flavors, with seafo
 The flora and fauna on St. Mary's Island are unique and adapted to the coastal environment.
 
 *   **Flora:** The vegetation is sparse, with mostly coconut palms and other coastal plants.
-*   **Fauna:** The island is home to a variety of marine life, including crabs, sea shells, and different species of birds. <img src="placeholder_image_3.jpg" alt="Seabirds on St. Mary's Island" style="max-width: 600px;">Bird-watching is a popular activity for those interested in observing the local avifauna.
+*   **Fauna:** The island is home to a variety of marine life, including crabs, sea shells, and different species of birds. Bird-watching is a popular activity for those interested in observing the local avifauna.
 *   **Marine Life:** The surrounding waters support diverse marine life, including fish, and crustaceans. The clear waters also make it possible to spot marine life.
 *   **Preservation:** Due to the island's status as a National Geological Monument, steps are taken to preserve the local ecosystem and prevent environmental damage.
 

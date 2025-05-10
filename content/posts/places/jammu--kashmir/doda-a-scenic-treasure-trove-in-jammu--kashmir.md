@@ -24,7 +24,7 @@ Doda, a picturesque town nestled in the Doda district of the Jammu and Kashmir u
 
 The history of Doda is intertwined with the larger historical narrative of the Jammu region. The area has been influenced by various dynasties, including the Dogra rulers who left a significant mark on the region's culture and administration. Historically, Doda served as an important trading post, connecting different regions of the state. The culture of Doda is a vibrant mix of Dogri, Kashmiri, and Bhaderwahi influences. Local festivals are celebrated with great enthusiasm, showcasing colorful traditions, folk music, and dances.
 
-<placeholder image tag> A picture depicting a local festival in Doda </placeholder>
+ A picture depicting a local festival in Doda </placeholder>
 
 Religious sites, particularly temples like the Vasuki Naag Temple (located in Bhaderwah tehsil of Doda), hold significant spiritual importance, attracting devotees from across the state and beyond. The architecture often reflects a blend of local building styles and influences from the surrounding regions. Historical landmarks and architectural marvels offer glimpses into the region's rich past and cultural heritage.
 
@@ -32,7 +32,7 @@ Religious sites, particularly temples like the Vasuki Naag Temple (located in Bh
 
 Doda is blessed with breathtaking natural beauty. The landscape is dominated by towering, snow-capped mountains, lush green valleys, and dense forests. The Chenab River flows through the district, adding to its scenic charm. The area is known for its pristine environment, with fresh air and crystal-clear streams.
 
-<placeholder image tag> A panoramic view of the Doda valley with the Himalayas in the background </placeholder>
+ A panoramic view of the Doda valley with the Himalayas in the background </placeholder>
 
 Several viewpoints offer stunning vistas of the surrounding mountains and valleys. The meadows and the dense forests, especially in the Bhaderwah region, create a sense of tranquility and awe. Scenic spots like the Seoj Meadow and Jai Valley are ideal for experiencing the natural beauty of the region. These areas also offer opportunities for exploring the flora and fauna of the region.
 
@@ -41,13 +41,13 @@ Several viewpoints offer stunning vistas of the surrounding mountains and valley
 Doda boasts several must-visit attractions that cater to a wide range of interests.
 
 *   **Vasuki Naag Temple:** A significant Hindu shrine, famous for its intricate carvings and religious significance.
-    <placeholder image tag> The Vasuki Naag Temple </placeholder>
+     The Vasuki Naag Temple </placeholder>
 *   **Bhaderwah Fort:** A historical fort offering panoramic views and insight into the region's history.
-    <placeholder image tag> Bhaderwah Fort </placeholder>
+     Bhaderwah Fort </placeholder>
 *   **Jai Valley:** A popular scenic spot known for its lush meadows, ideal for picnics and nature walks.
-    <placeholder image tag> Jai Valley </placeholder>
+     Jai Valley </placeholder>
 *   **Seoj Meadow:** Another stunning meadow with picturesque landscapes, perfect for relaxation and photography.
-    <placeholder image tag> Seoj Meadow </placeholder>
+     Seoj Meadow </placeholder>
 
 ### **Adventure Activities**
 
@@ -78,7 +78,7 @@ The cuisine of Doda reflects the culinary traditions of Jammu and Kashmir, influ
 
 The area's diverse flora and fauna make it a paradise for nature enthusiasts. The forests are home to various species of trees, including pine and deodar, along with a rich variety of wildflowers. The region also hosts diverse wildlife.
 
-<placeholder image tag> A picture depicting the wildlife found in the forests of Doda </placeholder>
+ A picture depicting the wildlife found in the forests of Doda </placeholder>
 
 ### **Best Time to Visit**
 

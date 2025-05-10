@@ -25,7 +25,7 @@ The history of Baratang Island, like the rest of the Andaman and Nicobar Islands
 
 Baratang Island is a treasure trove of natural beauty, offering a dramatic contrast to the more developed islands in the archipelago. The landscape is primarily characterized by dense tropical rainforest, mangrove forests, and pristine coastline. The interior of the island is a maze of waterways and dense foliage, creating a sense of adventure and discovery.
 
-<img src="placeholder_image_mangrove_creek.jpg" alt="Mangrove Creek">
+
 The mangrove creeks are a defining feature of Baratang, providing an otherworldly experience as boats navigate the narrow passages beneath the interwoven roots. The limestone caves are another major attraction, with impressive formations sculpted by nature over millennia. The beaches, though less developed than those on Havelock or Neil Islands, are serene and offer a glimpse of untouched beauty.
 
 ### **Must-Visit Attractions**
@@ -33,13 +33,13 @@ The mangrove creeks are a defining feature of Baratang, providing an otherworldl
 Baratang Island boasts several must-visit attractions that highlight its unique character:
 
 *   **Limestone Caves:** A boat trip through the mangrove creeks leads to these magnificent caves, filled with stalactites and stalagmites, providing an enthralling experience.
-<img src="placeholder_image_limestone_caves.jpg" alt="Limestone Caves">
+
 *   **Mud Volcanoes:** Baratang is home to a unique geological feature - mud volcanoes. These small, bubbling mud pools offer a fascinating spectacle.
-<img src="placeholder_image_mud_volcanoes.jpg" alt="Mud Volcanoes">
+
 *   **Baludera Beach:** A serene beach that offers a chance to relax and enjoy the coastal beauty of the island.
-<img src="placeholder_image_baludera_beach.jpg" alt="Baludera Beach">
+
 *   **Parrot Island:** A small islet near Baratang, which is a haven for hundreds of parrots that flock to the island to roost.
-<img src="placeholder_image_parrot_island.jpg" alt="Parrot Island">
+
 
 ### **Adventure Activities**
 

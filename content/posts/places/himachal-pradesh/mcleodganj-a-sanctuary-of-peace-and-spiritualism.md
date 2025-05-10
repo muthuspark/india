@@ -31,7 +31,7 @@ Historical landmarks include the Tsuglagkhang Complex (the Dalai Lama's temple),
 
 McLeod Ganj is blessed with stunning natural beauty. The Dhauladhar range provides a majestic backdrop, with snow-capped peaks visible throughout much of the year. The landscape is characterized by lush green hills, dense forests of deodar and pine trees, and cascading waterfalls. The surrounding areas are ideal for trekking and hiking, offering panoramic views.
 
-<img src="placeholder_image_of_dhauladhar_mountains_from_mcleodganj.jpg" alt="Dhauladhar Mountains View">
+
 
 Key viewpoints include Triund Hill, offering a spectacular vista of the Dhauladhar range and Kangra Valley. Other notable attractions include Bhagsu Falls and Dal Lake, scenic spots for relaxation and enjoyment. The forests surrounding McLeod Ganj provide ample opportunities for nature walks and exploration.
 
@@ -40,19 +40,19 @@ Key viewpoints include Triund Hill, offering a spectacular vista of the Dhauladh
 McLeod Ganj is brimming with attractions catering to diverse interests.
 
 *   **Tsuglagkhang Complex (Dalai Lama's Temple):** This is the most significant attraction, featuring the Dalai Lama's temple, Namgyal Monastery, and a museum showcasing Tibetan art and history.
-    <img src="placeholder_image_of_tsuglagkhang_complex.jpg" alt="Tsuglagkhang Complex">
+    
 
 *   **Namgyal Monastery:** Located within the Tsuglagkhang Complex, this monastery is home to numerous monks and a center for Buddhist studies.
-    <img src="placeholder_image_of_namgyal_monastery.jpg" alt="Namgyal Monastery">
+    
 
 *   **Bhagsu Nag Temple and Waterfall:** A popular pilgrimage site dedicated to Lord Shiva, with a beautiful waterfall nearby.
-    <img src="placeholder_image_of_bhagsu_nag_temple_and_waterfall.jpg" alt="Bhagsu Nag Temple and Waterfall">
+    
 
 *   **St. John in the Wilderness Church:** A beautiful, colonial-era church located near McLeod Ganj, offering a serene and historical experience.
-    <img src="placeholder_image_of_st_john_in_wilderness_church.jpg" alt="St. John in the Wilderness Church">
+    
 
 *   **Triund Hill:** A challenging but rewarding trek offering breathtaking views of the Dhauladhar range and Kangra Valley.
-    <img src="placeholder_image_of_triund_hill_trek.jpg" alt="Triund Hill Trek">
+    
 
 ### **Adventure Activities**
 
@@ -73,10 +73,10 @@ McLeod Ganj and its surrounding areas offer a range of adventure activities for 
 McLeod Ganj boasts vibrant markets filled with Tibetan handicrafts, clothing, and souvenirs.
 
 *   **McLeod Ganj Main Square:** This area is lined with shops selling Tibetan artifacts, prayer wheels, thangkas (religious scroll paintings), singing bowls, and woolen garments.
-    <img src="placeholder_image_of_mcleod_ganj_market.jpg" alt="McLeod Ganj Market">
+    
 
 *   **Tibetan Handicrafts:** Look out for intricately carved wooden items, traditional jewelry, and colorful prayer flags.
-    <img src="placeholder_image_of_tibetan_handicrafts.jpg" alt="Tibetan Handicrafts">
+    
 
 *   **Handmade Goods:** You can find handmade items like shawls, sweaters, and carpets made from locally sourced wool.
 
@@ -98,7 +98,7 @@ McLeod Ganj is a culinary paradise, with a diverse array of Tibetan, Indian, and
 *   **Illiterati Books & Coffee:** A great place to enjoy coffee, snacks, and read books with stunning views.
 *   **Tibet Kitchen:** Known for authentic Tibetan dishes.
 
-<img src="placeholder_image_of_mcleod_ganj_food.jpg" alt="McLeod Ganj Food">
+
 
 ### **Flora and Fauna**
 

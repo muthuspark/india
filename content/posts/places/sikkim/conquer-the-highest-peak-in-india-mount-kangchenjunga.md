@@ -21,7 +21,7 @@ Mount Kangchenjunga, often hailed as the "Five Treasures of Snow," is the third 
 
 The history of Kangchenjunga is intertwined with the rich cultural heritage of Sikkim. For the local Lepcha and Bhutia communities, the mountain is not merely a geographical feature but a deity, a protector, and a source of spiritual power. The name "Kangchenjunga" itself is believed to originate from the Tibetan phrase "Kang-chen-dzö-nga," meaning "Five Treasures of Snow," referring to the five component peaks of the massif, representing the treasures of salt, gold, silver, grains, and holy scriptures.
 
-<img src="placeholder_image_kangchenjunga_history_cultural_heritage.jpg" alt="Kangchenjunga and cultural sites">
+
 
 The mountain features prominently in local folklore, legends, and religious practices. Ancient tales speak of the mountain's protectors, the Yaksas (nature spirits), and the importance of respecting the mountain's sanctity. Buddhist monasteries and pilgrimage sites are often oriented towards Kangchenjunga, offering visitors the chance to immerse themselves in the spiritual atmosphere. The Thanggu Valley near Lachen is a well-known site of Buddhist significance. Historically, Sikkim was an independent kingdom ruled by the Chogyal dynasty, with a close connection to Tibet. The mountain's significance was recognized throughout the kingdom’s reign, and the preservation of its natural beauty has been a key focus for the Sikkimese people.
 
@@ -29,7 +29,7 @@ The mountain features prominently in local folklore, legends, and religious prac
 
 Kangchenjunga is a titan of natural beauty, surrounded by a tapestry of varied ecosystems. The region is characterized by its diverse terrain, ranging from lush subtropical valleys to alpine meadows and icy glaciers. The snow-capped peaks of the mountain and surrounding ranges create a dramatic contrast against the green valleys below. The Kanchenjunga National Park, a UNESCO World Heritage Site, protects the mountain and its surrounding ecosystem, encompassing diverse wildlife and vegetation.
 
-<img src="placeholder_image_kangchenjunga_natural_beauty.jpg" alt="Panoramic view of Kangchenjunga and its surroundings">
+
 
 The views of Kangchenjunga vary depending on the vantage point, providing a new experience from several locations. Some of the best viewpoints for experiencing the mountain's grandeur include:
 
@@ -45,10 +45,10 @@ The natural environment is pristine, with numerous lakes, rivers, and waterfalls
 
 While the mountain itself is the primary attraction, Sikkim offers numerous other places to explore:
 
-*   **Pemayangtse Monastery:** One of the oldest and most significant monasteries in Sikkim, known for its architectural beauty and religious artifacts. <img src="placeholder_image_pemayangtse_monastery.jpg" alt="Pemayangtse Monastery">
+*   **Pemayangtse Monastery:** One of the oldest and most significant monasteries in Sikkim, known for its architectural beauty and religious artifacts. 
 *   **Rabdentse Ruins:** The ruins of the second capital of the Sikkim kingdom, offering historical insights and views.
-*   **Yuksom:** The historic village where the first Chogyal was crowned. <img src="placeholder_image_yuksom_village.jpg" alt="Yuksom Village">
-*   **Tsomgo Lake (Changu Lake):** A high-altitude lake known for its mesmerizing beauty, located on the way to Nathu La Pass. <img src="placeholder_image_tsomgo_lake.jpg" alt="Tsomgo Lake">
+*   **Yuksom:** The historic village where the first Chogyal was crowned. 
+*   **Tsomgo Lake (Changu Lake):** A high-altitude lake known for its mesmerizing beauty, located on the way to Nathu La Pass. 
 *   **Nathu La Pass:** A mountain pass on the India-China border, offering stunning views (permits required).
 *   **Rumtek Monastery:** An important monastery in Sikkim, providing insight into Tibetan Buddhism.
 *   **Namchi:** Home to the giant statue of Guru Padmasambhava.

@@ -28,7 +28,7 @@ Culturally, Naukuchiatal shares the rich heritage of the Kumaoni people. Local t
 
 The landscape around Naukuchiatal is dominated by the verdant hills of the Kumaon region, covered with dense forests of oak, pine, and rhododendron. The shimmering Naukuchiatal lake, the centerpiece of the region, is a stunning spectacle, reflecting the surrounding hills and the azure sky. The lake's unique feature, its nine corners, gives it a distinctive shape and contributes to its mystical aura.
 
-<img src="placeholder_image_naukuchiatal_lake.jpg" alt="Naukuchiatal Lake">
+
 
 The surrounding viewpoints offer panoramic vistas of the lake and the surrounding Himalayan peaks. From elevated spots, visitors can enjoy breathtaking sunsets and experience the beauty of the surrounding valleys. The natural environment is rich in biodiversity, with the surrounding forests serving as habitats for various species of flora and fauna. The lush greenery and the clean air make it a perfect destination for those seeking respite from urban life.
 
@@ -36,7 +36,7 @@ The surrounding viewpoints offer panoramic vistas of the lake and the surroundin
 
 The primary attraction in Naukuchiatal is, without doubt, the Naukuchiatal Lake itself. Boating, especially in colourful boats, is a popular activity. The serene waters are ideal for a leisurely boat ride, allowing visitors to soak in the scenic beauty of the surroundings.
 
-<img src="placeholder_image_boating_naukuchiatal.jpg" alt="Boating on Naukuchiatal Lake">
+
 
 *   **Bhimtal:** Located nearby, Bhimtal is another beautiful lake with a historic dam and an island temple. It is a good day trip from Naukuchiatal.
 *   **Nainital:** The iconic hill station of Nainital is within easy reach. Visitors can explore the Naini Lake, the Mall Road, the Naina Devi Temple, and other popular attractions.
@@ -92,7 +92,7 @@ Naukuchiatal offers a variety of accommodation options to suit different budgets
 *   **Homestays:** Homestays provide a more personal experience, allowing visitors to interact with local families and experience local hospitality.
 *   **Budget Hotels and Guesthouses:** Affordable options are available for budget travelers.
 
-<img src="placeholder_image_naukuchiatal_accommodation.jpg" alt="Naukuchiatal Accommodation">
+
 
 ### **Offbeat Experiences**
 

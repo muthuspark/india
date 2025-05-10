@@ -21,11 +21,11 @@ Alibaug, a charming coastal town nestled in the Raigad district of Maharashtra, 
 
 Alibaug's history is deeply rooted in the Maratha empire. Originally known as "Alichi Baug" meaning "garden of Ali," it's believed that the town's name comes from its founder, Ali Shah Baba, an Israelite. The region flourished under the Maratha rule, particularly during the reign of Chhatrapati Shivaji Maharaj and his successors. The town played a strategic role due to its proximity to the sea, serving as a key naval base.
 
-The cultural landscape of Alibaug reflects a blend of Hindu and Muslim influences, with Marathi being the predominant language. The local communities celebrate various festivals with great enthusiasm, including Ganesh Chaturthi, Diwali, and Holi. <img src="placeholder_image_religious_festival.jpg" alt="Religious Festival in Alibaug"> The town has several temples, reflecting its religious diversity, with the Kanakeshwar Temple being particularly significant. Historical landmarks include the famous Kolaba Fort, which stands in the sea, and the Khanderi and Undheri forts, which once played a critical role in naval defense.
+The cultural landscape of Alibaug reflects a blend of Hindu and Muslim influences, with Marathi being the predominant language. The local communities celebrate various festivals with great enthusiasm, including Ganesh Chaturthi, Diwali, and Holi.  The town has several temples, reflecting its religious diversity, with the Kanakeshwar Temple being particularly significant. Historical landmarks include the famous Kolaba Fort, which stands in the sea, and the Khanderi and Undheri forts, which once played a critical role in naval defense.
 
 ### **Natural Beauty**
 
-Alibaug is blessed with a stunning natural beauty that attracts visitors year-round. The coastline is dotted with numerous beaches, including Alibaug Beach, Varsoli Beach, Nagaon Beach, and Kashid Beach, each offering a unique experience. <img src="placeholder_image_alibaug_beach.jpg" alt="Alibaug Beach"> The area is lush with coconut groves and green paddy fields, creating a picturesque landscape. The Western Ghats in the backdrop add to the visual appeal.
+Alibaug is blessed with a stunning natural beauty that attracts visitors year-round. The coastline is dotted with numerous beaches, including Alibaug Beach, Varsoli Beach, Nagaon Beach, and Kashid Beach, each offering a unique experience.  The area is lush with coconut groves and green paddy fields, creating a picturesque landscape. The Western Ghats in the backdrop add to the visual appeal.
 
 For breathtaking views, the sunrise and sunset at Alibaug Beach are unmissable. Kashid Beach is particularly known for its pristine sands and clear waters. The nearby Akshi Beach is famous for its serene beauty and is a good spot for bird watching. The region is also home to many species of coastal birds, making it a paradise for nature lovers.
 
@@ -33,7 +33,7 @@ For breathtaking views, the sunrise and sunset at Alibaug Beach are unmissable. 
 
 Alibaug offers a variety of attractions catering to diverse interests.
 
-*   **Kolaba Fort:** This historic fort stands in the sea, about a kilometer from the shore. It's accessible via a boat ride during high tide and by foot during low tide. <img src="placeholder_image_kolaba_fort.jpg" alt="Kolaba Fort"> The fort offers a glimpse into the region's rich maritime history.
+*   **Kolaba Fort:** This historic fort stands in the sea, about a kilometer from the shore. It's accessible via a boat ride during high tide and by foot during low tide.  The fort offers a glimpse into the region's rich maritime history.
 
 *   **Kanakeshwar Temple:** This ancient temple, located on a hill, is dedicated to Lord Shiva. The temple is accessible via a trek and offers stunning views of the surrounding landscape.
 
@@ -54,7 +54,7 @@ Alibaug is an ideal location for adventure enthusiasts with its various water sp
 
 ### **Local Markets and Handicrafts**
 
-Alibaug town has local markets and bazaars that offer a glimpse into the local culture and handicrafts. The Alibaug market is the primary hub to shop for clothing, footwear, and other accessories. <img src="placeholder_image_local_market.jpg" alt="Local Market in Alibaug"> The local shops sell handicrafts, including items made of coconut shells, bamboo, and other locally sourced materials. Visitors can also find traditional Maharashtrian clothing such as sarees and kurtas.
+Alibaug town has local markets and bazaars that offer a glimpse into the local culture and handicrafts. The Alibaug market is the primary hub to shop for clothing, footwear, and other accessories.  The local shops sell handicrafts, including items made of coconut shells, bamboo, and other locally sourced materials. Visitors can also find traditional Maharashtrian clothing such as sarees and kurtas.
 
 ### **Food and Cuisine**
 
@@ -73,7 +73,7 @@ The area around Alibaug has diverse flora and fauna. The region is characterized
 
 ### **Best Time to Visit**
 
-The best time to visit Alibaug is during the winter months, from October to March. The weather is pleasant during this period, with temperatures ranging from 20°C to 30°C, making it ideal for enjoying the beaches and outdoor activities. <img src="placeholder_image_best_time_to_visit.jpg" alt="Ideal Weather in Alibaug"> During the monsoon season (June to September), Alibaug receives heavy rainfall, and while the landscape is lush, beach activities are often restricted.
+The best time to visit Alibaug is during the winter months, from October to March. The weather is pleasant during this period, with temperatures ranging from 20°C to 30°C, making it ideal for enjoying the beaches and outdoor activities.  During the monsoon season (June to September), Alibaug receives heavy rainfall, and while the landscape is lush, beach activities are often restricted.
 
 ### **How to Reach**
 
@@ -91,7 +91,7 @@ Alibaug offers a wide range of accommodation options to suit different budgets a
 *   **Budget-Friendly Stays:** There are numerous budget hotels, guesthouses, and homestays, providing affordable options for travelers.
 *   **Mid-Range Hotels:** Several mid-range hotels and resorts offer comfortable stays with modern amenities.
 *   **Luxury Resorts:** For those seeking a luxurious experience, there are several upscale resorts and villas with swimming pools, spas, and other recreational facilities.
-*   **Heritage Properties:** Some heritage properties provide a unique stay experience, showcasing the local culture and history. <img src="placeholder_image_luxury_resort.jpg" alt="Luxury Resort in Alibaug">
+*   **Heritage Properties:** Some heritage properties provide a unique stay experience, showcasing the local culture and history. 
 
 ### **Offbeat Experiences**
 

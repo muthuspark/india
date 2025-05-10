@@ -24,11 +24,11 @@ The history of Rajaji National Park is interwoven with the preservation efforts 
 
 ### **Natural Beauty**
 
-The landscape of Rajaji National Park is breathtakingly diverse, dominated by the Shivalik hills and interspersed with river valleys and dense forests. The major rivers flowing through the park are the Ganges and Song, providing a lifeline for the flora and fauna. The park is a mosaic of ecosystems, including sal forests, mixed deciduous forests, and grasslands, which provide habitats for various wildlife species. Prominent viewpoints are scattered around the park, offering panoramic views of the valleys and the surrounding hills. <img src="placeholder_image_Rajaji_Park_Landscape.jpg" alt="Rajaji National Park Landscape" style="width: 500px;"/> The natural beauty of the area is enhanced by the changing seasons. The park is a prime example of natural heritage, with a focus on conservation and preservation.
+The landscape of Rajaji National Park is breathtakingly diverse, dominated by the Shivalik hills and interspersed with river valleys and dense forests. The major rivers flowing through the park are the Ganges and Song, providing a lifeline for the flora and fauna. The park is a mosaic of ecosystems, including sal forests, mixed deciduous forests, and grasslands, which provide habitats for various wildlife species. Prominent viewpoints are scattered around the park, offering panoramic views of the valleys and the surrounding hills.  The natural beauty of the area is enhanced by the changing seasons. The park is a prime example of natural heritage, with a focus on conservation and preservation.
 
 ### **Must-Visit Attractions**
 
-The main attraction within Rajaji National Park is undoubtedly its wildlife. Chilla, Motichur and Ranipur range are the three main entry points to the park. Visitors come to see the diverse wildlife, including elephants, tigers, leopards, deer, and a wide variety of bird species. The park is best explored through jeep safaris and nature walks, offering opportunities to witness the animals in their natural habitats. <img src="placeholder_image_Rajaji_Park_Safari.jpg" alt="Rajaji National Park Safari" style="width: 500px;"/> Key attractions include:
+The main attraction within Rajaji National Park is undoubtedly its wildlife. Chilla, Motichur and Ranipur range are the three main entry points to the park. Visitors come to see the diverse wildlife, including elephants, tigers, leopards, deer, and a wide variety of bird species. The park is best explored through jeep safaris and nature walks, offering opportunities to witness the animals in their natural habitats.  Key attractions include:
 
 *   **Chilla Range:** Known for its rich wildlife sightings, including elephants and tigers.
 *   **Motichur Range:** Offers opportunities for bird watching and jungle safaris.
@@ -62,13 +62,13 @@ The culinary offerings in and around Rajaji National Park are a delightful blend
 *   **Street Food:** Enjoy local snacks such as samosas, chaat, and pakoras.
 *   **Restaurants and Cafes:** Several restaurants near the park offer a diverse range of cuisines.
 
-<img src="placeholder_image_Rajaji_Park_Food.jpg" alt="Rajaji National Park Food" style="width: 500px;"/>
+
 ### **Flora and Fauna**
 
 Rajaji National Park is a biodiversity hotspot, supporting a wide array of flora and fauna.
 
 *   **Flora:** Dominated by sal forests, mixed deciduous forests, and grasslands, providing diverse habitats for wildlife.
-*   **Fauna:** Bengal tigers, Asian elephants, leopards, deer species (such as sambar and chital), various species of monkeys (rhesus macaque, Hanuman Langur), and a remarkable avifauna. It’s a bird watcher’s paradise with over 300 bird species. <img src="placeholder_image_Rajaji_Park_Wildlife.jpg" alt="Rajaji National Park Wildlife" style="width: 500px;"/>
+*   **Fauna:** Bengal tigers, Asian elephants, leopards, deer species (such as sambar and chital), various species of monkeys (rhesus macaque, Hanuman Langur), and a remarkable avifauna. It’s a bird watcher’s paradise with over 300 bird species. 
 
 The park’s conservation efforts ensure the protection of its valuable biodiversity.
 
@@ -107,7 +107,7 @@ To enrich your experience, consider some offbeat options:
 *   **Trekking:** Explore lesser-known trails around the park.
 *   **Yoga and Meditation Retreats:** (near Rishikesh) Combine nature with spiritual practices.
 
-<img src="placeholder_image_Rajaji_Park_Offbeat.jpg" alt="Rajaji National Park Offbeat" style="width: 500px;"/>
+
 ### **Conclusion**
 
 Rajaji National Park in Uttarakhand offers a remarkable blend of natural beauty, adventure, and cultural experiences. From the awe-inspiring landscapes and diverse wildlife to the nearby spiritual havens of Haridwar and Rishikesh, this destination provides something for everyone. Whether you are a wildlife enthusiast, an adventure seeker, or a nature lover, Rajaji National Park promises a memorable journey. Explore the beauty, history, and biodiversity, and create lasting memories in this remarkable natural paradise.

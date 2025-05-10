@@ -28,7 +28,7 @@ The region surrounding Belur is characterized by its undulating landscape, green
 
 ### **Must-Visit Attractions**
 
-The prime attraction in Belur is undoubtedly the **Chennakeshava Temple**. <placeholder image tag: Chennakeshava Temple exterior> The temple’s elaborate carvings, featuring intricate sculptures of deities, celestial beings, and scenes from Hindu epics, are a visual treat. The intricate detail on the pillars, ceilings, and outer walls is remarkable. Within the temple complex are other structures like the Kappe Chennigaraya Temple and the Veeraranarayana Temple. A short distance from the main temple, visitors can explore the **Hoysala Museum**, which houses a collection of artifacts, sculptures, and historical items related to the Hoysala period, offering deeper insights into the temple and its surroundings. Another less-known site worth exploring is the **Kedareshwara Temple** which represents another sample of Hoysala Architecture
+The prime attraction in Belur is undoubtedly the **Chennakeshava Temple**.  The temple’s elaborate carvings, featuring intricate sculptures of deities, celestial beings, and scenes from Hindu epics, are a visual treat. The intricate detail on the pillars, ceilings, and outer walls is remarkable. Within the temple complex are other structures like the Kappe Chennigaraya Temple and the Veeraranarayana Temple. A short distance from the main temple, visitors can explore the **Hoysala Museum**, which houses a collection of artifacts, sculptures, and historical items related to the Hoysala period, offering deeper insights into the temple and its surroundings. Another less-known site worth exploring is the **Kedareshwara Temple** which represents another sample of Hoysala Architecture
 
 ### **Adventure Activities**
 
@@ -40,7 +40,7 @@ Belur and the surrounding areas are known for their local markets, offering a va
 
 ### **Food and Cuisine**
 
-The cuisine in Belur offers a taste of authentic Karnataka flavors. Local restaurants and eateries serve traditional South Indian dishes, including various types of dosa, idli, vada, and rice-based meals. Rice dishes, such as bisibelebath and puliyogare, are popular choices. You can sample the local filter coffee and also try snacks such as vada and bonda. Numerous small eateries and restaurants offer the local delicacies near the temple premises. <placeholder image tag: Karnataka Cuisine>
+The cuisine in Belur offers a taste of authentic Karnataka flavors. Local restaurants and eateries serve traditional South Indian dishes, including various types of dosa, idli, vada, and rice-based meals. Rice dishes, such as bisibelebath and puliyogare, are popular choices. You can sample the local filter coffee and also try snacks such as vada and bonda. Numerous small eateries and restaurants offer the local delicacies near the temple premises. 
 
 ### **Flora and Fauna**
 
@@ -58,7 +58,7 @@ The best time to visit Belur is during the cooler months, from October to March.
 
 ### **Accommodation Options**
 
-Belur offers a range of accommodation options to suit various budgets. <placeholder image tag: Hotel accommodation> Visitors can choose from budget-friendly hotels, guesthouses, and some heritage properties for a unique experience. Several hotels and resorts can be found in Hassan, the nearest major town, which offers a more extensive range of options.
+Belur offers a range of accommodation options to suit various budgets.  Visitors can choose from budget-friendly hotels, guesthouses, and some heritage properties for a unique experience. Several hotels and resorts can be found in Hassan, the nearest major town, which offers a more extensive range of options.
 
 ### **Offbeat Experiences**
 

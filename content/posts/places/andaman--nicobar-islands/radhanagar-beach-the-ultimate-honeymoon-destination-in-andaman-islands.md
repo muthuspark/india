@@ -22,17 +22,17 @@ While the Andaman and Nicobar Islands have a rich and complex history, marked by
 
 ###  **Natural Beauty**
 
-Radhanagar Beach is a testament to nature's artistry, boasting an idyllic landscape that captivates visitors. The beach features fine, powdery white sand that feels exquisite underfoot, extending for approximately 2 kilometers. The turquoise waters are exceptionally clear, allowing visibility up to several meters deep, making it ideal for swimming and snorkeling. Lush tropical forests frame the beach, providing a stunning backdrop of vibrant green against the blue and white hues of the sea and sand. <img src="placeholder-image-radhanagar-forest.jpg" alt="Lush forest next to Radhanagar Beach"> The gently sloping beach makes it safe and accessible for all ages. During low tide, the beach expands, revealing even more pristine sand. The sunsets at Radhanagar Beach are legendary, painting the sky with breathtaking shades of orange, pink, and purple, offering a mesmerizing spectacle for anyone fortunate enough to witness it. The beach is part of a protected area, helping to preserve its natural beauty.
+Radhanagar Beach is a testament to nature's artistry, boasting an idyllic landscape that captivates visitors. The beach features fine, powdery white sand that feels exquisite underfoot, extending for approximately 2 kilometers. The turquoise waters are exceptionally clear, allowing visibility up to several meters deep, making it ideal for swimming and snorkeling. Lush tropical forests frame the beach, providing a stunning backdrop of vibrant green against the blue and white hues of the sea and sand.  The gently sloping beach makes it safe and accessible for all ages. During low tide, the beach expands, revealing even more pristine sand. The sunsets at Radhanagar Beach are legendary, painting the sky with breathtaking shades of orange, pink, and purple, offering a mesmerizing spectacle for anyone fortunate enough to witness it. The beach is part of a protected area, helping to preserve its natural beauty.
 
 ### **Must-Visit Attractions**
 
-Radhanagar Beach itself is the primary attraction, offering a natural paradise for relaxation and exploration. The beach provides a serene atmosphere for sunbathing, swimming, and simply enjoying the natural surroundings. <img src="placeholder-image-radhanagar-beach-activity.jpg" alt="People enjoying various activities at Radhanagar Beach"> While there are no temples or monuments directly on the beach, the entire Havelock Island is worth exploring. Near Radhanagar Beach, visitors can embark on a short trek through the surrounding forest, offering a glimpse of the local flora and fauna.
+Radhanagar Beach itself is the primary attraction, offering a natural paradise for relaxation and exploration. The beach provides a serene atmosphere for sunbathing, swimming, and simply enjoying the natural surroundings.  While there are no temples or monuments directly on the beach, the entire Havelock Island is worth exploring. Near Radhanagar Beach, visitors can embark on a short trek through the surrounding forest, offering a glimpse of the local flora and fauna.
 
 ### **Adventure Activities**
 
 Radhanagar Beach and Havelock Island are a haven for adventure enthusiasts. Here are some popular activities:
 *   **Swimming:** The calm, clear waters of Radhanagar Beach are perfect for swimming.
-*   **Snorkeling and Scuba Diving:** The underwater world is teeming with marine life, including colorful coral reefs and a variety of fish species. Several diving centers provide equipment and training for beginners and experienced divers. <img src="placeholder-image-scuba-diving-radhanagar.jpg" alt="People enjoying Scuba Diving at Radhanagar Beach">
+*   **Snorkeling and Scuba Diving:** The underwater world is teeming with marine life, including colorful coral reefs and a variety of fish species. Several diving centers provide equipment and training for beginners and experienced divers. 
 *   **Jet Skiing and Speed Boating:** These thrilling water sports offer an adrenaline-pumping experience.
 *   **Kayaking and Sea Canoeing:** Explore the coastline and hidden coves at a leisurely pace.
 *   **Trekking:** Short treks through the nearby forests can be arranged for nature lovers.
@@ -59,7 +59,7 @@ The food scene on Havelock Island is a delightful blend of flavors, heavily infl
 The Andaman and Nicobar Islands are known for their rich biodiversity, and Havelock Island is no exception. While exploring Radhanagar Beach itself, you might encounter:
 *   **Avifauna:** Various bird species, including sea eagles and other coastal birds.
 *   **Marine Life:** Snorkeling or scuba diving reveals a vibrant underwater world with colorful coral reefs and a variety of fish.
-*   **Flora:** The beach is fringed with lush tropical vegetation, including coconut trees, casuarina trees, and other native plants. Havelock Island is also home to various terrestrial animals, although they are not as commonly seen on the beach itself. <img src="placeholder-image-radhanagar-flora-fauna.jpg" alt="Picture of rich flora and fauna">
+*   **Flora:** The beach is fringed with lush tropical vegetation, including coconut trees, casuarina trees, and other native plants. Havelock Island is also home to various terrestrial animals, although they are not as commonly seen on the beach itself. 
 
 ### **Best Time to Visit**
 
@@ -74,7 +74,7 @@ The best time to visit Radhanagar Beach is during the dry season, which extends 
 Reaching Radhanagar Beach involves travel to Havelock Island and onward transport:
 
 *   **By Air:** The nearest airport is Veer Savarkar International Airport (IXZ) in Port Blair. Direct flights are available from major Indian cities like Chennai, Delhi, Mumbai, and Kolkata.
-*   **By Sea:** Regular ferry services connect Port Blair to Havelock Island. These ferries include government-operated ferries and private cruises. The journey takes approximately 2-3 hours. <img src="placeholder-image-ferry-to-havelock.jpg" alt="Ferry going towards Havelock Island">
+*   **By Sea:** Regular ferry services connect Port Blair to Havelock Island. These ferries include government-operated ferries and private cruises. The journey takes approximately 2-3 hours. 
 *   **From Havelock Jetty to Radhanagar Beach:** Once you arrive at Havelock Jetty, you can hire a taxi, auto-rickshaw, or rent a scooter to reach Radhanagar Beach. The distance is approximately 12 kilometers and takes about 20-30 minutes.
 
 ### **Accommodation Options**

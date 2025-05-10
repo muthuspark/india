@@ -25,7 +25,7 @@ The history of Keoladeo National Park is intertwined with the royal lineage of t
 
 Bharatpur Bird Sanctuary is a testament to the beauty of a managed ecosystem. The landscape is a captivating interplay of shallow freshwater marshes, wetlands, and dry grasslands. The park features a man-made system of dikes and dams that regulate water levels, creating ideal habitats for various aquatic plants and animals. The water bodies are fringed by trees such as *Kadam* and *Arjuna*, and the grasslands are dotted with scattered patches of *dhak* (flame of the forest) trees. The best viewpoints are along the network of trails, pathways, and the main road that cuts through the sanctuary. Visitors can experience exceptional views of the diverse flora and fauna from these vantage points. The area’s proximity to the Chambal River, a haven for crocodiles and other wildlife, indirectly influences the biodiversity of the sanctuary.  The park's landscape transforms dramatically with the seasons. During the monsoon, the wetlands overflow, attracting a multitude of birds, while in the winter months, the sanctuary becomes a vibrant hub for migratory species.
 
-<img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty of Bharatpur Bird Sanctuary">
+
 
 ### **Must-Visit Attractions**
 
@@ -71,7 +71,7 @@ Bharatpur Bird Sanctuary, or Keoladeo National Park, is a haven for biodiversity
 *   **Flora:**  The vegetation is diverse and characterized by aquatic plants, grasslands, and woodlands.  Common plant species include *Kadam* (Neolamarckia cadamba), *Arjuna* (Terminalia arjuna), *Acacia nilotica*, and *Prosopis juliflora*.
 *   **Fauna:**  The sanctuary is famous for its diverse avian population, including over 370 bird species. Notable species include the Siberian crane (during its migration), painted storks, herons, egrets, cormorants, kingfishers, eagles, and various species of ducks and geese. The park also supports mammals like the nilgai (blue bull), sambar deer, and various species of reptiles and amphibians. The sanctuary is also home to various species of insects, spiders, and other invertebrates that play a crucial role in the ecosystem.
 
-<img src="placeholder_image_flora_fauna.jpg" alt="Flora and Fauna of Bharatpur Bird Sanctuary">
+
 
 ### **Best Time to Visit**
 
@@ -98,7 +98,7 @@ Bharatpur offers a wide range of accommodation options.
 *   **Heritage Hotels/Resorts:**  The region offers some heritage properties and resorts that provide a more luxurious and cultural experience.
 *   **Guest Houses**: There are several guest houses catering to travellers.
 
-<img src="placeholder_image_accommodation.jpg" alt="Accommodation options near Bharatpur Bird Sanctuary">
+
 
 ### **Offbeat Experiences**
 

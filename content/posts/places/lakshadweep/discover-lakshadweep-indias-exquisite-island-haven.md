@@ -26,7 +26,7 @@ The cultural heritage of Kavaratti is a vibrant tapestry woven from Islamic trad
 
 ### **Natural Beauty**
 
-Kavaratti is a visual feast, showcasing the breathtaking beauty of a tropical island. The landscape is characterized by pristine white-sand beaches, crystal-clear turquoise lagoons, and verdant coconut groves. <placeholder image tag> The island is ringed by a coral reef, home to a kaleidoscope of marine life, making it a paradise for snorkelers and divers. The waters surrounding Kavaratti are known for their clarity, offering stunning visibility and a chance to witness the beauty of the coral reefs. Several viewpoints around the island provide panoramic vistas of the lagoon, the ocean, and the surrounding islands. The sunsets over the Arabian Sea are particularly spectacular, painting the sky in hues of orange, pink, and purple.
+Kavaratti is a visual feast, showcasing the breathtaking beauty of a tropical island. The landscape is characterized by pristine white-sand beaches, crystal-clear turquoise lagoons, and verdant coconut groves.  The island is ringed by a coral reef, home to a kaleidoscope of marine life, making it a paradise for snorkelers and divers. The waters surrounding Kavaratti are known for their clarity, offering stunning visibility and a chance to witness the beauty of the coral reefs. Several viewpoints around the island provide panoramic vistas of the lagoon, the ocean, and the surrounding islands. The sunsets over the Arabian Sea are particularly spectacular, painting the sky in hues of orange, pink, and purple.
 
 The natural environment of Kavaratti is carefully preserved, with efforts to protect the delicate ecosystem. The lagoon is a haven for marine species, including colorful fish, sea turtles, and various species of coral. The lush vegetation, dominated by coconut trees, provides a refreshing contrast to the white sand and the vibrant blue waters. The air is fresh and clean, scented with the aroma of the sea and tropical blooms. Visitors can experience the natural beauty of Kavaratti by taking leisurely walks along the beaches, exploring the underwater world through snorkeling and diving, or simply relaxing and soaking in the tranquility of the island.
 
@@ -34,7 +34,7 @@ The natural environment of Kavaratti is carefully preserved, with efforts to pro
 
 Kavaratti offers a range of attractions that showcase its natural beauty and cultural heritage.
 
-*   **Ujra Mosque:** The Ujra Mosque is a prominent landmark in Kavaratti, known for its intricate carvings and architectural details. <placeholder image tag> Its location near the beach makes it a picturesque spot.
+*   **Ujra Mosque:** The Ujra Mosque is a prominent landmark in Kavaratti, known for its intricate carvings and architectural details.  Its location near the beach makes it a picturesque spot.
 *   **Kavaratti Beach:** This is a popular spot, offering white sand, turquoise waters, and opportunities for swimming, sunbathing, and water sports.
 *   **Marine Aquarium:** Though the aquarium might be small, it offers a glimpse into the vibrant marine life of the Lakshadweep Islands.
 *   **Scuba Diving and Snorkeling:** The coral reefs surrounding Kavaratti are a major attraction. Visitors can explore the underwater world, encountering colorful fish, sea turtles, and diverse coral formations.

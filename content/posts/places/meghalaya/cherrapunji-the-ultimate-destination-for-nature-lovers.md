@@ -26,18 +26,18 @@ The history of Cherrapunji is intertwined with the Khasi people, an indigenous t
 
 ### **Natural Beauty**
 
-Cherrapunji's landscape is a symphony of natural wonders.  The region is characterized by its dramatic cliffs, deep gorges, lush green valleys, and the constant presence of clouds that create a mystical atmosphere. <image placeholder="Panorama of Cherrapunji"> The most prominent feature is the numerous waterfalls, including the majestic Nohkalikai Falls, which plunges from a height of approximately 340 meters (1,115 feet), making it one of the tallest plunge waterfalls in India. Other notable waterfalls include Seven Sisters Falls (Mawsmai Falls) and Dain-Thlen Falls. Visitors can enjoy panoramic views from viewpoints like Eco Park, offering stunning vistas of the surrounding valleys and the plains of Bangladesh. The region is also blessed with natural caves like Mawsmai Caves and Arwah Caves, which showcase interesting rock formations and offer a glimpse into the subterranean world. The landscape is dotted with dense forests, home to a diverse range of flora and fauna.
+Cherrapunji's landscape is a symphony of natural wonders.  The region is characterized by its dramatic cliffs, deep gorges, lush green valleys, and the constant presence of clouds that create a mystical atmosphere.  The most prominent feature is the numerous waterfalls, including the majestic Nohkalikai Falls, which plunges from a height of approximately 340 meters (1,115 feet), making it one of the tallest plunge waterfalls in India. Other notable waterfalls include Seven Sisters Falls (Mawsmai Falls) and Dain-Thlen Falls. Visitors can enjoy panoramic views from viewpoints like Eco Park, offering stunning vistas of the surrounding valleys and the plains of Bangladesh. The region is also blessed with natural caves like Mawsmai Caves and Arwah Caves, which showcase interesting rock formations and offer a glimpse into the subterranean world. The landscape is dotted with dense forests, home to a diverse range of flora and fauna.
 
 ### **Must-Visit Attractions**
 
 Cherrapunji offers a treasure trove of attractions:
 
-*   **Nohkalikai Falls:**  The iconic waterfall is a must-see, with its sheer drop and the tragic legend associated with it. <image placeholder="Nohkalikai Falls">
+*   **Nohkalikai Falls:**  The iconic waterfall is a must-see, with its sheer drop and the tragic legend associated with it. 
 *   **Seven Sisters Falls (Mawsmai Falls):** Another stunning waterfall divided into seven streams, particularly beautiful during the monsoon.
-*   **Mawsmai Caves:**  These caves feature impressive stalactite and stalagmite formations, illuminated to showcase their beauty. <image placeholder="Mawsmai Caves">
+*   **Mawsmai Caves:**  These caves feature impressive stalactite and stalagmite formations, illuminated to showcase their beauty. 
 *   **Arwah Caves:** Similar to Mawsmai, but less crowded, with fossils and intricate cave formations.
 *   **Eco Park:** Offers panoramic views of the surrounding valleys, including the plains of Bangladesh and the Bangladesh border.
-*   **Thangkharang Park:**  Known for its stunning viewpoints overlooking the plains of Bangladesh and the Kynrem Falls. <image placeholder="Thangkharang Park">
+*   **Thangkharang Park:**  Known for its stunning viewpoints overlooking the plains of Bangladesh and the Kynrem Falls. 
 *   **Living Root Bridges (Umshiang Double-Decker Root Bridge and single root bridges):** A testament to Khasi ingenuity, these bridges are made from the roots of living trees.
 *   **Nohsngithiang Falls (also known as Seven Sisters Falls):** Another beautiful waterfall, especially during the rainy season.
 *   **Ka Khoh Ramhah (Giant Basket):** A rock formation that resembles a giant basket.

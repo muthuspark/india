@@ -25,16 +25,16 @@ The palace is a significant cultural landmark. The Saraswati Mahal Library, hous
 
 ### **Natural Beauty**
 
-Thanjavur itself is nestled in the fertile Cauvery delta, the "rice bowl of Tamil Nadu."  While the region is primarily characterized by its agricultural landscape and flat plains, the surrounding area features lush greenery, paddy fields, and beautiful water bodies. <placeholder image tag for landscape image> The Cauvery River, a lifeblood of the region, offers scenic views and peaceful settings.  The natural beauty of Thanjavur lies more in its agricultural landscapes, irrigation systems, and the tranquil atmosphere of the rural setting rather than dramatic mountains or dense forests. You can enjoy these views from atop the palace walls or during a leisurely drive through the countryside. There are no specific viewpoints, rather the entire landscape is a scenic spectacle.
+Thanjavur itself is nestled in the fertile Cauvery delta, the "rice bowl of Tamil Nadu."  While the region is primarily characterized by its agricultural landscape and flat plains, the surrounding area features lush greenery, paddy fields, and beautiful water bodies.  The Cauvery River, a lifeblood of the region, offers scenic views and peaceful settings.  The natural beauty of Thanjavur lies more in its agricultural landscapes, irrigation systems, and the tranquil atmosphere of the rural setting rather than dramatic mountains or dense forests. You can enjoy these views from atop the palace walls or during a leisurely drive through the countryside. There are no specific viewpoints, rather the entire landscape is a scenic spectacle.
 
 ### **Must-Visit Attractions**
 
-Thanjavur Palace itself is a must-visit attraction, offering a deep dive into the history and architectural prowess of the region. <placeholder image tag for Thanjavur Palace image>
+Thanjavur Palace itself is a must-visit attraction, offering a deep dive into the history and architectural prowess of the region. 
 
 *   **Saraswati Mahal Library:** One of the oldest libraries in Asia, housing an impressive collection of manuscripts, maps, and rare books. This is a highlight for history buffs and researchers.
 *   **Thanjavur Maratha Palace:** Explore the various sections of the palace, including the Durbar Hall, the Armoury, and the Royal Courtyard.
 *   **Bell Tower:** Provides panoramic views of the palace complex and the surrounding city.
-*   **Brihadeeswarar Temple:** This UNESCO World Heritage Site, often known as the Big Temple, is one of the most famous attractions in Thanjavur, known for its imposing architecture and intricate carvings. <placeholder image tag for Brihadeeswarar Temple>
+*   **Brihadeeswarar Temple:** This UNESCO World Heritage Site, often known as the Big Temple, is one of the most famous attractions in Thanjavur, known for its imposing architecture and intricate carvings. 
 *   **Thanjavur Art Gallery:** Located within the palace complex, it exhibits bronze sculptures and artifacts from the Chola period.
 *   **Schwartz Church:** A European-style church located near the palace, known for its historical significance.
 
@@ -100,7 +100,7 @@ Avoid the summer months (April to June) as the weather can get very hot and humi
 
 Thanjavur offers a range of accommodation options to suit various budgets:
 
-*   **Luxury Hotels:** Several well-known hotels offer luxurious stays with modern amenities. <placeholder image tag for Luxury Hotel Image>
+*   **Luxury Hotels:** Several well-known hotels offer luxurious stays with modern amenities. 
 *   **Mid-Range Hotels:** Plenty of comfortable hotels offer decent lodging and are ideal for a comfortable stay.
 *   **Budget Hotels and Guesthouses:** Many budget-friendly options, including guesthouses and smaller hotels, are available.
 *   **Homestays:** Offers a more personal and immersive experience, interacting with local families.

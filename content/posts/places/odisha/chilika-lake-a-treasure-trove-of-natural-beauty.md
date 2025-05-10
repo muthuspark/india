@@ -24,14 +24,14 @@ Chilika Lake's history is intertwined with the rich cultural heritage of Odisha.
 
 ### **Natural Beauty**
 
-Chilika Lake is a visual spectacle, characterized by its expansive waters, diverse islands, and fringing vegetation. <img src="placeholder_image_chilika_lake_scenery.jpg" alt="Chilika Lake Scenery"> The lake's surface reflects the changing skies, creating mesmerizing patterns of light and color. The coastline surrounding the lake is characterized by low-lying wetlands, sandbars, and small hills. Some notable viewpoints include the observation points on islands like Kalijai and Nalabana Bird Sanctuary, where visitors can witness breathtaking sunrises and sunsets over the water. The islands within the lake contribute to its stunning beauty, offering diverse landscapes and unique habitats. The Nalabana Bird Sanctuary, in particular, is a protected area within the lake and a key attraction, especially during the migratory bird season. The vastness of the lake and the surrounding lush green environment offers spectacular vistas.
+Chilika Lake is a visual spectacle, characterized by its expansive waters, diverse islands, and fringing vegetation.  The lake's surface reflects the changing skies, creating mesmerizing patterns of light and color. The coastline surrounding the lake is characterized by low-lying wetlands, sandbars, and small hills. Some notable viewpoints include the observation points on islands like Kalijai and Nalabana Bird Sanctuary, where visitors can witness breathtaking sunrises and sunsets over the water. The islands within the lake contribute to its stunning beauty, offering diverse landscapes and unique habitats. The Nalabana Bird Sanctuary, in particular, is a protected area within the lake and a key attraction, especially during the migratory bird season. The vastness of the lake and the surrounding lush green environment offers spectacular vistas.
 
 ### **Must-Visit Attractions**
 
 Chilika Lake offers several attractions that cater to varied interests:
 
-*   **Nalabana Bird Sanctuary:** Located within the lake, Nalabana is a designated sanctuary and a major draw during winter.  <img src="placeholder_image_nalabana_bird_sanctuary.jpg" alt="Nalabana Bird Sanctuary"> It hosts thousands of migratory birds from various parts of the world.
-*   **Kalijai Temple:** Situated on an island, the Kalijai Temple is a revered shrine dedicated to Goddess Kalijai. The boat ride to this temple offers picturesque views of the lake.  <img src="placeholder_image_kalijai_temple.jpg" alt="Kalijai Temple">
+*   **Nalabana Bird Sanctuary:** Located within the lake, Nalabana is a designated sanctuary and a major draw during winter.   It hosts thousands of migratory birds from various parts of the world.
+*   **Kalijai Temple:** Situated on an island, the Kalijai Temple is a revered shrine dedicated to Goddess Kalijai. The boat ride to this temple offers picturesque views of the lake.  
 *   **Satapada:** Known for its dolphin sighting opportunities, Satapada offers boat rides into the lake where visitors can spot Irrawaddy dolphins.
 *   **Rajahamsa Island:** Located near the mouth of the lake, Rajahamsa Island is a scenic spot where the lake meets the Bay of Bengal.
 *   **Mangalajodi Eco-Tourism Village:**  This village, located on the edge of the lake, is a conservation project and offers excellent bird-watching experiences.
@@ -63,7 +63,7 @@ Chilika Lake's cuisine is heavily influenced by the availability of fresh seafoo
 *   **Seafood Specialties:** The lake's seafood is renowned for its freshness and unique taste. Popular dishes include fish curry, crab dishes, prawn preparations, and various other seafood delicacies.
 *   **Local Flavors:** Traditional Odia cuisine, known for its subtle flavors, is widely available. Rice, dal (lentils), and vegetable preparations are common.
 *   **Street Food:** Local food stalls offer affordable and tasty street food options, including snacks made from rice flour and other local ingredients.
-*   **Popular Restaurants:** Several restaurants around the lake and in nearby areas offer a variety of cuisines, including local Odia dishes and seafood preparations. <img src="placeholder_image_chilika_lake_food.jpg" alt="Chilika Lake Food">
+*   **Popular Restaurants:** Several restaurants around the lake and in nearby areas offer a variety of cuisines, including local Odia dishes and seafood preparations. 
 
 ### **Flora and Fauna**
 

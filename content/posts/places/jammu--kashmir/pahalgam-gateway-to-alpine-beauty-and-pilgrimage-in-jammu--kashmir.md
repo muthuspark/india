@@ -27,7 +27,7 @@ Pahalgam's history is intertwined with the rich cultural tapestry of the Kashmir
 
 Pahalgam is a visual masterpiece, a symphony of nature's finest creations. The landscape is dominated by the majestic Himalayas, specifically the Great Himalayan Range. The most prominent feature is the Lidder River, a pristine waterway that flows through the valley, adding to the area's charm. The surrounding forests are rich with pine and cedar trees, creating a refreshing atmosphere. Popular viewpoints offer stunning vistas of the valley.
 
-`<img src="placeholder_image_of_pahalgam_landscape.jpg" alt="Pahalgam landscape" width="600">`
+``
 
 These locations provide panoramic views of the snow-clad mountains, the flowing river, and the lush meadows. Aru Valley and Betaab Valley, located nearby, are prime examples of natural beauty, each boasting unique landscapes and scenic spots. Chandanwari, the starting point of the Amarnath Yatra, offers breathtaking views of the snow-covered mountains and the Lidder River.
 
@@ -36,11 +36,11 @@ These locations provide panoramic views of the snow-clad mountains, the flowing 
 Pahalgam and its surrounding areas boast an array of captivating attractions:
 
 *   **Betaab Valley:** Named after the Bollywood movie "Betaab", this valley is known for its lush greenery, crystal-clear streams, and picturesque landscapes.
-    `<img src="placeholder_image_of_betaab_valley.jpg" alt="Betaab Valley" width="600">`
+    ``
 *   **Aru Valley:** A serene valley famous for its vast meadows, dense forests, and opportunities for trekking and camping.
-    `<img src="placeholder_image_of_aru_valley.jpg" alt="Aru Valley" width="600">`
+    ``
 *   **Chandanwari:** A place with snow-covered mountains, also serves as the starting point for the Amarnath Yatra. It provides stunning views of the landscape.
-    `<img src="placeholder_image_of_chandanwari.jpg" alt="Chandanwari" width="600">`
+    ``
 *   **Tulian Lake:** A high-altitude lake surrounded by snow-capped mountains, a challenging trek but worth the effort for the stunning scenery.
 *   **Mamaleshwar Temple:** An ancient temple dedicated to Lord Shiva, located on the banks of the Lidder River, offering a glimpse into the region's rich religious heritage.
 

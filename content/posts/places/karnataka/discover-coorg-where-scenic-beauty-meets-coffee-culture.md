@@ -31,7 +31,7 @@ The Kodava culture is distinct and vibrant. Their festivals, such as Keil Podu, 
 
 Coorg is a visual masterpiece, a canvas painted with rolling hills, dense forests, and cascading waterfalls. The Western Ghats provide a breathtaking backdrop, creating a landscape that constantly surprises and delights. The region is blessed with numerous viewpoints that offer panoramic vistas of the valleys and coffee plantations.
 
-<img src="placeholder_image_coorg_landscape.jpg" alt="Coorg Landscape" width="600">
+
 
 The Brahmagiri Wildlife Sanctuary and the Talacauvery Wildlife Sanctuary are home to diverse flora and fauna. The Kaveri River, originating at Talacauvery, the origin of the river Kaveri, flows through Coorg, adding to the region's scenic charm. The region is covered with lush green coffee and spice plantations. The Abbey Falls, Iruppu Falls, and Chelavara Falls are popular spots to experience the power and beauty of nature. The dense shola forests and evergreen vegetation contribute to the region's biodiversity.
 
@@ -40,19 +40,19 @@ The Brahmagiri Wildlife Sanctuary and the Talacauvery Wildlife Sanctuary are hom
 Coorg boasts a plethora of attractions that cater to diverse interests:
 
 *   **Raja's Seat:** A picturesque viewpoint offering stunning views of the surrounding valleys and sunsets.
-    <img src="placeholder_image_rajas_seat.jpg" alt="Raja's Seat" width="600">
+    
 *   **Madikeri Fort:** A historic fort that showcases Coorg's rich past.
 *   **Omkareshwara Temple:** A unique temple with a blend of Islamic and Gothic architectural styles.
 *   **Abbey Falls:** A scenic waterfall cascading down rocky cliffs, surrounded by coffee plantations.
-    <img src="placeholder_image_abbey_falls.jpg" alt="Abbey Falls" width="600">
+    
 *   **Talacauvery:** The source of the river Kaveri, a sacred site.
-    <img src="placeholder_image_talacauvery.jpg" alt="Talacauvery" width="600">
+    
 *   **Iruppu Falls:** Another magnificent waterfall, associated with a significant Hindu legend.
 *   **Nagarhole National Park:** A renowned wildlife sanctuary, home to tigers, elephants, and various other species.
-    <img src="placeholder_image_nagarhole.jpg" alt="Nagarhole National Park" width="600">
+    
 *   **Dubare Elephant Camp:** An opportunity to interact with and learn about elephants.
 *   **Golden Temple (Namdroling Monastery):** A Tibetan settlement with a beautiful monastery.
-    <img src="placeholder_image_golden_temple.jpg" alt="Golden Temple" width="600">
+    
 
 Offbeat locations include the ancient Nalknad Palace, which offers insight into the region's royal history, and various smaller waterfalls and viewpoints that are less crowded and offer serene experiences.
 

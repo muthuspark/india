@@ -39,29 +39,29 @@ The area is dominated by the rivers, their associated sandbanks, and the wider f
 The primary and most significant attraction is the **Sangam**, the confluence of the Ganga, Yamuna, and Saraswati rivers. Pilgrims come here to take a sacred dip, believing it washes away their sins and purifies the soul.
 
 **Prayagraj Fort:** This historical fort, built by Emperor Akbar, offers significant historical importance. It is the site of the Akshayavat (Immortal Banyan Tree). This fort is not entirely accessible to the public, but parts can be visited with permission from the Indian Army.
-<img src="placeholder_image_tag_prayagraj_fort.jpg" alt="Prayagraj Fort">
+
 
 **Akshaya Vat:** Located inside the fort complex, this is a sacred banyan tree. Legend states that the tree is immortal and provides shelter and spiritual significance to pilgrims.
-<img src="placeholder_image_tag_akshayavat.jpg" alt="Akshaya Vat">
+
 
 **Anand Bhavan:** The ancestral home of the Nehru-Gandhi family. It has been converted into a museum.
-<img src="placeholder_image_tag_anand_bhavan.jpg" alt="Anand Bhavan">
+
 
 **Swaraj Bhawan:** Another important historical site. It was the birthplace of Indira Gandhi and serves as a historical museum now.
-<img src="placeholder_image_tag_swaraj_bhawan.jpg" alt="Swaraj Bhawan">
+
 
 **Alopi Devi Temple:** A local temple dedicated to Alopi Devi.
-<img src="placeholder_image_tag_alopi_devi_temple.jpg" alt="Alopi Devi Temple">
+
 
 **Hanuman Temple:** A significant temple dedicated to Lord Hanuman, located at the Sangam.
-<img src="placeholder_image_tag_hanuman_temple.jpg" alt="Hanuman Temple">
+
 
 ### **Adventure Activities**
 
 Adventure activities, in the traditional sense, are not a primary feature of the Kumbh Mela experience. The focus is primarily on religious and spiritual practices. However, some local tourism agencies may offer river-related activities, but they are not typically centered at the Kumbh Mela grounds.
 
 *   **Boat Rides:** Boat rides on the Ganga and Yamuna Rivers, particularly to witness the sunset or to observe the Sangam from the water, are popular.
-<img src="placeholder_image_tag_boat_ride_ganga.jpg" alt="Boat ride on the Ganga">
+
 
 *   **Hot Air Balloon Rides:** During the Mela, there is a slight possibility of hot air balloon rides.
 *   **Nature Walks:** Since the Kumbh Mela grounds are spread out along the rivers, light walking is inevitable.
@@ -111,7 +111,7 @@ Prayagraj is well-connected to other major Indian cities.
     *   Lucknow: Approximately 200 km (124 mi)
     *   Varanasi: Approximately 120 km (75 mi)
     *   Mumbai: Approximately 1300km (807 mi)
-<img src="placeholder_image_tag_prayagraj_map.jpg" alt="Map of Prayagraj">
+
 
 ### **Accommodation Options**
 

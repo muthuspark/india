@@ -28,7 +28,7 @@ The history of Pulwama, like the rest of the Kashmir Valley, is interwoven with 
 
 Culturally, Pulwama embodies the essence of Kashmiri traditions. The region is predominantly Muslim, and Islam is a significant influence on daily life and celebrations. Festivals like Eid-ul-Fitr and Eid-ul-Adha are celebrated with great fervor, marked by communal prayers, feasts, and festive gatherings. The Sufi influence is also prominent, visible in the reverence shown to various shrines and dargahs.
 
-<img src="placeholder_image_cultural_site.jpg" alt="A local shrine in Pulwama">
+
 
 Historically, Pulwama has been shaped by its agricultural prosperity, particularly in the cultivation of saffron and apples. Its strategic location along trade routes has also contributed to its cultural exchange. Though the area has faced political challenges, the resilience of its people and the preservation of its cultural identity remain strong.
 
@@ -36,7 +36,7 @@ Historically, Pulwama has been shaped by its agricultural prosperity, particular
 
 Pulwama is renowned for its breathtaking natural beauty. The landscape is characterized by lush green fields, rolling hills, and the snow-capped peaks of the Pir Panjal mountain range in the distance. The valley is crisscrossed by numerous streams and rivers, adding to its scenic charm. The most iconic natural feature is the vast expanse of saffron fields, which paint the landscape with vibrant purple hues during the flowering season.
 
-<img src="placeholder_image_saffron_fields.jpg" alt="Saffron fields in Pulwama">
+
 
 Specific viewpoints offer panoramic views of the valley. These include vantage points on the higher grounds of the district, from which one can see the villages and the agriculture fields. While Pulwama doesn't have large national parks within its immediate boundaries, the surrounding region is rich in natural beauty. The presence of apple and other fruit orchards further enhances the scenic beauty of the area, especially during the harvest seasons.
 
@@ -45,10 +45,10 @@ Specific viewpoints offer panoramic views of the valley. These include vantage p
 While Pulwama itself may not have grand monuments or historical structures on the same scale as Srinagar, the district is dotted with places of significant cultural and religious importance.
 
 *   **Aharbal Waterfall:** Located nearby, this waterfall cascades down from a height of 25 meters, creating a mesmerizing spectacle. It is often called the "Niagara Falls of Kashmir" and is surrounded by lush greenery.
-    <img src="placeholder_image_aharbal_waterfall.jpg" alt="Aharbal Waterfall in Pulwama">
+    
 
 *   **Payer:** The historic town of Payer is known for its religious significance and traditional Kashmiri architecture.
-    <img src="placeholder_image_payer_town.jpg" alt="Payer town in Pulwama">
+    
 *   **Various Mosques and Shrines**: Traditional Kashmiri mosques and shrines are spread across the area, reflecting the Sufi influence in the region.
 
 *   **Apple Orchards:** A leisurely stroll through the apple orchards offers a quintessential experience, especially during the apple-picking season.
@@ -67,7 +67,7 @@ Pulwama's local markets provide an opportunity to experience the local culture a
 
 *   **Pulwama Market:** The main market in Pulwama offers a variety of goods, including local produce, clothing, and household items.
 
-<img src="placeholder_image_local_market.jpg" alt="A local market in Pulwama">
+
 
 *   **Handicrafts:** Look for authentic Kashmiri handicrafts, including:
     *   **Shawls and Scarves:** Pashmina and other woollen shawls are a hallmark of Kashmiri craftsmanship.
@@ -85,7 +85,7 @@ Kashmiri cuisine is rich and flavorful, and Pulwama is no exception.
 *   **Local Bread:** Try the local breads like _baqarkhani_ and _roti_.
 *   **Street Food:** Savor street food like kebabs and local snacks.
 
-<img src="placeholder_image_kashmiri_cuisine.jpg" alt="Kashmiri cuisine">
+
 
 *   **Restaurants and Cafes:** While formal dining options may be limited, smaller eateries and roadside stalls offer delicious local food at reasonable prices.
 

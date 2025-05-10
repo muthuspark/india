@@ -27,7 +27,7 @@ The cultural heritage of Konaseema is deeply rooted in its agrarian lifestyle an
 
 Konaseema's landscape is a breathtaking mosaic of emerald green paddy fields, coconut groves, and shimmering waterways. The mighty Godavari River, flowing through the heart of the region, has shaped the landscape into a delta of stunning beauty. The region boasts numerous canals and backwaters that provide opportunities for boat rides and exploration.
 
-<img src="placeholder_image_Konaseema_landscape.jpg" alt="Konaseema Landscape">
+
 
 The coastline bordering the Bay of Bengal offers pristine beaches, such as those at Antarvedi and Uppada, offering stunning views of the sea and providing a refreshing escape from the inland greenery. The lush vegetation and fertile soil create a vibrant and captivating environment, making Konaseema a true paradise for nature lovers.
 
@@ -35,10 +35,10 @@ The coastline bordering the Bay of Bengal offers pristine beaches, such as those
 
 Konaseema is home to several must-visit attractions:
 
-*   **Antarvedi Temple:** This iconic temple dedicated to Lord Narasimha and Sri Lakshmi is located at the confluence of the Godavari River and the Bay of Bengal. <img src="placeholder_image_Antarvedi_temple.jpg" alt="Antarvedi Temple">
+*   **Antarvedi Temple:** This iconic temple dedicated to Lord Narasimha and Sri Lakshmi is located at the confluence of the Godavari River and the Bay of Bengal. 
 *   **Kotipalli Temple:** Situated on the banks of the Godavari River, this is a significant temple dedicated to Lord Shiva and hosts the annual Karthika Purnima festival.
 *   **Sarpavaram Temple:** This temple is devoted to Lord Venkateswara and known for its religious importance.
-*   **Coringa Wildlife Sanctuary:** This sanctuary is part of the Godavari Mangrove forests, providing a unique ecosystem and home to diverse birdlife and wildlife. <img src="placeholder_image_Coringa_sanctuary.jpg" alt="Coringa Wildlife Sanctuary">
+*   **Coringa Wildlife Sanctuary:** This sanctuary is part of the Godavari Mangrove forests, providing a unique ecosystem and home to diverse birdlife and wildlife. 
 *   **Hope Island:** This island, formed at the mouth of the Godavari, provides beautiful views and peaceful surroundings.
 *   **Uppada Beach:** A serene beach with golden sands and clear waters, offering a tranquil escape.
 
@@ -69,7 +69,7 @@ Konaseema's cuisine is characterized by its fresh ingredients and the use of loc
 *   **Andhra Cuisine:** The cuisine follows typical Andhra styles with spicy and flavorful dishes.
 *   **Local Sweets:** Try local sweets like *Pootharekulu,* a sweet made from rice paper and jaggery or sugar.
 
-<img src="placeholder_image_konaseema_food.jpg" alt="Konaseema food">
+
 
 Popular restaurants and food stalls are available in towns and villages, offering a variety of options to satisfy different palates.
 

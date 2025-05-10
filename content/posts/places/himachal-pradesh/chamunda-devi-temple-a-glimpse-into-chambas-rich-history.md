@@ -22,7 +22,7 @@ Chamba, a historical and culturally rich town nestled in the Chamba district of 
 
 The history of Chamba is deeply rooted in the ancient kingdom of the same name, founded in the 6th century AD by Raja Maru. The town flourished under the rule of various Rajput dynasties, most notably the Raja Sahil Varma who established the present-day Chamba in the 10th century and named it after his daughter Champavati. Over centuries, the rulers commissioned magnificent temples and palaces, which are still the pride of the region. The influence of both Hindu and Buddhist cultures is evident in the architecture, art, and traditions of Chamba. The town was relatively isolated, allowing it to preserve its unique cultural identity. The British presence in the region, though less impactful than in other parts of India, contributed to the development of the town in terms of infrastructure and governance.
 
-<img src="placeholder_image_chamba_history.jpg" alt="Historical site in Chamba">
+
 
 The cultural heritage of Chamba is exceptionally rich. The local people are known for their warmth and hospitality. Traditional festivals are celebrated with great zeal and color, including the Minjar Fair, a week-long event dedicated to the harvest, and the Suhi Mata Mela, dedicated to Raja Sahil Varma's daughter. The distinctive local art forms include intricate Pahari paintings (miniature paintings), the manufacture of colorful 'Chamba Rumal' (embroidered handkerchiefs), and the creation of traditional silver and metal crafts. Temples and palaces such as the Lakshmi Narayan Temple Complex, the Bhuri Singh Museum, and the Akhand Chandi Palace are testaments to Chamba's artistic and architectural prowess.
 
@@ -30,7 +30,7 @@ The cultural heritage of Chamba is exceptionally rich. The local people are know
 
 Chamba is blessed with stunning natural beauty. The town is cradled between the snow-capped Dhauladhar and Pir Panjal ranges, offering breathtaking panoramic views. The Ravi River flows through the valley, adding to the scenic charm. The landscape is characterized by lush green valleys, dense forests, and cascading waterfalls.
 
-<img src="placeholder_image_chamba_natural_beauty.jpg" alt="Scenic view in Chamba">
+
 
 Viewpoints like the historic Chowgan, a large grassy meadow in the heart of Chamba, offer excellent vistas of the surrounding mountains and valleys. The Kalatop Khajjiar Sanctuary, located nearby, is a haven for nature lovers. The sanctuary provides opportunities for trekking, wildlife spotting, and enjoying the pristine mountain air. The natural environment is also home to several other scenic spots, including the Pangi Valley and the Sach Pass, which are further expeditions into the wild beauty of the area.
 
@@ -38,9 +38,9 @@ Viewpoints like the historic Chowgan, a large grassy meadow in the heart of Cham
 
 Chamba has a wealth of attractions that reflect its historical, cultural, and religious significance.
 
-*   **Lakshmi Narayan Temple Complex:** This complex, dating back to the 10th century, is the most important religious site in Chamba, dedicated to Lord Vishnu. It features several temples adorned with intricate carvings and is a prime example of the region's architectural prowess. <img src="placeholder_image_lakshmi_narayan_temple.jpg" alt="Lakshmi Narayan Temple Complex">
+*   **Lakshmi Narayan Temple Complex:** This complex, dating back to the 10th century, is the most important religious site in Chamba, dedicated to Lord Vishnu. It features several temples adorned with intricate carvings and is a prime example of the region's architectural prowess. 
 
-*   **Bhuri Singh Museum:** Named after Raja Bhuri Singh, this museum houses a rich collection of artifacts, including Pahari paintings, sculptures, textiles, and manuscripts, offering insights into the history and culture of Chamba. <img src="placeholder_image_bhuri_singh_museum.jpg" alt="Bhuri Singh Museum">
+*   **Bhuri Singh Museum:** Named after Raja Bhuri Singh, this museum houses a rich collection of artifacts, including Pahari paintings, sculptures, textiles, and manuscripts, offering insights into the history and culture of Chamba. 
 
 *   **Akhand Chandi Palace:** The royal palace, a stunning example of Chamba architecture, showcases the opulence and grandeur of the erstwhile rulers. Parts of it have been converted into government offices, but the palace still retains its historical character.
 
@@ -68,7 +68,7 @@ Chamba is renowned for its traditional crafts and local markets.
 
 *   **Chamba Chowgan Market:** The market around the Chowgan offers a range of traditional handicrafts and local products.
 
-*   **Chamba Rumal:** The Chamba Rumal, a traditional embroidered handkerchief, is a unique local specialty and a popular souvenir. These intricately embroidered pieces often depict scenes from Hindu mythology and are highly prized. <img src="placeholder_image_chamba_rumal.jpg" alt="Chamba Rumal">
+*   **Chamba Rumal:** The Chamba Rumal, a traditional embroidered handkerchief, is a unique local specialty and a popular souvenir. These intricately embroidered pieces often depict scenes from Hindu mythology and are highly prized. 
 
 *   **Pahari Paintings:** Miniature Pahari paintings, created in the local style, can be found in local shops and art galleries.
 
@@ -88,7 +88,7 @@ The cuisine of Chamba reflects the flavors of the Himalayan region.
 
 *   **Sweet Treats:** Don't miss the opportunity to try local sweets and desserts.
 
-<img src="placeholder_image_chamba_cuisine.jpg" alt="Local dish in Chamba">
+
 
 ### **Flora and Fauna**
 
@@ -114,7 +114,7 @@ The best time to visit Chamba is during the summer months (March to June) and th
 
 *   **Winter (December-February):** Cold weather with temperatures dropping below freezing. Some areas may experience snowfall.
 
-<img src="placeholder_image_chamba_season.jpg" alt="Chamba in spring">
+
 
 **Festivals:**
 

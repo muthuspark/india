@@ -21,11 +21,11 @@ Jowai, nestled in the heart of the West Jaintia Hills district of Meghalaya, is 
 
 The Jaintia Hills, and consequently Jowai, have a rich historical background, primarily shaped by the Jaintia Kingdom, which flourished for centuries. The indigenous Khasi-Pnar people, belonging to the Jaintia tribe, have a deep-rooted connection to the land, and their traditions and customs are meticulously preserved. Jowai was a significant center during the reign of the Jaintia Kings, who ruled the region for a considerable period. The kingdom's influence can still be felt through historical landmarks and remnants of the past.
 
-The cultural fabric of Jowai is exceptionally vibrant. Festivals, such as *Behdienkhlam*, are of paramount importance, and reflect the community's strong sense of tradition. <placeholder image tag> *Behdienkhlam*, a unique and colorful festival, is celebrated with great enthusiasm and symbolizes the driving away of evil forces and the seeking of blessings for a good harvest. Other cultural aspects include traditional attire, unique dialects, and age-old practices that are passed down through generations. Religious beliefs are a blend of indigenous traditions and Christian influences. There are several historical sites in and around Jowai that offer glimpses into its past.
+The cultural fabric of Jowai is exceptionally vibrant. Festivals, such as *Behdienkhlam*, are of paramount importance, and reflect the community's strong sense of tradition.  *Behdienkhlam*, a unique and colorful festival, is celebrated with great enthusiasm and symbolizes the driving away of evil forces and the seeking of blessings for a good harvest. Other cultural aspects include traditional attire, unique dialects, and age-old practices that are passed down through generations. Religious beliefs are a blend of indigenous traditions and Christian influences. There are several historical sites in and around Jowai that offer glimpses into its past.
 
 ### **Natural Beauty**
 
-Jowai is blessed with breathtaking natural beauty, characterized by rolling hills, lush green valleys, and pristine landscapes. The landscape is dominated by the undulating terrain of the Jaintia Hills, offering stunning vistas at every turn. <placeholder image tag> The town is dotted with lakes, rivers, and waterfalls, creating a serene and picturesque environment.
+Jowai is blessed with breathtaking natural beauty, characterized by rolling hills, lush green valleys, and pristine landscapes. The landscape is dominated by the undulating terrain of the Jaintia Hills, offering stunning vistas at every turn.  The town is dotted with lakes, rivers, and waterfalls, creating a serene and picturesque environment.
 
 Key viewpoints provide panoramic views of the surroundings, allowing visitors to experience the splendor of the region. The natural environment around Jowai is characterized by diverse flora and fauna, including several species of orchids, ferns, and medicinal plants. The area is also home to various species of birds, making it a paradise for birdwatchers. The surrounding forests provide opportunities for nature walks and exploring the natural environment.
 
@@ -33,9 +33,9 @@ Key viewpoints provide panoramic views of the surroundings, allowing visitors to
 
 Jowai and its vicinity offer a plethora of attractions for tourists to explore.
 
-*   **Thadlaskein Lake:** A serene and beautiful lake, ideal for boating and enjoying scenic views. <placeholder image tag> Legend has it that the lake was created by the legendary warrior Sajar Niangli.
+*   **Thadlaskein Lake:** A serene and beautiful lake, ideal for boating and enjoying scenic views.  Legend has it that the lake was created by the legendary warrior Sajar Niangli.
 *   **Syntu Ksiar:** A historic site on the banks of the Myntdu River, known for its scenic beauty and cultural significance. It is the site of a local market and a place where people can enjoy boat rides.
-*   **Nartiang Monoliths:** A collection of ancient monoliths, believed to be erected by the Jaintia people over several centuries. <placeholder image tag> The tallest monolith stands at around 8 meters.
+*   **Nartiang Monoliths:** A collection of ancient monoliths, believed to be erected by the Jaintia people over several centuries.  The tallest monolith stands at around 8 meters.
 *   **Ialong Park:** A beautiful park, offering panoramic views of the surrounding hills and valleys.
 *   **Tyrshi Falls:** A majestic waterfall, cascading down a rocky cliff, is a treat for the eyes.
 *   **Krang Suri Falls:** Another captivating waterfall known for its unique turquoise-colored water.
@@ -55,7 +55,7 @@ Jowai and its surrounding areas offer several adventure activities for those see
 
 Jowai offers an opportunity to immerse oneself in the local culture by visiting the vibrant markets. The *Iew Jwai* market is a bustling hub where you can find a wide array of local products and experience the local culture.
 
-Handicrafts, especially those made by the local Khasi-Pnar people, are worth exploring. <placeholder image tag> You can find hand-woven textiles, traditional bamboo crafts, and souvenirs at the local market.
+Handicrafts, especially those made by the local Khasi-Pnar people, are worth exploring.  You can find hand-woven textiles, traditional bamboo crafts, and souvenirs at the local market.
 
 ### **Food and Cuisine**
 

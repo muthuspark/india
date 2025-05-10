@@ -28,7 +28,7 @@ Historically, Agumbe's isolation has meant a slower pace of development, allowin
 
 Agumbe is renowned for its stunning natural beauty, especially its dense rainforests, which are part of the Agumbe Rainforest Complex, a critical biodiversity hotspot. The region receives an average annual rainfall exceeding 7,000 mm, making it one of the wettest places in India. This immense precipitation fosters a lush, green environment, creating a mesmerizing landscape throughout the year.
 
-<img src="placeholder_image_Agumbe_Rainforest.jpg" alt="Agumbe Rainforest">
+
 
 **Key Natural Features:**
 
@@ -49,7 +49,7 @@ While Agumbe is itself the main attraction, there are several specific spots and
 *   **Jogi Gundi Falls:** This waterfall is easily accessible and perfect for a refreshing dip.
 *   **Kunchikal Falls:** Experience this amazing waterfalls.
 
-<img src="placeholder_image_Agumbe_Sunset.jpg" alt="Agumbe Sunset Viewpoint">
+
 
 ### **Adventure Activities**
 
@@ -82,7 +82,7 @@ Agumbe is a biodiversity hotspot, and its flora and fauna are exceptional.
 *   **Rainforest:** The region is covered in dense, evergreen rainforest, home to a wide array of plant species, including various medicinal plants.
 *   **Wildlife:** It's a sanctuary for a variety of wildlife, including the Lion-tailed Macaque, Malabar Giant Squirrel, various species of snakes (including King Cobras), and numerous species of birds, insects, and amphibians. The Agumbe Rainforest Research Station (ARRS) conducts research and conservation efforts in the area.
 
-<img src="placeholder_image_Agumbe_Flora_Fauna.jpg" alt="Agumbe Flora and Fauna">
+
 
 ### **Best Time to Visit**
 

@@ -23,7 +23,7 @@ The Andaman and Nicobar Islands, located in Port Blair, Andaman & Nicobar Island
 
 The history of the Andaman and Nicobar Islands is a fascinating blend of indigenous tribal communities, colonial influences, and Indian integration. The islands have been inhabited for thousands of years, primarily by indigenous tribes like the Sentinelese, Jarawa, Onge, Great Andamanese, and Shompen. These tribes maintained their unique cultures and traditions for centuries, largely isolated from external influences.
 
-<img src="placeholder_image_andaman_tribes.jpg" alt="Indigenous Tribes of Andaman and Nicobar Islands">
+
 
 The islands came under British control in the late 18th century. The British initially established a penal colony at Port Blair in 1789, but abandoned it shortly after. Later, in 1858, they re-established the penal settlement, which became infamous as the Cellular Jail. This jail was used to incarcerate Indian political prisoners and freedom fighters, bearing witness to a significant period of Indian struggle for independence. Post-independence, the islands became a part of India. The Andaman and Nicobar Islands played a crucial role during World War II, when the Japanese occupied them from 1942 to 1945.
 
@@ -33,7 +33,7 @@ Culturally, the islands exhibit a diverse tapestry. The indigenous communities h
 
 The Andaman and Nicobar Islands are renowned for their breathtaking natural beauty. The landscape is characterized by dense tropical rainforests, stunning coastlines, and coral reefs teeming with marine life. The islands boast a rich topography, ranging from sandy beaches and mangrove forests to rolling hills and volcanic formations.
 
-<img src="placeholder_image_andaman_landscape.jpg" alt="Andaman Landscape">
+
 
 The turquoise waters surrounding the islands are a major draw. Havelock Island (now known as Swaraj Dweep) is famous for Radhanagar Beach, consistently ranked among the world's best beaches, known for its powdery white sand and crystal-clear waters. Other popular beaches include Elephant Beach, known for its water sports, and Corbyn's Cove, a serene spot near Port Blair.
 
@@ -45,11 +45,11 @@ The Andaman and Nicobar Islands offer a plethora of attractions that cater to di
 
 *   **Cellular Jail National Memorial:** A must-visit historical site, the jail served as a colonial prison and memorializes India's freedom struggle. The light and sound show detailing the prison's history is highly recommended.
 
-<img src="placeholder_image_cellular_jail.jpg" alt="Cellular Jail">
+
 
 *   **Radhanagar Beach (Swaraj Dweep - Havelock Island):** Often regarded as one of the most beautiful beaches in the world. Its white sand and clear blue waters are ideal for relaxation and swimming.
 
-<img src="placeholder_image_radhanagar_beach.jpg" alt="Radhanagar Beach">
+
 
 *   **Ross Island (Netaji Subhas Chandra Bose Island):** Once the administrative headquarters during British rule, now a historical site with ruins of buildings, a church, and a museum.
 
@@ -69,7 +69,7 @@ The Andaman and Nicobar Islands are a mecca for adventure enthusiasts:
 
 *   **Scuba Diving and Snorkeling:** The islands boast some of the best diving and snorkeling sites in the world, with vibrant coral reefs and a diverse array of marine life. Havelock Island, Neil Island, and North Bay Island are particularly popular destinations.
 
-<img src="placeholder_image_scuba_diving.jpg" alt="Scuba Diving">
+
 
 *   **Sea Walking:** Experience the underwater world without swimming at North Bay Island and Havelock Island.
 
@@ -118,7 +118,7 @@ The cuisine of the Andaman and Nicobar Islands reflects its unique island locati
 
 The Andaman and Nicobar Islands are incredibly rich in biodiversity.
 
-<img src="placeholder_image_flora_fauna.jpg" alt="Flora and Fauna">
+
 
 *   **Tropical Rainforests:** Dense, tropical rainforests that are home to diverse species of plants and animals.
 

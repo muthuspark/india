@@ -23,7 +23,7 @@ The history of Tarapith is intertwined with the legendary tale of the goddess Ta
 
 The cultural heritage of Tarapith is significantly influenced by Tantric traditions. The priests (also called "Baidyas") and sadhus (holy men) associated with the temple often perform complex rituals and offer prayers known for their intensity and esoteric nature. Festivals and observances play a crucial role in the cultural life of Tarapith. The most significant festival is held during the Amavasya (new moon) of the Bengali month of Paush (usually December/January), when thousands of devotees flock to the temple for special pujas (worship) and offerings. Other festivals, such as the annual Kali Puja and Durga Puja, are also celebrated with great zeal.
 
-<img src="placeholder_image_tarapith_temple.jpg" alt="Tarapith Temple - The main temple dedicated to Goddess Tara">
+
 
 ### **Natural Beauty**
 
@@ -35,7 +35,7 @@ The riverbank of the Dwarka provides scenic views, especially during sunrise and
 
 The primary attraction of Tarapith is the Tarapith Temple itself. It is here that devotees come to offer prayers, make offerings to the goddess, and seek blessings. The temple is a vibrant place filled with chanting, bell ringing, and the presence of both locals and pilgrims.
 
-<img src="placeholder_image_tarapith_ghat_dwarka.jpg" alt="Ghat on the Dwarka River">
+
 
 The cremation ground (Maha Smasana) near the temple, is also a significant site. It is here that many sadhus and tantric practitioners perform rituals. While this may not be for every visitor, it is integral to the essence of Tarapith and its unique spiritual practice. The Dwarka River, flowing alongside, is revered, and taking a dip here is considered sacred by many.
 
@@ -47,7 +47,7 @@ Tarapith is not typically known as a hub for adventure activities. However, a le
 
 The local markets around Tarapith Temple cater primarily to the needs of pilgrims and visitors. Here, one can find religious items such as idols of Goddess Tara, puja accessories, books related to Tantra, and traditional Bengali clothing.
 
-<img src="placeholder_image_tarapith_market.jpg" alt="Local Market at Tarapith - selling puja items and other essentials">
+
 
 Additionally, a few shops may offer traditional Bengali handicrafts from the surrounding regions, though the selection may be limited compared to markets in larger cities. This allows visitors to purchase souvenirs and items related to the worship.
 
@@ -75,7 +75,7 @@ The best time to visit Tarapith is during the cooler months, from October to Mar
 
 **By Road:** Tarapith is well-connected by road. You can hire a taxi or take a bus from Kolkata or surrounding areas. The journey takes approximately 5-6 hours from Kolkata.
 
-<img src="placeholder_image_road_to_tarapith.jpg" alt="Road leading to Tarapith">
+
 
 ### **Accommodation Options**
 
@@ -87,7 +87,7 @@ For travelers looking for more amenities, there are a few hotels in the area. Th
 
 For a deeper immersion into the local culture, visitors can consider visiting the nearby villages, interacting with the locals, and experiencing the traditional Bengali way of life.
 
-<img src="placeholder_image_nearby_village.jpg" alt="Nearby village in Birbhum district">
+
 
 Exploring lesser-known attractions and engaging with the rituals and traditions associated with the goddess is another option. Taking a dip in the Dwarka River is also considered an integral part of the pilgrimage. Seeking guidance from local priests or spiritual guides can provide a deeper insight into the Tantric practices.
 

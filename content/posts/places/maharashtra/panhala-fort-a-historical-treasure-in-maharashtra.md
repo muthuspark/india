@@ -28,7 +28,7 @@ The fort's cultural heritage is reflected in its architectural grandeur and the 
 
 Key historical landmarks include the Teen Darwaza (Three Gates), the main entrance to the fort, which has witnessed countless historical events, and the Sajja Kothi, a small fort, where Shivaji Maharaj was supposedly held captive.
 
-<img src="placeholder_image_teen_darwaza.jpg" alt="Teen Darwaza - Panhala Fort">
+
 
 ### **Natural Beauty**
 
@@ -38,7 +38,7 @@ From various viewpoints within the fort, visitors can enjoy stunning panoramic v
 
 The natural environment of Panhala includes the Western Ghats ecosystem, known for its rich biodiversity. While there aren’t any designated national parks or reserves within the immediate vicinity, the surrounding forests are home to various plant species, and the region is known for its moderate climate, making it pleasant to visit throughout most of the year.
 
-<img src="placeholder_image_panhala_scenery.jpg" alt="Panhala Fort Landscape">
+
 
 ### **Must-Visit Attractions**
 
@@ -53,7 +53,7 @@ Panhala Fort offers numerous attractions for visitors to explore. These include:
 
 These attractions are steeped in history, showcasing the military architecture and engineering prowess of the Maratha era.
 
-<img src="placeholder_image_sajja_kothi.jpg" alt="Sajja Kothi - Panhala Fort">
+
 
 ### **Adventure Activities**
 
@@ -81,7 +81,7 @@ The local cuisine in the Panhala-Kolhapur region is rich and flavorful, influenc
 
 Popular restaurants and food stalls can be found in the town of Panhala and nearby Kolhapur. Seek out the small, local eateries for an authentic culinary experience.
 
-<img src="placeholder_image_local_cuisine.jpg" alt="Local Cuisine - Panhala">
+
 
 ### **Flora and Fauna**
 

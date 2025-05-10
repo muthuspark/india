@@ -18,7 +18,7 @@ tags:
 Khajjiar, often referred to as the "Mini Switzerland of India," is a breathtaking hill station nestled in the Chamba district of Himachal Pradesh. Although geographically located in the Chamba district, its proximity and accessibility from Manali make it a popular day trip or short-stay destination for Manali visitors. Situated at an elevation of approximately 1,920 meters (6,300 feet) above sea level, Khajjiar is renowned for its stunning natural beauty, particularly its picturesque meadow fringed by dense deodar forests. This unique landscape, featuring a serene lake at its center, provides a mesmerizing spectacle and a serene retreat from the hustle and bustle of city life. The air is crisp, the views are spectacular, and the overall atmosphere is one of tranquility and natural splendor, offering a unique blend of natural beauty and cultural charm.
 <br>
 <center>
-<img src="placeholder_khajjiar_introduction.jpg" alt="Khajjiar's scenic beauty" width="600">
+
 </center>
 
 ### **History and Cultural Heritage**
@@ -26,7 +26,7 @@ Khajjiar, often referred to as the "Mini Switzerland of India," is a breathtakin
 The history of Khajjiar is intertwined with the rich cultural heritage of the Chamba region. Historically, Khajjiar served as a significant stopover point for travelers and traders traversing the mountainous terrain. The region has been influenced by various ruling dynasties, including the Rajputs, who left behind a lasting legacy of art, architecture, and traditions. The local culture is predominantly influenced by Hinduism, with the presence of ancient temples and religious sites that reflect the spiritual beliefs of the local community. The most significant of these is the Khajji Nag Temple, dedicated to the serpent god Khajji Nag, which is a key cultural landmark in Khajjiar. The temple's architecture is a blend of Hindu and Islamic styles, and it is known for its intricately carved wooden interiors. The annual Khajjiar Fair, held in the temple premises, is a vibrant celebration of local traditions, attracting tourists and locals alike. The local communities continue to uphold their traditions with colorful festivals, folk dances, and traditional music, which are integral parts of the local heritage.
 <br>
 <center>
-<img src="placeholder_khajjiar_temple.jpg" alt="Khajjiar Nag Temple" width="600">
+
 </center>
 
 ### **Natural Beauty**
@@ -34,7 +34,7 @@ The history of Khajjiar is intertwined with the rich cultural heritage of the Ch
 Khajjiar's beauty lies in its stunning natural landscape. The landscape is characterized by a vast, lush green meadow with the Khajjiar Lake at its center, a stunning body of water that mirrors the surrounding environment. The lake is encircled by a thick belt of towering deodar and pine trees, creating a unique natural amphitheater. These dense forests provide a habitat for diverse flora and fauna. The Himalayan peaks, particularly the Dhauladhar range, offer a breathtaking backdrop, especially during clear weather. The best viewpoints in Khajjiar offer panoramic vistas of the meadow, the lake, and the surrounding hills, making them perfect spots for photography and enjoying the scenic grandeur. The region's natural beauty is further enhanced by the presence of grasslands, where local people graze their cattle. These meadows, combined with the pristine lake, make Khajjiar a visual delight and a perfect destination for nature lovers and photography enthusiasts.
 <br>
 <center>
-<img src="placeholder_khajjiar_lake.jpg" alt="Khajjiar Lake and surroundings" width="600">
+
 </center>
 
 ### **Must-Visit Attractions**
@@ -53,7 +53,7 @@ Beyond these, simply enjoying the panoramic views, breathing in the fresh mounta
 Khajjiar offers a range of adventure activities for thrill-seekers. Boating on Khajjiar Lake is a popular activity, allowing visitors to experience the lake's serenity. Zorbing is another exciting option, where one rolls down the grassy slopes inside a giant transparent ball. Horse riding around the lake and through the meadows provides a unique way to explore the landscape. Paragliding, though not directly available in Khajjiar itself due to the location's elevation and weather, is often available nearby, offering breathtaking aerial views of the region. Trekking enthusiasts can explore the surrounding hills and forests, with trails suitable for both beginners and experienced hikers. Bird watching is another engaging activity, as the region is home to various species of birds. The Kalatop Khajjiar Sanctuary offers opportunities for wildlife spotting and nature walks.
 <br>
 <center>
-<img src="placeholder_khajjiar_adventure.jpg" alt="Adventure activities in Khajjiar" width="600">
+
 </center>
 
 ### **Local Markets and Handicrafts**
@@ -61,7 +61,7 @@ Khajjiar offers a range of adventure activities for thrill-seekers. Boating on K
 While Khajjiar itself doesn't have large, bustling markets, it does offer opportunities to purchase local handicrafts and souvenirs. Visitors can find shops and stalls selling traditional Himachali shawls, woolen garments, caps, and other clothing items. Local artisans also create and sell intricate wooden crafts, including carved boxes, figurines, and other decorative pieces, providing a unique glimpse into the local artistry. Souvenirs like keychains, magnets, and small handicraft items are also available. The local markets offer a chance to interact with the locals, learn about their craftsmanship, and purchase authentic products.
 <br>
 <center>
-<img src="placeholder_khajjiar_markets.jpg" alt="Local markets and handicrafts in Khajjiar" width="600">
+
 </center>
 
 ### **Food and Cuisine**
@@ -93,7 +93,7 @@ Khajjiar is accessible by road. The nearest major airport is Kangra Airport (DHM
 Khajjiar offers various accommodation options to suit different budgets and preferences. Visitors can choose from budget-friendly guesthouses, homestays, and mid-range hotels, providing comfortable stays. Some hotels provide stunning views of the lake and surrounding landscapes. For a more luxurious experience, options with modern amenities and excellent services are available. Several hotels offer family suites and rooms. During peak season, booking accommodations in advance is advisable to ensure a comfortable stay.
 <br>
 <center>
-<img src="placeholder_khajjiar_accommodation.jpg" alt="Accommodation options in Khajjiar" width="600">
+
 </center>
 
 ### **Offbeat Experiences**

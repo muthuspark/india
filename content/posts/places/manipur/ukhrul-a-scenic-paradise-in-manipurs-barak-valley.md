@@ -27,7 +27,7 @@ The cultural heritage is vibrant and distinct, characterized by unique festivals
 
 Ukhrul is synonymous with its breathtaking natural beauty. The district is characterized by rolling hills, deep valleys, and verdant landscapes. The landscape is dotted with various types of flora and fauna. The picturesque *Shirui Kashong peak* is a must-visit location and is famous for the *Shirui Lily*, a rare and endangered flower that blooms only in the spring season. The region is also rich in streams, rivers, and waterfalls, further enhancing its scenic charm.
 
-<placeholder image tag for Shirui Kashong Peak>
+
 
 Viewpoints like the one overlooking the *Khayang Peak* offer panoramic views of the lush surrounding hills. The climate is cool and pleasant throughout the year, making it an ideal destination for nature lovers and those seeking respite from the heat. Forest reserves and protected areas conserve the region's rich biodiversity, offering opportunities to explore diverse ecosystems.
 
@@ -36,22 +36,22 @@ Viewpoints like the one overlooking the *Khayang Peak* offer panoramic views of 
 Ukhrul offers a plethora of attractions that cater to a variety of interests.
 
 *   **Shirui Kashong Peak**: As mentioned, the peak is the most famous spot, and a pilgrimage site for botanists and nature lovers. It's the only place to see the *Shirui Lily* flower when it blooms.
-    <placeholder image tag for Shirui Lily>
+    
 
 *   **Khayang Peak**: Offers a breathtaking panoramic view of the landscape. A trek to the top is a popular activity.
-    <placeholder image tag for Khayang Peak viewpoint>
+    
 
 *   **Khangkhui Cave**: A historical cave, offering insights into the region's past.
-    <placeholder image tag for Khangkhui Cave>
+    
 
 *   **Thengra Peak**: Another great viewpoint from where you can capture the beauty of the Ukhrul.
-    <placeholder image tag for Thengra Peak>
+    
 
 *   **Nillai Tea Estate**: Known for its beautiful tea gardens and serene environment. A perfect place to unwind.
-    <placeholder image tag for Nillai Tea Estate>
+    
 
 *   **Local Villages**: Explore traditional Tangkhul Naga villages to experience their culture and way of life.
-    <placeholder image tag for Tangkhul Naga village>
+    
 
 *   **District Museum**: Displaying the rich cultural heritage of the Tangkhul Naga tribe.
 
@@ -60,14 +60,14 @@ Ukhrul offers a plethora of attractions that cater to a variety of interests.
 Ukhrul is an excellent destination for adventure enthusiasts, offering a wide array of activities.
 
 *   **Trekking**: Numerous trekking trails lead to scenic viewpoints, waterfalls, and forests, offering stunning views of the surrounding landscape.
-    <placeholder image tag for trekking in Ukhrul>
+    
 
 *   **Rock Climbing**: Some locations around Ukhrul offer opportunities for rock climbing and bouldering, although the infrastructure may be basic.
 
 *   **Camping**: Several locations around Ukhrul are ideal for camping. Spending a night or two in the midst of nature.
 
 *   **Nature Walks and Bird Watching**: The rich biodiversity of the region makes it a great place for nature walks and bird-watching.
-    <placeholder image tag for bird watching in Ukhrul>
+    
 
 *   **Photography**: Ukhrul offers countless opportunities for photography, from landscapes to cultural events.
 
@@ -76,7 +76,7 @@ Ukhrul is an excellent destination for adventure enthusiasts, offering a wide ar
 Ukhrul is known for its vibrant local markets, offering a variety of handicrafts and traditional products.
 
 *   **Tangkhul Textiles**: The Tangkhul Nagas are renowned for their exquisite handwoven textiles, including shawls, skirts, and jackets, characterized by intricate designs and vibrant colors.
-    <placeholder image tag for Tangkhul Textiles>
+    
 
 *   **Handicrafts**: You can also find locally made bamboo and cane products, pottery, and wood carvings.
 
@@ -87,7 +87,7 @@ Ukhrul is known for its vibrant local markets, offering a variety of handicrafts
 The cuisine of Ukhrul is centered on fresh, local ingredients and distinctive flavors.
 
 *   **Local Dishes**: Popular dishes include *Sareiching*, a preparation of pork with fermented soyabean, *Sana Thongba* (cottage cheese stew), and various preparations using locally grown vegetables and rice.
-    <placeholder image tag for a local dish>
+    
 
 *   **Street Food**: Try the local snacks and street food at the local markets.
 

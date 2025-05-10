@@ -26,7 +26,7 @@ Bhagalpur, the district surrounding the sanctuary, has a rich cultural heritage.
 
 The Vikramshila Gangetic Dolphin Sanctuary is defined by the Ganges River itself. The river, the lifeblood of North India, flows wide and majestic through this stretch, creating a dynamic and ever-changing landscape. The sanctuary’s beauty lies in the simplicity of the natural environment—the glistening waters, the sandbanks, the gentle slopes of the riverbanks, and the backdrop of the distant landscape. The area is characterized by the typical alluvial plains of the Gangetic basin, with fertile soil and a diverse range of plant life along the banks.
 
-<img src="placeholder_image_landscape_ganges_river.jpg" alt="Placeholder: Landscape of the Ganges River" width="600" height="400">
+
 
 The best viewpoints within the sanctuary are undoubtedly from the river itself. Boat trips offer unparalleled opportunities to observe the dolphins and the surrounding landscapes. The sunrises and sunsets over the Ganges can be particularly stunning, painting the waters and the sky with vibrant colors.
 
@@ -36,7 +36,7 @@ The Ganges, as the central feature, is the natural attraction here. It's surroun
 
 The primary attraction within the Vikramshila Gangetic Dolphin Sanctuary is, of course, the opportunity to spot the Gangetic River Dolphins. The experience involves taking boat trips along the river, accompanied by experienced guides who can help you spot these elusive creatures.
 
-<img src="placeholder_image_gangetic_dolphin_boat_trip.jpg" alt="Placeholder: Gangetic Dolphin Boat Trip" width="600" height="400">
+
 
 Beyond the dolphin sightings, the journey along the Ganges offers a unique perspective on rural life in Bihar. You can observe local communities, fishing practices, and traditional lifestyles along the riverbanks.
 
@@ -61,7 +61,7 @@ While more extreme adventure sports aren't available, the unique experience of e
 
 Bhagalpur, the nearest city, is famous for its handloom industry, especially silk weaving. Local markets and shops offer a wide variety of Bhagalpuri silk products, including sarees, dress materials, scarves, and home textiles.
 
-<img src="placeholder_image_bhagalpuri_silk.jpg" alt="Placeholder: Bhagalpuri silk" width="600" height="400">
+
 
 You can find these products in local bazaars and government-run emporiums. Some shops also offer demonstrations of the silk weaving process, allowing visitors to learn about the craftsmanship involved.
 
@@ -84,7 +84,7 @@ Popular restaurants and food stalls are available in Bhagalpur city. It is a goo
 
 The primary focus of the Vikramshila Gangetic Dolphin Sanctuary is the protection of the Gangetic River Dolphin.
 
-<img src="placeholder_image_gangetic_river_dolphin.jpg" alt="Placeholder: Gangetic River Dolphin" width="600" height="400">
+
 
 Besides the dolphins, the sanctuary supports a variety of other aquatic life, including fish, turtles, and other riverine species. The sanctuary also provides a habitat for various bird species, making it an excellent location for bird watching. The vegetation along the riverbanks, while not formally part of a botanical garden, supports the ecological balance and biodiversity of the area.
 

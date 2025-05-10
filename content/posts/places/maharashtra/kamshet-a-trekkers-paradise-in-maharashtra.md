@@ -25,29 +25,29 @@ Kamshet's history is interwoven with the broader history of the Sahyadri mountai
 
 Kamshet is blessed with stunning natural beauty. The landscape is characterized by rolling hills, lush green valleys, and shimmering lakes, making it a visual delight throughout the year. The Western Ghats, a UNESCO World Heritage site, provide a dramatic backdrop. The most prominent natural features include the Pawna Lake, a sprawling reservoir known for its serene waters and picturesque surroundings. The Tikona Fort, located atop a triangular hill, offers panoramic views of the region, including the beautiful valleys and the Pawna Lake. The region is also home to numerous waterfalls that cascade down the hills during the monsoon season, creating a breathtaking spectacle. The natural environment, including the verdant forests, supports diverse flora and fauna, adding to the region's charm.
 
-<img src="placeholder_image_kamshet_natural_beauty.jpg" alt="Natural Beauty of Kamshet">
+
 
 ### **Must-Visit Attractions**
 
 Kamshet offers a plethora of attractions, catering to different interests.
 
 *   **Pawna Lake:** A must-visit destination, Pawna Lake is perfect for camping, picnicking, and watersports.
-    <img src="placeholder_image_pawna_lake.jpg" alt="Pawna Lake">
+    
 *   **Karla Caves and Bhaja Caves:** Ancient Buddhist rock-cut caves showcasing remarkable architectural and artistic skills.
-    <img src="placeholder_image_karla_bhaja_caves.jpg" alt="Karla Caves and Bhaja Caves">
+    
 *   **Visapur Fort and Lohagad Fort:** Historic forts offering stunning views and a glimpse into the region's rich past.
-    <img src="placeholder_image_visapur_lohagad_forts.jpg" alt="Visapur Lohagad Forts">
+    
 *   **Bedsa Caves:** Another set of ancient Buddhist caves, known for their intricate carvings and architecture.
-    <img src="placeholder_image_bedsa_caves.jpg" alt="Bedsa Caves">
+    
 *   **Shinde Wadi Hills:** An excellent spot for paragliding, providing a unique perspective of the landscape.
-    <img src="placeholder_image_shinde_wadi_hills.jpg" alt="Shinde Wadi Hills">
+    
 
 ### **Adventure Activities**
 
 Kamshet is a paradise for adventure seekers.
 
 *   **Paragliding:** The most popular activity, Kamshet offers excellent paragliding opportunities for both beginners and experienced flyers. Several paragliding schools and operators provide training and tandem flights.
-    <img src="placeholder_image_paragliding_kamshet.jpg" alt="Paragliding in Kamshet">
+    
 *   **Trekking:** The surrounding hills and forts offer numerous trekking trails of varying difficulty levels.
 *   **Camping:** Pawna Lake is a popular camping destination, allowing visitors to enjoy the serene surroundings and stargazing at night.
 *   **Water Sports:** Activities like kayaking and boating are available at Pawna Lake.
@@ -69,7 +69,7 @@ The local cuisine in Kamshet and the surrounding areas is predominantly Maharash
 
 Popular restaurants and food stalls can be found in Lonavala and near the Pawna Lake. Many resorts and guesthouses also offer Maharashtrian dishes as part of their menu.
 
-<img src="placeholder_image_kamshet_food.jpg" alt="Kamshet Food">
+
 
 ### **Flora and Fauna**
 

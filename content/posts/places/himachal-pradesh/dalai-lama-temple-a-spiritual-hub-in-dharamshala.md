@@ -25,7 +25,7 @@ Dharamshala, nestled in the scenic Kangra Valley of Himachal Pradesh, India, is 
 
 Dharamshala's history is a rich tapestry woven with colonial threads and spiritual influence. Initially a quiet hill station during the British Raj, its destiny changed dramatically in 1959 when the 14th Dalai Lama, Tenzin Gyatso, fled Tibet following the Tibetan uprising and established his government-in-exile here. This influx of Tibetan refugees brought a vibrant cultural transformation, integrating Tibetan traditions, art, and spirituality into the local landscape. The city's name, derived from "Dharma Shala," literally translates to "the holy dwelling" or "the abode of righteousness," reflecting its spiritual importance.
 
-<img src="placeholder_image_dharamshala_historical.jpg" alt="Historical landmark in Dharamshala">
+
 
 The culture of Dharamshala is a beautiful amalgamation of Hindu and Tibetan traditions. The city celebrates a range of festivals, including Losar (Tibetan New Year), Diwali, and Holi, with fervent enthusiasm.  Key historical landmarks include the Tsuglagkhang Complex, the residence of the Dalai Lama and the Central Tibetan Administration, which is a significant center for Buddhist studies and spiritual practices. The Norbulingka Institute, dedicated to preserving Tibetan art and culture, is another testament to the city's heritage. The Kangra Fort, although slightly outside Dharamshala, also provides a glimpse into the region's rich history, dating back to ancient times.
 
@@ -33,7 +33,7 @@ The culture of Dharamshala is a beautiful amalgamation of Hindu and Tibetan trad
 
 Dharamshala is blessed with breathtaking natural beauty, surrounded by the towering Dhauladhar mountain range. The landscape is a verdant paradise with lush tea gardens, dense pine forests, and cascading waterfalls.  The area is crisscrossed by several streams and rivers, adding to its scenic charm.
 
-<img src="placeholder_image_dharamshala_natural_beauty.jpg" alt="Scenic view of Dharamshala">
+
 
 Several viewpoints offer panoramic views of the valley and the snow-capped peaks. Triund, a popular trekking destination, provides unparalleled views of the Dhauladhar range.  Bhagsunag, with its stunning waterfall and ancient temple, is another picturesque spot. The Naddi viewpoint offers a mesmerizing view of the valley, especially during sunset. The serene and pristine beauty of the forests and mountains provides a perfect backdrop for spiritual contemplation and outdoor adventures.
 
@@ -41,10 +41,10 @@ Several viewpoints offer panoramic views of the valley and the snow-capped peaks
 
 Dharamshala is home to several attractions that cater to diverse interests.
 
-*   **Tsuglagkhang Complex:** The main temple and residence of the Dalai Lama is a must-visit, offering insights into Tibetan Buddhism and a chance to see the Dalai Lama when he is in residence. <img src="placeholder_image_tsuglagkhang.jpg" alt="Tsuglagkhang Temple">
+*   **Tsuglagkhang Complex:** The main temple and residence of the Dalai Lama is a must-visit, offering insights into Tibetan Buddhism and a chance to see the Dalai Lama when he is in residence. 
 *   **Namgyal Monastery:** Located within the Tsuglagkhang Complex, this is the largest Tibetan temple outside of Tibet and houses numerous sacred relics and statues.
 *   **Norbulingka Institute:**  A center dedicated to preserving and promoting Tibetan art and culture, showcasing traditional crafts, thangka paintings, and woodcarvings.
-*   **Bhagsunag Temple and Waterfall:** An ancient temple dedicated to Lord Shiva, next to a beautiful waterfall, offering a refreshing respite. <img src="placeholder_image_bhagsunag.jpg" alt="Bhagsunag Waterfall">
+*   **Bhagsunag Temple and Waterfall:** An ancient temple dedicated to Lord Shiva, next to a beautiful waterfall, offering a refreshing respite. 
 *   **War Memorial:** A memorial dedicated to the soldiers of Himachal Pradesh who sacrificed their lives in various wars.
 *   **St. John in the Wilderness Church:** A beautiful neo-Gothic church, nestled amidst a dense forest, adding to the city's colonial heritage.
 *   **Tea Gardens:** Explore the lush tea gardens of Dharamshala and learn about tea processing.
@@ -65,7 +65,7 @@ Dharamshala offers a plethora of adventure activities, attracting thrill-seekers
 Dharamshala's local markets are a vibrant tapestry of culture and commerce.
 
 *   **Kotwali Bazaar:** The main market, where you can find a variety of items, including clothes, handicrafts, souvenirs, and Tibetan artifacts.
-*   **McLeod Ganj Market:** Known for its Tibetan handicrafts, woolens, thangkas (Tibetan paintings), prayer wheels, and Buddhist religious items. <img src="placeholder_image_mcleod_ganj_market.jpg" alt="McLeod Ganj Market">
+*   **McLeod Ganj Market:** Known for its Tibetan handicrafts, woolens, thangkas (Tibetan paintings), prayer wheels, and Buddhist religious items. 
 *   **Tibetan Handicrafts:** Dharamshala is famous for its high-quality Tibetan handicrafts, including hand-woven carpets, intricate woodwork, and beautifully crafted metalwork.
 *   **Woolen Garments:** Warm woolen clothing, including shawls, sweaters, and gloves, is a must-buy, especially during the colder months.
 

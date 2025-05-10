@@ -31,7 +31,7 @@ Munnar's natural beauty is its greatest asset. The landscape is a visual symphon
 
 The shola forests, pockets of evergreen forests found in the higher altitudes, add to the biodiversity and scenic beauty. These forests are home to a variety of flora and fauna. Several rivers and streams crisscross the region, contributing to its lushness. Eravikulam National Park, home to the endangered Nilgiri Tahr, is a prime example of Munnar's commitment to preserving its natural environment.
 
-<img src="placeholder_image_Eravikulam_National_Park.jpg" alt="Eravikulam National Park">
+
 
 ### **Must-Visit Attractions**
 
@@ -45,7 +45,7 @@ Munnar offers a wealth of attractions for visitors.
 *   **Anayirangal Dam:** Offers boat rides and a scenic landscape of tea plantations and forests.
 *   **Kolukkumalai Tea Estate:** The world's highest tea estate, accessible via jeep and offers spectacular views.
 
-<img src="placeholder_image_Tea_Museum.jpg" alt="Tea Museum">
+
 
 ### **Adventure Activities**
 
@@ -66,7 +66,7 @@ Munnar offers local markets where visitors can find unique souvenirs and local p
 *   **Spices:** Munnar is known for its spices, and visitors can purchase fresh and aromatic spices, including cardamom, cloves, and pepper.
 *   **Tea:** Several shops sell different varieties of tea, from the classic black tea to flavored blends.
 
-<img src="placeholder_image_Munnar_Market.jpg" alt="Munnar Market">
+
 
 ### **Food and Cuisine**
 
@@ -87,7 +87,7 @@ Munnar's rich biodiversity is one of its most appealing features.
 *   **Tea Plantations:** These vast plantations provide a habitat for a range of bird species.
 *   **Wildlife Reserves:** The region provides opportunities for nature enthusiasts to spot diverse species in their natural habitat.
 
-<img src="placeholder_image_Nilgiri_Tahr.jpg" alt="Nilgiri Tahr">
+
 
 ### **Best Time to Visit**
 
@@ -116,7 +116,7 @@ Munnar offers a wide range of accommodation options to suit different budgets an
 *   **Budget-Friendly Stays:** Numerous guesthouses and homestays offer budget-friendly options.
 *   **Tea Bungalows:** For a unique experience, consider staying in a colonial-era tea bungalow.
 
-<img src="placeholder_image_Tea_Bungalow.jpg" alt="Tea Bungalow">
+
 
 ### **Offbeat Experiences**
 

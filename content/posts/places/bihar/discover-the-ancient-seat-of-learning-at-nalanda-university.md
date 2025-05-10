@@ -24,7 +24,7 @@ Nalanda's history is interwoven with the rise and fall of empires, religious tra
 
 Culturally, Nalanda is primarily associated with Buddhism. The university served as a major center for the Mahayana form of Buddhism. Numerous monasteries, stupas, and temples were constructed during its heyday. Festivals and religious practices center around Buddhist traditions. Important historical landmarks include the ruins of the university complex, the Sarai Mound, and the Nava Nalanda Mahavihara, a modern institute established to continue the tradition of Buddhist studies.
 
-<img src="[Placeholder Image: Ruins of Nalanda University]" alt="Ruins of Nalanda University">
+
 
 ### **Natural Beauty**
 
@@ -36,7 +36,7 @@ Natural attractions near Nalanda include the Rajgir Hills, situated about 15 kil
 
 The primary attraction is the **Ruins of Nalanda University**. These well-preserved ruins include monasteries, classrooms, temples, and stupas. Visitors can wander through the remnants of the once-thriving academic complex, imagining the lives of the scholars and students who lived there centuries ago.
 
-<img src="[Placeholder Image: Nalanda University Ruins Layout]" alt="Nalanda University Ruins Layout">
+
 
 Other must-visit attractions include:
 
@@ -57,7 +57,7 @@ Adventure activities are limited within Nalanda itself, given its historical and
 
 Nalanda doesn't have large, bustling markets like some larger cities. However, small local markets sell items of daily use, snacks, and basic clothing. Handicraft shops near the university ruins and around Rajgir sometimes offer local souvenirs and traditional items. You may find Buddhist-related items, such as small statues, prayer beads, and other religious paraphernalia.
 
-<img src="[Placeholder Image: Local Market in Nalanda]" alt="Local Market in Nalanda">
+
 
 ### **Food and Cuisine**
 
@@ -86,7 +86,7 @@ The best time to visit Nalanda is during the cooler months, from **October to Ma
 *   **By Rail:** Nalanda has its own railway station (NLD), connected to major cities in India. Trains are a convenient way to reach the area.
 *   **By Road:** Nalanda is well-connected by road. Buses and taxis are available from Patna and other nearby cities. The distance from Patna to Nalanda is about 90 kilometers (56 miles), and the journey takes approximately 2-3 hours by road.
 
-<img src="[Placeholder Image: Road to Nalanda from Patna]" alt="Road to Nalanda from Patna">
+
 
 ### **Accommodation Options**
 

@@ -27,7 +27,7 @@ The cultural heritage of Kumarakom is deeply rooted in the traditions of Kerala.
 
 ### **Natural Beauty**
 
-Kumarakom's natural beauty is its defining characteristic. The village is characterized by the vast expanse of Vembanad Lake, the largest lake in Kerala. <img src="placeholder_image_kumarakom_lake.jpg" alt="Vembanad Lake" width="600" height="400"> The landscape is a tapestry of waterways, canals, and backwaters, creating an idyllic setting for relaxation and exploration. The shores of the lake are lined with dense coconut groves, paddy fields that stretch to the horizon, and lush greenery that provides a refreshing backdrop.
+Kumarakom's natural beauty is its defining characteristic. The village is characterized by the vast expanse of Vembanad Lake, the largest lake in Kerala.  The landscape is a tapestry of waterways, canals, and backwaters, creating an idyllic setting for relaxation and exploration. The shores of the lake are lined with dense coconut groves, paddy fields that stretch to the horizon, and lush greenery that provides a refreshing backdrop.
 
 The most popular viewpoint is undoubtedly the serene waterways and the panoramic views of Vembanad Lake. Visitors can explore the waterways through traditional houseboats, canoes, and motorboats, experiencing the tranquility of the backwaters up close. The Kumarakom Bird Sanctuary, a major attraction, provides a unique opportunity for nature enthusiasts to observe diverse bird species in their natural habitat. The serene and picturesque landscape around the bird sanctuary also serves as an excellent viewpoint for visitors.
 
@@ -35,7 +35,7 @@ The most popular viewpoint is undoubtedly the serene waterways and the panoramic
 
 Kumarakom is rich in attractions that cater to diverse interests:
 
-*   **Kumarakom Bird Sanctuary:** <img src="placeholder_image_kumarakom_bird_sanctuary.jpg" alt="Kumarakom Bird Sanctuary" width="600" height="400"> A haven for bird watchers, this sanctuary is home to a vast variety of migratory and resident birds, including waterfowl, cuckoos, herons, egrets, darters, and kingfishers. The sanctuary provides trails and observation points for bird enthusiasts.
+*   **Kumarakom Bird Sanctuary:**  A haven for bird watchers, this sanctuary is home to a vast variety of migratory and resident birds, including waterfowl, cuckoos, herons, egrets, darters, and kingfishers. The sanctuary provides trails and observation points for bird enthusiasts.
 *   **Vembanad Lake:** The centerpiece of Kumarakom, the lake is perfect for houseboat cruises, boat rides, and water sports. The vast expanse of water and the surrounding landscape make it a delightful experience.
 *   **Pathiramanal Island:** Accessible by boat, this small island is another bird-watching paradise in the middle of Vembanad Lake. It's a tranquil spot perfect for enjoying the peace of the surroundings.
 *   **Aruvikkuzhi Waterfalls:** Located nearby, this waterfall cascades down rocky terrain, providing a refreshing spot for a day trip. It is often visited in combination with a trip to Kumarakom.
@@ -46,7 +46,7 @@ Kumarakom is rich in attractions that cater to diverse interests:
 Kumarakom, despite its serene setting, offers various adventure activities:
 
 *   **Houseboat Cruises:** Experience the backwaters in all their glory with houseboat cruises. These cruises typically include overnight stays, providing a chance to enjoy the natural beauty and local cuisine.
-*   **Boat Rides and Shikara Rides:** <img src="placeholder_image_kumarakom_boat_ride.jpg" alt="Boat Ride" width="600" height="400"> Explore the narrow canals and waterways in traditional boats or shikaras.
+*   **Boat Rides and Shikara Rides:**  Explore the narrow canals and waterways in traditional boats or shikaras.
 *   **Kayaking and Canoeing:** Paddle through the backwaters at your own pace.
 *   **Fishing:** Fishing is a common activity; you can try your hand at catching some local fish.
 

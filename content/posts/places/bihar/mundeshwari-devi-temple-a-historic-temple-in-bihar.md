@@ -21,7 +21,7 @@ The Mundeshwari Devi Temple, a revered Hindu shrine, stands as a testament to an
 
 The history of the Mundeshwari Devi Temple is shrouded in antiquity, with its origins shrouded in mystery. It is believed to have been established in the Gupta period, with some inscriptions suggesting its existence as early as the 7th century CE, making it one of the oldest functional temples in the country and possibly the world. The temple is dedicated to Goddess Mundeshwari, an avatar of Shakti, and is considered a Shakti Peetha, a place where a part of the goddess Sati's body fell.
 
-<img src="[Image of Mundeshwari Devi Temple - Historical architectural details, carvings, or panoramic view]" alt="Mundeshwari Devi Temple - Historical view" style="width: 100%;">
+
 
 The architectural style of the temple reflects influences from different eras, including the Gupta and later periods. It features a unique octagonal design, showcasing intricate stone carvings and sculptures. The main deity, Goddess Mundeshwari, is depicted in a serene form, and various other deities are worshipped within the temple complex, including Lord Shiva. The temple’s cultural significance is further amplified during festivals like Navaratri and Shivratri when devotees from across the country flock to seek blessings. The temple is not just a place of worship but also a repository of historical artifacts and inscriptions, offering insights into the religious and social practices of bygone eras. The practice of animal sacrifice, which was a part of the temple rituals in the past, has been replaced with a unique practice of sacrificing a goat symbolically.
 
@@ -29,7 +29,7 @@ The architectural style of the temple reflects influences from different eras, i
 
 The Mundeshwari Devi Temple is set amidst the picturesque Kaimur Hills, part of the Vindhya Range, offering breathtaking views of the surrounding landscapes. The hills are characterized by their rolling terrains, lush green vegetation, and numerous waterfalls, creating a serene and captivating environment.
 
-<img src="[Image of the Kaimur Hills landscape surrounding the temple]" alt="Kaimur Hills Landscape" style="width: 100%;">
+
 
 The region offers stunning vistas from various viewpoints along the hills, providing visitors with panoramic views of the valleys and forests below. The area is rich in natural beauty, with several scenic spots, including waterfalls and viewpoints, that attract nature lovers and photographers. The natural environment surrounding the temple provides a tranquil escape, perfect for those seeking a respite from urban life and a chance to connect with nature. The hills also provide opportunities for trekking and exploring the rich biodiversity of the region.
 
@@ -41,7 +41,7 @@ Besides the Mundeshwari Devi Temple itself, the immediate vicinity offers severa
 *   **Chandigarh:** A nearby village with a rich cultural heritage. It's an ideal location for experiencing rural life and interacting with local communities.
 *   **Nearby Waterfalls:** The Kaimur Hills are known for their waterfalls, offering scenic spots for relaxation and enjoying the natural beauty of the area.
 
-<img src="[Image of Mundeshwari Devi Temple interior/exterior including the architecture]" alt="Mundeshwari Devi Temple - Architectural view" style="width: 100%;">
+
 
 ### **Adventure Activities**
 
@@ -55,7 +55,7 @@ The Kaimur Hills provide opportunities for adventure activities:
 
 The local markets near Mundeshwari Devi Temple offer a glimpse into the region's culture and craftsmanship. These markets offer traditional crafts, clothing, and souvenirs.
 
-<img src="[Image of local market or handicraft product from the region]" alt="Local Market or Handicraft" style="width: 100%;">
+
 
 *   **Traditional Crafts:** Visitors can find handmade goods, textiles, and pottery reflecting the local artistic traditions.
 *   **Souvenirs:** The markets provide a wide array of souvenirs to take back home, representing the local culture and heritage.
@@ -84,7 +84,7 @@ The ideal time to visit the Mundeshwari Devi Temple is during the winter months,
 *   **Nearest Railway Station:** The nearest major railway station is Dehri-on-Sone (DOS), about 45km from the temple.
 *   **Road:** The temple is accessible by road. It is approximately 50 km from Bhabua, 45km from Dehri-on-Sone, and connected by major highways. Visitors can hire taxis or use local buses.
 
-<img src="[Image of the road/approach to Mundeshwari Devi Temple]" alt="Road to Mundeshwari Devi Temple" style="width: 100%;">
+
 
 ### **Accommodation Options**
 

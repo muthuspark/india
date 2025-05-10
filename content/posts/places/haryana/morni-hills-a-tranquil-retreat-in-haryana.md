@@ -20,13 +20,13 @@ Morni Hills, a verdant oasis nestled in the Shivalik range of the Himalayas, is 
 
 ### **History and Cultural Heritage**
 
-The history of Morni Hills is entwined with the region's broader historical narrative. While specific historical records of the area are limited, its strategic location within the Shivalik range likely meant it played a role in the movement of people and goods throughout history. The area was influenced by various kingdoms and dynasties that ruled over this part of northern India, including the Mughal Empire. <img src="placeholder_image_tag_for_historical_landmark" alt="Historical Landmark in Morni Hills"> The name "Morni" is believed to be derived from the Queen of the area.
+The history of Morni Hills is entwined with the region's broader historical narrative. While specific historical records of the area are limited, its strategic location within the Shivalik range likely meant it played a role in the movement of people and goods throughout history. The area was influenced by various kingdoms and dynasties that ruled over this part of northern India, including the Mughal Empire.  The name "Morni" is believed to be derived from the Queen of the area.
 
 Culturally, Morni Hills is part of the larger Punjabi and Haryanvi cultural sphere. The local communities follow the traditions and customs prevalent in the region, reflected in their language, cuisine, and lifestyle. The area is not known for any specific grand festivals, it observes the festivals common to the region.
 
 ### **Natural Beauty**
 
-Morni Hills is renowned for its lush green landscapes, dense forests, and scenic viewpoints. The hills are covered with diverse vegetation, including pine, oak, and rhododendron trees. The area is home to the Tikkar Taal, a beautiful lake formed by two separate water bodies – the larger and the smaller Taal. This creates a visually stunning panorama, especially during the monsoon season when the hills are at their greenest. <img src="placeholder_image_tag_for_Tikkar_Taal" alt="Tikkar Taal">
+Morni Hills is renowned for its lush green landscapes, dense forests, and scenic viewpoints. The hills are covered with diverse vegetation, including pine, oak, and rhododendron trees. The area is home to the Tikkar Taal, a beautiful lake formed by two separate water bodies – the larger and the smaller Taal. This creates a visually stunning panorama, especially during the monsoon season when the hills are at their greenest. 
 
 The region offers several viewpoints where visitors can enjoy panoramic views of the surrounding hills and valleys. The surrounding forests are home to a variety of wildlife, making it a prime location for nature enthusiasts.
 
@@ -38,7 +38,7 @@ The region offers several viewpoints where visitors can enjoy panoramic views of
 4. **Shiva Temple:** A serene temple adds to the spiritual charm.
 5.  **Adventure Park:** For those seeking adventure.
 
-<img src="placeholder_image_tag_for_Morni_Fort" alt="Morni Fort">
+
 
 ### **Adventure Activities**
 
@@ -91,7 +91,7 @@ Morni Hills offers a range of accommodation options to suit different budgets:
 *   **Home Stays:** Staying at local houses offers a more authentic experience.
 *   **Camping Sites:** Camping is a popular option for adventure seekers.
 
-<img src="placeholder_image_tag_for_resort" alt="Resort">
+
 
 ### **Offbeat Experiences**
 

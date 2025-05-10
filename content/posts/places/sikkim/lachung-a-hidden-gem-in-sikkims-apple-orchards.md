@@ -21,11 +21,11 @@ Lachung, a breathtaking mountain village situated in the Mangan district of Sikk
 
 Lachung’s history is deeply interwoven with the indigenous Lepcha people and the Tibetan influence that permeates the region. Historically, Lachung was a trading post along the route between Tibet and India, facilitating cultural exchange and commerce. The name "Lachung" itself translates to "Small Mountain Pass" in the local language, reflecting its geographical significance.
 
-The cultural tapestry of Lachung is vibrant, characterized by its unique traditions, festivals, and religious practices. The village is predominantly Buddhist, and the Lachung Gompa (monastery) is a central landmark. The Gompa, with its intricate architecture and spiritual significance, serves as a focal point for community gatherings and religious ceremonies. <img src="placeholder_image_lachung_gompa.jpg" alt="Lachung Gompa"> Festivals, such as Losar (Tibetan New Year) and Bumchu, are celebrated with great fervor, bringing the community together and offering visitors a glimpse into the local traditions. These festivals feature vibrant dances, traditional music, and colorful costumes, providing a rich cultural experience. The local community also preserves ancient Tibetan and Lepcha art forms, including thangka paintings, which visitors may discover in the Gompa.
+The cultural tapestry of Lachung is vibrant, characterized by its unique traditions, festivals, and religious practices. The village is predominantly Buddhist, and the Lachung Gompa (monastery) is a central landmark. The Gompa, with its intricate architecture and spiritual significance, serves as a focal point for community gatherings and religious ceremonies.  Festivals, such as Losar (Tibetan New Year) and Bumchu, are celebrated with great fervor, bringing the community together and offering visitors a glimpse into the local traditions. These festivals feature vibrant dances, traditional music, and colorful costumes, providing a rich cultural experience. The local community also preserves ancient Tibetan and Lepcha art forms, including thangka paintings, which visitors may discover in the Gompa.
 
 ### **Natural Beauty**
 
-Lachung's natural beauty is simply awe-inspiring. The landscape is dominated by the towering peaks of the Eastern Himalayas, which are often cloaked in snow, providing a stunning backdrop to the village. The Lachung Chu (river) flows through the valley, adding to the serene and picturesque ambiance. <img src="placeholder_image_lachung_river.jpg" alt="Lachung River"> The surrounding forests are lush with rhododendrons, pine, and fir trees, particularly during spring when the rhododendrons burst into vibrant bloom, painting the valley in a riot of colors.
+Lachung's natural beauty is simply awe-inspiring. The landscape is dominated by the towering peaks of the Eastern Himalayas, which are often cloaked in snow, providing a stunning backdrop to the village. The Lachung Chu (river) flows through the valley, adding to the serene and picturesque ambiance.  The surrounding forests are lush with rhododendrons, pine, and fir trees, particularly during spring when the rhododendrons burst into vibrant bloom, painting the valley in a riot of colors.
 
 The best viewpoints in Lachung are plentiful, offering unparalleled views of the snow-capped mountains, especially Kanchenjunga, the world's third-highest peak (on a clear day). Visitors can easily access these viewpoints by taking short hikes or simply enjoying the vistas from their accommodations. The beauty of the landscape is complemented by the sound of the river, the fresh mountain air, and the sense of being embraced by nature.
 
@@ -34,7 +34,7 @@ The best viewpoints in Lachung are plentiful, offering unparalleled views of the
 While Lachung itself is a destination, it also serves as the base to explore other captivating attractions.
 
 *   **Lachung Gompa:** As mentioned above, the Lachung Gompa is a significant cultural and spiritual site, offering insights into the region's religious practices and artistic heritage.
-*   **Yumthang Valley:** This valley, often referred to as the "Valley of Flowers," is a short drive from Lachung and is a must-visit. In spring, the valley transforms into a carpet of vibrant wildflowers, including rhododendrons, primulas, and irises. <img src="placeholder_image_yumthang_valley.jpg" alt="Yumthang Valley">
+*   **Yumthang Valley:** This valley, often referred to as the "Valley of Flowers," is a short drive from Lachung and is a must-visit. In spring, the valley transforms into a carpet of vibrant wildflowers, including rhododendrons, primulas, and irises. 
 *   **Zero Point:** Located at a high altitude, Zero Point (also known as Yumesamdong) is the last outpost accessible to tourists, offering panoramic views of snow-covered mountains and dramatic landscapes.
 *   **Shingba Rhododendron Sanctuary:** This sanctuary, located near Yumthang, is home to a wide variety of rhododendron species, making it a paradise for nature lovers.
 
@@ -54,7 +54,7 @@ Lachung’s local market is small but offers a taste of local handicrafts and go
 *   **Handicrafts:** Traditional Lepcha and Tibetan handicrafts, such as prayer flags, small statues, and other souvenirs.
 *   **Local produce:** Local vegetables, fruits, and other produce, offering a taste of the region's agricultural bounty.
 
-<img src="placeholder_image_lachung_market.jpg" alt="Lachung Market">
+
 
 ### **Food and Cuisine**
 
@@ -95,7 +95,7 @@ The monsoon season (June-August) should be avoided due to heavy rainfall, landsl
 Lachung offers a range of accommodation options:
 
 *   **Hotels:** Small hotels and guesthouses, mostly located in the main part of the village.
-*   **Homestays:** Homestays provide a more intimate and authentic experience, allowing visitors to interact with the local community. <img src="placeholder_image_lachung_hotel.jpg" alt="Lachung Hotel">
+*   **Homestays:** Homestays provide a more intimate and authentic experience, allowing visitors to interact with the local community. 
 
 Accommodation options can range from basic to comfortable, so it's important to choose a place that aligns with your budget and preferences.
 

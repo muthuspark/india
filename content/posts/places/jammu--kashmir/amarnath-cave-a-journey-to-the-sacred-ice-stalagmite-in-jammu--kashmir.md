@@ -26,13 +26,13 @@ Historical accounts of the cave's discovery vary, with some pointing to the 11th
 
 ###  **Natural Beauty**
 
-The Amarnath Cave is set amidst the stunning Himalayan landscape. The terrain is rugged, with towering mountains, deep valleys, and fast-flowing rivers. <img src="placeholder_image_amarnath_landscape.jpg" alt="Amarnath Landscape"> The approach to the cave is a trek through challenging but rewarding terrain. The Lidder River accompanies a part of the trek. The air is crisp and clean, carrying the scent of pine and the sounds of nature. The surrounding region is dotted with picturesque meadows, high-altitude lakes, and glaciers. The vistas from the higher points of the trek are breathtaking, offering panoramic views of the snow-capped peaks.
+The Amarnath Cave is set amidst the stunning Himalayan landscape. The terrain is rugged, with towering mountains, deep valleys, and fast-flowing rivers.  The approach to the cave is a trek through challenging but rewarding terrain. The Lidder River accompanies a part of the trek. The air is crisp and clean, carrying the scent of pine and the sounds of nature. The surrounding region is dotted with picturesque meadows, high-altitude lakes, and glaciers. The vistas from the higher points of the trek are breathtaking, offering panoramic views of the snow-capped peaks.
 
 ### **Must-Visit Attractions**
 
 The primary attraction is, of course, the **Amarnath Cave** itself, with its naturally formed ice lingam. The cave's interior is awe-inspiring, and the darshan (holy viewing) of the lingam is the highlight of the pilgrimage.
 
-**Sheshnag Lake**: Located along the Yatra route, Sheshnag Lake is a stunning high-altitude lake that is considered sacred. <img src="placeholder_image_sheshnag_lake.jpg" alt="Sheshnag Lake">
+**Sheshnag Lake**: Located along the Yatra route, Sheshnag Lake is a stunning high-altitude lake that is considered sacred. 
 
 **Chandanwari**: This is the base camp for the trek. It is known for its snow bridges and ice formations, and offers beautiful scenery.
 
@@ -40,7 +40,7 @@ The primary attraction is, of course, the **Amarnath Cave** itself, with its nat
 
 ### **Adventure Activities**
 
-The Amarnath Yatra itself is an adventure. The trek, which can take several days, involves navigating challenging terrain, high altitudes, and unpredictable weather conditions. <img src="placeholder_image_amarnath_trek.jpg" alt="Amarnath Trek">
+The Amarnath Yatra itself is an adventure. The trek, which can take several days, involves navigating challenging terrain, high altitudes, and unpredictable weather conditions. 
 
 **Trekking:** The primary activity is trekking, requiring good physical fitness and acclimatization to the altitude.
 **Pony Ride or Palki Ride:** For those unable to trek, ponies (horses) and Palkis (palanquins) are available for transportation.
@@ -97,6 +97,6 @@ While Amarnath is primarily a pilgrimage site, travelers seeking offbeat experie
 
 ### **Conclusion**
 
-Amarnath Cave is more than just a place; it’s a spiritual journey, a test of endurance, and a celebration of faith. It offers a unique opportunity to experience the raw beauty of the Himalayas, connect with ancient traditions, and immerse oneself in a profound spiritual experience. <img src="placeholder_image_amarnath_conclusion.jpg" alt="Amarnath Cave Darshan">Whether you are a devout pilgrim or an adventure seeker, Amarnath Cave promises a memorable journey filled with breathtaking landscapes, cultural richness, and a deep sense of fulfillment. Embrace the challenge, experience the serenity, and carry the blessings of Lord Shiva in your heart.
+Amarnath Cave is more than just a place; it’s a spiritual journey, a test of endurance, and a celebration of faith. It offers a unique opportunity to experience the raw beauty of the Himalayas, connect with ancient traditions, and immerse oneself in a profound spiritual experience. Whether you are a devout pilgrim or an adventure seeker, Amarnath Cave promises a memorable journey filled with breathtaking landscapes, cultural richness, and a deep sense of fulfillment. Embrace the challenge, experience the serenity, and carry the blessings of Lord Shiva in your heart.
 
 

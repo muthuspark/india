@@ -27,13 +27,13 @@ The history of Patnitop is interwoven with the larger history of the Jammu regio
 
 ### **Natural Beauty**
 
-<img src="placeholder_image_patnitop_natural_beauty.jpg" alt="Patnitop's lush green valley">
+
 
 Patnitop's charm lies primarily in its captivating natural beauty. The landscape is characterized by rolling meadows, verdant valleys, and thick coniferous forests. The Shivalik range forms the backdrop, creating a dramatic panorama. The area offers breathtaking views of the snow-covered Pir Panjal range, especially during winter. There are several viewpoints, such as the aptly named "View Point," and other elevated spots offering panoramic views of the surrounding valleys and mountains. The vast meadows, covered in wildflowers during spring, provide a perfect setting for leisurely walks and picnics. The forests are home to a variety of flora, including deodar, pine, and fir trees. During the snowy season, the entire region transforms into a white paradise.
 
 ### **Must-Visit Attractions**
 
-<img src="placeholder_image_patnitop_attractions.jpg" alt="Nag Temple in Patnitop">
+
 
 Patnitop itself offers a serene retreat, and the surrounding areas are equally captivating.
 
@@ -45,7 +45,7 @@ Patnitop itself offers a serene retreat, and the surrounding areas are equally c
 
 ### **Adventure Activities**
 
-<img src="placeholder_image_patnitop_adventure.jpg" alt="Paragliding over Patnitop">
+
 
 Patnitop is a haven for adventure enthusiasts.
 
@@ -57,7 +57,7 @@ Patnitop is a haven for adventure enthusiasts.
 
 ### **Local Markets and Handicrafts**
 
-<img src="placeholder_image_patnitop_market.jpg" alt="Local market in Patnitop">
+
 
 While Patnitop doesn't have large bustling markets, there are local shops and vendors where visitors can find local handicrafts and souvenirs.
 
@@ -67,7 +67,7 @@ While Patnitop doesn't have large bustling markets, there are local shops and ve
 
 ### **Food and Cuisine**
 
-<img src="placeholder_image_patnitop_food.jpg" alt="Local cuisine of Patnitop">
+
 
 The cuisine in Patnitop reflects the flavors of the Jammu region.
 
@@ -77,7 +77,7 @@ The cuisine in Patnitop reflects the flavors of the Jammu region.
 
 ### **Flora and Fauna**
 
-<img src="placeholder_image_patnitop_flora.jpg" alt="Flowers in Patnitop">
+
 
 The region is rich in biodiversity.
 
@@ -108,7 +108,7 @@ Patnitop offers a range of accommodation options to suit different budgets and p
 
 ### **Offbeat Experiences**
 
-<img src="placeholder_image_patnitop_offbeat.jpg" alt="Local villagers in Patnitop">
+
 
 *   **Village Visits:** Explore nearby villages to experience local culture and interact with the locals.
 *   **Photography:** Patnitop's picturesque landscape offers ample opportunities for photography enthusiasts.

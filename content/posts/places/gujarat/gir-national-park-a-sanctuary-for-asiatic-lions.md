@@ -22,19 +22,19 @@ Gir National Park, officially known as Sasan Gir, is a protected area located in
 The history of Gir is intrinsically linked to the conservation efforts of the Asiatic Lion.  Initially, the region was the hunting ground of the Nawabs of Junagadh.  The population of Asiatic Lions dwindled dramatically during the British rule due to excessive hunting and habitat loss, with numbers reaching a critically low level in the early 20th century.  The Nawab of Junagadh, recognizing the dire situation, declared the Gir forests as a protected area in 1900, and this laid the foundation for its conservation.  The efforts of the Nawab and subsequent conservation programs by the Government of India proved successful in halting the decline and allowing the lion population to recover.
 
 The cultural heritage of the region is primarily influenced by the communities that co-exist with the forest. The Maldharis, a nomadic pastoral community, are an integral part of the Gir ecosystem and their traditional way of life is intertwined with the forest.  Their interactions with the lions and the forest contribute to the unique culture of the region.  The presence of various temples and religious sites, such as the ancient Tulsi Shyam Temple and the Kamleshwar Dam, adds to the cultural significance of the area. The traditions and folklore of the local communities often reflect a deep respect for nature and a co-existence with the wildlife of Gir.
- <img src="placeholder_image_temple.jpg" alt="Historical Temple">
+ 
 
 ### **Natural Beauty**
 
 Gir National Park boasts a captivating landscape characterized by undulating hills, valleys, and rivers that traverse the region. The forest predominantly comprises dry deciduous trees like teak, salai, and dhak. During the summer, the landscape transforms into a lush green haven during the monsoon season. The Kamleshwar Dam, often referred to as the "crocodile sanctuary," is a scenic spot that offers stunning views of the surrounding forest and is a haven for crocodiles and other wildlife.  The vast expanse of the forest, intersected by rivers like Hiran, Datardi, and Shingoda, provides a natural habitat for a diverse range of flora and fauna. Viewpoints such as the Baval Chowk offer panoramic views of the forest canopy and the valleys below, showcasing the raw beauty of Gir. The Gir Interpretation Zone at Devalia provides a caged environment mirroring the natural habitat where visitors can have a glimpse of the wildlife of Gir.
- <img src="placeholder_image_scenic_view.jpg" alt="Scenic View from Gir">
+ 
 
 ### **Must-Visit Attractions**
 
 The primary attraction in Gir is, undoubtedly, the Asiatic Lion.  But there are other noteworthy places to visit:
 
 *   **Gir National Park Safari:**  The main way to experience Gir is via a guided jeep safari. These safaris offer the best opportunity to spot the Asiatic Lion and other wildlife in their natural habitat.  Safaris must be booked online in advance.
- <img src="placeholder_image_safari.jpg" alt="Gir National Park Safari">
+ 
 *   **Devalia Interpretation Zone:**  This enclosed area offers a concentrated wildlife experience, with a higher chance of sighting lions and other animals, and it's also a great option for those with limited time.
 *   **Kamleshwar Dam:**  Also known as the Crocodile Conservation area, this dam is a beautiful spot for bird watching and observing crocodiles and other reptiles in their natural surroundings.
 *   **Tulsi Shyam Temple:** Located deep inside the forest, this ancient temple dedicated to Lord Krishna offers a unique spiritual experience surrounded by the natural beauty of Gir.
@@ -78,9 +78,9 @@ Gir National Park is renowned for its rich biodiversity, especially its wildlife
 *   **Birds:**  Gir is a birdwatcher's paradise, boasting over 300 species of birds, including the critically endangered Indian vulture, various raptors, and forest birds.
 *   **Flora:**  The forest is primarily dry deciduous, with teak being a dominant species.  Other trees include salai, dhak, and various species of shrubs and grasses.
 
-<img src="placeholder_image_lion.jpg" alt="Asiatic Lion">
-<img src="placeholder_image_bird.jpg" alt="Diverse Avian life">
-<img src="placeholder_image_deer.jpg" alt="Deer in Gir">
+
+
+
 
 ### **Best Time to Visit**
 
@@ -112,7 +112,7 @@ Gir offers a variety of accommodation options to suit different budgets:
 *   **Jungle Lodges:**  These are a popular option, as they are located close to the park and provide a natural environment.
 *   **Homestays:**  Some local families offer homestay options, providing a more intimate experience.
 *   **Forest Department Rest Houses:**  The Forest Department offers rest houses within the park. Booking these is recommended.
-   <img src="placeholder_image_accommodation.jpg" alt="Accommodation at Gir">
+   
 
 ### **Offbeat Experiences**
 

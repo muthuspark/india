@@ -21,7 +21,7 @@ Venkateswara Temple – Tirumala, often referred to as Tirupati Balaji Temple, i
 
 The history of the Venkateswara Temple dates back to ancient times, with references found in various Puranas like the Varaha Purana and the Brahma Purana. The temple is believed to have existed since the early centuries of the Common Era. Over the centuries, it has been patronized by numerous dynasties including the Pallavas, Cholas, Pandyas, and Vijayanagara Empire. The Vijayanagara rulers, particularly Sri Krishnadevaraya, were significant contributors to the temple's wealth and architectural development.
 
-The cultural significance of Tirumala is immense. The annual Brahmotsavam, a nine-day festival celebrated in September, is a major event drawing millions of devotees. Other important festivals include Vaikunta Ekadasi and the Teppotsavam (float festival). The temple's rituals and traditions are meticulously followed, with daily sevas (services) performed according to ancient scriptures. The tradition of tonsuring (offering hair) by devotees as a form of sacrifice is a significant aspect of the pilgrimage. The temple is also known for its "Laddu Prasadam," a sweet confection offered to devotees, which is a renowned symbol of blessings from Lord Venkateswara. <image placeholder for historical architecture or temple rituals>
+The cultural significance of Tirumala is immense. The annual Brahmotsavam, a nine-day festival celebrated in September, is a major event drawing millions of devotees. Other important festivals include Vaikunta Ekadasi and the Teppotsavam (float festival). The temple's rituals and traditions are meticulously followed, with daily sevas (services) performed according to ancient scriptures. The tradition of tonsuring (offering hair) by devotees as a form of sacrifice is a significant aspect of the pilgrimage. The temple is also known for its "Laddu Prasadam," a sweet confection offered to devotees, which is a renowned symbol of blessings from Lord Venkateswara. 
 
 ###  **Natural Beauty**
 
@@ -29,7 +29,7 @@ Tirumala, situated within the Seshachalam hills, is blessed with lush greenery a
 
 ### **Must-Visit Attractions**
 
-The primary attraction is, of course, the **Venkateswara Temple** itself. <image placeholder for Venkateswara Temple exterior> The main deity, Lord Venkateswara, is adorned with precious jewels and garlands, captivating devotees with its divine presence. Other significant sites within the temple complex include:
+The primary attraction is, of course, the **Venkateswara Temple** itself.  The main deity, Lord Venkateswara, is adorned with precious jewels and garlands, captivating devotees with its divine presence. Other significant sites within the temple complex include:
 
 *   **Sri Bhu Varahaswamy Temple:** An ancient temple dedicated to Lord Varaha, considered the presiding deity of Tirumala.
 *   **Sri Bedi Anjaneya Swamy Temple:** Dedicated to Lord Hanuman, situated near the main temple.
@@ -61,13 +61,13 @@ The cuisine in Tirumala primarily caters to the needs of pilgrims, offering simp
 
 *   **Temple Prasadams:** The famous Tirupati Laddu is a must-try. Other Prasadams offered include vada, appam, and payasam.
 *   **Annaprasadam:** Free food is offered to pilgrims at various locations within the temple complex.
-*   **Restaurants:** Vegetarian restaurants around Tirupati and Tirumala offer South Indian thalis, dosas, idlis, and other local dishes. <image placeholder for Tirupati Laddu>
+*   **Restaurants:** Vegetarian restaurants around Tirupati and Tirumala offer South Indian thalis, dosas, idlis, and other local dishes. 
 
 ### **Flora and Fauna**
 
 The Seshachalam hills are rich in biodiversity and are home to a variety of plant and animal species.
 
-*   **Flora:** The region is covered with diverse forests. <image placeholder for local flora>
+*   **Flora:** The region is covered with diverse forests. 
 *   **Fauna:** Includes a wide array of birds, mammals, and reptiles.
 
 ### **Best Time to Visit**

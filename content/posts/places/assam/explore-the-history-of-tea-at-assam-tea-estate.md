@@ -24,7 +24,7 @@ Dibrugarh, often referred to as the "Tea City of India," is a vibrant city locat
 
 The history of Dibrugarh is deeply intertwined with the Ahom dynasty, who ruled Assam for nearly 600 years. The city's name, "Dibru" is derived from the Dibru River. While the area was inhabited for centuries, its rise to prominence accelerated during the British colonial period due to the discovery of tea plantations. The British East India Company established numerous tea estates, transforming Dibrugarh into a major commercial hub. This legacy is visible in the architecture and lifestyle of the city.
 
-Culturally, Dibrugarh is a melting pot, reflecting the diversity of Assam. The local Assamese culture is predominant, with influences from various indigenous communities, including the Mishing, Deori, and Sonowal Kachari tribes. The city celebrates vibrant festivals like Bihu, the Assamese New Year, marked by traditional music, dance, and feasting. Other significant celebrations include Durga Puja and Diwali. The legacy of the Ahom dynasty can be observed in the ruins of forts and the architecture of some older buildings. Religious sites, including temples and mosques, further enrich the cultural tapestry of Dibrugarh. <img src="placeholder_image_tag_historical_landmark" alt="Historical Landmark in Dibrugarh">
+Culturally, Dibrugarh is a melting pot, reflecting the diversity of Assam. The local Assamese culture is predominant, with influences from various indigenous communities, including the Mishing, Deori, and Sonowal Kachari tribes. The city celebrates vibrant festivals like Bihu, the Assamese New Year, marked by traditional music, dance, and feasting. Other significant celebrations include Durga Puja and Diwali. The legacy of the Ahom dynasty can be observed in the ruins of forts and the architecture of some older buildings. Religious sites, including temples and mosques, further enrich the cultural tapestry of Dibrugarh. 
 
 ### **Natural Beauty**
 
@@ -37,11 +37,11 @@ The region is characterized by a humid subtropical climate, which supports diver
 Dibrugarh offers a variety of attractions for tourists:
 
 *   **Dehing Patkai National Park:** Located near Dibrugarh, this national park is a haven for biodiversity. It is renowned for its thick rainforest, rare orchids, and a diverse range of wildlife.
-    <img src="placeholder_image_tag_dehing_patkai" alt="Dehing Patkai National Park">
+    
 *   **Koli Aai Thaan:** This is a historical temple with deep significance to the local community. It is known for its religious importance and peaceful atmosphere.
-    <img src="placeholder_image_tag_koli_aai_thaan" alt="Koli Aai Thaan">
+    
 *   **Naharkatia Tea Estate:** Experience the essence of Dibrugarh at a tea estate. Visitors can tour the tea plantations, witness the tea processing methods, and savor the fresh, aromatic tea.
-    <img src="placeholder_image_tag_naharkatia_tea_estate" alt="Naharkatia Tea Estate">
+    
 *   **Joypur Rainforest:** This rainforest is a part of the larger Dehing Patkai ecosystem and is a great place for trekking and nature walks.
 *   **Lakhimpur:** Is a place, which is easily accessible from Dibrugarh. With historic relevance, the place is rich with cultural heritage and natural beauty.
 
@@ -114,7 +114,7 @@ Dibrugarh offers a variety of accommodation options to suit different budgets:
 *   **Mid-Range Hotels:** Several hotels offer comfortable accommodations at reasonable prices.
 *   **Budget Hotels and Guesthouses:** For budget travelers, there are plenty of affordable guesthouses and homestays.
 *   **Tea Bungalows:** For a unique experience, consider staying in a heritage tea bungalow, providing an authentic and immersive experience.
-    <img src="placeholder_image_tag_tea_bungalow" alt="Tea Bungalow">
+    
 
 ### **Offbeat Experiences**
 

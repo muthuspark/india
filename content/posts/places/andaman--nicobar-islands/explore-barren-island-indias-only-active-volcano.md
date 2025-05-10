@@ -31,7 +31,7 @@ The natural beauty of Barren Island is defined by its volcanic landscape. The is
 *   **Black Sand Beaches:** Formed by volcanic ash.
 *   **Surrounding Coral Reefs:** Although visitors are not allowed to go on the island, you can enjoy the rich marine life while cruising or diving around.
 
-<placeholder image tag for: A panoramic view of Barren Island, showing the volcanic cone and surrounding waters>
+
 
 ### **Must-Visit Attractions**
 
@@ -48,7 +48,7 @@ The most accessible adventure activities are water-based:
 *   **Snorkeling:** Even without specialized equipment, the snorkeling opportunities around the island are excellent, with vibrant coral reefs easily visible from the surface.
 *   **Boat Trips:** Chartered boat trips around the island offer views of the volcano, the shoreline and opportunities for wildlife observation.
 
-<placeholder image tag for: Scuba diving around Barren Island>
+
 
 ### **Local Markets and Handicrafts**
 
@@ -69,7 +69,7 @@ The flora and fauna of Barren Island are adapted to the harsh volcanic environme
 *   **Marine Life:** The surrounding waters teem with diverse marine life, including manta rays, dolphins, and various species of fish, making it a haven for scuba divers and snorkelers.
 *   **Birdlife:** Barren Island is a nesting site for seabirds, and you might spot various avian species like the pied imperial pigeon.
 
-<placeholder image tag for: View of marine life around Barren Island>
+
 
 ### **Best Time to Visit**
 

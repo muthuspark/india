@@ -20,7 +20,7 @@ Ajanta and Ellora Caves, a UNESCO World Heritage Site, are awe-inspiring rock-cu
 ### **History and Cultural Heritage**
 
 The Ajanta Caves, primarily Buddhist monastic caves, date back to the 2nd century BCE to the 6th century CE, encompassing the Hinayana and Mahayana phases of Buddhism. They were discovered in 1819 by a British officer, revealing a treasure trove of exquisitely painted murals that depict the life of Buddha and Jataka tales.
-<img src="placeholder_image_ajanta_history.jpg" alt="History of Ajanta caves">
+
 
 The Ellora Caves, on the other hand, are a more diverse complex, featuring caves dedicated to Buddhism (caves 1-12), Hinduism (caves 13-29), and Jainism (caves 30-34). These caves were carved between the 6th and 10th centuries CE. The most remarkable structure at Ellora is the Kailasa Temple (Cave 16), a monolithic rock-cut temple carved out of a single rock, a feat of engineering and artistic prowess.
 
@@ -29,7 +29,7 @@ The cultural significance of these caves extends beyond their religious symbolis
 ###  **Natural Beauty**
 
 The Ajanta and Ellora Caves are set amidst the rugged, scenic beauty of the Deccan Plateau. The Ajanta Caves are carved into the horseshoe-shaped gorge of the Waghora River. The surrounding landscape features rolling hills, verdant valleys, and semi-arid terrain.
-<img src="placeholder_image_ellora_landscape.jpg" alt="Landscape around Ellora Caves">
+
 
 Ellora, situated in a volcanic landscape, also offers captivating views of the surrounding hills and valleys. The monsoon season transforms the area, with the valleys coming alive with lush greenery. Several viewpoints around the caves offer panoramic views of the region, especially during sunrise and sunset. There are no designated national parks or reserves in the immediate vicinity of the caves. However, the natural beauty of the landscape adds significantly to the experience of visiting these historical sites.
 
@@ -38,13 +38,13 @@ Ellora, situated in a volcanic landscape, also offers captivating views of the s
 The primary attractions are the Ajanta and Ellora Caves themselves.
 
 *   **Ajanta Caves:** The 30 rock-cut Buddhist caves are famous for their breathtaking murals depicting scenes from the Jataka tales and the life of Buddha. Cave 1, 2, 16, and 17 are particularly well-preserved and offer incredible artwork.
-    <img src="placeholder_image_ajanta_cave_interiors.jpg" alt="Interior of Ajanta Cave">
+    
 *   **Ellora Caves:** Ellora’s 34 caves are a unique complex representing three different faiths.
     *   **Buddhist Caves (Caves 1-12):** These caves feature viharas (monasteries) and chaityas (prayer halls) with intricate carvings.
     *   **Hindu Caves (Caves 13-29):** These caves are dedicated to Hindu deities, with the highlight being the iconic Kailasa Temple (Cave 16). This temple is a remarkable example of monolithic rock-cut architecture.
     *   **Jain Caves (Caves 30-34):** Known for their detailed carvings and reflect the Jain principles of asceticism and non-violence.
     *   **Kailasa Temple (Cave 16):** Considered the most impressive of all Ellora's structures, is carved out of a single rock and showcases Hindu mythology.
-    <img src="placeholder_image_kailasa_temple.jpg" alt="Kailasa Temple - Cave 16">
+    
 *   **Bibi Ka Maqbara (Aurangabad):** Though not a part of Ajanta and Ellora, this Mughal mausoleum is known as the "Taj of the Deccan" and is located nearby in Aurangabad.
 
 ### **Adventure Activities**
@@ -76,7 +76,7 @@ The local cuisine offers a blend of flavors influenced by the region's history a
 ### **Flora and Fauna**
 
 The region surrounding Ajanta and Ellora is characterized by the semi-arid Deccan Plateau. While the immediate vicinity of the caves is primarily a historical site, the surrounding areas have diverse flora and fauna. However, there are no specific national parks or wildlife reserves directly linked to the caves.
-<img src="placeholder_image_flora_fauna.jpg" alt="Flora and Fauna of Deccan Plateau">
+
 
 Commonly found species may include:
 
@@ -86,7 +86,7 @@ Commonly found species may include:
 ### **Best Time to Visit**
 
 The best time to visit Ajanta and Ellora is during the winter months, from October to March.
-<img src="placeholder_image_best_time_to_visit.jpg" alt="Best time to visit Ajanta and Ellora">
+
 
 *   **Weather:** The weather is pleasant and comfortable, with temperatures ranging from 15°C to 30°C.
 *   **Festivals:** While specific festivals are not directly associated with the caves, the nearby city of Aurangabad hosts various local festivals throughout the year. Check the local event calendars for events.
@@ -110,7 +110,7 @@ Aurangabad offers a range of accommodation options to suit different budgets and
 *   **Mid-Range Hotels:** Several mid-range hotels offer comfortable stays with modern amenities.
 *   **Luxury Hotels:** Some luxury hotels provide premium experiences, with all the facilities, and are generally located in Aurangabad.
 *   **Heritage Properties:** Some heritage hotels offer a unique stay experience.
-    <img src="placeholder_image_accommodation.jpg" alt="Accommodation options">
+    
 *   **Recommendations:** Book accommodation in advance, especially during peak season. Consider staying in a hotel close to the main attractions for easy access.
 
 ### **Offbeat Experiences**

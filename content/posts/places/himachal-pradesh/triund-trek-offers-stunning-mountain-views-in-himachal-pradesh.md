@@ -17,17 +17,17 @@ tags:
 ### **Introduction**
 
 Triund Trek, a jewel of the Dhauladhar range, offers a breathtaking trekking experience in Himachal Pradesh. Situated near McLeod Ganj, Dharamshala, this relatively easy trek is a popular destination for both novice and experienced trekkers. The trail ascends through lush forests of rhododendron, oak, and deodar trees, rewarding hikers with panoramic views of the snow-capped Dhauladhar mountains on one side and the Kangra Valley on the other.  The peak sits at an elevation of approximately 2,828 meters (9,278 feet), making it an ideal spot for soaking in the Himalayan grandeur. Triund's accessibility from McLeod Ganj, a hub of Tibetan culture and spirituality, adds to its charm and allure, making it a complete experience for nature lovers and adventure enthusiasts.
-<img src="placeholder_triund_intro.jpg" alt="View of Triund Trek from the valley" width="600">
+
 
 ### **History and Cultural Heritage**
 
 While Triund itself doesn't have a significant historical record, its proximity to McLeod Ganj and Dharamshala allows visitors to delve into a rich tapestry of history and culture. McLeod Ganj became the seat of the Tibetan government-in-exile after the 14th Dalai Lama fled Tibet in 1959. This influx of Tibetan refugees has shaped the cultural landscape, introducing Tibetan Buddhism, art, cuisine, and traditions. Dharamshala, the district headquarters, is a historically significant British hill station. Remnants of the colonial era can still be found in its architecture and layout.  The region is also home to various Hindu temples and ancient shrines, showcasing the co-existence of diverse cultures and religions.
-<img src="placeholder_triund_history.jpg" alt="Image of McLeod Ganj with prayer flags" width="600">
+
 
 ###  **Natural Beauty**
 
 Triund is celebrated for its stunning natural beauty. The trek itself meanders through diverse ecosystems. The initial stretch is characterized by dense forests of deodar, oak, and rhododendron trees, offering a cool and shaded ascent.  Higher up, the landscape opens up to reveal breathtaking vistas. The most rewarding aspect of the trek is reaching the Triund top, where you're greeted by a 360-degree panoramic view. The snow-capped Dhauladhar range dominates the northern horizon, showcasing peaks like Moon Peak and Guna Devi Temple. To the south, the sprawling Kangra Valley unfolds, dotted with villages and tea plantations.  The vibrant sunsets and sunrises add a magical touch to this alpine paradise.
-<img src="placeholder_triund_natural_beauty.jpg" alt="Panorama view from Triund Peak" width="600">
+
 
 ### **Must-Visit Attractions**
 
@@ -40,7 +40,7 @@ The primary attraction is the Triund Trek itself. However, the region surroundin
 *   **Naddi Village:** Offers stunning views of the Dhauladhar range and is a popular spot for photography.
 *   **Triund Top:** This is the main attraction. Offers stunning views of the snow-capped Dhauladhar range.
 
-<img src="placeholder_triund_attractions.jpg" alt="Dalai Lama temple in McLeod Ganj" width="600">
+
 
 ### **Adventure Activities**
 
@@ -53,7 +53,7 @@ Triund Trek is an adventure in itself, but the region also provides other opport
 *   **Rock Climbing and Rappelling:** Adventure operators offer rock climbing and rappelling experiences.
 *   **Zip-lining:** Few zip-lining activities available in surrounding areas.
 
-<img src="placeholder_triund_adventure.jpg" alt="Trekking in the Himalayas" width="600">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -66,7 +66,7 @@ McLeod Ganj is a shopper's paradise, known for its Tibetan handicrafts, artifact
 *   **Souvenirs:**  Small Tibetan statues, prayer beads, and other trinkets.
 *   **Bags and Accessories:** Leather, canvas and ethnic bags are available.
 
-<img src="placeholder_triund_markets.jpg" alt="Local Handicraft shop in McLeod Ganj" width="600">
+
 
 ### **Food and Cuisine**
 
@@ -82,7 +82,7 @@ The culinary scene in McLeod Ganj and Dharamshala is a delightful blend of Tibet
 *   **Street Food:** Local vendors offer a variety of snacks and street food.
 
 Numerous cafes and restaurants cater to diverse palates, from Indian to Continental cuisine.
-<img src="placeholder_triund_food.jpg" alt="Momos served in McLeod Ganj" width="600">
+
 
 ### **Flora and Fauna**
 
@@ -97,7 +97,7 @@ The fauna includes:
 *   **Birds:** A large variety of birds species making it a birder’s paradise.
 *   **Insects:** Many varieties of moths, butterflies, bees, and ants.
 
-<img src="placeholder_triund_flora_fauna.jpg" alt="Monel bird in the Himalayas" width="600">
+
 
 ### **Best Time to Visit**
 
@@ -107,7 +107,7 @@ The ideal time to visit Triund is during the following periods:
 *   **September to November (Autumn):** The weather is cool and dry, with excellent visibility and stunning views of the snow-capped mountains.
 *   **Avoid the monsoon season (July and August) and winter (December to February).** The monsoon brings heavy rainfall, making the trek slippery and dangerous. Winter experiences heavy snowfall, closing the trek.
 
-<img src="placeholder_triund_best_time.jpg" alt="Clear sky over the mountains at Triund Peak" width="600">
+
 
 ### **How to Reach**
 
@@ -118,7 +118,7 @@ The easiest way to reach Triund is as follows:
 *   **By Road:** McLeod Ganj is well-connected by road. Regular buses and taxis are available from Delhi (approximately 500 km), Chandigarh (approximately 250 km), and other nearby cities. The drive through the mountains is scenic but can be time-consuming.
 
 **From McLeod Ganj to Triund:** The trek begins from Galu Devi Temple, approximately 9 km from McLeod Ganj. You can hire a taxi or take a shared jeep to Galu Devi. From there, the trek to Triund Top is about 7-8 km.
-<img src="placeholder_triund_reach.jpg" alt="Road through the mountains" width="600">
+
 
 ### **Accommodation Options**
 
@@ -131,7 +131,7 @@ Accommodation options in and around Triund cater to various budgets:
 *   **Mid-Range Hotels:** Offer comfortable amenities and are suitable for families and couples.
 *   **Luxury Resorts:** Found in Dharamshala, providing a luxurious experience with all modern amenities.
 
-<img src="placeholder_triund_accommodation.jpg" alt="Camping tents at Triund Top" width="600">
+
 
 ### **Offbeat Experiences**
 
@@ -145,7 +145,7 @@ Beyond the typical tourist attractions, here are some offbeat experiences:
 *   **Visit Tea Gardens:** Explore the tea plantations around Dharamshala and learn about tea production.
 *   **Attend a Local Festival:** Look for local festivals and events to experience the culture.
 
-<img src="placeholder_triund_offbeat.jpg" alt="People enjoying meditation at Triund Top" width="600">
+
 
 ### **Conclusion**
 

@@ -25,15 +25,15 @@ The region’s history is deeply intertwined with the legend of the Bhimashankar
 
 ### **Natural Beauty**
 
-The landscape of Bhimashankar is characterized by its lush, evergreen forests, dramatic hills, deep valleys, and cascading waterfalls. The Western Ghats provide a stunning backdrop, with peaks often shrouded in mist, creating a mystical ambiance. The Bhima River, which originates within the sanctuary, adds to the region's beauty. <img src="placeholder_bhimashankar_landscape.jpg" alt="Bhimashankar Landscape"> The most prominent feature is the dense forest cover, which is home to an incredible variety of flora. During the monsoon season, the landscape transforms into a vibrant green, with numerous seasonal waterfalls, making viewpoints like the Hanuman Lake and the Nagphani point breathtaking.
+The landscape of Bhimashankar is characterized by its lush, evergreen forests, dramatic hills, deep valleys, and cascading waterfalls. The Western Ghats provide a stunning backdrop, with peaks often shrouded in mist, creating a mystical ambiance. The Bhima River, which originates within the sanctuary, adds to the region's beauty.  The most prominent feature is the dense forest cover, which is home to an incredible variety of flora. During the monsoon season, the landscape transforms into a vibrant green, with numerous seasonal waterfalls, making viewpoints like the Hanuman Lake and the Nagphani point breathtaking.
 
 ### **Must-Visit Attractions**
 
-The Bhimashankar Jyotirlinga temple is the primary attraction. <img src="placeholder_bhimashankar_temple.jpg" alt="Bhimashankar Temple"> Its architecture is a mix of Nagara and the older style of temple architecture, and its intricate carvings and serene atmosphere draw pilgrims and tourists alike. The wildlife sanctuary itself is a must-visit, with opportunities to spot various species of flora and fauna. Other notable locations include Hanuman Lake, which provides scenic beauty and offers opportunities for bird watching. The Nagphani peak, also known as "Duke's Nose," offers panoramic views of the surrounding landscape. Other important locations include the Gupt Bhimashankar (the actual origin of the Bhima river).
+The Bhimashankar Jyotirlinga temple is the primary attraction.  Its architecture is a mix of Nagara and the older style of temple architecture, and its intricate carvings and serene atmosphere draw pilgrims and tourists alike. The wildlife sanctuary itself is a must-visit, with opportunities to spot various species of flora and fauna. Other notable locations include Hanuman Lake, which provides scenic beauty and offers opportunities for bird watching. The Nagphani peak, also known as "Duke's Nose," offers panoramic views of the surrounding landscape. Other important locations include the Gupt Bhimashankar (the actual origin of the Bhima river).
 
 ### **Adventure Activities**
 
-Bhimashankar offers several adventure activities for thrill-seekers. Trekking is the most popular activity, with trails of varying difficulty levels, allowing both novice and experienced trekkers to explore the sanctuary. Popular treks include routes that weave through dense forests, alongside waterfalls, and offer panoramic views of the valley. The Sahyadri range, a part of the Western Ghats, provides challenging trekking experiences. <img src="placeholder_bhimashankar_trekking.jpg" alt="Bhimashankar Trekking"> Bird-watching is another popular activity, with the sanctuary being a paradise for avian enthusiasts.
+Bhimashankar offers several adventure activities for thrill-seekers. Trekking is the most popular activity, with trails of varying difficulty levels, allowing both novice and experienced trekkers to explore the sanctuary. Popular treks include routes that weave through dense forests, alongside waterfalls, and offer panoramic views of the valley. The Sahyadri range, a part of the Western Ghats, provides challenging trekking experiences.  Bird-watching is another popular activity, with the sanctuary being a paradise for avian enthusiasts.
 
 ### **Local Markets and Handicrafts**
 
@@ -41,11 +41,11 @@ While the region's commercial activity is relatively low-key, visitors can find 
 
 ### **Food and Cuisine**
 
-The local cuisine is simple and flavorful, reflecting the agricultural traditions of the region. The food primarily consists of Maharashtrian vegetarian fare. <img src="placeholder_bhimashankar_food.jpg" alt="Bhimashankar Food"> Traditional dishes often include *Bhakri* (flatbread made from millet or rice flour), *Pithla* (a thick gram flour based curry), and various vegetables. Street food options are limited but often include snacks like *vada pav* and *misal pav.* Visitors can find local restaurants and food stalls near the temple, which serve authentic regional dishes.
+The local cuisine is simple and flavorful, reflecting the agricultural traditions of the region. The food primarily consists of Maharashtrian vegetarian fare.  Traditional dishes often include *Bhakri* (flatbread made from millet or rice flour), *Pithla* (a thick gram flour based curry), and various vegetables. Street food options are limited but often include snacks like *vada pav* and *misal pav.* Visitors can find local restaurants and food stalls near the temple, which serve authentic regional dishes.
 
 ### **Flora and Fauna**
 
-Bhimashankar Wildlife Sanctuary is a biodiversity hotspot and is particularly renowned for its diverse wildlife. It is home to the Indian giant squirrel ( *Ratufa indica*), also known as the Shekru, the state animal of Maharashtra. <img src="placeholder_bhimashankar_squirrel.jpg" alt="Bhimashankar Squirrel"> The sanctuary is a haven for various species of birds, including the Malabar whistling thrush, the grey junglefowl, and several species of raptors. The forests harbor various mammals like leopards, hyenas, and deer species. The sanctuary also features a rich variety of plant life, with a significant number of endemic and rare plant species found within its boundaries. Conservation efforts are ongoing to protect these unique species.
+Bhimashankar Wildlife Sanctuary is a biodiversity hotspot and is particularly renowned for its diverse wildlife. It is home to the Indian giant squirrel ( *Ratufa indica*), also known as the Shekru, the state animal of Maharashtra.  The sanctuary is a haven for various species of birds, including the Malabar whistling thrush, the grey junglefowl, and several species of raptors. The forests harbor various mammals like leopards, hyenas, and deer species. The sanctuary also features a rich variety of plant life, with a significant number of endemic and rare plant species found within its boundaries. Conservation efforts are ongoing to protect these unique species.
 
 ### **Best Time to Visit**
 
@@ -53,12 +53,12 @@ The best time to visit Bhimashankar is during the monsoon season (June to Septem
 
 ### **How to Reach**
 
-Bhimashankar is accessible by road, rail, and air. The nearest airport is Pune International Airport (PNQ), located approximately 110 km away. From the airport, you can hire a taxi or take a bus to Bhimashankar. The nearest railway station is Pune Railway Station. <img src="placeholder_bhimashankar_transport.jpg" alt="Bhimashankar Transport"> From Pune, you can hire a taxi, take a bus, or drive your own vehicle to the sanctuary. The road journey is scenic, but the roads can be narrow and winding, especially during the monsoon season. Mumbai is approximately 220 km away, with similar transport options.
+Bhimashankar is accessible by road, rail, and air. The nearest airport is Pune International Airport (PNQ), located approximately 110 km away. From the airport, you can hire a taxi or take a bus to Bhimashankar. The nearest railway station is Pune Railway Station.  From Pune, you can hire a taxi, take a bus, or drive your own vehicle to the sanctuary. The road journey is scenic, but the roads can be narrow and winding, especially during the monsoon season. Mumbai is approximately 220 km away, with similar transport options.
 
 ### **Accommodation Options**
 
 Accommodation options in Bhimashankar range from budget-friendly to mid-range. There are government-run rest houses and a few private hotels. Many options are available in nearby towns like Pune or Kalyan, where you can stay and travel to Bhimashankar for day trips. Staying close to nature will be preferable by selecting accommodation within or near the sanctuary, allowing you to fully experience its natural beauty.
-<img src="placeholder_bhimashankar_accommodation.jpg" alt="Bhimashankar Accommodation">
+
 
 ### **Offbeat Experiences**
 

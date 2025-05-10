@@ -23,11 +23,11 @@ Sela Pass, an ethereal mountain pass nestled in the heart of Arunachal Pradesh, 
 The history of Sela Pass is intertwined with the rich cultural heritage of the Monpa and Sherdukpen tribes, the indigenous communities that call this region home. The pass derives its name from Sela, a local woman who is revered as a protector of the area. Historically, Sela Pass has been a vital trade route and a strategic location, connecting the plains of Assam with the high-altitude regions of Tawang. While the precise historical accounts are intertwined with local oral traditions, the pass has always been a conduit for cultural exchange and a symbol of resilience for the people who traverse it.
 
 The cultural landscape around Sela Pass is profoundly influenced by Tibetan Buddhism. Prayer flags flutter in the wind, inscribed with mantras, and mani stones (stones carved with prayers) line the paths, conveying a strong sense of spirituality. The vibrant monasteries in the surrounding areas, with their colorful thangkas (painted or embroidered Buddhist banners), offer a glimpse into the rich religious traditions of the region. Key events include the annual Losar festival, celebrating the Tibetan New Year, which is marked by traditional dances, music, and feasts.
-<img src="placeholder_image_tag_history_and_culture.jpg" alt="Historical and cultural landmark">
+
 
 ### **Natural Beauty**
 
-The natural beauty of Sela Pass is nothing short of spectacular. The landscape is dominated by the towering Himalayas, with snow-clad peaks that shimmer under the sunlight. The pass is typically covered in snow for a large part of the year, transforming the scenery into a pristine winter wonderland. Sela Lake, also known as Paradise Lake, is a major highlight. This high-altitude lake, often frozen during winter, reflects the surrounding mountains like a mirror. Lush green meadows in the warmer months provide a striking contrast to the rocky terrain. The vegetation in the region includes rhododendrons, which bloom in vibrant colors during spring, adding a touch of beauty to the already stunning landscape. <img src="placeholder_image_tag_natural_beauty.jpg" alt="Paradise Lake">
+The natural beauty of Sela Pass is nothing short of spectacular. The landscape is dominated by the towering Himalayas, with snow-clad peaks that shimmer under the sunlight. The pass is typically covered in snow for a large part of the year, transforming the scenery into a pristine winter wonderland. Sela Lake, also known as Paradise Lake, is a major highlight. This high-altitude lake, often frozen during winter, reflects the surrounding mountains like a mirror. Lush green meadows in the warmer months provide a striking contrast to the rocky terrain. The vegetation in the region includes rhododendrons, which bloom in vibrant colors during spring, adding a touch of beauty to the already stunning landscape. 
 
 Specific viewpoints along the pass offer breathtaking panoramic views of the surrounding mountains and valleys. The best time for photography and appreciating the views is during sunrise and sunset when the changing light creates magical hues.
 
@@ -40,7 +40,7 @@ While the journey through Sela Pass is an attraction in itself, several nearby l
 *   **Tawang Monastery (Nearby):** Considered the largest monastery in India, and second largest in the world, this spiritual hub is home to numerous monks and treasures.
 *   **Dirang Monastery (Nearby):** A beautiful monastery that offers a glimpse into the Buddhist way of life.
 
-<img src="placeholder_image_tag_must_visit_attractions.jpg" alt="Tawang Monastery">
+
 
 ### **Adventure Activities**
 
@@ -58,7 +58,7 @@ While there are no markets directly on Sela Pass, nearby towns like Tawang and D
 *   **Thangkas:** Traditional Tibetan Buddhist paintings.
 *   **Prayer Flags and Bells:** Symbolic items used in Buddhist rituals.
 
-<img src="placeholder_image_tag_local_markets.jpg" alt="Handicraft Items">
+
 
 ### **Food and Cuisine**
 
@@ -79,7 +79,7 @@ The region surrounding Sela Pass boasts rich biodiversity. While the pass itself
 *   **Fauna:** Himalayan yaks, snow leopards (rarely seen), various species of birds.
 *   **National Parks and Wildlife Reserves:** Several wildlife sanctuaries are located in the broader Arunachal Pradesh region.
 
-<img src="placeholder_image_tag_flora_and_fauna.jpg" alt="Wildlife">
+
 
 ### **Best Time to Visit**
 
@@ -106,7 +106,7 @@ Accommodation options are available in the nearby towns, such as Tawang and Dira
 *   **Mid-Range Hotels:** Hotels with basic amenities provide comfortable stays.
 *   **Luxury Resorts:** Limited, but there are options for those looking for a comfortable stay.
 
-<img src="placeholder_image_tag_accommodation.jpg" alt="Accommodation Options">
+
 
 ### **Offbeat Experiences**
 

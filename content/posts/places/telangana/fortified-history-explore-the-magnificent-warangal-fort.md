@@ -21,7 +21,7 @@ Warangal Fort, a majestic testament to Kakatiya Dynasty's architectural and mili
 
 The history of Warangal Fort is intertwined with the rise and fall of the Kakatiya dynasty, who ruled from the 12th to the 14th centuries. The fort was initially constructed by the Kakatiyas, who made Warangal their capital. The fort’s construction started around the 12th century, with significant expansions and renovations undertaken by successive rulers.  It was a strategically important stronghold, protecting the kingdom from invading forces. The fort witnessed sieges and battles, most notably the invasions by the Delhi Sultanate in the early 14th century, which eventually led to the Kakatiya kingdom's decline.
 
-<img src="placeholder_image_Warangal_Fort_History" alt="Historical view of Warangal Fort" width="600">
+
 
 The cultural heritage of Warangal Fort is deeply rooted in its architecture, featuring intricate carvings, massive gateways (Kirti Toranas), and the remains of temples. The Kirti Toranas, or “triumphal arches,” are particularly iconic, resembling those found in Buddhist architecture, indicating the syncretism of cultures prevalent during the Kakatiya period. The fort is also associated with the construction of the Thousand Pillar Temple and the Ramappa Temple, both UNESCO World Heritage sites, which further highlight the architectural brilliance of the era. The annual Warangal Utsav is a major cultural event that celebrates the region's heritage and traditions.
 
@@ -33,7 +33,7 @@ While primarily a historical site, Warangal Fort is surrounded by the somewhat a
 
 The primary attraction within Warangal Fort is, of course, the fort itself. The crumbling walls, though partially ruined, still convey a sense of grandeur and history.
 
-<img src="placeholder_image_Warangal_Fort_Kirti_Toranas" alt="Image of Kirti Toranas at Warangal Fort" width="600">
+
 
 *   **Kirti Toranas:** The most famous feature, these four intricately carved gateways, are a testament to the exquisite Kakatiya architecture. They are the most well-preserved structures within the fort and are often the subject of photography.
 *   **Shambhunath Temple:** Remains of a Shiva temple within the fort complex.

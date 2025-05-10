@@ -22,7 +22,7 @@ The history of Kabini Wildlife Sanctuary is interwoven with the broader history 
 
 ### **Natural Beauty**
 
-The Kabini Wildlife Sanctuary is a landscape painted with varying shades of green, punctuated by the blue waters of the Kabini River. The area encompasses dry deciduous forests and moist deciduous forests. The river, the lifeblood of the sanctuary, meanders through the landscape, providing a vital water source for the abundant wildlife. Several viewpoints offer spectacular panoramas of the Kabini backwaters, especially during sunset and sunrise. The changing seasons provide a unique beauty, with the monsoon bringing lush greenery, while the dry season offers better wildlife sightings as animals congregate near water sources. <img src="placeholder_image_landscape.jpg" alt="Kabini Landscape">
+The Kabini Wildlife Sanctuary is a landscape painted with varying shades of green, punctuated by the blue waters of the Kabini River. The area encompasses dry deciduous forests and moist deciduous forests. The river, the lifeblood of the sanctuary, meanders through the landscape, providing a vital water source for the abundant wildlife. Several viewpoints offer spectacular panoramas of the Kabini backwaters, especially during sunset and sunrise. The changing seasons provide a unique beauty, with the monsoon bringing lush greenery, while the dry season offers better wildlife sightings as animals congregate near water sources. 
 
 ### **Must-Visit Attractions**
 
@@ -51,7 +51,7 @@ The cuisine in and around Kabini is largely influenced by the flavors of Karnata
 
 Kabini Wildlife Sanctuary is a haven for diverse flora and fauna. The sanctuary boasts of dense deciduous forests, supporting a vast ecosystem.
 *   **Flora:** The forest is dominated by teak, rosewood, bamboo, and other deciduous trees.
-*   **Fauna:** This is where Kabini shines, with the presence of Asian elephants, Bengal tigers, leopards, gaurs, sloth bears, dholes (wild dogs), and a variety of deer species. It’s also a birdwatcher's paradise, with hundreds of species including various raptors, water birds, and forest birds. <img src="placeholder_image_wildlife.jpg" alt="Kabini Wildlife">
+*   **Fauna:** This is where Kabini shines, with the presence of Asian elephants, Bengal tigers, leopards, gaurs, sloth bears, dholes (wild dogs), and a variety of deer species. It’s also a birdwatcher's paradise, with hundreds of species including various raptors, water birds, and forest birds. 
 
 ### **Best Time to Visit**
 
@@ -80,6 +80,6 @@ For a more immersive experience:
 
 ### **Conclusion**
 
-Kabini Wildlife Sanctuary is an unforgettable destination that blends natural beauty, thrilling wildlife experiences, and cultural richness. Its serene environment, diverse flora, and fauna make it a must-visit for wildlife enthusiasts. Explore the sanctuary's dense forests, experience thrilling safaris, and immerse yourself in the magic of the wild. Kabini offers an opportunity to create lasting memories and an experience that you will cherish forever. <img src="placeholder_image_conclusion.jpg" alt="Kabini Conclusion">
+Kabini Wildlife Sanctuary is an unforgettable destination that blends natural beauty, thrilling wildlife experiences, and cultural richness. Its serene environment, diverse flora, and fauna make it a must-visit for wildlife enthusiasts. Explore the sanctuary's dense forests, experience thrilling safaris, and immerse yourself in the magic of the wild. Kabini offers an opportunity to create lasting memories and an experience that you will cherish forever. 
 
 

@@ -16,7 +16,7 @@ tags:
 
 The Zakir Hussain Rose Garden, commonly known as the Rose Garden, is a sprawling botanical garden located in Chandigarh, a union territory in northern India. It is situated in Sector 16, close to the famed Leisure Valley, a popular green space in the city. The Rose Garden holds significant appeal as a premier botanical garden and is renowned for its extensive collection of roses, attracting visitors from across the country and beyond. While Chandigarh itself has a modest elevation, the Rose Garden provides a tranquil escape within the planned city, showcasing a vast array of rose varieties and lush landscaping. Its proximity to other attractions like the Rock Garden, Sukhna Lake, and the Capitol Complex make it a convenient and enriching addition to any Chandigarh itinerary. The garden is unique due to its sheer size, the diversity of rose species it houses, and its meticulous landscaping.
 
-<img src="placeholder_rose_garden_overview.jpg" alt="Rose Garden Overview">
+
 
 ### **History and Cultural Heritage**
 
@@ -26,7 +26,7 @@ The Zakir Hussain Rose Garden was established in 1967 by the first Chief Commiss
 
 The primary focus of the Rose Garden is, of course, the roses. However, the garden's natural beauty extends beyond the flowers. It features a beautifully landscaped environment with expansive lawns, meticulously trimmed hedges, and a diverse collection of trees and shrubs. The garden's design incorporates water features, such as fountains and small ponds, adding to the serene atmosphere. Its location within the well-planned city provides a tranquil retreat from urban life. While not directly surrounded by mountains or large forests, the garden's thoughtful landscaping, including strategically placed trees and pathways, offers various viewpoints for enjoying the diverse range of flowers, foliage and the overall design.
 
-<img src="placeholder_rose_garden_landscaping.jpg" alt="Rose Garden Landscaping">
+
 
 ### **Must-Visit Attractions**
 
@@ -36,7 +36,7 @@ The primary attraction is, undoubtedly, the vast collection of roses. The Zakir 
 *   **Fountains and Landscaping:** Apart from the roses themselves, the fountains, pathways, and carefully planned landscaping of the garden are attractions in themselves.
 *   **Sculptures:** The garden may also feature art installations and sculptures, adding to the visual appeal.
 
-<img src="placeholder_rose_garden_rose_varieties.jpg" alt="Rose Garden Rose Varieties">
+
 
 ### **Adventure Activities**
 
@@ -62,7 +62,7 @@ Chandigarh has a vibrant culinary scene, and visitors to the Rose Garden can eas
 *   **Popular Restaurants:** Chandigarh offers a diverse range of restaurants, from fine dining establishments to casual cafes and street food stalls.
 *   **Street Food:** Chandigarh has a lively street food scene with options like *gol gappas*, *chaat*, and various types of snacks and beverages.
 
-<img src="placeholder_rose_garden_food.jpg" alt="Rose Garden Food Stalls">
+
 
 ### **Flora and Fauna**
 

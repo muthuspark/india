@@ -21,7 +21,7 @@ Jodhpur, often referred to as the "Blue City," is a captivating city located in 
 
 Jodhpur's history dates back to 1459 when it was founded by Rao Jodha, a Rajput chief of the Rathore clan. He chose the strategic hilltop location to build Mehrangarh Fort, which would become the city's cornerstone. For centuries, Jodhpur served as the capital of the Marwar kingdom, a powerful Rajput state that resisted Mughal rule and fostered a unique cultural identity. The Rathores were known for their bravery and military prowess, which played a significant role in shaping the region's history.
 
-<img src="placeholder_jodhpur_history_image.jpg" alt="Historical image of Jodhpur">
+
 
 Culturally, Jodhpur is a vibrant tapestry of traditions. The city celebrates numerous festivals with great enthusiasm, including the Marwar Festival, a two-day event that showcases Rajasthani folk music, dance, and arts. The vibrant colors of the traditional clothing, the rhythmic beats of the drums, and the intricate designs of local handicrafts all contribute to a rich cultural experience. Religious sites are also abundant, with temples like Chamunda Mata Temple and Jaswant Thada showcasing intricate architecture and spiritual significance. The city also reflects a blend of Hindu and Islamic influences, evident in its architecture, cuisine, and lifestyle. Key historical landmarks such as Mehrangarh Fort and Umaid Bhawan Palace are prime examples of the region's architectural heritage.
 
@@ -29,7 +29,7 @@ Culturally, Jodhpur is a vibrant tapestry of traditions. The city celebrates num
 
 The landscape surrounding Jodhpur is primarily characterized by the arid beauty of the Thar Desert. The city lies on the edge of this vast expanse, providing a gateway to its stark and mesmerizing beauty. While the area is largely dry, the rugged terrain offers scenic vistas and opportunities for exploration.
 
-<img src="placeholder_jodhpur_landscape_image.jpg" alt="Image of Jodhpur's landscape">
+
 
 The dominant natural feature is the Mehrangarh Fort, which sits atop a rocky hill, offering panoramic views of the blue-painted city and the surrounding desert landscape. Jaswant Thada, a white marble cenotaph, also provides beautiful views, especially during sunset. The Kaylana Lake, located a few kilometers away, offers a refreshing escape and is a popular spot for picnics and boating. The area’s natural beauty is a compelling contrast of the man-made blue cityscape against the earthy tones of the desert.
 
@@ -37,10 +37,10 @@ The dominant natural feature is the Mehrangarh Fort, which sits atop a rocky hil
 
 Jodhpur boasts a plethora of attractions that cater to diverse interests:
 
-*   **Mehrangarh Fort:** This imposing fort is the centerpiece of Jodhpur, a testament to Rajput grandeur. It houses museums displaying historical artifacts, including weaponry, palanquins, and miniature paintings. <img src="placeholder_mehrangarh_fort_image.jpg" alt="Image of Mehrangarh Fort">
-*   **Umaid Bhawan Palace:** One of the world's largest private residences, this palace is a blend of Art Deco and Renaissance styles. Part of it is a luxury hotel, while the other part is a museum that showcases the royal family's history. <img src="placeholder_umaid_bhawan_palace_image.jpg" alt="Image of Umaid Bhawan Palace">
-*   **Jaswant Thada:** A stunning white marble memorial built in the memory of Maharaja Jaswant Singh II. It's a peaceful spot offering beautiful views of the fort and the city. <img src="placeholder_jaswant_thada_image.jpg" alt="Image of Jaswant Thada">
-*   **Mandore Gardens:** Located a few kilometers from the city, these gardens feature cenotaphs of the former rulers of Marwar and are known for their red sandstone architecture. <img src="placeholder_mandore_gardens_image.jpg" alt="Image of Mandore Gardens">
+*   **Mehrangarh Fort:** This imposing fort is the centerpiece of Jodhpur, a testament to Rajput grandeur. It houses museums displaying historical artifacts, including weaponry, palanquins, and miniature paintings. 
+*   **Umaid Bhawan Palace:** One of the world's largest private residences, this palace is a blend of Art Deco and Renaissance styles. Part of it is a luxury hotel, while the other part is a museum that showcases the royal family's history. 
+*   **Jaswant Thada:** A stunning white marble memorial built in the memory of Maharaja Jaswant Singh II. It's a peaceful spot offering beautiful views of the fort and the city. 
+*   **Mandore Gardens:** Located a few kilometers from the city, these gardens feature cenotaphs of the former rulers of Marwar and are known for their red sandstone architecture. 
 *   **Sardar Market and Clock Tower:** This bustling market offers a glimpse into the local life. It's a great place to shop for souvenirs, spices, textiles, and enjoy local street food.
 
 ### **Adventure Activities**

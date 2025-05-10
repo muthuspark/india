@@ -28,7 +28,7 @@ Culturally, the valley holds spiritual significance, particularly for the local 
 
 The Valley of Flowers is a breathtaking landscape dominated by the mighty Himalayan ranges. The valley itself is a U-shaped glacial valley, approximately 8 km long and 2 km wide, carved by the Pushpawati River. The landscape is a dynamic tapestry of steep, snow-capped peaks, cascading waterfalls, and lush green meadows. The valley is renowned for its stunning diversity of flora, with over 650 species of flowering plants that bloom in a riot of colors, including orchids, poppies, primulas, marigolds, and anemones.
 
-<img src="placeholder_image_valley_landscape.jpg" alt="Valley of Flowers Landscape" width="600">
+
 
 The entire area is a visual treat, especially during the monsoon season (July to September) when the flowers are in full bloom. The park offers mesmerizing viewpoints where visitors can absorb the beauty of the surrounding mountains and the vibrant floral displays. The Pushpawati River, flowing through the valley, adds to its serene and enchanting ambiance. The valley is also part of the Nanda Devi Biosphere Reserve, a protected area that contributes significantly to the preservation of the region's pristine environment.
 
@@ -37,10 +37,10 @@ The entire area is a visual treat, especially during the monsoon season (July to
 The primary attraction within the Valley of Flowers National Park is, of course, the valley itself. The experience of walking through this floral paradise is the highlight of any visit. Apart from the main valley, there are a few other notable attractions in the vicinity.
 
 *   **Hemkund Sahib:** A revered Sikh pilgrimage site situated at an altitude of 4,329 meters (14,206 feet). This high-altitude Gurudwara, located near the valley, is surrounded by stunning mountain views and a pristine lake, creating a sense of peace and spirituality.
-<img src="placeholder_image_hemkund_sahib.jpg" alt="Hemkund Sahib" width="600">
+
 *   **Badrinath:** Though not directly within the valley, Badrinath, one of the Char Dham pilgrimage sites, is located close to the area and can be visited as part of the itinerary. The temple dedicated to Lord Vishnu is a major religious site for Hindus.
 *   **Ghangaria:** The base camp for both the Valley of Flowers and Hemkund Sahib, Ghangaria is a quaint little village that offers accommodation and dining options for trekkers and visitors. It's a charming place to relax and enjoy the local hospitality.
-<img src="placeholder_image_ghangaria.jpg" alt="Ghangaria_Village" width="600">
+
 
 ### **Adventure Activities**
 
@@ -71,7 +71,7 @@ The Valley of Flowers National Park is renowned for its exceptional biodiversity
 
 *   **Flora:** The valley is home to over 650 species of flowering plants, including orchids, poppies, primulas, marigolds, and anemones. The vibrant floral display is a major attraction.
 *   **Fauna:** The park is also home to a diverse range of animal species, including the snow leopard, brown bear, red fox, musk deer, and several species of butterflies and birds, although wildlife sightings are less common due to the dense vegetation.
-<img src="placeholder_image_flora_fauna.jpg" alt="Flora and Fauna" width="600">
+
 
 ### **Best Time to Visit**
 

@@ -21,7 +21,7 @@ Hassan, a city nestled in the heart of Karnataka, India, is often referred to as
 
 Hassan's history is inextricably linked to the powerful Hoysala dynasty. The Hoysalas ruled over much of modern-day Karnataka between the 10th and 14th centuries. Hassan itself served as a significant administrative center. The city derives its name from the Hasanamba temple, a revered shrine dedicated to the local deity Hasanamba. Legend has it that the temple was consecrated by the sage Agastya, and its sanctity is deeply embedded in the local culture.
 
-<img src="placeholder_image_hasanamba_temple.jpg" alt="Hasanamba Temple - Temple of Hassan">
+
 
 The cultural heritage of Hassan is vividly displayed in its temples, showcasing intricate carvings of gods, goddesses, and mythological figures. The annual Hasanamba festival, held every year, is a major event that draws thousands of devotees. This unique festival features a ceremonial opening and closing of the Hasanamba temple, which happens only once a year, adding a layer of exclusivity to the experience. The festivals and traditions are reflective of the deep-rooted spiritual and cultural values of the region, celebrating both ancient customs and contemporary practices.
 
@@ -29,15 +29,15 @@ The cultural heritage of Hassan is vividly displayed in its temples, showcasing 
 
 The landscape around Hassan is characterized by rolling hills, fertile plains, and lush greenery. The Western Ghats, a UNESCO World Heritage Site, are within a relatively short distance, enhancing the natural beauty of the area. The region’s topography is ideal for a variety of agricultural activities, contributing to the green and vibrant environment. The Cauvery River and its tributaries, though not directly in Hassan, influence the region’s ecology and contribute to its fertile surroundings. The serene atmosphere and the natural beauty make it an ideal place for nature lovers and those seeking a tranquil retreat.
 
-<img src="placeholder_image_scenic_landscape_hassan.jpg" alt="Scenic Landscape of Hassan">
+
 
 ### **Must-Visit Attractions**
 
 Hassan's prime attractions are its architectural marvels, primarily the temples of Belur and Halebidu.
 
-*   **Belur:** Famous for the Chennakesava Temple, a stunning example of Hoysala architecture. <img src="placeholder_image_chennakesava_temple_belur.jpg" alt="Chennakesava Temple, Belur"> The intricate carvings and the architectural details are mesmerizing.
-*   **Halebidu:** Home to the Hoysaleswara Temple, Halebidu offers another breathtaking display of Hoysala artistry. The temple complex showcases detailed carvings and sculptures that depict scenes from Hindu epics. <img src="placeholder_image_hoysaleswara_temple_halebidu.jpg" alt="Hoysaleswara Temple, Halebidu">
-*   **Shravanabelagola:** Though not in Hassan, it is often included in itineraries. Located approximately 50 km away, Shravanabelagola is famous for the monolithic statue of Gommateshwara (Bahubali), a significant Jain pilgrimage site. <img src="placeholder_image_gommateshwara_shravanabelagola.jpg" alt="Gommateshwara Statue, Shravanabelagola">
+*   **Belur:** Famous for the Chennakesava Temple, a stunning example of Hoysala architecture.  The intricate carvings and the architectural details are mesmerizing.
+*   **Halebidu:** Home to the Hoysaleswara Temple, Halebidu offers another breathtaking display of Hoysala artistry. The temple complex showcases detailed carvings and sculptures that depict scenes from Hindu epics. 
+*   **Shravanabelagola:** Though not in Hassan, it is often included in itineraries. Located approximately 50 km away, Shravanabelagola is famous for the monolithic statue of Gommateshwara (Bahubali), a significant Jain pilgrimage site. 
 *   **Hasanamba Temple:** Located within Hassan city, is a unique and revered temple dedicated to Goddess Hasanamba.
 
 ### **Adventure Activities**

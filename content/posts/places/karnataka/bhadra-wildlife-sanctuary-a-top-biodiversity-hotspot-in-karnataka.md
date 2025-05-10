@@ -16,7 +16,7 @@ tags:
 
 Bhadra Wildlife Sanctuary, a jewel nestled in the Western Ghats of Karnataka, offers an enchanting blend of lush landscapes, vibrant wildlife, and tranquil surroundings. Situated in the Shivamogga district, it provides an escape into nature's embrace. With an average elevation ranging from 750 to 1875 meters above sea level, the sanctuary is a haven for biodiversity. It’s conveniently located near other popular destinations like Chikmagalur and Shimoga, making it an accessible yet secluded retreat. What makes Bhadra unique is its diverse ecosystem, which supports a rich variety of flora and fauna, including the majestic Bengal tiger and the elusive black panther. It provides a perfect balance of adventure and relaxation for nature enthusiasts and wildlife lovers.
 <center>
-    <img src="placeholder_image_bhadra_introduction.jpg" alt="Bhadra Wildlife Sanctuary Overview">
+    
 </center>
 ### **History and Cultural Heritage**
 
@@ -26,7 +26,7 @@ The history of the Bhadra Wildlife Sanctuary is intertwined with the rich cultur
 
 Bhadra Wildlife Sanctuary is a sanctuary of natural splendor, characterized by dense deciduous and evergreen forests. The Bhadra River, which flows through the heart of the sanctuary, is the lifeline of this ecosystem. The landscape is punctuated by rolling hills, deep valleys, and a stunning reservoir. The Bhadra Reservoir, formed by the dam built across the Bhadra River, adds to the scenic beauty of the region.
 <center>
-    <img src="placeholder_image_bhadra_natural_beauty.jpg" alt="Bhadra Wildlife Sanctuary Landscapes">
+    
 </center>
 Specific viewpoints offer breathtaking panoramas of the Western Ghats. These elevated spots provide stunning vistas of the surrounding forests, the reservoir, and the diverse wildlife inhabiting the area. The sanctuary's natural environment is incredibly diverse, supporting a wide range of plant life, from towering teak trees to bamboo groves and lush undergrowth. The presence of evergreen forests adds to the richness of the area.
 
@@ -34,7 +34,7 @@ Specific viewpoints offer breathtaking panoramas of the Western Ghats. These ele
 
 The primary attraction within Bhadra Wildlife Sanctuary is, undoubtedly, the opportunity to experience its rich wildlife. Safari rides are the most popular way to explore the sanctuary, offering glimpses of tigers, leopards, elephants, gaurs (Indian bison), sambar deer, and a variety of bird species.
 <center>
-    <img src="placeholder_image_bhadra_attractions.jpg" alt="Bhadra Wildlife Sanctuary Wildlife">
+    
 </center>
 The Bhadra Reservoir is another key attraction, offering opportunities for boating and stunning views of the surrounding landscape. The Muthodi Forest Range offers a starting point for exploring the wildlife and the sanctuary. Although there are no specific historical or architectural sites within the sanctuary, the experience of being in a pristine natural environment is a major draw.
 
@@ -54,7 +54,7 @@ The local cuisine of the Bhadra region reflects the culinary traditions of Karna
 
 Bhadra Wildlife Sanctuary is renowned for its rich biodiversity, showcasing a variety of flora and fauna. The sanctuary is home to Bengal tigers, Indian leopards, elephants, gaurs, sambar, spotted deer, and a diverse range of other mammals. It is also an important habitat for several bird species, including the Malabar giant squirrel, a variety of raptors, and colorful songbirds. The forests are dominated by teak, rosewood, and other deciduous trees, as well as evergreen trees in certain areas.
 <center>
-    <img src="placeholder_image_bhadra_flora_fauna.jpg" alt="Bhadra Wildlife Sanctuary Wildlife">
+    
 </center>
 The Bhadra Tiger Reserve is a vital conservation area, and the sanctuary is committed to protecting its biodiversity.
 
@@ -72,7 +72,7 @@ The best time to visit Bhadra Wildlife Sanctuary is during the dry season, which
 
 Bhadra Wildlife Sanctuary and the surrounding area offer a range of accommodation options to suit different budgets and preferences. Options include eco-resorts, guesthouses, and forest lodges. Several luxury resorts around the sanctuary offer a comfortable stay with amenities like swimming pools, spas, and fine dining. Visitors can also find budget-friendly guesthouses and homestays in nearby towns and villages.
 <center>
-    <img src="placeholder_image_bhadra_accommodation.jpg" alt="Bhadra Wildlife Sanctuary Resorts">
+    
 </center>
 The Karnataka Forest Department also provides accommodations inside the sanctuary, offering visitors a more immersive experience.
 

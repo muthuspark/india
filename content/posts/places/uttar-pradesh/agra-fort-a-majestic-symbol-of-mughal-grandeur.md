@@ -25,7 +25,7 @@ The cultural heritage of Agra Fort is intertwined with the traditions and custom
 
 Key historical events that shaped Agra Fort include its use as a strategic military location, a royal residence, and a center of political power. Shah Jahan, in particular, is known for his architectural contributions, including the construction of the stunning Moti Masjid (Pearl Mosque) within the fort. The fort also witnessed periods of conflict and power struggles, leaving behind a complex and fascinating history.
 
-<img src="placeholder_image_tag_agra_fort_historical_image.jpg" alt="Agra Fort Historical Image">
+
 
 ### **Natural Beauty**
 
@@ -35,7 +35,7 @@ While Agra is primarily known for its historical and architectural marvels, the 
 
 Agra Fort is, in itself, the prime attraction. Within its walls, visitors can explore a variety of structures, each showcasing different facets of Mughal architecture and history. The key attractions include:
 
-*   **Diwan-i-Aam (Hall of Public Audience):** Where the emperor met with the general public and heard their petitions. <img src="placeholder_image_tag_diwani_aam.jpg" alt="Diwan-i-Aam Image">
+*   **Diwan-i-Aam (Hall of Public Audience):** Where the emperor met with the general public and heard their petitions. 
 *   **Diwan-i-Khas (Hall of Private Audience):** Used for receiving dignitaries and conducting private meetings.
 *   **Jahangir's Palace:** Built by Akbar for his son, Emperor Jahangir, reflecting a blend of Hindu and Islamic architectural styles.
 *   **Khas Mahal:** The private palace of Emperor Shah Jahan, known for its intricate carvings and white marble.
@@ -62,7 +62,7 @@ Agra is renowned for its traditional crafts, textiles, and leather goods. Nearby
 
 Handmade carpets, marble inlay work (influenced by the Taj Mahal's design), and miniature replicas of the Taj Mahal are popular souvenirs. Visitors can also find embroidered textiles, traditional clothing, and local artwork.
 
-<img src="placeholder_image_tag_agra_market.jpg" alt="Agra Market Image">
+
 
 ### **Food and Cuisine**
 

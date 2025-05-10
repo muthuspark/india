@@ -22,7 +22,7 @@ McLeod Ganj, often referred to as "Little Lhasa" or "Dharamsala Upper," is a mes
 
 The history of McLeod Ganj is deeply intertwined with the Tibetan diaspora. Initially a small British outpost and a summer retreat for the British officials stationed in Kangra, its significance dramatically increased after the 1959 Tibetan uprising. Following the escape of the 14th Dalai Lama from Tibet, he established the Central Tibetan Administration (CTA) here, effectively making McLeod Ganj the capital of the Tibetan government-in-exile. This pivotal moment transformed the town, infusing it with a rich Tibetan cultural heritage.
 
-<img src="placeholder_image_tag_tibetan_monastery.jpg" alt="Tibetan Monastery">
+
 
 The cultural tapestry of McLeod Ganj is woven with the threads of Tibetan Buddhism, evident in the numerous monasteries, including the Tsuglagkhang Complex, which houses the Dalai Lama's temple. Festivals like Losar (Tibetan New Year) and Saga Dawa (celebrating the birth and enlightenment of Buddha) are vibrant expressions of Tibetan culture, with colorful processions, traditional dances, and elaborate rituals. Historical landmarks include the Tibetan Museum, showcasing Tibetan art, history, and the struggle for independence. The influence of the British is also visible in the architecture and the name itself, honoring Lieutenant Governor of Punjab, Sir Donald McLeod.
 
@@ -30,7 +30,7 @@ The cultural tapestry of McLeod Ganj is woven with the threads of Tibetan Buddhi
 
 McLeod Ganj is blessed with breathtaking natural beauty. The town is cradled by the majestic Dhauladhar range, offering panoramic views of snow-capped peaks, lush valleys, and dense pine forests. The landscape is a paradise for nature lovers and photographers, with verdant hillsides, gushing waterfalls, and trails that meander through pristine wilderness.
 
-<img src="placeholder_image_tag_dhauladhar_range.jpg" alt="Dhauladhar Range">
+
 
 Specific viewpoints and natural attractions that offer unparalleled scenic beauty include:
 
@@ -63,7 +63,7 @@ McLeod Ganj is a haven for adventure enthusiasts. The terrain offers a variety o
 *   **Nature Walks:** Explore the surrounding forests and trails, offering opportunities for bird watching and enjoying the scenic beauty.
 *   **Mountain Biking:** Some routes offer challenging and exhilarating mountain biking experiences.
 
-<img src="placeholder_image_tag_trekking.jpg" alt="Trekking">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -91,7 +91,7 @@ Recommended dishes and street food include momos from street vendors, Thukpa fro
 *   **Jimmy's Italian Kitchen:** For authentic Italian food.
 *   **Lung Ta Japanese Restaurant:** Serves traditional Japanese food.
 
-<img src="placeholder_image_tag_momos.jpg" alt="Momos">
+
 
 ### **Flora and Fauna**
 
@@ -125,7 +125,7 @@ McLeod Ganj offers a wide range of accommodation options to suit all budgets and
 
 Consider hotels near the main square or those with views of the Dhauladhar range.
 
-<img src="placeholder_image_tag_accommodation.jpg" alt="Accommodation">
+
 
 ### **Offbeat Experiences**
 

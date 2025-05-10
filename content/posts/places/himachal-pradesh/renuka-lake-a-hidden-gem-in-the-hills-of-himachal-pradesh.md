@@ -25,13 +25,13 @@ The cultural heritage of Renuka is rich with traditions and religious practices.
 
 ### **Natural Beauty**
 
-Renuka Lake's natural beauty is its greatest allure. The lake itself is a stunning sight, reflecting the verdant hues of the surrounding forests and the clear blue sky. <img src="placeholder_image_renuka_lake.jpg" alt="Renuka Lake - Image Placeholder"> The horseshoe shape of the lake adds to its unique appeal. The area is a haven for nature lovers, with lush green hills, dense forests, and a diverse ecosystem. The hills surrounding the lake are home to a variety of flora, including pine, oak, and deodar trees. The air is fresh and clean, and the atmosphere is peaceful and rejuvenating. Several viewpoints offer panoramic vistas of the lake and the surrounding landscape. The Renuka Wildlife Sanctuary, which encompasses the lake and its surroundings, is a significant part of its natural beauty. The sanctuary protects a variety of animal species, making it an ideal spot for wildlife enthusiasts.
+Renuka Lake's natural beauty is its greatest allure. The lake itself is a stunning sight, reflecting the verdant hues of the surrounding forests and the clear blue sky.  The horseshoe shape of the lake adds to its unique appeal. The area is a haven for nature lovers, with lush green hills, dense forests, and a diverse ecosystem. The hills surrounding the lake are home to a variety of flora, including pine, oak, and deodar trees. The air is fresh and clean, and the atmosphere is peaceful and rejuvenating. Several viewpoints offer panoramic vistas of the lake and the surrounding landscape. The Renuka Wildlife Sanctuary, which encompasses the lake and its surroundings, is a significant part of its natural beauty. The sanctuary protects a variety of animal species, making it an ideal spot for wildlife enthusiasts.
 
 ### **Must-Visit Attractions**
 
 The primary attraction is, of course, Renuka Lake itself. Besides the lake, there are several other must-visit attractions in the area:
 
-*   **Renuka Temple:** Dedicated to Goddess Renuka, the temple is the focal point of the area's religious activities. It attracts a large number of devotees, especially during the annual fair. <img src="placeholder_image_renuka_temple.jpg" alt="Renuka Temple - Image Placeholder">
+*   **Renuka Temple:** Dedicated to Goddess Renuka, the temple is the focal point of the area's religious activities. It attracts a large number of devotees, especially during the annual fair. 
 *   **Parashurama Temple:** Located nearby, this temple is dedicated to the son of Renuka and an incarnation of Lord Vishnu.
 *   **Renuka Zoo (Mini Zoo):** The zoo houses several species of animals, including lions, tigers, leopards, and various birds. It is an excellent place for families and wildlife enthusiasts.
 *   **Wildlife Sanctuary:** The Renuka Wildlife Sanctuary is home to a variety of animals and birds, including sambar deer, barking deer, and various species of birds. It is a great place for a nature walk or a wildlife safari.
@@ -61,7 +61,7 @@ The local cuisine of Renuka Lake reflects the flavors of Himachal Pradesh. Visit
 
 *   **Traditional Dishes:** Sample local dishes like Madra (a yogurt-based gravy), Dham (a traditional meal served during festivals), and Siddu (steamed bread).
 *   **Street Food:** Enjoy local street food items like momos, noodles, and other snacks.
-*   **Restaurants:** There are several restaurants and food stalls in the area that serve a variety of dishes, including both vegetarian and non-vegetarian options. <img src="placeholder_image_local_food.jpg" alt="Local Food - Image Placeholder">
+*   **Restaurants:** There are several restaurants and food stalls in the area that serve a variety of dishes, including both vegetarian and non-vegetarian options. 
 
 ### **Flora and Fauna**
 

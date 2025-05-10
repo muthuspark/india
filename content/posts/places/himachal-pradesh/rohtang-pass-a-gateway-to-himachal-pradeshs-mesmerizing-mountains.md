@@ -27,7 +27,7 @@ The area around Rohtang Pass is also rich in cultural heritage, deeply influence
 
 Rohtang Pass offers an unparalleled display of natural beauty. The landscape is characterized by towering snow-capped mountains, deep valleys, glaciers, and cascading waterfalls. The pass is situated at the crest of a mountain ridge that forms a watershed between the Beas River and the Chenab River.
 
-<img src="placeholder_image_rohtang_pass_landscape.jpg" alt="Rohtang Pass Landscape" width="600">
+
 
 The vistas from Rohtang Pass are simply magnificent, offering panoramic views of the surrounding Himalayan ranges. During the winter months, the pass is covered in a thick blanket of snow, transforming the entire landscape into a winter wonderland.
 
@@ -67,7 +67,7 @@ The local cuisine in the region is influenced by Tibetan and North Indian flavor
 *   **Local Dishes:** Try local dishes like Thenktuk (a type of noodle soup) and Buckwheat dishes (popular during the winter)
 *   **Dhaba Food:** Roadside dhabas (small eateries) along the way to Rohtang offer simple yet delicious meals, including dal, rice, and vegetable curries.
 
-<img src="placeholder_image_rohtang_pass_food.jpg" alt="Rohtang Pass Food" width="600">
+
 
 ### **Flora and Fauna**
 

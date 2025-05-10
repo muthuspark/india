@@ -26,7 +26,7 @@ Matheran's history is closely tied to the British colonial period. Discovered in
 ### **Natural Beauty**
 
 Matheran's beauty lies in its breathtaking views and untouched natural surroundings. The landscape is characterized by verdant forests, deep valleys, and numerous viewpoints offering panoramic vistas of the surrounding Western Ghats. The air is fresh and clean, often shrouded in mist, giving it a mystical charm, especially during the monsoon season. The surrounding forests are primarily evergreen and semi-evergreen, with a diverse range of flora and fauna.
-<img src="placeholder_image_natural_beauty.jpg" alt="Natural Beauty of Matheran">
+
 
 Key viewpoints offering spectacular views include:
 
@@ -40,12 +40,12 @@ Key viewpoints offering spectacular views include:
 
 Matheran's primary attractions are its viewpoints, each offering a unique perspective on the surrounding landscape. However, apart from the viewpoints, Matheran also boasts:
 
-*   **Charlotte Lake:** <img src="placeholder_image_charlotte_lake.jpg" alt="Charlotte Lake"> The main water source for Matheran, surrounded by serene natural beauty. The lake is a haven for nature lovers, with opportunities for bird watching and enjoying the tranquility.
+*   **Charlotte Lake:**  The main water source for Matheran, surrounded by serene natural beauty. The lake is a haven for nature lovers, with opportunities for bird watching and enjoying the tranquility.
 *   **Louisa Point:** Offers spectacular views of the ancient forts of Vishalgad and Prabalgad.
 *   **Alexander Point:** Provides breathtaking views of the valleys.
 *   **Prabal Fort and Vishalgad Fort:** Historical forts that can be seen from certain viewpoints, highlighting the region's rich historical past.
 *   **The Toy Train:** A narrow-gauge railway connecting Neral to Matheran, offering a scenic ride through the hills and forests. This is often considered the highlight of a visit to Matheran.
-<img src="placeholder_image_toy_train.jpg" alt="Toy Train Ride in Matheran">
+
 
 ### **Adventure Activities**
 

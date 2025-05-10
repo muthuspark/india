@@ -21,7 +21,7 @@ Udupi, a serene coastal town nestled in the Udupi district of Karnataka, India, 
 
 Udupi's history is deeply intertwined with the Sri Krishna Matha, founded in the 13th century by the Vaishnava saint Madhvacharya. Legend states that Madhvacharya manifested the idol of Lord Krishna, which continues to be the focal point of the temple and its daily rituals. Udupi's culture is heavily influenced by the Madhva philosophy, emphasizing Dvaita (dualism) and devotion to Lord Vishnu. The eight monasteries (Ashta Mathas) established by Madhvacharya play a significant role in the temple's management and the organization of its various festivals and ceremonies.
 
-<placeholder image tag for historical image or Sri Krishna Matha image>
+
 
 The annual Paryaya festival, held every two years, sees the transfer of the temple's management between the eight mathas. This is a grand spectacle of religious and cultural significance, drawing pilgrims and tourists from all over India. The town is also home to several other temples and religious sites, reflecting its vibrant spiritual heritage. The local traditions include Yakshagana, a traditional theater form, and other folk dances and performances that celebrate the region's rich cultural tapestry. The influence of the Tulu language and culture is also prominent in Udupi.
 
@@ -29,22 +29,22 @@ The annual Paryaya festival, held every two years, sees the transfer of the temp
 
 Udupi's natural beauty is defined by its stunning coastline and lush green surroundings. The town is blessed with numerous beaches, including Malpe Beach, Kaup Beach, and Padubidri Beach, offering pristine sands, clear waters, and breathtaking views of the Arabian Sea. The landscape is characterized by coconut groves, palm trees, and patches of dense greenery.
 
-<placeholder image tag for a beach image or coastal view image>
+
 
 The Western Ghats, a mountain range rich in biodiversity, is located not far from Udupi, providing opportunities for trekking and exploring the natural environment. The region experiences a moderate climate throughout the year, with the monsoon season (June to September) bringing abundant rainfall and rejuvenating the landscape.
 
 ### **Must-Visit Attractions**
 
 *   **Sri Krishna Matha (Temple):** The heart of Udupi, known for its unique idol of Lord Krishna, visible through a silver-plated window called the Kanakana Kindi.
-    <placeholder image tag for Sri Krishna Matha>
+    
 *   **Chandramouleshwara Temple and Anantheshwara Temple:** Ancient temples located near the Sri Krishna Matha, representing the town's historical significance.
-    <placeholder image tag for Chandramouleshwara Temple or Anantheshwara Temple>
+    
 *   **Malpe Beach:** A popular beach with watersport activities, boat rides, and a beautiful view of the St. Mary's Islands.
-    <placeholder image tag for Malpe Beach>
+    
 *   **St. Mary's Islands:** A unique group of islands known for their columnar basaltic rock formations. Accessible via boat from Malpe Beach.
-    <placeholder image tag for St. Mary's Islands>
+    
 *   **Kaup Beach:** Known for its scenic lighthouse and tranquil atmosphere.
-    <placeholder image tag for Kaup Beach and lighthouse>
+    
 *   **Manipal:** A university town near Udupi, offering a different vibe with its modern infrastructure and youthful energy.
 
 ### **Adventure Activities**

@@ -31,7 +31,7 @@ The cultural heritage is also reflected in local festivals. Losar, the Tibetan N
 
 Pelling is a treasure trove of natural beauty, with the majestic Kanchenjunga dominating the skyline on clear days. The landscape is characterized by lush green valleys, dense forests, and gurgling streams, providing a serene and picturesque environment.
 
-<img src="placeholder_image_kanchenjunga_view.jpg" alt="View of Kanchenjunga from Pelling">
+
 
 The Dentam Valley and the surrounding hills offer stunning views of the surrounding mountain ranges and offer a plethora of trekking and hiking trails. The area is covered by a variety of vegetation, including rhododendrons, orchids, and other Himalayan flora. The rivers and streams, such as the Rangit River, further enhance the natural beauty of the region, and provide habitat for various bird species.
 
@@ -45,7 +45,7 @@ Key viewpoints for observing the natural beauty of Pelling include:
 
 Pelling offers a range of attractions that cater to a variety of interests, from historical sites to natural wonders.
 
-*   **Pemayangtse Monastery:** <img src="placeholder_image_pemayangtse_monastery.jpg" alt="Pemayangtse Monastery"> The second oldest monastery in Sikkim, offering a glimpse into the region's Buddhist heritage.
+*   **Pemayangtse Monastery:**  The second oldest monastery in Sikkim, offering a glimpse into the region's Buddhist heritage.
 *   **Rabdentse Ruins:** The ruins of the second capital of the Kingdom of Sikkim, providing a glimpse into its historical past.
 *   **Sanga Choling Monastery:** One of the oldest monasteries in Sikkim, accessible by a scenic trek, offering breathtaking views.
 *   **Khecheopalri Lake:** A sacred lake considered holy by both Buddhists and Hindus.
@@ -76,7 +76,7 @@ Pelling does not have extensive markets like larger cities, but the area around 
 
 Sikkimese cuisine is a delightful blend of flavors, influenced by Tibetan, Nepalese, and Indian culinary traditions.
 
-<img src="placeholder_image_momos_thukpa.jpg" alt="Momos and Thukpa">
+
 
 *   **Traditional Dishes:** *Momos* (steamed dumplings), *Thukpa* (noodle soup), *Gundruk* (fermented leafy vegetables), and *Kinema* (fermented soybean) are some of the must-try dishes.
 *   **Street Food:** Various small restaurants offer delicious and affordable local food.

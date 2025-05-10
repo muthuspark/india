@@ -21,7 +21,7 @@ Dwarka, a sacred city steeped in legend and history, is a revered destination ne
 
 Dwarka's history is interwoven with the life of Lord Krishna, a pivotal figure in Hinduism. According to mythology, Krishna established his kingdom here after leaving Mathura. The city is believed to have been submerged and rebuilt multiple times over thousands of years. Archaeological excavations have provided evidence of settlements dating back to the Bronze Age. The city is mentioned in the Mahabharata and other ancient scriptures, solidifying its significance in Hindu cosmology.
 
-<img src="placeholder_image_of_historical_ruins_or_artefacts.jpg" alt="Historical Ruins or Artefacts" width="600" height="400">
+
 
 The cultural heritage of Dwarka is deeply rooted in devotion to Lord Krishna. The Dwarkadhish Temple, dedicated to Krishna, is the heart of the city and a major pilgrimage site.  The temple's elaborate architecture, intricate carvings, and the daily rituals create a deeply spiritual atmosphere.  Festivals such as Janmashtami (Lord Krishna's birthday) are celebrated with great fervor, attracting thousands of devotees.  The city is a center for Vaishnavism, the devotional tradition focused on Lord Vishnu and his incarnations.  Apart from the Dwarkadhish Temple, other significant sites include Rukmini Devi Temple, dedicated to Krishna's consort, and several ghats (steps leading to the water) along the Gomti River.
 
@@ -29,7 +29,7 @@ The cultural heritage of Dwarka is deeply rooted in devotion to Lord Krishna. Th
 
 Dwarka boasts a beautiful coastline where the Arabian Sea meets the western shores of India. The landscape is relatively flat with sandy beaches and rocky outcroppings. The Gomti River, flowing into the sea, adds to the natural beauty of the city. The calm waters and clear skies offer stunning sunsets.
 
-<img src="placeholder_image_of_the_Dwarka_coastline_sunset.jpg" alt="Dwarka Coastline Sunset" width="600" height="400">
+
 
 While the area immediately around Dwarka doesn't feature towering mountains or dense forests, the coastal environment provides a unique charm. The landscape is characterized by the vast expanse of the sea, providing opportunities for various water-based activities and a tranquil atmosphere. The best views are often found at the viewpoints along the coast, particularly during sunset.  Marine life in the area is diverse, with coral reefs and opportunities for viewing underwater ecosystems.
 
@@ -41,7 +41,7 @@ While the area immediately around Dwarka doesn't feature towering mountains or d
 *   **Beyt Dwarka:** A small island located about 30 kilometers from Dwarka, Beyt Dwarka is believed to be the actual place where Lord Krishna lived during his reign. Accessible by ferry, this island has several temples, including the Krishna Temple.
 *   **Nageshwar Jyotirlinga Temple:** One of the twelve Jyotirlingas (shrines dedicated to Lord Shiva), located near Dwarka. This temple is a significant pilgrimage site.
 
-<img src="placeholder_image_of_Dwarkadhish_Temple.jpg" alt="Dwarkadhish Temple" width="600" height="400">
+
 
 ### **Adventure Activities**
 
@@ -51,7 +51,7 @@ Dwarka and its surrounding area offer some exciting adventure possibilities, pri
 *   **Boat Rides:** Boat rides along the coast provide stunning views of the city and its temples.  Trips to Beyt Dwarka usually involve a ferry ride which can be an adventure in itself.
 *   **Beach Activities:** Some of the nearby beaches offer opportunities for swimming, sunbathing, and other water activities.
 
-<img src="placeholder_image_of_snorkeling_or_scuba_diving_in_Dwarka.jpg" alt="Snorkelling or Scuba Diving in Dwarka" width="600" height="400">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -69,7 +69,7 @@ Dwarka's cuisine reflects the flavors of Gujarati and North Indian cuisine, with
 *   **Sweet Dishes:** Dwarka offers a variety of sweet dishes, including peda, barfi, and shrikhand.
 *   **Restaurants:** Some restaurants near the main temple and in the city serve both local and international cuisine.
 
-<img src="placeholder_image_of_Gujarati_Thali.jpg" alt="Gujarati Thali" width="600" height="400">
+
 
 ### **Flora and Fauna**
 
@@ -101,7 +101,7 @@ Dwarka offers a range of accommodation options to suit various budgets:
 *   **Mid-Range Hotels:** These hotels provide amenities like restaurants, air conditioning, and often are near the main attractions.
 *   **Luxury Resorts:** Some luxury resorts are available in Dwarka, offering modern amenities and a comfortable stay.
 
-<img src="placeholder_image_of_a_Dwarka_hotel_or_guesthouse.jpg" alt="Dwarka Hotel or Guesthouse" width="600" height="400">
+
 
 ### **Offbeat Experiences**
 

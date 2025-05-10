@@ -27,7 +27,7 @@ According to legend, the town was cursed by Alamelamma, the wife of the Vijayana
 
 The cultural heritage of Talakad is primarily religious, with temples dedicated to various Hindu deities dominating the landscape. Key historical landmarks include the Vaidyanatheshwara temple, which is the most prominent temple in the Panchalinga group, and the Kirti Narayana Temple, known for its beautiful architecture. The submerged temples are periodically excavated, revealing stunning architecture and intricate carvings. These temples are major attractions for pilgrims and history enthusiasts alike.
 
-<img src="placeholder_image_talakad_history.jpg" alt="History of Talakad" width="600">
+
 
 ### **Natural Beauty**
 
@@ -35,7 +35,7 @@ Talakad is blessed with a serene and captivating natural environment. The Kaveri
 
 The most prominent natural feature of Talakad is the shifting sand, which dramatically changes the appearance of the landscape, sometimes burying the temples entirely and creating a unique and unusual environment. The riverbanks offer scenic spots where visitors can enjoy the beauty of the Kaveri, watch the sunset, and capture stunning photographs. The surrounding areas, though not dense forest, are dotted with greenery and farmland, enhancing the tranquility of the location. There aren't any specific viewpoints, but the entire area along the Kaveri offers continuous beauty, especially at dawn and dusk.
 
-<img src="placeholder_image_talakad_natural_beauty.jpg" alt="Natural Beauty of Talakad" width="600">
+
 
 ### **Must-Visit Attractions**
 
@@ -54,7 +54,7 @@ Other notable places to visit:
 *   **Kirti Narayana Temple**: This temple is known for its ornate Hoysala-style architecture.
 *   **Talakad Museum**: This museum houses artifacts excavated from the area, providing insight into the history and culture of Talakad.
 
-<img src="placeholder_image_talakad_temples.jpg" alt="Talakad Temples" width="600">
+
 
 ### **Adventure Activities**
 
@@ -79,7 +79,7 @@ The cuisine in and around Talakad reflects the South Indian culinary traditions,
 *   **Restaurants and Cafes**: There are not many restaurants or cafes in the immediate vicinity of Talakad. You might find small eateries offering simple meals. For a wider variety of dining options, you can consider traveling to Mysore or Somanathapura.
 *   **Recommended Dishes**: Taste the local sambar, and try the local version of rice-based delicacies.
 
-<img src="placeholder_image_talakad_food.jpg" alt="Talakad Food" width="600">
+
 
 ### **Flora and Fauna**
 
@@ -118,7 +118,7 @@ Due to the relatively small size of Talakad and its nature as a day-trip destina
 *   **Luxury Resorts/Heritage Hotels**: Mysore also features luxury hotels and heritage properties for a premium experience.
 *   **Consider**: It’s advisable to book your accommodations in advance, especially during peak tourist seasons or festivals.
 
-<img src="placeholder_image_talakad_accommodation.jpg" alt="Talakad Accommodation" width="600">
+
 
 ### **Offbeat Experiences**
 

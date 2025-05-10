@@ -30,21 +30,21 @@ The cultural heritage of Gulmarg is primarily influenced by Kashmiri traditions,
 Gulmarg's natural beauty is its defining feature. The landscape is dominated by rolling green meadows, snow-capped peaks, and dense pine forests. The majestic Apharwat peak, rising above Gulmarg, is a major attraction, especially during the winter when it's blanketed in snow, offering world-class skiing opportunities. The Gulmarg Gondola, one of the highest cable cars in the world, provides unparalleled views of the surrounding mountains and valleys. The landscape transforms dramatically with the seasons; during spring and summer, wildflowers carpet the meadows, creating a vibrant tapestry of colors, while autumn paints the forests in hues of gold and crimson.
 
 The viewpoints in Gulmarg offer breathtaking panoramas. Visitors can enjoy stunning vistas from the top of the Gondola, offering views of the Nanga Parbat (on clear days), the Pir Panjal range, and the lush valleys below. The entire region is a feast for the eyes, with its pristine air, crystal-clear streams, and the symphony of nature's sounds.
-<img src="placeholder_image_Gulmarg_landscape.jpg" alt="Gulmarg Landscape">
+
 
 ### **Must-Visit Attractions**
 
 *   **Gulmarg Gondola:** The Gulmarg Gondola is the highlight of any visit. It's one of the highest cable cars in the world, offering two phases of ascent. The first phase takes visitors to Kongdori station, and the second phase goes up to Apharwat Peak.
-<img src="placeholder_image_Gulmarg_Gondola.jpg" alt="Gulmarg Gondola">
+
 
 *   **Apharwat Peak:** The top station of the Gondola, Apharwat Peak, is famous for its snow-covered slopes and is a popular destination for skiing and snowboarding.
-<img src="placeholder_image_Apharwat_Peak.jpg" alt="Apharwat Peak">
+
 
 *   **Khilanmarg:** Located a short trek or pony ride from Gulmarg, Khilanmarg offers a stunning view of the Himalayas and is a beautiful spot for a picnic.
-<img src="placeholder_image_Khilanmarg.jpg" alt="Khilanmarg">
+
 
 *   **Gulmarg Golf Course:** One of the highest green golf courses in the world, the Gulmarg Golf Course is a historic attraction and a unique experience for golf enthusiasts.
-<img src="placeholder_image_Gulmarg_Golf_Course.jpg" alt="Gulmarg Golf Course">
+
 
 *   **St. Mary's Church:** A charming Victorian-era church, built in 1902, located near the Golf Course, offering a glimpse of colonial architecture.
 
@@ -53,7 +53,7 @@ The viewpoints in Gulmarg offer breathtaking panoramas. Visitors can enjoy stunn
 Gulmarg is a paradise for adventure enthusiasts, especially during the winter months.
 
 *   **Skiing and Snowboarding:** Gulmarg is renowned for its excellent skiing and snowboarding slopes. The Apharwat Peak offers varied terrains suitable for both beginners and experienced skiers. Equipment rentals and instructors are readily available.
-<img src="placeholder_image_Skiing_in_Gulmarg.jpg" alt="Skiing in Gulmarg">
+
 
 *   **Heli-Skiing:** For advanced skiers, heli-skiing is an exciting option, offering access to untouched powder snow and challenging slopes.
 
@@ -84,14 +84,14 @@ Kashmiri cuisine is a delightful experience, with flavors that are rich, aromati
 *   **Street Food:** While options within Gulmarg itself are limited, nearby areas offer street food such as momos, and local snacks like kulcha and baqerkhani.
 
 Popular Restaurants/Cafes: While Gulmarg has limited restaurants, many hotels and resorts have restaurants that serve a range of cuisines. Smaller local eateries near the main market may offer traditional Kashmiri food.
-<img src="placeholder_image_Kashmiri_Cuisine.jpg" alt="Kashmiri Cuisine">
+
 
 ### **Flora and Fauna**
 
 Gulmarg boasts a diverse flora and fauna, adding to its natural charm. The region is home to a variety of Himalayan plants and trees, including pine, fir, and deodar. The meadows bloom with wildflowers during the summer, creating a colorful spectacle.
 
 The fauna includes various bird species, such as the Koklass pheasant, the Himalayan monal, and various migratory birds. While wildlife sightings are not as frequent as in designated reserves, the area has a healthy population of animals.
-<img src="placeholder_image_Gulmarg_Flora_Fauna.jpg" alt="Gulmarg Flora and Fauna">
+
 
 ### **Best Time to Visit**
 

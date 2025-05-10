@@ -22,15 +22,15 @@ Madurai (Koodal Azhagar Temple) is a magnificent temple dedicated to Lord Vishnu
 
 The Koodal Azhagar Temple has a deep historical connection, dating back over 1,500 years to the Sangam period. Though the exact construction date is debated, its roots are firmly entrenched in the history of the Pandya dynasty, which ruled Madurai for centuries. The temple's construction, renovation, and expansion continued over several periods under the patronage of various dynasties, including the Vijayanagara and Nayak rulers, leading to the complex architectural styles seen today.
 
-The temple's cultural significance is immense. It's a place of active worship, with daily rituals and numerous festivals celebrated throughout the year. The annual Brahmotsavam, a grand festival celebrated with processions, is a major event attracting thousands of devotees. Madurai is known for its unique traditions, like the Meenakshi Amman Temple chariot festival, which showcases the city's rich religious and cultural heritage. <placeholder image tag for festivals at Koodal Azhagar Temple> The city itself, often referred to as the Athens of the East, has been a center for Tamil culture, literature, and art for millennia.
+The temple's cultural significance is immense. It's a place of active worship, with daily rituals and numerous festivals celebrated throughout the year. The annual Brahmotsavam, a grand festival celebrated with processions, is a major event attracting thousands of devotees. Madurai is known for its unique traditions, like the Meenakshi Amman Temple chariot festival, which showcases the city's rich religious and cultural heritage.  The city itself, often referred to as the Athens of the East, has been a center for Tamil culture, literature, and art for millennia.
 
 ### **Natural Beauty**
 
-Madurai is situated in a relatively flat plain, though the Eastern Ghats are within accessible distance. The city's natural beauty is less about grand landscapes and more about the serenity found within its temple gardens and the surrounding agricultural lands. There are no major rivers directly flowing near the temple, but the Vaigai River, crucial to the city's life, flows nearby. <placeholder image tag for Vaigai River or Madurai landscape>
+Madurai is situated in a relatively flat plain, though the Eastern Ghats are within accessible distance. The city's natural beauty is less about grand landscapes and more about the serenity found within its temple gardens and the surrounding agricultural lands. There are no major rivers directly flowing near the temple, but the Vaigai River, crucial to the city's life, flows nearby. 
 
 ### **Must-Visit Attractions**
 
-The primary attraction is, undoubtedly, the **Koodal Azhagar Temple**. This temple is dedicated to Lord Vishnu, also known as Koodal Azhagar. The temple is renowned for its intricate carvings, towering gopurams (gateway towers), and detailed sculptures. It features Vishnu in three postures - sitting, standing, and reclining. <placeholder image tag for Koodal Azhagar Temple architecture>
+The primary attraction is, undoubtedly, the **Koodal Azhagar Temple**. This temple is dedicated to Lord Vishnu, also known as Koodal Azhagar. The temple is renowned for its intricate carvings, towering gopurams (gateway towers), and detailed sculptures. It features Vishnu in three postures - sitting, standing, and reclining. 
 
 Other must-visit attractions include:
 
@@ -56,7 +56,7 @@ Madurai is a shopper's paradise. The city is famous for its vibrant local market
 *   **Chithirai Market:** Popular for its flower and vegetable stalls.
 *   **Silk and Cotton Weaving:** Madurai is a major center for handloom weaving, with shops selling exquisite silk and cotton sarees and fabrics.
 
-<placeholder image tag for local market or handicrafts>
+
 
 ### **Food and Cuisine**
 
@@ -75,7 +75,7 @@ Popular Restaurants and Food Stalls:
 *   **Konar Mess:** Offers a variety of non-vegetarian dishes.
 *   Street food stalls around the Meenakshi Amman Temple.
 
-<placeholder image tag for food and cuisine>
+
 
 ### **Flora and Fauna**
 
@@ -111,7 +111,7 @@ Madurai offers a wide range of accommodation options to suit every budget:
 *   **Budget Hotels:** Hotel Supreme, Hotel Tamil Nadu (TTDC).
 *   **Homestays and Guest Houses:** Several options are available for a more personalized experience.
 
-<placeholder image tag for accommodation options>
+
 
 ### **Offbeat Experiences**
 

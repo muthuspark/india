@@ -16,17 +16,17 @@ tags:
 
 ### **Introduction**
 
-The Lepakshi Temple, a breathtaking testament to Vijayanagara architecture, stands as a significant cultural and historical landmark in the Anantapur district of Andhra Pradesh, India. Located in the small village of Lepakshi, the temple is approximately 15 kilometers (9.3 miles) from Hindupur and roughly 120 kilometers (75 miles) from Bangalore, making it a popular day trip or short stay destination. Lepakshi is situated at an elevation of around 500 meters (1,640 feet) above sea level. What distinguishes this place is its stunning blend of religious artistry, intricate carvings, and fascinating historical narratives. The temple complex encapsulates the essence of the Vijayanagara period, attracting visitors with its unique aesthetics and the stories embedded within its stone walls. <img src="placeholder_lepakshi_introduction.jpg" alt="Lepakshi Temple Introduction">
+The Lepakshi Temple, a breathtaking testament to Vijayanagara architecture, stands as a significant cultural and historical landmark in the Anantapur district of Andhra Pradesh, India. Located in the small village of Lepakshi, the temple is approximately 15 kilometers (9.3 miles) from Hindupur and roughly 120 kilometers (75 miles) from Bangalore, making it a popular day trip or short stay destination. Lepakshi is situated at an elevation of around 500 meters (1,640 feet) above sea level. What distinguishes this place is its stunning blend of religious artistry, intricate carvings, and fascinating historical narratives. The temple complex encapsulates the essence of the Vijayanagara period, attracting visitors with its unique aesthetics and the stories embedded within its stone walls. 
 
 ### **History and Cultural Heritage**
 
 The Lepakshi Temple, also known as Veerabhadra Temple, was built in the 16th century during the reign of the Vijayanagara Empire by Virupanna Nayaka, the treasurer of the royal court. Legend has it that Virupanna Nayaka started construction on the temple after receiving funds from the king, but was later accused of misappropriation. To prove his innocence, he gouged out his own eyes, leaving behind two large bloodstains which are still visible on a rock near the temple. The temple is dedicated to Veerabhadra, a fierce form of Lord Shiva.
 
-The cultural significance of Lepakshi is immense. It is a living embodiment of the Vijayanagara artistic prowess, showcasing exquisite carvings, sculptures, and murals that narrate tales from the Ramayana, Mahabharata, and the Puranas. The temple's architecture is characterized by its granite construction, intricate friezes, and detailed sculptures. The iconic "Hanging Pillar," which touches the ground only at one point, and the colossal monolithic Nandi bull statue are prominent examples of the engineering and artistic excellence of the time. Festivals like Maha Shivaratri are celebrated with great fervor, attracting devotees and tourists from all over the region. <img src="placeholder_lepakshi_history.jpg" alt="Lepakshi Temple History">
+The cultural significance of Lepakshi is immense. It is a living embodiment of the Vijayanagara artistic prowess, showcasing exquisite carvings, sculptures, and murals that narrate tales from the Ramayana, Mahabharata, and the Puranas. The temple's architecture is characterized by its granite construction, intricate friezes, and detailed sculptures. The iconic "Hanging Pillar," which touches the ground only at one point, and the colossal monolithic Nandi bull statue are prominent examples of the engineering and artistic excellence of the time. Festivals like Maha Shivaratri are celebrated with great fervor, attracting devotees and tourists from all over the region. 
 
 ### **Natural Beauty**
 
-The landscape surrounding Lepakshi is typical of the Rayalaseema region of Andhra Pradesh, characterized by rolling hills, rocky terrain, and semi-arid conditions. The area is dotted with granite outcrops and offers a stark, yet captivating beauty. While there are no prominent rivers flowing near the temple, the landscape provides a sense of tranquility and timelessness. The natural beauty here is less about lush forests and flowing waters and more about the raw, enduring character of the land. The surrounding hills offer a quiet serenity, making it an ideal setting for reflection and appreciation of the temple's intricate artistry. There aren't any significant viewpoints overlooking the temple, as it is embedded in its own environment. <img src="placeholder_lepakshi_natural.jpg" alt="Lepakshi Temple Natural Beauty">
+The landscape surrounding Lepakshi is typical of the Rayalaseema region of Andhra Pradesh, characterized by rolling hills, rocky terrain, and semi-arid conditions. The area is dotted with granite outcrops and offers a stark, yet captivating beauty. While there are no prominent rivers flowing near the temple, the landscape provides a sense of tranquility and timelessness. The natural beauty here is less about lush forests and flowing waters and more about the raw, enduring character of the land. The surrounding hills offer a quiet serenity, making it an ideal setting for reflection and appreciation of the temple's intricate artistry. There aren't any significant viewpoints overlooking the temple, as it is embedded in its own environment. 
 
 ### **Must-Visit Attractions**
 
@@ -34,7 +34,7 @@ The Lepakshi Temple complex itself is the primary attraction. The most prominent
 
 *   **Veerabhadra Temple:** The main temple dedicated to Veerabhadra, adorned with stunning sculptures and intricate carvings depicting various Hindu deities and scenes from mythology.
 *   **The Hanging Pillar (Levitating Pillar):** This architectural marvel, supported only at one point, leaves a gap between the base and the ground. The mystery surrounding its engineering and construction draws visitors to test how a cloth can pass under it.
-*   **Nandi Bull:** A monolithic sculpture of Nandi, the bull vahana (vehicle) of Lord Shiva. This enormous sculpture, carved from a single granite stone, is a masterpiece of craftsmanship. <img src="placeholder="placeholder_nandi_bull.jpg" alt="Nandi Bull">
+*   **Nandi Bull:** A monolithic sculpture of Nandi, the bull vahana (vehicle) of Lord Shiva. This enormous sculpture, carved from a single granite stone, is a masterpiece of craftsmanship. 
 *   **Kalyana Mandapa (Marriage Hall):** An unfinished structure with beautiful carvings and pillars depicting scenes from the wedding of Shiva and Parvati.
 *   **Murals:** The temple is adorned with well-preserved murals depicting mythological stories and scenes from the epics.
 
@@ -62,7 +62,7 @@ The food scene in Lepakshi is limited, primarily catering to visiting tourists a
 *   **Popular Dishes:** Expect to find South Indian staples like idli, dosa, vada, rice, sambar, and local curries.
 *   **Street Food:** Snacks and beverages are available from vendors outside the temple.
 
-For a wider range of food options, it's better to eat in Hindupur or Bangalore before or after visiting Lepakshi. <img src="placeholder_lepakshi_food.jpg" alt="Lepakshi Food">
+For a wider range of food options, it's better to eat in Hindupur or Bangalore before or after visiting Lepakshi. 
 
 ### **Flora and Fauna**
 

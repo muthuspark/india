@@ -20,7 +20,7 @@ Gaya, a city steeped in history and spirituality, is located in the state of Bih
 
 ### **History and Cultural Heritage**
 
-Gaya's history stretches back to ancient times, with mentions in the Hindu epics, the Ramayana and the Mahabharata. The city’s significance is intricately linked to Hindu pilgrimage, particularly for the performance of *Shraddha*, rituals performed for departed ancestors. The ancient city, also known as Gayasirsha, has been ruled by various dynasties, including the Mauryas, Guptas, and Palas, each leaving its mark on the cultural landscape. <img src="placeholder_image_tag_for_historical_landmark_or_event" alt="Historical Image">
+Gaya's history stretches back to ancient times, with mentions in the Hindu epics, the Ramayana and the Mahabharata. The city’s significance is intricately linked to Hindu pilgrimage, particularly for the performance of *Shraddha*, rituals performed for departed ancestors. The ancient city, also known as Gayasirsha, has been ruled by various dynasties, including the Mauryas, Guptas, and Palas, each leaving its mark on the cultural landscape. 
 
 The cultural heritage of Gaya is deeply rooted in Hinduism, with numerous temples and sacred sites. The most important is the Vishnupad Temple, built over a footprint believed to be that of Lord Vishnu. The city is also an important center for Buddhist pilgrimage, particularly due to Bodh Gaya. The annual Pitr-Paksha Mela is a significant festival attracting thousands of devotees performing ancestral rites. Historical landmarks such as the Dungeshwari Cave Temples (Mahakala Caves) are considered to be a historical site where Siddhartha Gautama meditated before his enlightenment.
 
@@ -32,8 +32,8 @@ Gaya is situated on the plains with the undulating terrain. The Falgu River, whi
 
 The must-visit attractions of Gaya are a blend of religious, historical, and architectural marvels. Here are some key locations:
 
-*   **Mahabodhi Temple, Bodh Gaya:** <img src="placeholder_image_tag_for_Mahabodhi_Temple" alt="Mahabodhi Temple Image"> A UNESCO World Heritage Site and the focal point of Buddhist pilgrimage. This temple marks the site where Buddha attained enlightenment under the Bodhi Tree.
-*   **Vishnupad Temple:** <img src="placeholder_image_tag_for_Vishnupad_Temple" alt="Vishnupad Temple Image"> A significant Hindu temple housing a footprint of Lord Vishnu. The temple is built in an octagonal shape.
+*   **Mahabodhi Temple, Bodh Gaya:**  A UNESCO World Heritage Site and the focal point of Buddhist pilgrimage. This temple marks the site where Buddha attained enlightenment under the Bodhi Tree.
+*   **Vishnupad Temple:**  A significant Hindu temple housing a footprint of Lord Vishnu. The temple is built in an octagonal shape.
 *   **Bodh Gaya Archaeological Museum:** Showcases various sculptures and artifacts related to the Buddhist history of the region.
 *   **Great Buddha Statue:** A colossal statue of the Buddha, offering a serene sight.
 *   **Dungeshwari Cave Temples (Mahakala Caves):** Caves where Siddhartha Gautama meditated before his enlightenment.
@@ -51,7 +51,7 @@ While Gaya and Bodh Gaya are predominantly spiritual destinations, opportunities
 Gaya and Bodh Gaya offer a glimpse into the local culture through its markets and handicrafts:
 
 *   **Local Markets:** Various markets around Gaya and Bodh Gaya offer religious items, local produce, and everyday goods.
-*   **Handicrafts:** <img src="placeholder_image_tag_for_local_handicrafts" alt="Local Handicrafts Image">While not a major center for handicrafts, visitors can find Buddhist-themed artifacts and souvenirs.
+*   **Handicrafts:** While not a major center for handicrafts, visitors can find Buddhist-themed artifacts and souvenirs.
 
 ### **Food and Cuisine**
 

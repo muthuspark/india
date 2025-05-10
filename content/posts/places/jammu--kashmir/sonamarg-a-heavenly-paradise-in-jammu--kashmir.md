@@ -27,7 +27,7 @@ The cultural heritage is primarily Kashmiri, reflected in the local traditions, 
 
 ### **Natural Beauty**
 
-<img src="placeholder_image_sonamarg_landscape.jpg" alt="Sonamarg landscape">
+
 
 Sonamarg is famed for its pristine natural beauty, largely due to its location in the heart of the Himalayas. The landscape is dominated by the Sindh River, which flows through the valley, adding a vibrant contrast to the surrounding mountains. The Thajiwas Glacier is a major attraction, a visual spectacle of snow and ice that can be reached by trekking or pony rides. In spring and summer, the meadows burst with vibrant wildflowers, earning the name "Meadow of Gold". The surrounding mountain peaks provide numerous viewpoints from which visitors can enjoy panoramic views of the entire region.
 
@@ -35,7 +35,7 @@ The Sindh River, with its icy waters, is a defining feature of Sonamarg. The are
 
 ### **Must-Visit Attractions**
 
-<img src="placeholder_image_sonamarg_attractions.jpg" alt="Sonamarg attractions">
+
 
 While Sonamarg itself is the primary attraction, the area features some notable sites:
 
@@ -60,7 +60,7 @@ Sonamarg itself does not have large-scale markets. However, visitors can find so
 
 ### **Food and Cuisine**
 
-<img src="placeholder_image_sonamarg_food.jpg" alt="Sonamarg food">
+
 
 The cuisine in Sonamarg primarily reflects Kashmiri flavors, with a focus on rich and flavorful dishes. Popular dishes include:
 
@@ -88,7 +88,7 @@ The best time to visit Sonamarg is during the summer months, from May to October
 
 ### **Accommodation Options**
 
-<img src="placeholder_image_sonamarg_accommodation.jpg" alt="Sonamarg accommodation">
+
 
 Sonamarg offers a variety of accommodation options:
 

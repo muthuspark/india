@@ -29,7 +29,7 @@ The journey to Surkanda Devi Temple is an adventure in itself, winding through l
 
 The temple's location provides a prime vantage point for observing the majesty of the Himalayas, including prominent peaks such as the Chaukhamba, Kedarnath, and Trishul. The views are particularly spectacular during sunrise and sunset, painting the mountains with hues of gold and orange. The lush green slopes provide opportunities for nature walks and offer a chance to connect with the serene beauty of the region. The atmosphere is clean, with the fresh mountain air adding to the overall feeling of rejuvenation.
 
-<img src="placeholder_image_surkanda_devi_natural_beauty.jpg" alt="Surkanda Devi Temple Natural Beauty">
+
 
 ### **Must-Visit Attractions**
 
@@ -80,7 +80,7 @@ The temple is accessible by road.
 *   **Nearest Railway Station:** Dehradun Railway Station.
 *   **Road:** From Dehradun, one can hire a taxi or take a bus to reach Kaddukhal, which is about 60 km or 37 miles from Dehradun. From Kaddukhal, the temple is a short trek of about 2 km or 1.24 miles. The drive to Kaddukhal is scenic, passing through various towns and villages, and the roads are generally well-maintained.
 
-<img src="placeholder_image_surkanda_devi_how_to_reach.jpg" alt="Surkanda Devi Temple - How to Reach">
+
 
 ### **Accommodation Options**
 
@@ -101,7 +101,7 @@ For travelers seeking unique experiences, here are some recommendations:
 *   **Spiritual Retreat:** Those seeking a spiritual experience can meditate near the temple.
 *   **Interaction with Locals:** Travelers can participate in local festivals and celebrations.
 
-<img src="placeholder_image_surkanda_devi_offbeat_experiences.jpg" alt="Surkanda Devi Temple Offbeat Experiences">
+
 
 ### **Conclusion**
 

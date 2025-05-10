@@ -28,7 +28,7 @@ The Jaunsari culture is distinct and vibrant. They have a unique dialect and ric
 ###  **Natural Beauty**
 
 The natural beauty of Har Ki Dun Valley is truly unparalleled. The valley itself is a U-shaped glacial valley carved by ancient glaciers. Towering above are the magnificent peaks of the Swargarohini massif, including Swargarohini I (6,252 meters), II, III and IV, the towering Kalanag (Black Peak) at 6,387 meters and the Bandarpunch peak. The landscape is a tapestry of diverse ecosystems. Dense forests of oak, pine, and deodar trees carpet the lower slopes, gradually giving way to alpine meadows adorned with vibrant wildflowers during the summer months.
-<placeholder image tag>
+
 The Supin River, a tributary of the Tons River, flows through the valley, adding to its serenity. Waterfalls cascade down the mountainsides, and crystal-clear streams crisscross the meadows, creating a paradise for photographers and nature enthusiasts. Vantage points like the trail to Jaundhar Glacier offer breathtaking panoramic views of the valley and surrounding peaks. The region is also a haven for bird watchers, with a wide variety of avian species.
 
 ### **Must-Visit Attractions**
@@ -36,19 +36,19 @@ The Supin River, a tributary of the Tons River, flows through the valley, adding
 The primary attraction of Har Ki Dun Valley is the valley itself, an all-encompassing experience. Other notable attractions include:
 
 *   **Osla Village:** A traditional Jaunsari village known for its distinctive wooden houses, temples, and a glimpse into the local way of life.
-    <placeholder image tag>
+    
 *   **Sankri:** The base camp for the Har Ki Dun trek, offering stunning views of the surrounding mountains and a chance to acclimatize.
-    <placeholder image tag>
+    
 *   **Jaundhar Glacier:** A breathtaking glacier offering an extended trek from Har Ki Dun Valley, offering incredible views of the region's mountain ranges.
-    <placeholder image tag>
+    
 *   **The Ruinsara Tal Trek (Optional extension):** For those with more time and experience, a trek towards the Ruinsara Tal, and towards the base of Kalanag peak is also possible.
 *   **Seema and Devsu Bugyal:** These are lush green meadows offering a fantastic campsite experience, on the way to Har Ki Dun Valley, offering picturesque views.
-    <placeholder image tag>
+    
 
 ### **Adventure Activities**
 
 Har Ki Dun is a paradise for trekking enthusiasts. The most popular activity is the trek itself, which typically takes 6-8 days to complete, including travel days. The trek is considered moderate in difficulty, with trails winding through forests, meadows, and alongside rivers.
-<placeholder image tag>
+
 *   **Trekking:** The Har Ki Dun trek is the primary adventure activity.
 *   **Camping:** Numerous campsites along the trek offer opportunities for overnight stays, providing immersive experiences amidst nature.
 *   **Photography:** The valley provides endless opportunities for landscape, nature, and wildlife photography.

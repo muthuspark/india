@@ -21,7 +21,7 @@ Lonar Crater Lake, a geological marvel located in the Buldhana district of Mahar
 
 The formation of Lonar Crater is estimated to be about 50,000 years old, created by the impact of a meteor. This event predates recorded history, but the crater and the surrounding region have accumulated significant cultural and historical importance over time. The earliest references to the lake are found in ancient Hindu scriptures, including the *Skanda Purana* and the *Padma Purana*, where it is mentioned as *Pritvichee Kunda*, or "the pit of the earth".  The lake is associated with various myths and legends, including the story of Lonasura, a demon, from which the name "Lonar" is believed to be derived.
 
-<img src="placeholder_image_lonar_temple.jpg" alt="Lonar Temple" width="500">
+
 
 Several ancient temples surround the lake, reflecting the historical significance of the site. The most prominent among them is the *Daitya Sudan Temple*, located near the edge of the crater. This temple, dedicated to Vishnu who is considered the slayer of the demon Lonasura, showcases intricate architectural designs and carvings dating back to the Chalukya dynasty. Other temples, such as the *Kamalja Devi Temple* and the *Mothicha Temple*, also add to the cultural richness of the area, providing insight into the religious practices of the past.
 
@@ -29,7 +29,7 @@ Several ancient temples surround the lake, reflecting the historical significanc
 
 The landscape surrounding Lonar Crater is characterized by the unique geological features of a meteor impact site. The circular crater itself is approximately 1.2 km (0.75 miles) in diameter and about 137 meters (450 feet) deep. The lake's water is a striking turquoise color, a result of its high salinity and the presence of microorganisms like *Dunaliella salina*, an algae. This alkaline and saline environment supports a diverse range of unique microbial life.
 
-<img src="placeholder_image_lonar_lake_view.jpg" alt="Lonar Lake View" width="500">
+
 
 The rim of the crater is fringed with a lush green belt of vegetation, including several species of plants, some of which are endemic to this particular region. The surrounding basalt rock formations contribute to the scenic beauty of the area. The viewpoints offer breathtaking views of the crater lake and its environs. These natural features make it a compelling site for exploration, photography, and nature appreciation.
 

@@ -15,7 +15,7 @@ tags:
 
 ### **Introduction**
 
-Poovar Island, a hidden gem nestled in the southern tip of Kerala, India, is a captivating destination where the Arabian Sea, the Neyyar River, and the Kerala backwaters converge. Situated in the Trivandrum district of Kerala, this island paradise offers a unique blend of natural beauty and tranquility. It lies a short distance from the bustling capital city of Thiruvananthapuram (Trivandrum), allowing easy access while maintaining a sense of seclusion. Poovar Island is renowned for its pristine beaches, emerald backwaters, floating resorts, and rich biodiversity, making it an ideal escape for nature lovers, honeymooners, and those seeking a peaceful retreat. <img src="placeholder_image_poovar_island_overview.jpg" alt="Overview of Poovar Island">
+Poovar Island, a hidden gem nestled in the southern tip of Kerala, India, is a captivating destination where the Arabian Sea, the Neyyar River, and the Kerala backwaters converge. Situated in the Trivandrum district of Kerala, this island paradise offers a unique blend of natural beauty and tranquility. It lies a short distance from the bustling capital city of Thiruvananthapuram (Trivandrum), allowing easy access while maintaining a sense of seclusion. Poovar Island is renowned for its pristine beaches, emerald backwaters, floating resorts, and rich biodiversity, making it an ideal escape for nature lovers, honeymooners, and those seeking a peaceful retreat. 
 
 ### **History and Cultural Heritage**
 
@@ -25,7 +25,7 @@ Culturally, Poovar Island is a microcosm of Kerala's traditions. The local commu
 
 ### **Natural Beauty**
 
-Poovar Island is blessed with unparalleled natural beauty. The landscape is characterized by a stunning amalgamation of elements: the golden sands of Poovar Beach, the tranquil backwaters of the Neyyar River, and the lush greenery of the surrounding coconut groves. The meeting point of the river, the sea, and the lake creates a unique ecological zone. <img src="placeholder_image_poovar_island_beach_backwaters.jpg" alt="Poovar Island Beach and Backwaters">
+Poovar Island is blessed with unparalleled natural beauty. The landscape is characterized by a stunning amalgamation of elements: the golden sands of Poovar Beach, the tranquil backwaters of the Neyyar River, and the lush greenery of the surrounding coconut groves. The meeting point of the river, the sea, and the lake creates a unique ecological zone. 
 
 **Key Natural Features:**
 
@@ -116,7 +116,7 @@ Poovar Island offers a variety of accommodation options to suit every budget and
 *   **Floating Resorts:** Experience the unique charm of staying in a floating resort on the backwaters.
 *   **Eco-Friendly Resorts:** The resorts provide a sustainable and eco-friendly experience.
 
-<img src="placeholder_image_poovar_island_accommodation.jpg" alt="Accommodation options at Poovar Island">
+
 
 ### **Offbeat Experiences**
 

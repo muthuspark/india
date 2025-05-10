@@ -27,7 +27,7 @@ The cultural heritage surrounding Kaas is closely linked to the local communitie
 
 The landscape of Kaas Plateau is a spectacle of stark beauty, characterized by its expansive flat tabletop, which is the defining feature. The monsoon months transform this landscape into a vibrant tapestry of color. The plateau is a lateritic landscape, formed by volcanic activity and subsequent erosion, resulting in a nutrient-poor soil that supports a unique range of plant life.
 
-<img src="placeholder_kaas_plateau_landscape.jpg" alt="Kaas Plateau Landscape" width="600">
+
 
 Surrounding the plateau are rolling hills and lush green forests of the Western Ghats, creating a stunning contrast to the floral carpet. The Kaas Lake, a small but serene water body, is situated on the plateau, providing a vital water source for the diverse flora and fauna. The landscape, along with the surrounding forests and hills, provides numerous viewpoints that offer panoramic views of the region. These vantage points offer breathtaking vistas, especially when the flowers are in full bloom. Several viewpoints around the plateau offer picturesque perspectives. The overall natural environment creates a habitat for diverse plant species, including several endemic ones, as well as various animals and birds.
 
@@ -40,7 +40,7 @@ The primary attraction on Kaas Plateau is undoubtedly the floral display itself.
 *   **Thoseghar Waterfalls:** A series of cascading waterfalls located near Kaas, renowned for their scenic beauty and breathtaking views.
 *   **Sajjangad Fort:** A historical fort situated nearby, offering panoramic views of the surrounding landscapes and a glimpse into the region’s history.
 
-<img src="placeholder_kaas_plateau_flowers.jpg" alt="Kaas Plateau Flowers" width="600">
+
 
 The entire plateau is, in essence, a living museum of floral biodiversity. Visitors should explore the numerous trails and designated walking paths to fully appreciate the diversity of the blooms.
 
@@ -75,7 +75,7 @@ Kaas Plateau is renowned for its rich biodiversity. The region is a hotspot for 
 *   **Flora:** The plateau is characterized by a wide variety of flowering plants, including orchids, wildflowers, and unique species that bloom during the monsoon season. The vibrant floral display transforms the landscape into a sea of colors, drawing visitors from all over the world.
 *   **Fauna:** While the plateau is not known for large mammals, it's home to a diverse array of insects, butterflies, and birds. The surrounding forests provide habitat for various species of wildlife. Bird watchers can look out for various species.
 
-<img src="placeholder_kaas_plateau_flora_fauna.jpg" alt="Kaas Plateau Flora and Fauna" width="600">
+
 
 National parks and wildlife reserves in the vicinity may offer additional opportunities for wildlife viewing.
 

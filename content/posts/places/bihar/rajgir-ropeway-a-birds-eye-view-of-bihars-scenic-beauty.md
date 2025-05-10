@@ -24,11 +24,11 @@ Rajgir has a rich history dating back to ancient times, serving as the capital o
 
 ###  **Natural Beauty**
 
-Rajgir is surrounded by the rugged beauty of the Rajgir Hills, which are part of the Vindhya mountain range. The landscape is characterized by rolling hills, lush greenery, and verdant valleys. The Rajgir Ropeway offers stunning views of this natural beauty as it ascends, providing a bird’s-eye perspective of the region. <img src="placeholder_image_ropeway_view.jpg" alt="View from Rajgir Ropeway"> From the cable cars, visitors can see the ancient walls of Rajgir Fort, the Gridhakuta (Vulture's Peak) where the Buddha delivered many of his sermons, and the lush green forests that blanket the hills. The Ratnagiri Hill, on which the ropeway culminates, offers panoramic views of the entire region, making it a prime spot for appreciating the natural beauty of Rajgir.
+Rajgir is surrounded by the rugged beauty of the Rajgir Hills, which are part of the Vindhya mountain range. The landscape is characterized by rolling hills, lush greenery, and verdant valleys. The Rajgir Ropeway offers stunning views of this natural beauty as it ascends, providing a bird’s-eye perspective of the region.  From the cable cars, visitors can see the ancient walls of Rajgir Fort, the Gridhakuta (Vulture's Peak) where the Buddha delivered many of his sermons, and the lush green forests that blanket the hills. The Ratnagiri Hill, on which the ropeway culminates, offers panoramic views of the entire region, making it a prime spot for appreciating the natural beauty of Rajgir.
 
 ### **Must-Visit Attractions**
 
-The Rajgir Ropeway itself is a primary attraction, delivering visitors to the Shanti Stupa and the Japanese Temple. The **Shanti Stupa** <img src="placeholder_image_shanti_stupa.jpg" alt="Shanti Stupa"> is a pristine white dome, adorned with golden statues of the Buddha, and offers unparalleled views. The **Japanese Temple**, located near the Shanti Stupa, showcases Japanese architectural style and provides a serene atmosphere for meditation and reflection. Other key attractions easily accessible from Rajgir include:
+The Rajgir Ropeway itself is a primary attraction, delivering visitors to the Shanti Stupa and the Japanese Temple. The **Shanti Stupa**  is a pristine white dome, adorned with golden statues of the Buddha, and offers unparalleled views. The **Japanese Temple**, located near the Shanti Stupa, showcases Japanese architectural style and provides a serene atmosphere for meditation and reflection. Other key attractions easily accessible from Rajgir include:
 
 *   **Vishwa Shanti Stupa:** A peace pagoda.
 *   **Venu Vana:** A bamboo garden, believed to have been offered to Buddha as a retreat.
@@ -83,7 +83,7 @@ Rajgir is well-connected by road and rail.
 
 Rajgir offers a range of accommodation options.
 
-*   **Hotels:** Several hotels, ranging from budget-friendly guesthouses to mid-range hotels, are available in and around Rajgir. <img src="placeholder_image_hotel_rajgir.jpg" alt="Hotel in Rajgir">
+*   **Hotels:** Several hotels, ranging from budget-friendly guesthouses to mid-range hotels, are available in and around Rajgir. 
 *   **Resorts:** Few resorts offer slightly more luxurious accommodation.
 *   **Guest Houses:** Offer more affordable options.
 

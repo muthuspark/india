@@ -24,17 +24,17 @@ The history of Malana is shrouded in legend and mystery. The people of Malana, t
 
 Their culture is deeply rooted in the worship of the local deity, Jamlu Devta, a revered god whose commands govern every aspect of Malani life. The village follows a unique democratic system, with the decisions made in consultation with the village council. They have a distinct caste system and strictly adhere to their own set of laws, completely independent from the Indian government. Any contact with the outside world, or any interaction, with outsiders, is strictly regulated by the local council, and traditionally was severely limited, to protect their unique way of life.
 
-Key historical landmarks include the Jamlu Devta temple, an intricately carved wooden structure which serves as the center of the village's spiritual and social life. The traditions surrounding the temple and the worship rituals are meticulously preserved and passed down through generations. <placeholder image tag for Jamlu Devta Temple>
+Key historical landmarks include the Jamlu Devta temple, an intricately carved wooden structure which serves as the center of the village's spiritual and social life. The traditions surrounding the temple and the worship rituals are meticulously preserved and passed down through generations. 
 
 ### **Natural Beauty**
 
 Malana is surrounded by stunning natural beauty. The village is located amidst towering snow-capped peaks, lush green valleys, and the meandering Malana Nala (stream). The landscape is dominated by the imposing peaks of the Chandrakhani and Deo Tibba ranges. The dense forests of deodar, pine, and rhododendron that surround the village are home to diverse flora and fauna.
 
-For breathtaking views, several vantage points around the village offer panoramic vistas. The climb up to the village itself offers stunning views of the valley below. <placeholder image tag for View of the Malana Valley> The surrounding areas are perfect for nature walks, and for those interested in experiencing the natural environment.
+For breathtaking views, several vantage points around the village offer panoramic vistas. The climb up to the village itself offers stunning views of the valley below.  The surrounding areas are perfect for nature walks, and for those interested in experiencing the natural environment.
 
 ### **Must-Visit Attractions**
 
-The primary attraction in Malana is the village itself, and the opportunity to experience a culture that has remained largely unchanged for centuries. The Jamlu Devta temple is the focal point, known for its intricate wood carvings and religious significance. Visitors are permitted to observe the temple from a distance, but are not allowed to enter the inner sanctum. <placeholder image tag for Malana Village>
+The primary attraction in Malana is the village itself, and the opportunity to experience a culture that has remained largely unchanged for centuries. The Jamlu Devta temple is the focal point, known for its intricate wood carvings and religious significance. Visitors are permitted to observe the temple from a distance, but are not allowed to enter the inner sanctum. 
 
 Another offbeat experience is witnessing the local way of life, the social structures, and the interactions among the villagers, however, always respecting their privacy and the local customs. Exploring the surrounding forests and streams, though, requires adherence to local laws and respect.
 
@@ -44,7 +44,7 @@ Due to the challenging terrain, high-altitude trekking is the most popular adven
 
 *   **Trekking:** Several trekking routes lead from Malana to surrounding areas. These are typically challenging and should only be undertaken by experienced trekkers with proper equipment.
 
-<placeholder image tag for Trekking in the Malana region>
+
 
 ### **Local Markets and Handicrafts**
 

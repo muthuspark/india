@@ -20,7 +20,7 @@ Rewalsar Lake (also known as Tso Pema in Tibetan) is a sacred multi-religious si
 
 Rewalsar's history is deeply intertwined with Buddhist legends. It is believed that Guru Padmasambhava, the founder of Tibetan Buddhism, meditated here and performed miracles. According to one legend, the King of Mandi attempted to burn him at the stake, but instead, the pyre spontaneously transformed into a lake. Another tale tells of Princess Mandarava, a princess from the region who became Guru Padmasambhava's disciple. The lake and the surrounding area are therefore considered highly sacred by Buddhists.
 
-The region's cultural heritage is a vibrant tapestry woven with threads of Hinduism, Sikhism, and Buddhism. The presence of Hindu temples, a Sikh Gurudwara (Gurdwara Rewalsar Sahib), and Buddhist monasteries around the lake exemplify this interfaith harmony. Major festivals celebrated here include Baisakhi (Hindu), Gurupurab (Sikh), and various Buddhist festivals, including the Guru Padmasambhava birth anniversary, each adding a unique dimension to the cultural landscape. The area's history is marked by periods of regional kingdoms and interactions between different faiths, resulting in a rich cultural exchange reflected in the architecture, rituals, and traditions of Rewalsar. <placeholder image tag for Rewalsar's historical significance, including a temple or monastery.>
+The region's cultural heritage is a vibrant tapestry woven with threads of Hinduism, Sikhism, and Buddhism. The presence of Hindu temples, a Sikh Gurudwara (Gurdwara Rewalsar Sahib), and Buddhist monasteries around the lake exemplify this interfaith harmony. Major festivals celebrated here include Baisakhi (Hindu), Gurupurab (Sikh), and various Buddhist festivals, including the Guru Padmasambhava birth anniversary, each adding a unique dimension to the cultural landscape. The area's history is marked by periods of regional kingdoms and interactions between different faiths, resulting in a rich cultural exchange reflected in the architecture, rituals, and traditions of Rewalsar. 
 
 ### **Natural Beauty**
 
@@ -31,15 +31,15 @@ Rewalsar Lake itself is the centerpiece of the natural beauty of the region. The
 Rewalsar offers a range of attractions catering to both spiritual seekers and casual tourists.
 
 *   **Rewalsar Lake:** The sacred lake is the primary attraction and a site of pilgrimage. Visitors can circumambulate the lake, a practice that is believed to bring good karma.
-    <placeholder image tag for Rewalsar Lake.>
+    
 *   **Buddhist Monasteries:** The monasteries are key attractions, adorned with colorful prayer flags, intricate murals, and statues of Buddha and various deities. The most prominent monastery in the area is the Nyingma Gompa.
-    <placeholder image tag for a Buddhist Monastery in Rewalsar.>
+    
 *   **Guru Padmasambhava Statue:** The statue of Guru Padmasambhava, the founder of Tibetan Buddhism, is a prominent landmark, offering stunning views of the lake.
-    <placeholder image tag for Guru Padmasambhava Statue.>
+    
 *   **Hindu Temples:** Several Hindu temples around the lake, including the temple dedicated to Lord Shiva, are significant pilgrimage sites.
-    <placeholder image tag for a Hindu Temple in Rewalsar.>
+    
 *   **Gurudwara Rewalsar Sahib:** The Gurudwara is a revered site for Sikhs, commemorating the visit of Guru Gobind Singh.
-    <placeholder image tag for Gurudwara Rewalsar Sahib.>
+    
 
 ### **Adventure Activities**
 

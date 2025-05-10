@@ -28,7 +28,7 @@ Key historical landmarks include the local monasteries and the areas surrounding
 
 Ravangla is blessed with an exceptional display of natural beauty. Towering over the landscape are the majestic peaks of Kanchenjunga, the world’s third-highest mountain, often visible on clear days. The terrain is characterized by lush green valleys, terraced hillsides cultivated with crops, and dense forests that teem with a diverse range of flora and fauna. The town's proximity to the Maenam Wildlife Sanctuary provides ample opportunities for exploring pristine natural habitats.
 
-<img src="placeholder_image_ravangla_natural_beauty.jpg" alt="Ravangla's Natural Beauty">
+
 
 The Rayong Sunrise View Point offers panoramic views of the Himalayan range, making it a must-visit location. The Buddha Park, with its impressive statue, provides a scenic backdrop. The various trekking trails around Ravangla wind through rhododendron forests, offering immersive experiences in nature. The Teesta and Rangeet rivers add to the scenic beauty of the area, offering opportunities for water-based activities in the surrounding regions.
 
@@ -36,11 +36,11 @@ The Rayong Sunrise View Point offers panoramic views of the Himalayan range, mak
 
 Ravangla boasts a plethora of attractions that cater to both spiritual and scenic interests.
 
-*   **Buddha Park (Tathagata Tsal):** The centerpiece of Ravangla, featuring a 130-foot-tall statue of the Buddha, surrounded by well-manicured gardens and offering stunning views of the mountains. <img src="placeholder_image_buddha_park_ravangla.jpg" alt="Buddha Park">
-*   **Ralang Monastery:** One of the most important monasteries in Sikkim, known for its intricate architecture, religious art, and vibrant atmosphere during festivals. <img src="placeholder_image_ralang_monastery.jpg" alt="Ralang Monastery">
-*   **Menam Hill:** A popular trekking destination, offering breathtaking views of the Himalayas and a chance to explore the Maenam Wildlife Sanctuary. <img src="placeholder_image_menam_hill_trekking.jpg" alt="Menam Hill">
+*   **Buddha Park (Tathagata Tsal):** The centerpiece of Ravangla, featuring a 130-foot-tall statue of the Buddha, surrounded by well-manicured gardens and offering stunning views of the mountains. 
+*   **Ralang Monastery:** One of the most important monasteries in Sikkim, known for its intricate architecture, religious art, and vibrant atmosphere during festivals. 
+*   **Menam Hill:** A popular trekking destination, offering breathtaking views of the Himalayas and a chance to explore the Maenam Wildlife Sanctuary. 
 *   **Rayong Sunrise View Point:** Ideal for catching the sunrise over the Kanchenjunga range.
-*   **Temi Tea Garden:** The only tea estate in Sikkim, offering scenic views and a chance to learn about tea production. <img src="placeholder_image_temi_tea_garden.jpg" alt="Temi Tea Garden">
+*   **Temi Tea Garden:** The only tea estate in Sikkim, offering scenic views and a chance to learn about tea production. 
 
 ### **Adventure Activities**
 

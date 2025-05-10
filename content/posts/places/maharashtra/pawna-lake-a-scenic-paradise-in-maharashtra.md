@@ -21,7 +21,7 @@ Pawna Lake, a serene and picturesque reservoir located in the Pune district of M
 The history of Pawna Lake is intertwined with the construction of the Pawna Dam. Primarily designed to provide irrigation and hydroelectric power to the region, the dam was completed in 1972. The creation of the dam led to the formation of the lake, transforming the landscape and eventually becoming a popular recreational spot. Historically, the area surrounding Pawna Lake, like much of the Maharashtra region, has been influenced by the Maratha Empire. The forts of Lohagad, Visapur, and Tung, located nearby, played significant roles in Maratha history and offer historical insights into the region's past. The local culture reflects the Marathi way of life, with vibrant festivals, traditional music, and dance performances.
 
 While Pawna Lake itself is not the site of significant historical monuments, its proximity to historical forts and cultural centers enriches the experience. Visitors often combine their trip to Pawna Lake with excursions to these historical sites, offering a holistic understanding of the region's heritage.
-<img src="placeholder_image_historical_forts.jpg" alt="Historical Forts near Pawna Lake">
+
 
 ### **Natural Beauty**
 
@@ -29,17 +29,17 @@ The natural beauty of Pawna Lake is its greatest asset. The lake's clear waters 
 
 Prominent viewpoints around the lake provide incredible panoramic vistas. Some campsites and resorts have their own vantage points, offering guests uninterrupted views of the lake and surrounding hills. The region is rich in natural features, including dense forests and rolling hills, which create an atmosphere of serenity and tranquility. The changing colors of the lake throughout the day, reflecting the sky and the sun, make it a photographer's paradise.
 
-<img src="placeholder_image_Pawna_Lake_Scenery.jpg" alt="Pawna Lake Scenery">
+
 
 ### **Must-Visit Attractions**
 
 While Pawna Lake itself is the primary attraction, several other sites in its vicinity are worth exploring:
 
 *   **Lohagad Fort:** A historic fort, offering panoramic views and trekking opportunities, connected by a scenic hike.
-<img src="placeholder_image_Lohagad_Fort.jpg" alt="Lohagad Fort">
+
 
 *   **Visapur Fort:** Another historical fort near Lohagad, providing trekking and historical exploration.
-<img src="placeholder_image_Visapur_Fort.jpg" alt="Visapur Fort">
+
 
 *   **Bhairi Caves:** These ancient caves offer a peek into the region's historical and cultural heritage.
 
@@ -52,7 +52,7 @@ While Pawna Lake itself is the primary attraction, several other sites in its vi
 Pawna Lake is a hub for adventure activities, catering to a range of interests:
 
 *   **Camping:** Camping is the most popular activity. Numerous campsites offer lakeside accommodations, bonfires, and stargazing experiences.
-<img src="placeholder_image_Pawna_Lake_Camping.jpg" alt="Pawna Lake Camping">
+
 
 *   **Trekking:** Several trekking trails lead to nearby forts, including Lohagad and Visapur, offering varying levels of difficulty and rewarding views.
 
@@ -115,7 +115,7 @@ Pawna Lake is easily accessible from major cities:
 Pawna Lake offers a range of accommodation options to suit different budgets:
 
 *   **Campsites:** Numerous campsites around the lake offer tents, basic amenities, and a chance to experience nature up close.
-<img src="placeholder_image_Pawna_Lake_Accomodation.jpg" alt="Pawna Lake Accomodation">
+
 
 *   **Resorts:** Resorts near Pawna Lake provide comfortable accommodations with amenities like swimming pools, restaurants, and recreational facilities.
 

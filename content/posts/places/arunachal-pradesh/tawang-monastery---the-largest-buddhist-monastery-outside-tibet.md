@@ -27,15 +27,15 @@ The monastery has witnessed numerous historical events, including periods of Tib
 
 ### **Natural Beauty**
 
-The setting of Tawang Monastery is nothing short of spectacular. The landscape is characterized by rugged, mountainous terrain, lush green valleys, and dense forests. The monastery itself is strategically located on a hilltop, offering panoramic views of the Tawang River and the surrounding snow-capped Himalayan peaks. <img src="placeholder_image_of_Tawang_Valley.jpg" alt="Tawang Valley"> The region is a haven for nature enthusiasts, with opportunities for trekking, bird-watching, and exploring the natural beauty of the area. The Sela Pass, located nearby, offers stunning views of the mountain passes and is a major attraction. Numerous viewpoints around the monastery provide breathtaking vistas of the valley, especially during sunrise and sunset.
+The setting of Tawang Monastery is nothing short of spectacular. The landscape is characterized by rugged, mountainous terrain, lush green valleys, and dense forests. The monastery itself is strategically located on a hilltop, offering panoramic views of the Tawang River and the surrounding snow-capped Himalayan peaks.  The region is a haven for nature enthusiasts, with opportunities for trekking, bird-watching, and exploring the natural beauty of the area. The Sela Pass, located nearby, offers stunning views of the mountain passes and is a major attraction. Numerous viewpoints around the monastery provide breathtaking vistas of the valley, especially during sunrise and sunset.
 
 ### **Must-Visit Attractions**
 
-*   **The Main Temple (Dukhang):** The heart of the monastery, the main temple houses a magnificent 28-foot-high gilded statue of Buddha. <img src="placeholder_image_of_Buddha_Statue_Inside_Monastery.jpg" alt="Buddha Statue Inside Monastery"> The temple is adorned with intricate murals and tapestries depicting Buddhist stories and deities.
+*   **The Main Temple (Dukhang):** The heart of the monastery, the main temple houses a magnificent 28-foot-high gilded statue of Buddha.  The temple is adorned with intricate murals and tapestries depicting Buddhist stories and deities.
 *   **The Library:** The monastery's library contains a vast collection of Buddhist scriptures, including the Kangyur and Tengyur.
 *   **The Assembly Hall:** This hall is used for religious gatherings and rituals.
 *   **The Lama’s Quarters:** These are off-limits to the general public, but are an important part of the monastery's architecture.
-*   **The Tawang War Memorial:** A memorial dedicated to the soldiers who lost their lives in the 1962 Sino-Indian War. <img src="placeholder_image_of_Tawang_War_Memorial.jpg" alt="Tawang War Memorial">
+*   **The Tawang War Memorial:** A memorial dedicated to the soldiers who lost their lives in the 1962 Sino-Indian War. 
 *   **Urgyelling Monastery (Birthplace of the 6th Dalai Lama):** Located a few kilometers from Tawang, this monastery is believed to be the birthplace of the 6th Dalai Lama, Tsangyang Gyatso.
 *   **Gompas and Monasteries around Tawang:** Explore other monasteries nearby such as the Bramadungchung Ani Gompa (nunnery).
 
@@ -70,7 +70,7 @@ The cuisine of Tawang reflects the influence of Tibetan and Monpa cultures, with
 *   **Gyaru:** A type of stew with meat, vegetables, and often rice.
 *   **Khura:** A type of pancake, often eaten with butter and tea.
 *   **Zan:** A thick porridge made from barley flour.
-*   **Butter Tea (Suja):** A traditional tea made with butter and salt. <img src="placeholder_image_of_Butter_Tea.jpg" alt="Butter Tea">
+*   **Butter Tea (Suja):** A traditional tea made with butter and salt. 
 *   **Local Beers and Wines:** Try local alcoholic beverages, which are often made from fermented rice or millet.
 *   **Restaurants and Cafes:** Some popular restaurants and cafes are located around the market area, serving local and international cuisines.
 

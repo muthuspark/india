@@ -24,7 +24,7 @@ The local culture revolves around the river and its resources. Fishing is a sign
 
 ### **Natural Beauty**
 
-<img src="placeholder_image_hogenakkal_falls_landscape.jpg" alt="Landscape of Hogenakkal Falls" />
+
 
 Hogenakkal Falls is a testament to the raw power and artistry of nature. The Kaveri River, flowing through a rugged landscape dotted with carbonatite rocks, plunges down into a series of cascades, creating a breathtaking display. The falls are surrounded by hills and forests, adding to the scenic beauty. The unique geological composition of the area results in a distinctive landscape with dark, rocky terrain.
 
@@ -32,7 +32,7 @@ Several viewpoints provide stunning panoramic views of the falls and the surroun
 
 ### **Must-Visit Attractions**
 
-<img src="placeholder_image_hogenakkal_falls_view.jpg" alt="View of Hogenakkal Falls" />
+
 
 The primary attraction, of course, is the **Hogenakkal Falls** itself. However, the area offers other captivating experiences:
 
@@ -60,7 +60,7 @@ The local markets around Hogenakkal offer a glimpse into the daily life of the c
 
 ### **Food and Cuisine**
 
-<img src="placeholder_image_hogenakkal_falls_food.jpg" alt="Food near Hogenakkal Falls" />
+
 
 The cuisine of Hogenakkal is largely influenced by the local traditions and the availability of fresh ingredients:
 

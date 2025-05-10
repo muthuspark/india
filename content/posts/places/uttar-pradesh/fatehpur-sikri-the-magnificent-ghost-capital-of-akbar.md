@@ -25,7 +25,7 @@ Fatehpur Sikri's history is deeply intertwined with the reign of Mughal Emperor 
 
 The city was abandoned shortly after its construction, likely due to a lack of water, and this abandonment has contributed to its remarkably preserved state. The culture of Fatehpur Sikri is a blend of Mughal and local influences. Festivals like Urs, commemorating Salim Chisti, are still celebrated, drawing devotees and tourists alike. The architecture itself is a cultural testament, showcasing a fusion of Indian and Persian styles. The Jama Masjid, Panch Mahal, and Buland Darwaza are prime examples of this architectural marvel, and provide insight into the religious tolerance and artistic vision of Emperor Akbar. The complex is a UNESCO World Heritage site, emphasizing its global importance.
 
-<img src="placeholder_image_fatehpur_sikri_history.jpg" alt="Historical view of Fatehpur Sikri">
+
 
 ### **Natural Beauty**
 
@@ -35,10 +35,10 @@ Fatehpur Sikri, while known primarily for its architecture, is situated within a
 
 Fatehpur Sikri's attractions are primarily architectural and historical. The main attractions include:
 
-*   **Buland Darwaza:** The 'Gate of Victory' is the largest gateway in the world, standing at a majestic height of 54 meters (177 feet). It was built by Akbar to commemorate his victory in Gujarat. <img src="placeholder_image_buland_darwaza.jpg" alt="Buland Darwaza">
-*   **Jama Masjid:** A grand mosque, one of the earliest buildings constructed in Fatehpur Sikri, which includes the Tomb of Salim Chisti. <img src="placeholder_image_jama_masjid.jpg" alt="Jama Masjid">
+*   **Buland Darwaza:** The 'Gate of Victory' is the largest gateway in the world, standing at a majestic height of 54 meters (177 feet). It was built by Akbar to commemorate his victory in Gujarat. 
+*   **Jama Masjid:** A grand mosque, one of the earliest buildings constructed in Fatehpur Sikri, which includes the Tomb of Salim Chisti. 
 *   **Tomb of Salim Chisti:** A beautiful marble mausoleum that attracts devotees and tourists alike. The intricate latticework screens are particularly noteworthy.
-*   **Panch Mahal:** A five-story pavilion, a unique structure with decreasing sizes of stories, believed to have been used by the royal ladies. <img src="placeholder_image_panch_mahal.jpg" alt="Panch Mahal">
+*   **Panch Mahal:** A five-story pavilion, a unique structure with decreasing sizes of stories, believed to have been used by the royal ladies. 
 *   **Diwan-i-Aam:** A hall for public audience where the emperor met with the general public and heard their complaints.
 *   **Diwan-i-Khas:** A hall for private audience where the emperor held discussions with his ministers and other dignitaries.
 *   **Birbal's House:** Also known as the Kamaladevi’s Palace, it's a stunning building with intricate carvings and architecture.

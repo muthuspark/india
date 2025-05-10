@@ -20,7 +20,7 @@ Rajgir, a historical town nestled in the Nalanda district of Bihar, India, is a 
 
 ### **History and Cultural Heritage**
 
-Rajgir's history dates back thousands of years, making it one of the oldest cities in India. It was the first capital of the Magadha Empire, ruled by the powerful Haryanka dynasty.  King Bimbisara, a contemporary of the Buddha, ruled from Rajgir.  <img src="placeholder_image_rajgir_historical_map.jpg" alt="Historical Map of Rajgir" width="400"> The city is deeply intertwined with the lives of both the Buddha and Mahavira, the 24th Tirthankara of Jainism.  The Buddha spent several years in Rajgir, and many important Buddhist events occurred here, including the first Buddhist council held after his parinirvana (death).  For Jains, Rajgir is significant as Mahavira attained Kevala Jnana (enlightenment) on Mount Vipula.  The area houses several Jain temples and sites.
+Rajgir's history dates back thousands of years, making it one of the oldest cities in India. It was the first capital of the Magadha Empire, ruled by the powerful Haryanka dynasty.  King Bimbisara, a contemporary of the Buddha, ruled from Rajgir.   The city is deeply intertwined with the lives of both the Buddha and Mahavira, the 24th Tirthankara of Jainism.  The Buddha spent several years in Rajgir, and many important Buddhist events occurred here, including the first Buddhist council held after his parinirvana (death).  For Jains, Rajgir is significant as Mahavira attained Kevala Jnana (enlightenment) on Mount Vipula.  The area houses several Jain temples and sites.
 
 Rajgir is also rich in cultural heritage.  The various dynasties that ruled over this region – including the Mauryas, Guptas, and others – have left their marks on the architecture and traditions of Rajgir.  Important cultural aspects include the reverence for Buddhism and Jainism, traditional Hindu practices, and local Bihari customs.  Festivals like Buddha Purnima (Vesak), celebrating the Buddha's birth, enlightenment, and death, are major events.  The Rajgir Mahotsav, a cultural festival featuring music, dance, and art, is another prominent event.
 
@@ -28,13 +28,13 @@ Key historical landmarks include: the Cyclopean Wall, built in the pre-Mauryan p
 
 ### **Natural Beauty**
 
-Rajgir’s natural beauty is one of its greatest assets.  The town is surrounded by the Rajgir Hills, part of the ancient Aravalli range, creating a picturesque valley.  The landscape features lush greenery, dense forests, and rolling hills.  <img src="placeholder_image_rajgir_hills_and_valley.jpg" alt="Rajgir Hills and Valley" width="400">  The area is known for its serene atmosphere and tranquil environment, making it an ideal destination for nature lovers.  The Ratnagiri Hills and the Maniyar Math are other scenic spots.  Visitors can experience panoramic views from the Ropeway to Shanti Stupa (Peace Pagoda), perched atop a hilltop, or from the Vulture's Peak. Several natural attractions include the hot springs (Brahmakund) and the lakes.
+Rajgir’s natural beauty is one of its greatest assets.  The town is surrounded by the Rajgir Hills, part of the ancient Aravalli range, creating a picturesque valley.  The landscape features lush greenery, dense forests, and rolling hills.    The area is known for its serene atmosphere and tranquil environment, making it an ideal destination for nature lovers.  The Ratnagiri Hills and the Maniyar Math are other scenic spots.  Visitors can experience panoramic views from the Ropeway to Shanti Stupa (Peace Pagoda), perched atop a hilltop, or from the Vulture's Peak. Several natural attractions include the hot springs (Brahmakund) and the lakes.
 
 ### **Must-Visit Attractions**
 
 Rajgir is packed with historical and religious sites that attract tourists from around the globe. Some of the must-visit attractions include:
 
-*   **Vishwa Shanti Stupa (Peace Pagoda):**  A stunning white stupa built on top of Ratnagiri Hill, accessible by a scenic ropeway ride.  <img src="placeholder_image_rajgir_shanti_stupa.jpg" alt="Rajgir Shanti Stupa" width="400">
+*   **Vishwa Shanti Stupa (Peace Pagoda):**  A stunning white stupa built on top of Ratnagiri Hill, accessible by a scenic ropeway ride.  
 *   **Gridhakuta (Vulture's Peak):**  A hill where the Buddha is believed to have delivered many sermons, offering panoramic views.
 *   **Saptaparni Cave:** The site of the First Buddhist Council.
 *   **Cyclopean Wall:** A well-preserved ancient fortification wall.
@@ -106,6 +106,6 @@ To experience Rajgir beyond the typical tourist trail:
 
 ### **Conclusion**
 
-Rajgir is a destination that offers a unique blend of history, spirituality, natural beauty, and adventure. From its ancient origins and religious significance to its serene landscapes and cultural vibrancy, Rajgir provides an enriching experience for all travelers.  <img src="placeholder_image_rajgir_conclusion.jpg" alt="Rajgir Conclusion" width="400"> Whether you're a history enthusiast, a spiritual seeker, a nature lover, or an adventure seeker, Rajgir has something to captivate you. Exploring the beauty, culture, and history of this remarkable town will undoubtedly create memorable experiences. Embrace the opportunity to discover the ancient charm and tranquility of Rajgir, and let it leave an indelible mark on your journey.
+Rajgir is a destination that offers a unique blend of history, spirituality, natural beauty, and adventure. From its ancient origins and religious significance to its serene landscapes and cultural vibrancy, Rajgir provides an enriching experience for all travelers.   Whether you're a history enthusiast, a spiritual seeker, a nature lover, or an adventure seeker, Rajgir has something to captivate you. Exploring the beauty, culture, and history of this remarkable town will undoubtedly create memorable experiences. Embrace the opportunity to discover the ancient charm and tranquility of Rajgir, and let it leave an indelible mark on your journey.
 
 

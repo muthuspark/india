@@ -22,7 +22,7 @@ Mylapore, a vibrant and historic neighborhood within Chennai, Tamil Nadu, is a c
 
 Mylapore's history dates back over 1500 years, with references found in ancient Tamil literature. The area was once a major port city and a center for trade and commerce. The name "Mylapore" is believed to derive from the Tamil words "Mayil" (peacock) and "Aar" (cry), referencing a legend where Goddess Parvati worshipped Lord Shiva in the form of a peacock.
 
-<img src="placeholder_kapaleeshwarar_temple.jpg" alt="Kapaleeshwarar Temple">
+
 
 The Kapaleeshwarar Temple, dedicated to Lord Shiva, is the centerpiece of Mylapore's cultural heritage. Its colorful gopurams (towers) and intricate carvings are a visual delight. The temple hosts several annual festivals, most notably the Panguni Brahmotsavam in March/April, which attracts thousands of devotees and offers a spectacle of processions and religious ceremonies. Another significant festival is Arupathimoovar, a grand procession of 63 Nayanmars (devotees of Shiva). Mylapore also boasts numerous other temples, churches, and mosques, reflecting its historical cosmopolitan nature. The area’s cultural significance is further highlighted by its rich tradition of classical music and dance, with many prominent artists residing and performing here.
 

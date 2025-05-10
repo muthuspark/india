@@ -27,7 +27,7 @@ The cultural heritage around Pangong is deeply rooted in Ladakhi Buddhism. The r
 
 Pangong Tso's beauty lies in its dramatic landscapes and the unique interplay of light and colour. The lake's water is remarkably clear, revealing the rocky mountains that surround it. The lake is surrounded by high-altitude, barren mountains, which add to the lake’s raw beauty. The changing hues of the lake are caused by the reflection of the sky, the depth of the water, and the interaction of sunlight with the minerals in the water. The clear, crisp air enhances visibility, offering stunning views that extend for miles.
 
-<img src="placeholder_pangong_lake_landscape.jpg" alt="Pangong Lake Landscape View" width="600">
+
 
 The viewpoints along the lake offer exceptional opportunities to witness the panorama. The Changthang Wildlife Sanctuary is a protected area near the lake, though the lake itself isn't designated as a national park. Nevertheless, the sanctuary allows for the preservation of the natural environment and the wildlife within, further enhancing the beauty of the region.
 

@@ -28,7 +28,7 @@ Culturally, the area around Nohkalikai Falls is rich in Khasi traditions. The Kh
 
 The natural beauty of Nohkalikai Falls is simply stunning. The waterfall itself is a dramatic sight, especially during the monsoon when the water volume is at its peak. The surrounding landscape is characterized by rolling hills, deep valleys, and lush green forests. The region receives exceptionally high rainfall, which contributes to the vibrant green environment. The cascading water plunges into a plunge pool below, which often exhibits an emerald-green color due to the minerals in the water.
 
-<img src="placeholder_image_nohkalikai_falls_landscape.jpg" alt="Nohkalikai Falls Landscape">
+
 
 The viewpoints around the falls offer panoramic views of the surrounding area, including the deep gorge carved by the water over millennia. The area is also known for its diverse flora and fauna, including a variety of orchids, ferns, and other plant species. The high rainfall and unique geological formations create a truly stunning and memorable landscape. The cliffs around the falls are often draped in mist, adding an ethereal quality to the scenery.
 
@@ -37,11 +37,11 @@ The viewpoints around the falls offer panoramic views of the surrounding area, i
 The primary attraction is, of course, Nohkalikai Falls itself. There are various viewpoints offering different perspectives of the falls, including the main viewpoint that provides a direct view of the cascading water. However, it's worth exploring other attractions in the vicinity.  Close by are the Seven Sisters Falls (Nohsngithiang Falls), and Mawsmai Cave and Thangkharang Park.
 
 *   **Nohsngithiang Falls (Seven Sisters Falls):** Situated nearby, this waterfall cascades in seven segments and is a sight to behold.
-<img src="placeholder_image_seven_sisters_falls.jpg" alt="Seven Sisters Falls">
+
 *   **Mawsmai Cave:** Located near Cherrapunji, these limestone caves are famous for their stalactite and stalagmite formations.
-<img src="placeholder_image_mawsmai_cave.jpg" alt="Mawsmai Cave">
+
 *   **Thangkharang Park:** Offers panoramic views of the plains of Bangladesh and various rock formations, including the Khoh Ramhah (Giant Rock) and the Kynrem Falls.
-<img src="placeholder_image_thangkharang_park.jpg" alt="Thangkharang Park">
+
 *   **Eco Park:**  A well-maintained park with a vantage point providing a clear view of the Bangladesh plains and the surrounding waterfalls.
 
 ### **Adventure Activities**
@@ -73,7 +73,7 @@ Meghalayan cuisine offers a unique culinary experience.
 *   **Restaurants and Cafes:** Cherrapunji and surrounding towns have several restaurants and cafes where you can sample local and international cuisines.
 *   **Tea:** Meghalaya is known for its tea plantations. Enjoy a refreshing cup of tea.
 
-<img src="placeholder_image_local_food_dish.jpg" alt="Local Food Dish">
+
 
 ### **Flora and Fauna**
 
@@ -109,7 +109,7 @@ Cherrapunji and surrounding areas offer a range of accommodation options.
 ### **Offbeat Experiences**
 
 *   **Visit Nearby Villages:** Explore local villages like Mawlynnong, known as Asia's cleanest village, and Riwai Village, known for its living root bridge.
-<img src="placeholder_image_living_root_bridge.jpg" alt="Living Root Bridge">
+
 *   **Explore the David Scott Trail:** For hikers, the David Scott Trail offers a scenic trek.
 *   **Interact with Locals:**  Engage with local communities and learn about their traditions, cuisine, and lifestyle.
 *   **Explore Caves and Waterfalls:** Aside from Nohkalikai Falls, there are many other waterfalls and caves to explore in the area.

@@ -23,7 +23,7 @@ Amarkantak boasts a rich and layered history, steeped in religious and mythologi
 
 The cultural aspects of Amarkantak are primarily centered around Hinduism and its associated traditions. The Narmada Jayanti festival, celebrated with great fervor, is a major cultural event marked by elaborate rituals, prayers, and processions. The temples, such as the Narmada Temple, are centers of daily devotion and attract large numbers of devotees. The indigenous tribes living in and around Amarkantak, such as the Baiga, also contribute to the region's cultural diversity with their unique customs, languages, and traditions.
 
-<img src="placeholder_image_temple.jpg" alt="Narmada Temple, Amarkantak">
+
 
 ### **Natural Beauty**
 
@@ -31,7 +31,7 @@ Amarkantak is a paradise for nature lovers, enveloped by the Maikal mountain ran
 
 The most prominent natural feature is the Narmada Udgam, the origin point of the Narmada River. The viewpoint here offers breathtaking panoramic views of the surrounding hills and valleys. The Kapil Dhara and Dudh Dhara waterfalls, formed by the Narmada, add to the scenic beauty. Other natural attractions include the Achanakmar Wildlife Sanctuary, which offers a glimpse into the region’s rich flora and fauna.
 
-<img src="placeholder_image_waterfall.jpg" alt="Kapil Dhara Falls, Amarkantak">
+
 
 ### **Must-Visit Attractions**
 
@@ -46,7 +46,7 @@ Amarkantak is dotted with numerous temples and historical sites that attract tou
 *   **Sarvodaya Ashram:** This ashram is a center for spiritual learning and community service.
 *   **Jaleshwar Mahadev Temple:** An ancient temple dedicated to Lord Shiva.
 
-<img src="placeholder_image_mai_ki_bagiya.jpg" alt="Mai Ki Bagiya, Amarkantak">
+
 
 ### **Adventure Activities**
 
@@ -60,7 +60,7 @@ Amarkantak has limited local markets, but you can find small shops and stalls se
 
 The local cuisine in Amarkantak is simple and primarily caters to the vegetarian preferences of the pilgrims. Common dishes include dal, roti, rice, and vegetable curries. Due to its religious significance, non-vegetarian food is generally not readily available. Street food options are limited but you might find small stalls offering snacks. It is advisable to stick to the food served at the hotels, guest houses, or ashrams for a safe and fulfilling experience.
 
-<img src="placeholder_image_local_food.jpg" alt="Example of local food">
+
 
 ### **Flora and Fauna**
 
@@ -76,7 +76,7 @@ The best time to visit Amarkantak is during the winter months, from October to M
 *   **By Rail:** The nearest railway station is Pendra Road (PND), which is about 35 kilometers from Amarkantak. From the railway station, you can hire a taxi or take a local bus to reach your destination.
 *   **By Road:** Amarkantak is well-connected by road to major cities in Madhya Pradesh and neighboring states. Regular bus services and taxis are available from cities like Jabalpur, Bilaspur, and Raipur.
 
-<img src="placeholder_image_road.jpg" alt="Road to Amarkantak">
+
 
 ### **Accommodation Options**
 

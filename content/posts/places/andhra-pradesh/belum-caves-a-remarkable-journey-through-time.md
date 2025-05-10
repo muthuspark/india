@@ -20,7 +20,7 @@ Belum Caves, a marvel of nature and one of the longest cave systems in the India
 
 The history of Belum Caves is shrouded in a veil of mystery, with no written records accurately documenting their discovery or use. Archaeological findings, however, suggest that the caves were inhabited by Jains and Buddhists centuries ago, and remnants of pottery and other artifacts point to their use by early humans.
 
-<img src="placeholder_image_historic_artifact.jpg" alt="Historic Artifact found in Belum Caves">
+
 
 The caves were largely unknown to the outside world until 1983 when a German expedition, led by H. Daniel Gebauer, meticulously explored and documented them. The Andhra Pradesh Tourism Development Corporation (APTDC) has since taken over the caves, developing and making them accessible to the public. The local culture surrounding Belum Caves is strongly linked to the arid landscape of Kurnool and the agricultural practices of the region. The annual Sri Belum Nageswara Swamy Temple festival, held nearby, is a significant cultural event that attracts devotees and showcases the traditions of the local communities.
 
@@ -28,7 +28,7 @@ The caves were largely unknown to the outside world until 1983 when a German exp
 
 The landscape surrounding Belum Caves is predominantly dry, with rolling hills and scrub vegetation typical of the Deccan Plateau. The area's beauty lies in its geological formations, with several granite outcrops and valleys scattered throughout. The caves themselves are a testament to the power of erosion, carved out over millennia by the Chitravati River, which once flowed through the region.
 
-<img src="placeholder_image_surface_landscape.jpg" alt="Surface Landscape surrounding Belum Caves">
+
 
 Inside the caves, the natural beauty is amplified. The stalactites, hanging from the ceiling, and the stalagmites, rising from the floor, have formed over eons from mineral-rich water dripping through the limestone strata. The play of light and shadow on these formations creates a mesmerizing spectacle. A viewpoint near the caves offers panoramic views of the surrounding landscape, allowing visitors to appreciate the contrast between the barren exterior and the hidden subterranean wonder.
 
@@ -36,7 +36,7 @@ Inside the caves, the natural beauty is amplified. The stalactites, hanging from
 
 The primary attraction is, of course, the **Belum Caves** themselves. Visitors can explore the main passages and chambers, including the **Patalaganga**, a perennial stream that flows inside the caves, and the **Sanniyasi Dwaram**, a gateway-like formation.
 
-<img src="placeholder_image_main_cave_entrance.jpg" alt="Main Entrance to Belum Caves">
+
 
 *   **Belum Caves:** The heart of the attraction, offering an underground journey through diverse formations.
 *   **The Meditation Hall:** A spacious chamber within the caves, known for its tranquility and perceived meditative environment.
@@ -45,13 +45,13 @@ The primary attraction is, of course, the **Belum Caves** themselves. Visitors c
 **Offbeat Location:**
 * **Yaganti Temple:** About an hour drive from Belum Caves, a famous temple dedicated to Lord Shiva, known for its growing Nandi statue.
 
-<img src="placeholder_image_yaganti_temple.jpg" alt="Yaganti Temple">
+
 
 ### **Adventure Activities**
 
 While the caves are not designed for extreme adventure, exploring them offers a unique experience in itself. The guided tours provide a safe and informative experience for visitors of all ages.
 
-<img src="placeholder_image_cave_exploration.jpg" alt="Cave Exploration within Belum Caves">
+
 
 *   **Cave exploration:** The primary adventure lies in navigating the intricate pathways and marveling at the cave's vastness.
 *   **Photography:** The caves offer exceptional opportunities for photography, capturing the intricate formations and the play of light within the chambers.
@@ -61,7 +61,7 @@ While the caves are not designed for extreme adventure, exploring them offers a 
 
 Kurnool district, while not renowned for extensive handicrafts, provides a glimpse into rural life. Local markets in nearby towns and villages offer opportunities to find traditional textiles, such as cotton sarees.
 
-<img src="placeholder_image_local_market.jpg" alt="Local Market near Belum Caves">
+
 
 *   **Textiles:** Cotton sarees and traditional clothing are often available in local markets.
 *   **Local Souvenirs:** Small souvenirs and handicrafts reflecting the local culture may be found in markets.
@@ -74,7 +74,7 @@ The cuisine of Kurnool reflects the region's dry climate and agricultural practi
 *   **Pulasa Fish:** A seasonal fish dish, a delicacy in the region.
 *   **Biryani:** Andhra-style biryani, a flavorful rice dish with meat or vegetables.
 
-<img src="placeholder_image_local_dish.jpg" alt="Local Dish, Andhra Cuisine">
+
 
 Popular eateries include local dhabas and small restaurants in the nearby towns and villages.
 
@@ -92,7 +92,7 @@ The best time to visit Belum Caves is during the cooler months, from **October t
 *   **By Rail:** The nearest railway station is in Tadipatri, approximately 30 km from Belum Caves.
 *   **By Road:** Belum Caves is well-connected by road. Buses and taxis are available from major cities like Hyderabad, Bangalore, and Chennai. The caves are located off National Highway 544 (formerly NH-40).
 
-<img src="placeholder_image_road_map.jpg" alt="Road Map of Belum Caves">
+
 
 ### **Accommodation Options**
 

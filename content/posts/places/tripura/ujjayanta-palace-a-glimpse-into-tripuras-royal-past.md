@@ -27,7 +27,7 @@ While the palace is located within the urban landscape of Agartala, its surround
 
 ### **Must-Visit Attractions**
 
-Ujjayanta Palace is, undoubtedly, the primary attraction in Agartala. <placeholder image tag for Ujjayanta Palace Exterior>The architectural marvel is characterized by its three high domes, intricate carvings, and the impressive tiled floors. The palace museum is a treasure trove of Tripura’s heritage. <placeholder image tag for Ujjayanta Palace Museum Interior> The artifacts on display include royal costumes, photographs, sculptures, and items representing the various tribal communities of Tripura. The Light and Sound show, held in the evening, narrates the history of the palace and Tripura. The well-maintained gardens, fountains, and artificial lakes within the palace complex provide a refreshing and tranquil environment. Visitors can explore the various wings of the palace, each reflecting different aspects of the royal life.
+Ujjayanta Palace is, undoubtedly, the primary attraction in Agartala. The architectural marvel is characterized by its three high domes, intricate carvings, and the impressive tiled floors. The palace museum is a treasure trove of Tripura’s heritage.  The artifacts on display include royal costumes, photographs, sculptures, and items representing the various tribal communities of Tripura. The Light and Sound show, held in the evening, narrates the history of the palace and Tripura. The well-maintained gardens, fountains, and artificial lakes within the palace complex provide a refreshing and tranquil environment. Visitors can explore the various wings of the palace, each reflecting different aspects of the royal life.
 
 ### **Adventure Activities**
 
@@ -47,11 +47,11 @@ Tripura is blessed with a rich diversity of flora and fauna. The state has sever
 
 ### **Best Time to Visit**
 
-The ideal time to visit Ujjayanta Palace and Tripura is during the winter months, from October to March. <placeholder image tag for Ujjayanta Palace during Durga Puja Festival>The weather is pleasant, with moderate temperatures and clear skies, which is perfect for exploring the palace and the surrounding areas. Several festivals and events are celebrated during these months, including Durga Puja, which is a major cultural event in Agartala. Other local festivals provide a colorful and vibrant experience.
+The ideal time to visit Ujjayanta Palace and Tripura is during the winter months, from October to March. The weather is pleasant, with moderate temperatures and clear skies, which is perfect for exploring the palace and the surrounding areas. Several festivals and events are celebrated during these months, including Durga Puja, which is a major cultural event in Agartala. Other local festivals provide a colorful and vibrant experience.
 
 ### **How to Reach**
 
-Agartala is well-connected to major cities in India by air, rail, and road. Maharaja Bir Bikram Airport in Agartala is the nearest airport, with regular flights from cities like Kolkata, Guwahati, and Delhi. <placeholder image tag for Agartala Airport Exterior> Agartala Railway Station is also well connected with major Indian cities. Regular train services connect Agartala to cities like Guwahati, Kolkata, and Delhi. Agartala is well-connected to other major cities by the National Highway 8.
+Agartala is well-connected to major cities in India by air, rail, and road. Maharaja Bir Bikram Airport in Agartala is the nearest airport, with regular flights from cities like Kolkata, Guwahati, and Delhi.  Agartala Railway Station is also well connected with major Indian cities. Regular train services connect Agartala to cities like Guwahati, Kolkata, and Delhi. Agartala is well-connected to other major cities by the National Highway 8.
 
 ### **Accommodation Options**
 
@@ -59,7 +59,7 @@ Agartala offers a wide range of accommodation options to suit different budgets.
 
 ### **Offbeat Experiences**
 
-To experience the authentic Tripura, consider visiting the nearby tribal villages. This gives you an opportunity to interact with the locals and learn about their traditions and lifestyle. <placeholder image tag for tribal village> Explore the state's natural beauty by visiting offbeat destinations and exploring the less-traveled paths. Participate in local cultural events, such as traditional dance performances or festivals, to immerse yourself in the culture. Engage with the local community by trying to taste local cuisine.
+To experience the authentic Tripura, consider visiting the nearby tribal villages. This gives you an opportunity to interact with the locals and learn about their traditions and lifestyle.  Explore the state's natural beauty by visiting offbeat destinations and exploring the less-traveled paths. Participate in local cultural events, such as traditional dance performances or festivals, to immerse yourself in the culture. Engage with the local community by trying to taste local cuisine.
 
 ### **Conclusion**
 

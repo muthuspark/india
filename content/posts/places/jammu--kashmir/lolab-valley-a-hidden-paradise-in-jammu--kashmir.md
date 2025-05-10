@@ -21,24 +21,24 @@ Lolab Valley, often referred to as the "Valley of Love," is a breathtakingly sce
 
 The history of Lolab Valley is intertwined with the broader history of the Kashmir region. The valley has witnessed the influences of various empires and dynasties, including the Mughals, who, like in other parts of Kashmir, left their mark with the construction of gardens and rest houses. The area has a rich cultural heritage, with a predominantly Muslim population. Local traditions, customs, and festivals are deeply rooted in Sufi traditions and Kashmiri culture. The valley is also known for its Sufi shrines and historical mosques, which serve as important centers of religious and community life.
 
-<img src="placeholder_image_historical_site_lolab_valley.jpg" alt="Historical Site in Lolab Valley">
+
 
 ### **Natural Beauty**
 
 Lolab Valley is a visual symphony of natural beauty. It is renowned for its rolling meadows, towering mountains, and dense forests of pine and deodar trees. The main feature of the valley is the Lolab River, which meanders through the area, feeding the vibrant landscape. The valley also boasts several natural springs and waterfalls, adding to its serene charm. The landscape offers numerous viewpoints where one can enjoy panoramic vistas of the valley.
 
-<img src="placeholder_image_lolab_valley_landscape.jpg" alt="Landscape of Lolab Valley">
+
 
 ### **Must-Visit Attractions**
 
 *   **Kalaroos Caves (Kufdar Caves):** These ancient caves, often linked to the legendary treasure of Raja Kalar, are a significant historical site. They feature intriguing rock formations and carvings, offering an insight into the region's past.
 
-<img src="placeholder_image_kalaroos_caves.jpg" alt="Kalaroos Caves">
+
 
 *   **Lalpur:** The main town in the Lolab Valley. It offers basic amenities, shopping, and a glimpse of local life.
 
 *   **Pashmina Farms:** Visit farms to learn about the production of Pashmina wool.
-    <img src="placeholder_image_pashmina_farm.jpg" alt="Pashmina Farm in Lolab Valley">
+    
 
 *   **Satmulla:** This village offers a scenic view with a unique landscape.
 
@@ -56,7 +56,7 @@ Lolab Valley offers a range of adventure activities suitable for different inter
 *   **Photography:** The stunning landscapes, serene lakes, and vibrant villages provide ample opportunities for landscape and portrait photography.
 *   **River Rafting:** The Lolab River itself offers opportunities for mild water activities, like rafting.
 
-<img src="placeholder_image_trekking_lolab_valley.jpg" alt="Trekking in Lolab Valley">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -82,7 +82,7 @@ Local restaurants and food stalls, particularly in Lalpur, serve these and other
 
 Lolab Valley is home to diverse flora and fauna. The dense forests are home to a variety of birds, including several migratory species. The area is also known for its wildlife, though encounters are more common in the deeper forests. The valley is a treasure trove of wildflowers and medicinal plants.
 
-<img src="placeholder_image_lolab_valley_flora.jpg" alt="Flora in Lolab Valley">
+
 
 ### **Best Time to Visit**
 
@@ -104,7 +104,7 @@ Accommodation options in Lolab Valley are relatively limited but are slowly incr
 
 Booking accommodations in advance is advisable, especially during the peak season.
 
-<img src="placeholder_image_lolab_valley_accommodation.jpg" alt="Accommodation in Lolab Valley">
+
 
 ### **Offbeat Experiences**
 

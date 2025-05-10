@@ -21,11 +21,11 @@ Uppiliappan Temple, also known as *Thiruvenkatamudayan Temple*, is a revered Hin
 
 The history of the Uppiliappan Temple is rich and multifaceted, steeped in legends and spiritual significance. While the exact origins are debated, the temple's association with Lord Vishnu and its stylistic influences point towards a heritage strongly linked to the Tamil Vaishnava tradition. The temple likely evolved over several centuries, with various dynasties contributing to its construction and patronage. The architectural style exhibits a blend of Dravidian and Kerala influences, with the gopuram (tower) echoing South Indian traditions while the overall temple layout is adjusted for the humid climate, with wide verandahs and courtyards.
 
-The cultural heritage surrounding the Uppiliappan Temple is primarily defined by the Vaishnava traditions. It features regular festivals, religious ceremonies, and elaborate rituals which attract a large number of devotees, particularly during the annual Brahmotsavam festival. <img src="placeholder_image_festivals.jpg" alt="Festivals">The temple is known for its unique practices. The deity, Thiruvenkatamudayan, is believed to grant blessings of prosperity and well-being. The temple's importance is also reflected in the cultural narratives and local folklore, passed down through generations, weaving the temple's story into the fabric of community life. Historical records and inscriptions provide further insights into its evolution and the contributions of various rulers and communities.
+The cultural heritage surrounding the Uppiliappan Temple is primarily defined by the Vaishnava traditions. It features regular festivals, religious ceremonies, and elaborate rituals which attract a large number of devotees, particularly during the annual Brahmotsavam festival. The temple is known for its unique practices. The deity, Thiruvenkatamudayan, is believed to grant blessings of prosperity and well-being. The temple's importance is also reflected in the cultural narratives and local folklore, passed down through generations, weaving the temple's story into the fabric of community life. Historical records and inscriptions provide further insights into its evolution and the contributions of various rulers and communities.
 
 ### **Natural Beauty**
 
-Pathanamthitta, where the Uppiliappan Temple resides, is celebrated for its verdant beauty. The region is characterized by rolling hills, thick forests, and the backwaters that crisscross the area. <img src="placeholder_image_landscape.jpg" alt="Landscape">The Western Ghats backdrop sets a picturesque scene, providing visitors with opportunities to experience the untouched beauty of Kerala's natural landscape.
+Pathanamthitta, where the Uppiliappan Temple resides, is celebrated for its verdant beauty. The region is characterized by rolling hills, thick forests, and the backwaters that crisscross the area. The Western Ghats backdrop sets a picturesque scene, providing visitors with opportunities to experience the untouched beauty of Kerala's natural landscape.
 
 The area offers several viewpoints that capture the stunning vistas of the surrounding valleys and rivers. The nearby forests and sanctuaries are home to a variety of flora and fauna. The serene environment offers visitors a sense of tranquility, making it a perfect retreat for nature lovers and those seeking peace. The lush greenery, the fresh air, and the scenic beauty make this area a desirable place for a refreshing break away from the hectic routines of modern living.
 
@@ -34,7 +34,7 @@ The area offers several viewpoints that capture the stunning vistas of the surro
 The Uppiliappan Temple itself is, undoubtedly, the foremost attraction. Its intricate architecture, the sanctity of the sanctum sanctorum, and the peaceful ambiance make it an unmissable destination. Besides the temple, the Pathanamthitta district is also home to other spiritual and cultural sites.
 
 Some nearby attractions include:
-*   **Aranmula Parthasarathy Temple**: A significant temple dedicated to Lord Krishna, famous for its snake boat race (Vallam Kali) during Onam. <img src="placeholder_image_aranmula.jpg" alt="Aranmula Temple">
+*   **Aranmula Parthasarathy Temple**: A significant temple dedicated to Lord Krishna, famous for its snake boat race (Vallam Kali) during Onam. 
 *   **Sabrimala Ayyappan Temple**: Though further away, it's an important pilgrimage site, especially during the Mandala-Makaravilakku season, and can be combined with a visit to Pathanamthitta.
 *   **Konni Elephant Training Centre**: A place where visitors can observe and learn about elephants.
 *   **Gavi Ecotourism**: A pristine ecotourism site offering breathtaking landscapes and opportunities for trekking and wildlife spotting.
@@ -48,7 +48,7 @@ Adventure enthusiasts can try the following:
 *   **Nature Walks:** Explore the local flora and fauna with guided nature walks.
 *   **Wildlife Safaris:** Visit nearby wildlife reserves to spot various species of animals and birds.
 
-<img src="placeholder_image_trekking.jpg" alt="Trekking">
+
 
 ### **Local Markets and Handicrafts**
 
@@ -60,7 +60,7 @@ Popular items include:
 *   **Wood Carvings**: Intricate wood carvings depicting religious figures and scenes.
 *   **Coir Products**: Products made from coconut coir.
 
-<img src="placeholder_image_handicrafts.jpg" alt="Handicrafts">
+
 
 ### **Food and Cuisine**
 
@@ -72,7 +72,7 @@ Some must-try dishes:
 *   **Puttu and Kadala Curry**: Steamed rice cake served with black chickpeas curry.
 *   **Kerala Style Fish Curry**: A spicy and tangy fish curry.
 
-<img src="placeholder_image_cuisine.jpg" alt="Cuisine">
+
 
 Popular restaurants and food stalls: Local restaurants in Pathanamthitta serve authentic Kerala cuisine. Street food stalls offer a variety of snacks.
 
@@ -90,7 +90,7 @@ The region’s flora includes a mix of tropical evergreen and deciduous trees.
 
 The best time to visit the Uppiliappan Temple and Pathanamthitta is during the winter months, from September to March. The weather is pleasant, with mild temperatures and less humidity, making it ideal for sightseeing and outdoor activities. During the monsoon season (June to August), the region experiences heavy rainfall, which can sometimes disrupt travel plans. Several festivals and events are held throughout the year, offering a glimpse into the local culture.
 
-<img src="placeholder_image_weather.jpg" alt="Weather">
+
 
 ### **How to Reach**
 

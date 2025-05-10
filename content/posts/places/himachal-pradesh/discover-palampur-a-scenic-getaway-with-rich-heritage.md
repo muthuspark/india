@@ -16,7 +16,7 @@ tags:
 
 ### **Introduction**
 
-Palampur, a serene and picturesque town nestled in the Kangra Valley of Himachal Pradesh, India, is a hidden gem often referred to as the "Tea Capital of Northwest India." Located at an average elevation of 1,219 meters (4,000 feet) above sea level, Palampur enjoys a temperate climate, making it a year-round destination. The town is strategically positioned, offering easy access to popular tourist destinations like Dharamshala (approximately 35 km) and Manali (approximately 200 km). What makes Palampur truly unique is its lush green tea gardens, stunning views of the Dhauladhar range, and a tranquil atmosphere that provides a refreshing escape from the hustle and bustle of city life. <img src="placeholder_palampur_introduction.jpg" alt="Palampur Overview">
+Palampur, a serene and picturesque town nestled in the Kangra Valley of Himachal Pradesh, India, is a hidden gem often referred to as the "Tea Capital of Northwest India." Located at an average elevation of 1,219 meters (4,000 feet) above sea level, Palampur enjoys a temperate climate, making it a year-round destination. The town is strategically positioned, offering easy access to popular tourist destinations like Dharamshala (approximately 35 km) and Manali (approximately 200 km). What makes Palampur truly unique is its lush green tea gardens, stunning views of the Dhauladhar range, and a tranquil atmosphere that provides a refreshing escape from the hustle and bustle of city life. 
 
 ### **History and Cultural Heritage**
 
@@ -24,7 +24,7 @@ The history of Palampur is intertwined with the rise of the British tea industry
 
 Culturally, Palampur reflects a blend of traditions. The local population predominantly follows Hinduism, and the region is dotted with several ancient temples. The Baijnath Temple, dedicated to Lord Shiva, is one of the most historically and religiously significant sites in the area. Festivals, such as Shivratri and Navratri, are celebrated with great fervor, showcasing the rich cultural heritage of the region. The colonial influence is evident in some of the architecture, though blended with the more common Himachali architectural styles.
 
-<img src="placeholder_palampur_history.jpg" alt="Baijnath Temple or Historical Landmark">
+
 
 ###  **Natural Beauty**
 
@@ -32,14 +32,14 @@ Palampur's natural beauty is truly captivating. The town is surrounded by verdan
 
 Several viewpoints around Palampur offer panoramic views of the valley and the snow-capped Dhauladhar mountains. The Bundla Chasm, a scenic spot overlooking the valley, is a favorite among tourists. The area's natural environment also encompasses lush forests, and meadows, providing opportunities for nature walks and bird watching.
 
-<img src="placeholder_palampur_natural_beauty.jpg" alt="Dhauladhar Range or Tea Gardens">
+
 
 ### **Must-Visit Attractions**
 
 Palampur offers a variety of attractions for visitors.
 
 *   **Tea Gardens:** A visit to Palampur is incomplete without exploring the sprawling tea gardens. Touring these gardens provides insight into the tea-making process.
-*   **Baijnath Temple:** This ancient temple, dedicated to Lord Shiva, is a major pilgrimage site with beautiful architecture and historical significance. <img src="placeholder_palampur_baijnath.jpg" alt="Baijnath Temple">
+*   **Baijnath Temple:** This ancient temple, dedicated to Lord Shiva, is a major pilgrimage site with beautiful architecture and historical significance. 
 *   **Neugal Khad:** The gorge offers a stunning view, a perfect spot for relaxing and enjoying the sound of the flowing stream.
 *   **Andretta Pottery and Artist Village:** Explore the art and pottery of Andretta, a village known for its pottery studio and the Norah Richards Theatre.
 *   **Bundla Tea Estate:** Visit the tea estate, a beautiful area for scenic views and learning about tea production.
@@ -72,7 +72,7 @@ Palampur's cuisine reflects the flavors of Himachal Pradesh, offering a blend of
 *   **Restaurants and Cafes:** Several restaurants and cafes serve a variety of cuisines, including Indian, Chinese, and Continental dishes. Local cafes offer amazing views.
 *   **Tea Houses:** Enjoy a cup of freshly brewed tea at local tea houses, which often provide snacks and light meals.
 
-<img src="placeholder_palampur_food.jpg" alt="Typical Food Picture">
+
 
 ### **Flora and Fauna**
 
@@ -101,7 +101,7 @@ Palampur offers a wide range of accommodation options to suit different budgets 
 *   **Resorts:** Several resorts offer a range of amenities, including swimming pools, spa services, and fine dining.
 *   **Camps:** Campsites provide an exciting outdoor experience.
 
-<img src="placeholder_palampur_accommodation.jpg" alt="Hotel or Homestay">
+
 
 ### **Offbeat Experiences**
 

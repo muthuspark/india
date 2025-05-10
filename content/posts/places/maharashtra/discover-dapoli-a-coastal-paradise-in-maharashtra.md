@@ -28,7 +28,7 @@ Culturally, Dapoli is a reflection of the Konkani way of life. The local populat
 
 Dapoli's landscape is a captivating mix of rolling hills, dense forests, and the sparkling Arabian Sea. The area is characterized by lush green hills, valleys, and coconut groves that provide a refreshing ambiance. Its coastline boasts several beautiful beaches like Murud Beach, Karde Beach, and Ladghar Beach, each offering unique features and scenic beauty. The Suvarnadurg Fort offers panoramic views of the Arabian Sea and the surrounding landscape.
 
-<img src="[Placeholder Image: Panoramic view of Dapoli coastline]" alt="Panoramic view of Dapoli coastline">
+
 
 The natural environment is rich with diverse ecosystems. The region supports a variety of flora and fauna, making it an ideal spot for nature lovers. The scenic viewpoints like the Harnai Port offer breathtaking views of the sea, sunrise, and sunset, providing stunning photography opportunities.
 
@@ -37,22 +37,22 @@ The natural environment is rich with diverse ecosystems. The region supports a v
 Dapoli and its surrounding areas offer a range of attractions catering to various interests.
 
 *   **Murud Beach**: One of the most popular beaches, known for its long stretch of sandy shore and watersports.
-<img src="[Placeholder Image: Murud Beach]" alt="Murud Beach">
+
 
 *   **Karde Beach**: Famous for its clean waters, serene environment, and water sports activities.
-<img src="[Placeholder Image: Karde Beach]" alt="Karde Beach">
+
 
 *   **Ladghar Beach**: Popular for its red sand, water sports, and the nearby Lord Shiva Temple.
-<img src="[Placeholder Image: Ladghar Beach]" alt="Ladghar Beach">
+
 
 *   **Suvarnadurg Fort**: A historical sea fort, offering panoramic views of the Arabian Sea.
-<img src="[Placeholder Image: Suvarnadurg Fort]" alt="Suvarnadurg Fort">
+
 
 *   **Panhalekaji Caves**: A complex of ancient Buddhist caves offering historical and archaeological interest.
-<img src="[Placeholder Image: Panhalekaji Caves]" alt="Panhalekaji Caves">
+
 
 *   **Univali Hot Water Springs**: Natural hot water springs, known for their medicinal properties.
-<img src="[Placeholder Image: Univali Hot Water Springs]" alt="Univali Hot Water Springs">
+
 
 *   **Keshavraj Temple**: A temple dedicated to Lord Keshavraj, known for its serenity and beautiful surroundings.
 
@@ -109,7 +109,7 @@ The best time to visit Dapoli is during the winter months, from October to March
 Dapoli offers a variety of accommodation options to suit different budgets.
 
 *   **Beach Resorts**: Numerous beach resorts are available, offering stunning views of the Arabian Sea, along with various amenities.
-<img src="[Placeholder Image: Beach Resort in Dapoli]" alt="Beach Resort in Dapoli">
+
 
 *   **Homestays**: Several homestays are available, providing a more local and intimate experience.
 *   **Budget Hotels**: A range of budget hotels and guesthouses is available in the town.

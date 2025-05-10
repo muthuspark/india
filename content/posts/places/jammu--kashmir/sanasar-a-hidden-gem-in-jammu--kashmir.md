@@ -28,14 +28,14 @@ The cultural tapestry of Sanasar is rich with local festivals and rituals, often
 
 ###  **Natural Beauty**
 
-Sanasar is a visual delight, characterized by its vast, undulating meadows, dense forests of pine and deodar trees, and the majestic backdrop of the Himalayas. The landscape is punctuated by two lakes, Sana Lake and Sar Lake, which add to the area’s tranquility and scenic beauty. <placeholder image tag: Sanasar Meadows with Lakes> The views from various points in Sanasar are breathtaking, offering a constant panorama of nature's grandeur. The climate is generally cool and pleasant during the summer months and turns snowy during winter, transforming the landscape into a winter wonderland. Key viewpoints offer stunning vistas of the surrounding valleys and peaks, making it a photographer's paradise. The area is home to diverse flora and fauna, adding to its natural richness.
+Sanasar is a visual delight, characterized by its vast, undulating meadows, dense forests of pine and deodar trees, and the majestic backdrop of the Himalayas. The landscape is punctuated by two lakes, Sana Lake and Sar Lake, which add to the area’s tranquility and scenic beauty.  The views from various points in Sanasar are breathtaking, offering a constant panorama of nature's grandeur. The climate is generally cool and pleasant during the summer months and turns snowy during winter, transforming the landscape into a winter wonderland. Key viewpoints offer stunning vistas of the surrounding valleys and peaks, making it a photographer's paradise. The area is home to diverse flora and fauna, adding to its natural richness.
 
 ### **Must-Visit Attractions**
 
 While Sanasar’s primary appeal lies in its natural beauty, it offers several attractions worth exploring:
 
-*   **Sana and Sar Lakes:** The twin lakes of Sana and Sar are the heart of Sanasar. These calm, clear water bodies are perfect for enjoying the serene ambiance and taking memorable photographs. <placeholder image tag: Sana and Sar Lakes>
-*   **Nathatop:** A short drive away from Sanasar, Nathatop offers stunning panoramic views of the Himalayas. It is a popular destination for paragliding and other adventure activities. <placeholder image tag: Nathatop Viewpoint>
+*   **Sana and Sar Lakes:** The twin lakes of Sana and Sar are the heart of Sanasar. These calm, clear water bodies are perfect for enjoying the serene ambiance and taking memorable photographs. 
+*   **Nathatop:** A short drive away from Sanasar, Nathatop offers stunning panoramic views of the Himalayas. It is a popular destination for paragliding and other adventure activities. 
 *   **Shiva Garh:** This is another viewpoint offering panoramic views of the surrounding valleys and mountains.
 *   **Local Villages:** Explore the nearby villages to experience the local culture and interact with the communities. This offers an opportunity to learn about their traditions and lifestyle.
 
@@ -43,7 +43,7 @@ While Sanasar’s primary appeal lies in its natural beauty, it offers several a
 
 Sanasar is an adventure enthusiast's dream, offering a wide range of activities:
 
-*   **Paragliding:** Sanasar is known as a prime paragliding destination in the region, with opportunities for both short and long flights, catering to both beginners and experienced flyers. <placeholder image tag: Paragliding in Sanasar>
+*   **Paragliding:** Sanasar is known as a prime paragliding destination in the region, with opportunities for both short and long flights, catering to both beginners and experienced flyers. 
 *   **Horse Riding:** Horse riding is a popular activity, allowing visitors to explore the meadows and surrounding areas at a leisurely pace.
 *   **Trekking:** There are several trekking trails around Sanasar, offering opportunities for nature walks and exploration of the surrounding forests. These treks cater to various fitness levels.
 *   **Camping:** Camping in the meadows under the star-studded sky is a fantastic experience.
@@ -87,7 +87,7 @@ The best time to visit Sanasar is during the summer months (March to October) wh
 
 Sanasar offers a variety of accommodation options to suit different budgets and preferences:
 
-*   **Hotels:** Various hotels and guesthouses are available, ranging from budget-friendly to comfortable stays. <placeholder image tag: Hotels in Sanasar>
+*   **Hotels:** Various hotels and guesthouses are available, ranging from budget-friendly to comfortable stays. 
 *   **Homestays:** Staying at a local homestay can offer a unique cultural experience, providing a chance to interact with the locals and experience their way of life.
 *   **Campsites:** For adventure enthusiasts, camping in the meadows is a great option, allowing you to experience the tranquility of nature at its finest.
 

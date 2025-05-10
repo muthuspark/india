@@ -30,7 +30,7 @@ The cultural heritage of Rajmachi is deeply intertwined with the Maratha legacy.
 ###  **Natural Beauty**
 
 Rajmachi Fort is enveloped in a landscape of unparalleled natural beauty. The area is characterized by lush green hills, dense forests, and cascading waterfalls, especially during the monsoon season. The views from the fort are spectacular, offering breathtaking panoramic vistas of the Western Ghats, the valleys below, and the surrounding hills. The beauty of the region is enhanced by the varied flora and fauna that thrives in the area.
-<img src="placeholder_image_natural_beauty.jpg" alt="Rajmachi Fort Natural Beauty">
+
 
 The main natural attraction near Rajmachi is the Udhewadi village and the surrounding landscapes. During the monsoon, numerous seasonal waterfalls cascade down the hillsides, creating a mesmerizing spectacle. The vibrant greenery and the cool, misty air make it an ideal destination for nature walks and photography.
 
@@ -40,7 +40,7 @@ The primary attractions at Rajmachi are the fort's structures themselves, which 
 
 *   **Shrivardhan Fort:** One of the two main fortified structures on the Rajmachi plateau.
 *   **Manaranjan Fort:** The other main fortified structure, offering stunning views.
-<img src="placeholder_image_shrivardhan_and_manaranjan.jpg" alt="Shrivardhan and Manaranjan Fort">
+
 
 *   **Temple:** There is a small temple dedicated to a local deity within the fort complex.
 
@@ -51,7 +51,7 @@ The primary attractions at Rajmachi are the fort's structures themselves, which 
 ### **Adventure Activities**
 
 Rajmachi is a paradise for adventure enthusiasts. The most popular activity is trekking.
-<img src="placeholder_image_trekking_rajmachi.jpg" alt="Trekking at Rajmachi">
+
 
 *   **Trekking:** There are two main trekking routes to reach Rajmachi Fort:
 
@@ -81,7 +81,7 @@ The local cuisine reflects the flavors of Maharashtra. Although there are limite
 *   **Misal Pav:** A spicy curry made from sprouted moth beans, served with bread, farsan (crispy snacks), and onions.
 *   **Thali:** Restaurants serve complete Maharashtrian thalis, with a variety of vegetarian dishes, rice, and bread.
 
-<img src="placeholder_image_local_food.jpg" alt="Local Food at Rajmachi">
+
 
 *   **Local Restaurants and Stalls:** In Lonavala and Khandala, visitors can find numerous restaurants and food stalls offering a diverse range of options.
 
@@ -124,7 +124,7 @@ For a more immersive experience:
 *   **Village Visits:** Explore the local villages around Rajmachi, such as Udhewadi, to experience the rural life.
 *   **Local Interactions:** Interact with the villagers to learn about their lifestyle, traditions, and history.
 *   **Photography:** Capture the breathtaking views and the beauty of the region through photography.
-<img src="placeholder_image_offbeat.jpg" alt="Offbeat experience at Rajmachi">
+
 
 ### **Conclusion**
 
