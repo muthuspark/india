@@ -1,5 +1,6 @@
 ---
 title: "Vaisheshika – School of Atomism and Naturalism"
+date: 2024-12-01
 description: "Attributed to sage Kaṇāda (2nd-1st century BCE), Vaisheshika proposes an atomistic theory of the universe, categorizing reality into six padārthas (categories). It maintains that all objects are composed of atoms (aṇu) that are eternal and indivisible. Later merged with Nyāya due to complementary approaches."
 categories:
   - philosophies

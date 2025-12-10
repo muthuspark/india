@@ -1,5 +1,6 @@
 ---
 title: "Vaikuntha Ekadashi"
+date: 2024-12-01
 description: "A sacred day for devotees of Lord Vishnu, believed to be when the doors to Vaikuntha (Vishnu's abode) remain open for devotees."
 categories:
   - festivals

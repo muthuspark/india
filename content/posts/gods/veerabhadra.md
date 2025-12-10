@@ -1,5 +1,6 @@
 ---
 title: "Veerabhadra"
+date: 2024-12-01
 description: "A fierce form of Shiva created from his anger after Sati's death."
 image: images/image_veerabhadra.png
 categories:

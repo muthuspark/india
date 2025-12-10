@@ -1,5 +1,6 @@
 ---
 title: "Jalaram"
+date: 2024-12-01
 description: "A 19th-century saint from Gujarat, worshipped as a deity."
 image: images/image_jalaram.png
 categories:

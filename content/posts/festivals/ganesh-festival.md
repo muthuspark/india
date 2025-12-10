@@ -1,5 +1,6 @@
 ---
 title: "Ganesh Festival"
+date: 2024-12-01
 description: "Celebration honoring Lord Ganesha, the elephant-headed god of new beginnings and remover of obstacles. Features elaborate idol installations and immersion processions."
 categories:
   - festivals

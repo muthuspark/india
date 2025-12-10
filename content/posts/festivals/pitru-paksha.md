@@ -1,5 +1,6 @@
 ---
 title: "Pitru Paksha"
+date: 2024-12-01
 description: "A 16-day period in the Hindu calendar when Hindus pay homage to their ancestors, especially through food offerings."
 categories:
   - festivals

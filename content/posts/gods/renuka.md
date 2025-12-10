@@ -1,5 +1,6 @@
 ---
 title: "Renuka"
+date: 2024-12-01
 description: "The mother of Parashurama, known for her devotion and tragic story."
 image: images/image_renuka.png
 categories:

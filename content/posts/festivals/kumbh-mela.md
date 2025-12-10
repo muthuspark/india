@@ -1,5 +1,6 @@
 ---
 title: "Kumbh Mela"
+date: 2024-12-01
 description: "The world's largest religious gathering, held every 12 years at four sacred river locations. Involves ritual bathing to cleanse sins."
 categories:
   - festivals

@@ -1,5 +1,6 @@
 ---
 title: "Kartikeya"
+date: 2024-12-01
 description: "Also known as Murugan, the god of war, son of Shiva and Parvati."
 image: images/image_kartikeya.png
 categories:

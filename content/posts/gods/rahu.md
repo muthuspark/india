@@ -1,5 +1,6 @@
 ---
 title: "Rahu"
+date: 2024-12-01
 description: "The north lunar node, a shadow planet causing eclipses."
 image: images/image_rahu.png
 categories:

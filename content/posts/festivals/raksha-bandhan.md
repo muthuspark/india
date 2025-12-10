@@ -1,5 +1,6 @@
 ---
 title: "Raksha Bandhan"
+date: 2024-12-01
 description: "A celebration of the bond between brothers and sisters. Sisters tie a decorative thread (rakhi) on their brothers' wrists, receiving gifts and protection in return."
 categories:
   - festivals

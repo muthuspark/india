@@ -1,5 +1,6 @@
 ---
 title: "Nirrta"
+date: 2024-12-01
 description: "The god of death, destruction and bad fortune."
 image: images/image_nirrta.png
 categories:

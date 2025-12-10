@@ -1,5 +1,6 @@
 ---
 title: "Svaha"
+date: 2024-12-01
 description: "The goddess of oblation, wife of Agni."
 image: images/image_svaha.png
 categories:

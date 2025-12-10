@@ -1,5 +1,6 @@
 ---
 title: "Beeralingeswara"
+date: 2024-12-01
 description: "A regional form of Shiva, worshipped as a fierce guardian deity."
 image: images/image_beeralingeswara.png
 categories:

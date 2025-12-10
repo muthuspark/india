@@ -1,5 +1,6 @@
 ---
 title: "Brahmani"
+date: 2024-12-01
 description: "The feminine counterpart of Brahma, one of the Sapta Matrikas."
 image: images/image_brahmani.png
 categories:

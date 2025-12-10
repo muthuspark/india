@@ -1,5 +1,6 @@
 ---
 title: "Pongal"
+date: 2024-12-01
 description: "A four-day harvest festival celebrated in Tamil Nadu, thanking the Sun God for agricultural abundance."
 categories:
   - festivals

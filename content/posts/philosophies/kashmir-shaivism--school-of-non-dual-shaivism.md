@@ -1,5 +1,6 @@
 ---
 title: "Kashmir Shaivism – School of Non-Dual Shaivism"
+date: 2024-12-01
 description: "Developed by Vasugupta and Abhinavagupta (9th-10th centuries CE), Kashmir Shaivism teaches that Consciousness (Shiva) is the sole reality. It presents a dynamic view of absolute consciousness, which manifests the universe through its power (Shakti) in a process of self-recognition."
 categories:
   - philosophies

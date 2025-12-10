@@ -1,5 +1,6 @@
 ---
 title: "Padwa (Diwali)"
+date: 2024-12-01
 description: "The fourth day of Diwali, also known as Govardhan Puja or Bali Pratipada, celebrating different mythological events across regions."
 categories:
   - festivals

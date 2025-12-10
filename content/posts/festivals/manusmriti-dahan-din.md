@@ -1,5 +1,6 @@
 ---
 title: "Manusmriti Dahan Din"
+date: 2024-12-01
 description: "Commemorates Dr. B.R. Ambedkar's burning of the Manusmriti text in 1927 as a protest against caste discrimination."
 categories:
   - festivals

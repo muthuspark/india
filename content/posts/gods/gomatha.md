@@ -1,5 +1,6 @@
 ---
 title: "Gomatha"
+date: 2024-12-01
 description: "The divine cow, representing motherhood and nourishment."
 image: images/image_gomatha.png
 categories:

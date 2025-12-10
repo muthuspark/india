@@ -1,5 +1,6 @@
 ---
 title: "Prajapati"
+date: 2024-12-01
 description: "The lord of creatures and creation, sometimes identified with Brahma."
 image: images/image_prajapati.png
 categories:

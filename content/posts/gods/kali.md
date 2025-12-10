@@ -1,5 +1,6 @@
 ---
 title: "Kali"
+date: 2024-12-01
 description: "The fierce form of goddess Durga, associated with time, change, and destruction."
 image: images/image_kali.png
 categories:

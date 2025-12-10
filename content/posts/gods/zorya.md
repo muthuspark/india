@@ -1,5 +1,6 @@
 ---
 title: "Zorya"
+date: 2024-12-01
 description: "Indo-Slavic deities representing morning and evening stars."
 image: images/image_zorya.png
 categories:

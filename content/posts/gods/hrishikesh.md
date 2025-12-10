@@ -1,5 +1,6 @@
 ---
 title: "Hrishikesh"
+date: 2024-12-01
 description: "A name of Vishnu, meaning 'lord of the senses'."
 image: images/image_hrishikesh.png
 categories:

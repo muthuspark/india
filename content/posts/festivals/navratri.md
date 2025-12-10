@@ -1,5 +1,6 @@
 ---
 title: "Navratri"
+date: 2024-12-01
 description: "Nine nights dedicated to the worship of Goddess Durga in her various forms. Features dance celebrations like Garba and Dandiya Raas."
 categories:
   - festivals

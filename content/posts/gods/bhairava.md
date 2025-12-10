@@ -1,5 +1,6 @@
 ---
 title: "Bhairava"
+date: 2024-12-01
 description: "A fierce manifestation of Shiva associated with annihilation."
 image: images/image_bhairava.png
 categories:

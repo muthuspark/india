@@ -1,5 +1,6 @@
 ---
 title: "Saranyu"
+date: 2024-12-01
 description: "The goddess of clouds and wife of Surya, mother of Yama and Yami."
 image: images/image_saranyu.png
 categories:

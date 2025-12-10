@@ -1,5 +1,6 @@
 ---
 title: "Radha"
+date: 2024-12-01
 description: "The chief consort and divine counterpart of Krishna, embodying devotion and divine love."
 image: images/image_radha.png
 categories:

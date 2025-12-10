@@ -1,5 +1,6 @@
 ---
 title: "Great Friday"
+date: 2024-12-01
 description: "Also known as Good Friday, commemorates the crucifixion of Jesus Christ and his death at Calvary."
 categories:
   - festivals

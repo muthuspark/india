@@ -1,5 +1,6 @@
 ---
 title: "Bihu"
+date: 2024-12-01
 description: "The main festival of Assam, celebrated three times a year with the agricultural calendar. Includes traditional dance, music, and feasting."
 categories:
   - festivals

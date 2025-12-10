@@ -1,5 +1,6 @@
 ---
 title: "Dhrishtadyumna"
+date: 2024-12-01
 description: "Brother of Draupadi in the Mahabharata, born to kill Drona."
 image: images/image_dhrishtadyumna.png
 categories:

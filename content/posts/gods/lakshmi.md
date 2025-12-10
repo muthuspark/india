@@ -1,5 +1,6 @@
 ---
 title: "Lakshmi"
+date: 2024-12-01
 description: "Goddess of wealth, fortune, prosperity, beauty, and fertility."
 image: images/image_lakshmi.png
 categories:

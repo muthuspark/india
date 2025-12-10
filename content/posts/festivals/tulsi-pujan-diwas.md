@@ -1,5 +1,6 @@
 ---
 title: "Tulsi Pujan Diwas"
+date: 2024-12-01
 description: "Celebration dedicated to the Tulsi plant (holy basil), considered sacred in Hinduism. Involves worship and ritual marriage to Vishnu."
 categories:
   - festivals

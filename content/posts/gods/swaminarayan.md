@@ -1,5 +1,6 @@
 ---
 title: "Swaminarayan"
+date: 2024-12-01
 description: "A relatively recent spiritual leader considered a manifestation of God by his followers."
 image: images/image_swaminarayan.png
 categories:

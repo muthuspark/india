@@ -1,5 +1,6 @@
 ---
 title: "Brahma"
+date: 2024-12-01
 description: "The creator god in Hinduism, one of the Trimurti."
 image: images/image_brahma.png
 categories:

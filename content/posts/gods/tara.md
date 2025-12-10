@@ -1,5 +1,6 @@
 ---
 title: "Tara"
+date: 2024-12-01
 description: "A form of the goddess associated with protection, guidance, and compassion."
 image: images/image_tara.png
 categories:

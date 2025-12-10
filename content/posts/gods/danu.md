@@ -1,5 +1,6 @@
 ---
 title: "Danu"
+date: 2024-12-01
 description: "Mother of the Danavas (demons), daughter of Daksha."
 image: images/image_danu.png
 categories:

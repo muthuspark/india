@@ -1,5 +1,6 @@
 ---
 title: "Revanta"
+date: 2024-12-01
 description: "A solar deity, son of Surya and Saranyu, lord of the hunt."
 image: images/image_revanta.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Tusu Parab"
+date: 2024-12-01
 description: "A folk festival celebrated in parts of West Bengal, Jharkhand, and Odisha during Makar Sankranti, especially by tribal communities."
 categories:
   - festivals

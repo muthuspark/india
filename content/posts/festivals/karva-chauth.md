@@ -1,5 +1,6 @@
 ---
 title: "Karva Chauth"
+date: 2024-12-01
 description: "A one-day festival where married women fast from sunrise to moonrise for the safety and longevity of their husbands."
 categories:
   - festivals

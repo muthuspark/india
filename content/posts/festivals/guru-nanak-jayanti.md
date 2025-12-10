@@ -1,5 +1,6 @@
 ---
 title: "Guru Nanak Jayanti"
+date: 2024-12-01
 description: "Celebrates the birth of Guru Nanak Dev Ji, the first Sikh Guru and founder of Sikhism."
 categories:
   - festivals

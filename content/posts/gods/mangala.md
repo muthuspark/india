@@ -1,5 +1,6 @@
 ---
 title: "Mangala"
+date: 2024-12-01
 description: "The god of the planet Mars, associated with energy, ambition, and courage."
 image: images/image_mangala.png
 categories:

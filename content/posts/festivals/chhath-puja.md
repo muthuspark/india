@@ -1,5 +1,6 @@
 ---
 title: "Chhath Puja"
+date: 2024-12-01
 description: "A four-day festival dedicated to the Sun God and Chhathi Maiya, primarily celebrated in Bihar, Jharkhand, and Eastern UP."
 categories:
   - festivals

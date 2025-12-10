@@ -1,5 +1,6 @@
 ---
 title: "Dattatreya"
+date: 2024-12-01
 description: "A combined avatar of the trinity Brahma, Vishnu, and Shiva."
 image: images/image_dattatreya.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Army Day"
+date: 2024-12-01
 description: "Celebrated on January 15 to commemorate Lieutenant General K. M. Cariappa taking over as the first Commander-in-Chief of the Indian Army from General Sir Francis Butcher in 1949."
 categories:
   - festivals

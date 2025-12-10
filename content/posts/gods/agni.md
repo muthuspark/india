@@ -1,5 +1,6 @@
 ---
 title: "Agni"
+date: 2024-12-01
 description: "The god of fire and acceptor of sacrifices."
 image: images/image_agni.png
 categories:

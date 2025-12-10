@@ -1,5 +1,6 @@
 ---
 title: "Muharram (Ashura)"
+date: 2024-12-01
 description: "Observance of the martyrdom of Imam Hussein, grandson of Prophet Muhammad, particularly significant for Shia Muslims."
 categories:
   - festivals

@@ -1,5 +1,6 @@
 ---
 title: "Draupadi"
+date: 2024-12-01
 description: "Wife of the five Pandavas in the Mahabharata, also worshipped as a goddess."
 image: images/image_draupadi.png
 categories:

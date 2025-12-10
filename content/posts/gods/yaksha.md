@@ -1,5 +1,6 @@
 ---
 title: "Yaksha"
+date: 2024-12-01
 description: "Nature spirits associated with wealth, fertility, and natural treasures."
 image: images/image_yaksha.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Shani"
+date: 2024-12-01
 description: "The god of the planet Saturn, associated with judgment and karma."
 image: images/image_shani.png
 categories:

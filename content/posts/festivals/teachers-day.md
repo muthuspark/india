@@ -1,5 +1,6 @@
 ---
 title: "Teacher's Day"
+date: 2024-12-01
 description: "Celebrated on September 5 to honor Dr. Sarvepalli Radhakrishnan and recognize the contributions of teachers to society."
 categories:
   - festivals

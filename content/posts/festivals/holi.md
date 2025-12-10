@@ -1,5 +1,6 @@
 ---
 title: "Holi"
+date: 2024-12-01
 description: "The festival of colors and spring, celebrated by throwing colored powders and water on each other, symbolizing the triumph of good over evil."
 categories:
   - festivals

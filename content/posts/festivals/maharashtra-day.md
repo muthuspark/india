@@ -1,5 +1,6 @@
 ---
 title: "Maharashtra Day"
+date: 2024-12-01
 description: "State holiday celebrated on May 1 to commemorate the formation of the state of Maharashtra from the division of the Bombay State."
 categories:
   - festivals

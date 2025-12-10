@@ -1,5 +1,6 @@
 ---
 title: "Karnataka Rajyotsava"
+date: 2024-12-01
 description: "State festival of Karnataka celebrated on November 1 to commemorate the formation of the state in 1956."
 categories:
   - festivals

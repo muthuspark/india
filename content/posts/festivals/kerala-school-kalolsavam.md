@@ -1,5 +1,6 @@
 ---
 title: "Kerala School Kalolsavam"
+date: 2024-12-01
 description: "The largest cultural festival for school students in Asia, showcasing various arts and cultural performances in Kerala."
 categories:
   - festivals

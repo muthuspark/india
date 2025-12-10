@@ -1,5 +1,6 @@
 ---
 title: "Vasugi"
+date: 2024-12-01
 description: "The female counterpart of Vasuki, a serpent goddess."
 image: images/image_vasugi.png
 categories:

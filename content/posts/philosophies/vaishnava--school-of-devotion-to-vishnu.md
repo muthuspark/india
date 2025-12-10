@@ -1,5 +1,6 @@
 ---
 title: "Vaishnava – School of Devotion to Vishnu"
+date: 2024-12-01
 description: "Encompassing various traditions centered on devotion (bhakti) to Vishnu and his avatars, particularly Krishna and Rama. Major philosophical branches include Gaudiya Vaishnavism (established by Chaitanya Mahaprabhu in the 16th century CE), which emphasizes loving devotion (prema-bhakti) as the highest spiritual practice."
 categories:
   - philosophies

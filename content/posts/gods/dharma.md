@@ -1,5 +1,6 @@
 ---
 title: "Dharma"
+date: 2024-12-01
 description: "The god of righteousness and moral order of the universe."
 image: images/image_dharma.png
 categories:

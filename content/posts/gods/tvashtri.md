@@ -1,5 +1,6 @@
 ---
 title: "Tvashtri"
+date: 2024-12-01
 description: "The divine craftsman and architect of the universe."
 image: images/image_tvashtri.png
 categories:

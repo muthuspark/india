@@ -1,5 +1,6 @@
 ---
 title: "Ardhanari"
+date: 2024-12-01
 description: "A composite androgynous form of the Hindu god Shiva and his consort Parvati, depicted as half male and half female, split down the middle."
 image: images/image_ardhanari.png
 categories:

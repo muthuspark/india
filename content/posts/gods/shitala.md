@@ -1,5 +1,6 @@
 ---
 title: "Shitala"
+date: 2024-12-01
 description: "The goddess of smallpox and other infectious diseases."
 image: images/image_shitala.png
 categories:

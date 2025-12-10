@@ -1,5 +1,6 @@
 ---
 title: "Mahishasura Mardini"
+date: 2024-12-01
 description: "The form of Durga slaying the buffalo demon Mahishasura."
 image: images/image_mahishasura-mardini.png
 categories:

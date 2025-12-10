@@ -1,5 +1,6 @@
 ---
 title: "Hanuman"
+date: 2024-12-01
 description: "The monkey god known for his devotion to Rama, strength, and courage."
 image: images/image_hanuman.png
 categories:

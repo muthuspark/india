@@ -1,5 +1,6 @@
 ---
 title: "Buddhism – School of Middle Way and Non-Self"
+date: 2024-12-01
 description: "Founded by Gautama Buddha (6th-5th century BCE), Buddhism rejects the authority of the Vedas and proposes the Four Noble Truths and the Eightfold Path. It denies the existence of an unchanging self (anātman) and emphasizes dependent origination (pratītyasamutpāda) and the impermanence of all phenomena."
 categories:
   - philosophies

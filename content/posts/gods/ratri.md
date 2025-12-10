@@ -1,5 +1,6 @@
 ---
 title: "Ratri"
+date: 2024-12-01
 description: "The goddess of night."
 image: images/image_ratri.png
 categories:

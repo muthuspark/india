@@ -1,5 +1,6 @@
 ---
 title: "Vishishtadvaita – School of Qualified Non-Dualism"
+date: 2024-12-01
 description: "Propounded by Ramanuja (11th century CE), this Vedāntic school teaches that the individual souls and matter are attributes or modes of Brahman, which is identified with Vishnu. While reality is unified, differences between God, souls, and matter are real and not illusory."
 categories:
   - philosophies

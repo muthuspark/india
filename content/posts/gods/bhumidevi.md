@@ -1,5 +1,6 @@
 ---
 title: "Bhumidevi"
+date: 2024-12-01
 description: "The Earth goddess, consort of Vishnu in his Varaha avatar."
 image: images/image_bhumidevi.png
 categories:

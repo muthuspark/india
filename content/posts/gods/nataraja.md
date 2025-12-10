@@ -1,5 +1,6 @@
 ---
 title: "Nataraja"
+date: 2024-12-01
 description: "The dancing form of Shiva, performing the cosmic dance of creation and destruction."
 image: images/image_nataraja.png
 categories:

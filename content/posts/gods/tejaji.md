@@ -1,5 +1,6 @@
 ---
 title: "Tejaji"
+date: 2024-12-01
 description: "A folk deity of Rajasthan, associated with snakes and protection."
 image: images/image_tejaji.png
 categories:

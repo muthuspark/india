@@ -1,5 +1,6 @@
 ---
 title: "Pashupati"
+date: 2024-12-01
 description: "A form of Shiva as lord of animals and souls."
 image: images/image_pashupati.png
 categories:

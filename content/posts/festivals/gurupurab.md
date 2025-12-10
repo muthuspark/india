@@ -1,5 +1,6 @@
 ---
 title: "Gurupurab"
+date: 2024-12-01
 description: "Refers to the celebration of an anniversary of a Guru's birth in Sikhism, particularly referring to Guru Nanak and other Sikh Gurus."
 categories:
   - festivals

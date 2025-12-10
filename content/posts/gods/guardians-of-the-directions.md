@@ -1,5 +1,6 @@
 ---
 title: "Guardians of the directions"
+date: 2024-12-01
 description: "The Dikpalas, eight deities who guard the eight directions of space."
 image: images/image_guardians-of-the-directions.png
 categories:

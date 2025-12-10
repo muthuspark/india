@@ -1,5 +1,6 @@
 ---
 title: "Hari Hara"
+date: 2024-12-01
 description: "A combined form of Vishnu (Hari) and Shiva (Hara)."
 image: images/image_hari-hara.png
 categories:

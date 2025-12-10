@@ -1,5 +1,6 @@
 ---
 title: "Varaha"
+date: 2024-12-01
 description: "The boar avatar of Vishnu who rescued the Earth goddess."
 image: images/image_varaha.png
 categories:

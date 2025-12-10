@@ -1,5 +1,6 @@
 ---
 title: "Bhumiya"
+date: 2024-12-01
 description: "A regional deity associated with land and soil fertility."
 image: images/image_bhumiya.png
 categories:

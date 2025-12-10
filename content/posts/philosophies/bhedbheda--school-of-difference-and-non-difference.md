@@ -1,5 +1,6 @@
 ---
 title: "Bhedābheda – School of Difference and Non-Difference"
+date: 2024-12-01
 description: "Propounded by thinkers like Bhaskara (9th-10th century CE) and Nimbarka (13th century CE), this Vedantic school holds that the relationship between Brahman and the world/souls is one of simultaneous difference and non-difference, like the relationship between waves and the ocean."
 categories:
   - philosophies

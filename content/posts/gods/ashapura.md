@@ -1,5 +1,6 @@
 ---
 title: "Ashapura"
+date: 2024-12-01
 description: "One aspect of Devi, with temples mainly found in Gujarat."
 image: images/image_ashapura.png
 categories:

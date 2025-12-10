@@ -1,5 +1,6 @@
 ---
 title: "Buddha Purnima"
+date: 2024-12-01
 description: "Commemorates the birth, enlightenment, and death of Gautama Buddha, the founder of Buddhism."
 categories:
   - festivals

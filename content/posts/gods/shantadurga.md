@@ -1,5 +1,6 @@
 ---
 title: "Shantadurga"
+date: 2024-12-01
 description: "A peaceful form of Durga worshipped mainly in Goa."
 image: images/image_shantadurga.png
 categories:

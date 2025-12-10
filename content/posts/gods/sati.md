@@ -1,5 +1,6 @@
 ---
 title: "Sati"
+date: 2024-12-01
 description: "The first consort of Shiva who immolated herself, leading to the formation of Shakti Peethas."
 image: images/image_sati.png
 categories:

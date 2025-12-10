@@ -1,5 +1,6 @@
 ---
 title: "Kalki"
+date: 2024-12-01
 description: "The future, final avatar of Vishnu who will end the Kali Yuga."
 image: images/image_kalki.png
 categories:

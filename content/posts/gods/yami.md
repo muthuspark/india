@@ -1,5 +1,6 @@
 ---
 title: "Yami"
+date: 2024-12-01
 description: "The goddess of the Yamuna River and sister of Yama, associated with death and the underworld."
 image: images/image_yami.png
 categories:

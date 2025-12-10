@@ -1,5 +1,6 @@
 ---
 title: "Ap"
+date: 2024-12-01
 description: "The personification of water, one of the Vasus in most later Puranic lists."
 image: images/image_ap.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Vanadevata"
+date: 2024-12-01
 description: "Forest deities or spirits protecting wilderness and forest life."
 image: images/image_vanadevata.png
 categories:

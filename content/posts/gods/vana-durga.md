@@ -1,5 +1,6 @@
 ---
 title: "Vana Durga"
+date: 2024-12-01
 description: "A forest form of Goddess Durga worshipped in wilderness shrines."
 image: images/image_vana-durga.png
 categories:

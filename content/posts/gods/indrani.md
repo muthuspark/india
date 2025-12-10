@@ -1,5 +1,6 @@
 ---
 title: "Indrani"
+date: 2024-12-01
 description: "Consort of Indra, queen of the gods."
 image: images/image_indrani.png
 categories:

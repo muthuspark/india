@@ -1,5 +1,6 @@
 ---
 title: "Adityas"
+date: 2024-12-01
 description: "The offspring of Aditi, solar deities representing different aspects of the sun."
 image: images/image_adityas.png
 categories:

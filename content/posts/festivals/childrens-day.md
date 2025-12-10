@@ -1,5 +1,6 @@
 ---
 title: "Children's Day"
+date: 2024-12-01
 description: "Celebrated on November 14 to commemorate the birth anniversary of India's first Prime Minister, Jawaharlal Nehru, known for his love for children."
 categories:
   - festivals

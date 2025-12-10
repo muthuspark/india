@@ -1,5 +1,6 @@
 ---
 title: "Puri Rath Yatra"
+date: 2024-12-01
 description: "The famous chariot festival of Lord Jagannath held at Puri, Odisha, where deities are placed on huge chariots and pulled through the streets."
 categories:
   - festivals

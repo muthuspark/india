@@ -1,5 +1,6 @@
 ---
 title: "Narayana"
+date: 2024-12-01
 description: "A form of Vishnu representing the cosmic waters and the source of creation."
 image: images/image_narayana.png
 categories:

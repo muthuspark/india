@@ -1,5 +1,6 @@
 ---
 title: "Devnarayan"
+date: 2024-12-01
 description: "A folk deity worshipped primarily in Rajasthan, considered an avatar of Vishnu."
 image: images/image_devnarayan.png
 categories:

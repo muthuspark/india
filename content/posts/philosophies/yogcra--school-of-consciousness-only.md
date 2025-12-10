@@ -1,5 +1,6 @@
 ---
 title: "Yogācāra – School of Consciousness-Only"
+date: 2024-12-01
 description: "Developed by Asanga and Vasubandhu (4th-5th centuries CE), this Mahayana Buddhist school teaches that reality is ultimately mind-only (cittamatra). It analyzes consciousness into eight types and examines how our perceptions construct our experience of the world."
 categories:
   - philosophies

@@ -1,5 +1,6 @@
 ---
 title: "Jagaddhatri"
+date: 2024-12-01
 description: "A form of Goddess Durga, who holds the world."
 image: images/image_jagaddhatri.png
 categories:

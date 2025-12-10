@@ -1,5 +1,6 @@
 ---
 title: "Dhanvantari"
+date: 2024-12-01
 description: "The god of Ayurveda (Hindu medicine) and an avatar of Vishnu."
 image: images/image_dhanvantari.png
 categories:

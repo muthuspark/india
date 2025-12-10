@@ -1,5 +1,6 @@
 ---
 title: "Asvayujau"
+date: 2024-12-01
 description: "A goddess of good luck, joy, and happiness."
 image: images/image_asvayujau.png
 categories:

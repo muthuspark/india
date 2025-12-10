@@ -1,5 +1,6 @@
 ---
 title: "Vivaha Panchami"
+date: 2024-12-01
 description: "Celebrates the wedding anniversary of Lord Rama and Goddess Sita, commemorating their divine marriage as described in the Ramayana."
 categories:
   - festivals

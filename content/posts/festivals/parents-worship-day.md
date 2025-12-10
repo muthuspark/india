@@ -1,5 +1,6 @@
 ---
 title: "Parents' Worship Day"
+date: 2024-12-01
 description: "Celebrated on February 14 as an alternative to Valentine's Day, promoting respect and worship of parents."
 categories:
   - festivals

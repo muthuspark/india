@@ -1,5 +1,6 @@
 ---
 title: "Vaishravana"
+date: 2024-12-01
 description: "Another name for Kubera, the god of wealth and prosperity."
 image: images/image_vaishravana.png
 categories:

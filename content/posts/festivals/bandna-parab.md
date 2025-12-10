@@ -1,5 +1,6 @@
 ---
 title: "Bandna Parab"
+date: 2024-12-01
 description: "A harvest festival celebrated in tribal regions of Central India, especially in parts of Jharkhand and Chhattisgarh."
 categories:
   - festivals

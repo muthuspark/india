@@ -1,5 +1,6 @@
 ---
 title: "Nookambika"
+date: 2024-12-01
 description: "A regional form of the Mother Goddess worshipped in South India."
 image: images/image_nookambika.png
 categories:

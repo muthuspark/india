@@ -1,5 +1,6 @@
 ---
 title: "Jitiya"
+date: 2024-12-01
 description: "A festival observed mainly in Bihar, Jharkhand, and parts of Nepal where mothers fast without water for the well-being of their children."
 categories:
   - festivals

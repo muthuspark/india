@@ -1,5 +1,6 @@
 ---
 title: "Gusainji"
+date: 2024-12-01
 description: "A form of Krishna worshipped in the Pushti Marg tradition."
 image: images/image_gusainji.png
 categories:

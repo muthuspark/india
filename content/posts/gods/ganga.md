@@ -1,5 +1,6 @@
 ---
 title: "Ganga"
+date: 2024-12-01
 description: "The goddess of the Ganges River, daughter of Himavan."
 image: images/image_ganga.png
 categories:

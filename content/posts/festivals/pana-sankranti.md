@@ -1,5 +1,6 @@
 ---
 title: "Pana Sankranti"
+date: 2024-12-01
 description: "Odia New Year celebrated in Odisha, marking the sun's transition into Aries. Special drinks made of fruit and herbs are prepared."
 categories:
   - festivals

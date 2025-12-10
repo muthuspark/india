@@ -1,5 +1,6 @@
 ---
 title: "National Sports Day"
+date: 2024-12-01
 description: "Celebrated on August 29 to commemorate the birth anniversary of hockey legend Major Dhyan Chand."
 categories:
   - festivals

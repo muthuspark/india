@@ -1,5 +1,6 @@
 ---
 title: "Ayudha Puja"
+date: 2024-12-01
 description: "Part of the Navratri festival where tools, instruments, and vehicles are worshipped as a symbol of divine blessing for success in work."
 categories:
   - festivals

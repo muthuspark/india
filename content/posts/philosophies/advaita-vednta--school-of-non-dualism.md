@@ -1,5 +1,6 @@
 ---
 title: "Advaita Vedānta – School of Non-Dualism"
+date: 2024-12-01
 description: "Consolidated by Ādi Shankaracharya (8th century CE), Advaita proposes that Brahman is the only reality, and the phenomenal world is an illusion (māyā). It teaches that individual consciousness (ātman) and universal consciousness (Brahman) are identical, famously expressed as 'Tat Tvam Asi' (That Thou Art)."
 categories:
   - philosophies

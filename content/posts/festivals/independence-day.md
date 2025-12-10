@@ -1,5 +1,6 @@
 ---
 title: "Independence Day"
+date: 2024-12-01
 description: "National holiday celebrated on August 15 to commemorate India's independence from British rule in 1947."
 categories:
   - festivals

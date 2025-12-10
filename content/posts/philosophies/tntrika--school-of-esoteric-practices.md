@@ -1,5 +1,6 @@
 ---
 title: "Tāntrika – School of Esoteric Practices"
+date: 2024-12-01
 description: "Emerging around the 5th-6th centuries CE, Tantra spans multiple traditions including Hindu, Buddhist and Jain variants. It views the body as a microcosm of the universe and teaches transformation through ritual, visualization, mantra, and yogic practices. It often aims to unite opposing principles (e.g., Shiva-Shakti)."
 categories:
   - philosophies

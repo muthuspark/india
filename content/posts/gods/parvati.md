@@ -1,5 +1,6 @@
 ---
 title: "Parvati"
+date: 2024-12-01
 description: "The goddess of love, fertility and devotion, consort of Shiva, mother of Ganesha and Kartikeya."
 image: images/image_parvati.png
 categories:

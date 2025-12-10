@@ -1,5 +1,6 @@
 ---
 title: "Vishvaksena"
+date: 2024-12-01
 description: "The commander of Vishnu's armies."
 image: images/image_vishvaksena.png
 categories:

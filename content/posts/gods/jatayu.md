@@ -1,5 +1,6 @@
 ---
 title: "Jatayu"
+date: 2024-12-01
 description: "The divine eagle who tried to rescue Sita from Ravana."
 image: images/image_jatayu.png
 categories:

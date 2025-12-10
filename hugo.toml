@@ -1,7 +1,11 @@
 baseURL = 'https://india.muthu.co/'
 languageCode = 'en-us'
-title = 'India'
+title = 'India Travel & Culture Guide'
 theme = 'pehtheme-hugo'
+
+# Enable useful Hugo features
+enableRobotsTXT = false
+enableGitInfo = true
 
 [[menus.main]]
 name = 'Home'
@@ -14,8 +18,8 @@ pageRef = '/posts'
 weight = 20
 
 [[menus.main]]
-name = 'Tags'
-pageRef = '/tags'
+name = 'About'
+pageRef = '/about'
 weight = 30
 
 [module]
@@ -24,14 +28,33 @@ weight = 30
     min = "0.116.0"
 
 [params]
-  description = 'India and Hinduism: Discover India’s Culture, Places, and Beyond'
-	mainSections = 'posts'
+  description = 'Discover India - Explore Indian Culture, Hindu Temples, Sacred Places, Festivals & Ancient Philosophies'
+  mainSections = 'posts'
+  defaultImage = 'images/avatar.jpg'
+  keywords = 'India, Indian culture, Hindu temples, Indian festivals, travel India, Indian philosophy, Hindu gods, Indian heritage, Incredible India'
+
   [params.author]
     name = "Muthukrishnan"
     avatar = "/images/avatar.jpg"
     bio = "An engineer from Bangalore, India, with a deep love for the country and its rich cultural heritage. Passionate about exploring and sharing insights rooted in India's traditions, values, and modern growth."
+    twitter = ""
+    facebook = ""
+    instagram = ""
+
+  [params.seo]
+    googleVerification = ""
+    bingVerification = ""
 
 [sitemap]
-  changeFreq = 'monthly'
+  changeFreq = 'weekly'
   disable = false
-  filename = 'sitemap_index.xml'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediaType = "application/rss+xml"
+    baseName = "feed"

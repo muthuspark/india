@@ -1,5 +1,6 @@
 ---
 title: "Buddhi"
+date: 2024-12-01
 description: "The personification of intellect and wisdom."
 image: images/image_buddhi.png
 categories:

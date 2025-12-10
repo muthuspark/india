@@ -1,5 +1,6 @@
 ---
 title: "Parjanya"
+date: 2024-12-01
 description: "The Vedic deity of rain and thunderstorms."
 image: images/image_parjanya.png
 categories:

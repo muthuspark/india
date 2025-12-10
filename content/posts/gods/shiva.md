@@ -1,5 +1,6 @@
 ---
 title: "Shiva"
+date: 2024-12-01
 description: "The destroyer god in Hinduism, one of the Trimurti."
 image: images/image_shiva.png
 categories:

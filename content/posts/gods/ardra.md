@@ -1,5 +1,6 @@
 ---
 title: "Ardra"
+date: 2024-12-01
 description: "Associated with the Hindu myth of Taraka, an asura who is granted invulnerability by Brahma."
 image: images/image_ardra.png
 categories:

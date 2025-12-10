@@ -1,5 +1,6 @@
 ---
 title: "Yoga – School of Physical and Mental Discipline"
+date: 2024-12-01
 description: "Systematized by Patañjali (2nd century BCE) in the Yoga Sutras, this school builds upon Sāṃkhya metaphysics while focusing on practical methodology. It offers an eight-limbed (ashtanga) path for controlling the mind and bodily activities to achieve liberation (kaivalya) through meditation and self-discipline."
 categories:
   - philosophies

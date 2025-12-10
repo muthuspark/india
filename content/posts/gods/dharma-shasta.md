@@ -1,5 +1,6 @@
 ---
 title: "Dharma Shasta"
+date: 2024-12-01
 description: "A celibate deity, son of Shiva and Mohini (Vishnu's female form), popular in South India."
 image: images/image_dharma-shasta.png
 categories:

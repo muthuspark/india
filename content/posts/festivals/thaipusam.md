@@ -1,5 +1,6 @@
 ---
 title: "Thaipusam"
+date: 2024-12-01
 description: "A festival celebrated by the Tamil community during the full moon in the Tamil month of Thai, honoring Lord Murugan."
 categories:
   - festivals

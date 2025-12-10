@@ -1,5 +1,6 @@
 ---
 title: "Vasuki"
+date: 2024-12-01
 description: "The king of serpents, worn by Shiva around his neck."
 image: images/image_vasuki.png
 categories:

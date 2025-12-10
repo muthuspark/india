@@ -1,5 +1,6 @@
 ---
 title: "Radha Ashtami"
+date: 2024-12-01
 description: "Celebrates the birth anniversary of Radha, the chief consort of Lord Krishna in Hindu traditions."
 categories:
   - festivals

@@ -1,5 +1,6 @@
 ---
 title: "Pushan"
+date: 2024-12-01
 description: "A solar deity associated with journeys, roads, and livestock."
 image: images/image_pushan.png
 categories:

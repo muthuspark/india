@@ -1,5 +1,6 @@
 ---
 title: "Aditi"
+date: 2024-12-01
 description: "Mother of the Devas, representing boundlessness and fertility."
 image: images/image_aditi.png
 categories:

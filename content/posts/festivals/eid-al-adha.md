@@ -1,5 +1,6 @@
 ---
 title: "Eid al-Adha"
+date: 2024-12-01
 description: "The festival of sacrifice commemorating Prophet Ibrahim's willingness to sacrifice his son as an act of obedience to God."
 categories:
   - festivals

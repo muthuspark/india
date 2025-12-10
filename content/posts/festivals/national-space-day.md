@@ -1,5 +1,6 @@
 ---
 title: "National Space Day"
+date: 2024-12-01
 description: "Celebrated to commemorate India's achievements in space exploration and to inspire interest in space science among youth."
 categories:
   - festivals

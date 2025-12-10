@@ -1,5 +1,6 @@
 ---
 title: "Durga Puja"
+date: 2024-12-01
 description: "A ten-day festival celebrating the goddess Durga's victory over the demon Mahishasura, symbolizing the triumph of good over evil."
 categories:
   - festivals

@@ -1,5 +1,6 @@
 ---
 title: "Jumadi"
+date: 2024-12-01
 description: "A regional guardian spirit worshipped in South India."
 image: images/image_jumadi.png
 categories:

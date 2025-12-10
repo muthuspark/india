@@ -1,5 +1,6 @@
 ---
 title: "Bhairavi"
+date: 2024-12-01
 description: "The fierce manifestation of Goddess Parvati or Shakti."
 image: images/image_bhairavi.png
 categories:

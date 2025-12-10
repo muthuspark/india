@@ -1,5 +1,6 @@
 ---
 title: "Samaleswari"
+date: 2024-12-01
 description: "A regional form of the goddess worshipped in Odisha."
 image: images/image_samaleswari.png
 categories:

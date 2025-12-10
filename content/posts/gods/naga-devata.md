@@ -1,5 +1,6 @@
 ---
 title: "Naga Devata"
+date: 2024-12-01
 description: "Serpent deities worshipped for fertility, rain, and protection."
 image: images/image_naga-devata.png
 categories:

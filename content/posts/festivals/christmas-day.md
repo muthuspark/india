@@ -1,5 +1,6 @@
 ---
 title: "Christmas Day"
+date: 2024-12-01
 description: "Celebration of the birth of Jesus Christ, marked by decorating Christmas trees, exchanging gifts, and special meals with family."
 categories:
   - festivals

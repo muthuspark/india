@@ -1,5 +1,6 @@
 ---
 title: "Apam Napat"
+date: 2024-12-01
 description: "God of fresh water, such as in rivers and lakes, an eminent figure of the Indo-Iranian pantheon."
 image: images/image_apam-napat.png
 categories:

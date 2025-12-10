@@ -1,5 +1,6 @@
 ---
 title: "Rama"
+date: 2024-12-01
 description: "The seventh avatar of Vishnu, embodiment of dharma and ideal king."
 image: images/image_rama.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Aswini"
+date: 2024-12-01
 description: "The first nakshatra in Hindu astrology, corresponding to the head of Aries, named after 'harnessing horses'."
 image: images/image_aswini.png
 categories:

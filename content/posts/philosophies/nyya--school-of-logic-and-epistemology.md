@@ -1,5 +1,6 @@
 ---
 title: "Nyāya – School of Logic and Epistemology"
+date: 2024-12-01
 description: "Founded by sage Gautama (2nd century CE), Nyāya focuses on logic, reasoning and methodology of knowledge acquisition. It developed a sophisticated system of syllogistic logic and established pramāṇas (valid means of knowledge). Nyāya's epistemological framework has been influential across all Indian philosophical traditions."
 categories:
   - philosophies

@@ -1,5 +1,6 @@
 ---
 title: "Gauri"
+date: 2024-12-01
 description: "The golden aspect of Parvati, representing purity and austerity."
 image: images/image_gauri.png
 categories:

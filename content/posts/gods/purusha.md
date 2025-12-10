@@ -1,5 +1,6 @@
 ---
 title: "Purusha"
+date: 2024-12-01
 description: "The cosmic man or spirit, whose sacrifice created all life."
 image: images/image_purusha.png
 categories:

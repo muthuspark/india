@@ -1,5 +1,6 @@
 ---
 title: "Kubera"
+date: 2024-12-01
 description: "The god of wealth and the lord of the north."
 image: images/image_kubera.png
 categories:

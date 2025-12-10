@@ -1,5 +1,6 @@
 ---
 title: "Waghoba"
+date: 2024-12-01
 description: "A tiger deity worshipped by tribal communities in Maharashtra and surrounding regions."
 image: images/image_waghoba.png
 categories:

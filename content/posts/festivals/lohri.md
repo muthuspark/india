@@ -1,5 +1,6 @@
 ---
 title: "Lohri"
+date: 2024-12-01
 description: "A popular winter folk festival celebrated primarily in North India, marking the end of winter and the harvesting of winter crops."
 categories:
   - festivals

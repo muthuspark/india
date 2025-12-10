@@ -1,5 +1,6 @@
 ---
 title: "Brihaspati"
+date: 2024-12-01
 description: "The god of wisdom and eloquence, the preceptor of the gods."
 image: images/image_brihaspati.png
 categories:

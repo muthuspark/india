@@ -1,5 +1,6 @@
 ---
 title: "Devi"
+date: 2024-12-01
 description: "The supreme goddess in Hinduism, the feminine aspect of the divine."
 image: images/image_devi.png
 categories:

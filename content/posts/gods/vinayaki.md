@@ -1,5 +1,6 @@
 ---
 title: "Vinayaki"
+date: 2024-12-01
 description: "The female counterpart of Ganesha, embodying wisdom and removal of obstacles."
 image: images/image_vinayaki.png
 categories:

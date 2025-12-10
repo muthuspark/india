@@ -1,5 +1,6 @@
 ---
 title: "Bharani"
+date: 2024-12-01
 description: "The second nakshatra in Hindu astrology, associated with bearing or carrying."
 image: images/image_bharani.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Naga siren"
+date: 2024-12-01
 description: "Female serpent deities known for their enchanting beauty and songs."
 image: images/image_naga-siren.png
 categories:

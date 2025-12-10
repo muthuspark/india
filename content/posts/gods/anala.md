@@ -1,5 +1,6 @@
 ---
 title: "Anala"
+date: 2024-12-01
 description: "The name means 'fire' in Sanskrit, equated among Agni."
 image: images/image_anala.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Holla Mohalla"
+date: 2024-12-01
 description: "A Sikh festival that follows Holi, showcasing martial arts, horse riding, and other displays of physical strength and bravery."
 categories:
   - festivals

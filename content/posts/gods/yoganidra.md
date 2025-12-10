@@ -1,5 +1,6 @@
 ---
 title: "Yoganidra"
+date: 2024-12-01
 description: "The goddess of cosmic sleep, a form of Shakti."
 image: images/image_yoganidra.png
 categories:

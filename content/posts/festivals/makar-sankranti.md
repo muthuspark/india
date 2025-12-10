@@ -1,5 +1,6 @@
 ---
 title: "Makar Sankranti"
+date: 2024-12-01
 description: "A harvest festival marking the transition of the sun into the zodiac sign of Capricorn. Celebrated with kite flying, bonfires, and special foods."
 categories:
   - festivals

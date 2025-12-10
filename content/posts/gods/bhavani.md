@@ -1,5 +1,6 @@
 ---
 title: "Bhavani"
+date: 2024-12-01
 description: "Another name for Parvati, representing existence and the source of creation."
 image: images/image_bhavani.png
 categories:

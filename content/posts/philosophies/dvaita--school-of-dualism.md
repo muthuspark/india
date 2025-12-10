@@ -1,5 +1,6 @@
 ---
 title: "Dvaita – School of Dualism"
+date: 2024-12-01
 description: "Established by Madhvacharya (13th century CE), Dvaita Vedānta asserts five fundamental and eternal distinctions: between God and individual souls, between God and matter, between individual souls and matter, between one soul and another, and between one material entity and another."
 categories:
   - philosophies

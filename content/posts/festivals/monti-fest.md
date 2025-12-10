@@ -1,5 +1,6 @@
 ---
 title: "Monti Fest"
+date: 2024-12-01
 description: "A Mangalorean Catholic festival combining the Nativity of Mary and harvest festival, celebrated with blessing of new crops and family feast."
 categories:
   - festivals

@@ -1,5 +1,6 @@
 ---
 title: "Diwali"
+date: 2024-12-01
 description: "The festival of lights celebrating the victory of light over darkness and good over evil. Homes are decorated with oil lamps, candles, and colorful rangoli patterns."
 categories:
   - festivals

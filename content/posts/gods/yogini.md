@@ -1,5 +1,6 @@
 ---
 title: "Yogini"
+date: 2024-12-01
 description: "Female tantric practitioners with supernatural powers, often worshipped as goddesses."
 image: images/image_yogini.png
 categories:

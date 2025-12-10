@@ -1,5 +1,6 @@
 ---
 title: "Cheti Chand"
+date: 2024-12-01
 description: "Sindhi New Year celebrating the birth of Ishtadeva Uderolal, popularly known as Jhulelal, the patron saint of Sindhis."
 categories:
   - festivals

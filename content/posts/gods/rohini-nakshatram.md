@@ -1,5 +1,6 @@
 ---
 title: "Rohini Nakshatram"
+date: 2024-12-01
 description: "The star goddess, favorite consort of the moon god Chandra."
 image: images/image_rohini-nakshatram.png
 categories:

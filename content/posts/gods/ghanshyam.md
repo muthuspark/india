@@ -1,5 +1,6 @@
 ---
 title: "Ghanshyam"
+date: 2024-12-01
 description: "Another name for Krishna, referring to his dark cloud-like complexion."
 image: images/image_ghanshyam.png
 categories:

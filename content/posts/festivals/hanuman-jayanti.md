@@ -1,5 +1,6 @@
 ---
 title: "Hanuman Jayanti"
+date: 2024-12-01
 description: "Celebrates the birth of Lord Hanuman, the monkey god known for his devotion, strength, and perseverance."
 categories:
   - festivals

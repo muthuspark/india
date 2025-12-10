@@ -1,5 +1,6 @@
 ---
 title: "Vasu"
+date: 2024-12-01
 description: "A group of eight elemental deities associated with cosmic elements."
 image: images/image_vasu.png
 categories:

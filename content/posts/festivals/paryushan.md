@@ -1,5 +1,6 @@
 ---
 title: "Paryushan"
+date: 2024-12-01
 description: "The most important annual holy event for Jains, a time of fasting, repentance, and spiritual reflection lasting eight to ten days."
 categories:
   - festivals

@@ -1,5 +1,6 @@
 ---
 title: "Dhatri"
+date: 2024-12-01
 description: "The creator aspect of Brahma, the sustainer of life and creation."
 image: images/image_dhatri.png
 categories:

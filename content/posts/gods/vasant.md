@@ -1,5 +1,6 @@
 ---
 title: "Vasant"
+date: 2024-12-01
 description: "The personification of spring season, associated with Kama."
 image: images/image_vasant.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Ugadi"
+date: 2024-12-01
 description: "New Year's Day for the people of Andhra Pradesh, Telangana, and Karnataka. Features special dishes combining six different flavors representing life's emotions."
 categories:
   - festivals

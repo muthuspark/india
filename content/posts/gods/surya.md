@@ -1,5 +1,6 @@
 ---
 title: "Surya"
+date: 2024-12-01
 description: "The sun god, often depicted riding a chariot pulled by seven horses."
 image: images/image_surya.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Vedānta – School of Ultimate Reality and Spiritual Knowledge"
+date: 2024-12-01
 description: "Based on the Upanishads and systematized by Badarayana (1st century BCE) in his Brahma Sutras, Vedānta (or Uttara Mīmāṃsā) investigates the nature of Brahman (ultimate reality) and its relation to the individual soul (ātman). It has numerous sub-schools including Advaita (non-dualism), Vishishtadvaita (qualified non-dualism), and Dvaita (dualism)."
 categories:
   - philosophies

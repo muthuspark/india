@@ -1,5 +1,6 @@
 ---
 title: "Bharati"
+date: 2024-12-01
 description: "A form of Saraswati, associated with speech and eloquence."
 image: images/image_bharati.png
 categories:

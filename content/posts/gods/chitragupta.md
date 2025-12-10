@@ -1,5 +1,6 @@
 ---
 title: "Chitragupta"
+date: 2024-12-01
 description: "The god who keeps records of human actions and decides their fate after death."
 image: images/image_chitragupta.png
 categories:

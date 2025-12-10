@@ -1,5 +1,6 @@
 ---
 title: "Bhutamata"
+date: 2024-12-01
 description: "Mother of all beings and elements."
 image: images/image_bhutamata.png
 categories:

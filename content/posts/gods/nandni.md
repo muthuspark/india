@@ -1,5 +1,6 @@
 ---
 title: "Nandni"
+date: 2024-12-01
 description: "The divine wish-fulfilling cow, daughter of Kamadhenu."
 image: images/image_nandni.png
 categories:

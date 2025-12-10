@@ -1,5 +1,6 @@
 ---
 title: "Narada"
+date: 2024-12-01
 description: "The divine sage who travels the worlds spreading divine knowledge and wisdom."
 image: images/image_narada.png
 categories:

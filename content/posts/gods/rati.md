@@ -1,5 +1,6 @@
 ---
 title: "Rati"
+date: 2024-12-01
 description: "The goddess of love, passion and carnal desire, consort of Kama."
 image: images/image_rati.png
 categories:

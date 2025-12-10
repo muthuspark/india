@@ -1,5 +1,6 @@
 ---
 title: "Uma"
+date: 2024-12-01
 description: "Another name for Parvati, meaning 'tranquility' or 'light'."
 image: images/image_uma.png
 categories:

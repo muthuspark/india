@@ -1,5 +1,6 @@
 ---
 title: "Annapurna Devi Mata"
+date: 2024-12-01
 description: "Goddess of food and nourishment."
 image: images/image_annapurna-devi-mata.png
 categories:

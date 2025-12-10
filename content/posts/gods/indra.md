@@ -1,5 +1,6 @@
 ---
 title: "Indra"
+date: 2024-12-01
 description: "King of the Devas, god of rain, lightning, and thunder."
 image: images/image_indra.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Budha"
+date: 2024-12-01
 description: "The god of the planet Mercury, son of Chandra and Tara."
 image: images/image_budha.png
 categories:

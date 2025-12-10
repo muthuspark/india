@@ -1,5 +1,6 @@
 ---
 title: "Sāṃkhya – School of Enumeration and Dualism"
+date: 2024-12-01
 description: "Traditionally attributed to sage Kapila (7th-6th century BCE), Sāṃkhya is one of the oldest philosophical systems. It posits a strict dualism between consciousness (puruṣa) and matter/nature (prakṛti), with the universe evolving through the interaction of 24 cosmic principles or tattvas."
 categories:
   - philosophies

@@ -1,5 +1,6 @@
 ---
 title: "Yellamma"
+date: 2024-12-01
 description: "A mother goddess worshipped in South India, particularly Karnataka."
 image: images/image_yellamma.png
 categories:

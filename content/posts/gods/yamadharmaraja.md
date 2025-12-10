@@ -1,5 +1,6 @@
 ---
 title: "Yamadharmaraja"
+date: 2024-12-01
 description: "The complete title of Yama emphasizing his role as the upholder of cosmic law."
 image: images/image_yamadharmaraja.png
 categories:

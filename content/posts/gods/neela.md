@@ -1,5 +1,6 @@
 ---
 title: "Neela"
+date: 2024-12-01
 description: "A form of Goddess Parvati with blue complexion."
 image: images/image_neela.png
 categories:

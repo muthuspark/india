@@ -1,5 +1,6 @@
 ---
 title: "Mahalaxmi"
+date: 2024-12-01
 description: "The supreme form of Goddess Lakshmi, representing ultimate abundance and prosperity."
 image: images/image_mahalaxmi.png
 categories:

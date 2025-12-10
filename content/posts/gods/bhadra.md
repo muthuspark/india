@@ -1,5 +1,6 @@
 ---
 title: "Bhadra"
+date: 2024-12-01
 description: "A form of Shiva representing auspiciousness and welfare."
 image: images/image_bhadra.png
 categories:

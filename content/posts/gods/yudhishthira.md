@@ -1,5 +1,6 @@
 ---
 title: "Yudhishthira"
+date: 2024-12-01
 description: "The eldest Pandava, son of Kunti and Dharma, known for his righteousness."
 image: images/image_yudhishthira.png
 categories:

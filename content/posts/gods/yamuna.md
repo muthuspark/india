@@ -1,5 +1,6 @@
 ---
 title: "Yamuna"
+date: 2024-12-01
 description: "The goddess of the Yamuna River, sister of Yama."
 image: images/image_yamuna.png
 categories:

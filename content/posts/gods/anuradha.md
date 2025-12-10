@@ -1,5 +1,6 @@
 ---
 title: "Anuradha"
+date: 2024-12-01
 description: "A deity associated with good fortune and success."
 image: images/image_anuradha.png
 categories:

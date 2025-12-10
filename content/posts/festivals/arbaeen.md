@@ -1,5 +1,6 @@
 ---
 title: "Arbaeen"
+date: 2024-12-01
 description: "A Shia Muslim observance marking the 40th day after the martyrdom of Imam Hussein, grandson of Prophet Muhammad, at the Battle of Karbala."
 categories:
   - festivals

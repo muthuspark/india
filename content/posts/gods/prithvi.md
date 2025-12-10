@@ -1,5 +1,6 @@
 ---
 title: "Prithvi"
+date: 2024-12-01
 description: "The earth goddess, representing the earth element."
 image: images/image_prithvi.png
 categories:

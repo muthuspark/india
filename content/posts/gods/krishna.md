@@ -1,5 +1,6 @@
 ---
 title: "Krishna"
+date: 2024-12-01
 description: "The eighth avatar of Vishnu, associated with love, compassion, tenderness, and playfulness."
 image: images/image_krishna.png
 categories:

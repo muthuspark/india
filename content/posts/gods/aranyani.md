@@ -1,5 +1,6 @@
 ---
 title: "Aranyani"
+date: 2024-12-01
 description: "Goddess of the forests and the animals that dwell within them, described as elusive, fond of quiet glades, and fearless of remote places."
 image: images/image_aranyani.png
 categories:

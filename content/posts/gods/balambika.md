@@ -1,5 +1,6 @@
 ---
 title: "Balambika"
+date: 2024-12-01
 description: "A form of the Divine Mother as a young girl, embodying innocence and power."
 image: images/image_balambika.png
 categories:

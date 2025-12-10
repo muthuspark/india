@@ -1,5 +1,6 @@
 ---
 title: "Usha"
+date: 2024-12-01
 description: "The goddess of dawn, who reveals beauty and truth."
 image: images/image_usha.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Kojagiri Poornima"
+date: 2024-12-01
 description: "A harvest festival celebrated on the full moon night of Ashwin month, associated with the worship of Goddess Lakshmi."
 categories:
   - festivals

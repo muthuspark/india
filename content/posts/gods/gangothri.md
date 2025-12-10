@@ -1,5 +1,6 @@
 ---
 title: "Gangothri"
+date: 2024-12-01
 description: "The source point of the Ganges River, personified as a goddess."
 image: images/image_gangothri.png
 categories:

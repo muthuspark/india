@@ -1,5 +1,6 @@
 ---
 title: "Jyotiba"
+date: 2024-12-01
 description: "A regional form of light deity, popular in Western India."
 image: images/image_jyotiba.png
 categories:

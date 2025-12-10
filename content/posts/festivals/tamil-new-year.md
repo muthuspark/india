@@ -1,5 +1,6 @@
 ---
 title: "Tamil New Year"
+date: 2024-12-01
 description: "Also known as Puthandu, marks the first day of the Tamil calendar and is celebrated with house cleaning, decorations, and special meals."
 categories:
   - festivals

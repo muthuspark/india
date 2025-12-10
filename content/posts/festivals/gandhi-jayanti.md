@@ -1,5 +1,6 @@
 ---
 title: "Gandhi Jayanti"
+date: 2024-12-01
 description: "National holiday celebrating the birth anniversary of Mahatma Gandhi, the Father of the Nation, observed on October 2."
 categories:
   - festivals

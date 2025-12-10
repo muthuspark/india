@@ -1,5 +1,6 @@
 ---
 title: "Aruna"
+date: 2024-12-01
 description: "Personification of the reddish glow of the rising Sun, believed to have spiritual powers."
 image: images/image_aruna.png
 categories:

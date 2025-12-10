@@ -1,5 +1,6 @@
 ---
 title: "Jainism – School of Non-Violence and Non-Absolutism"
+date: 2024-12-01
 description: "Revitalized by Mahavira (6th century BCE), Jainism advocates ahiṃsā (non-violence), anekāntavāda (many-sidedness of reality), and aparigraha (non-attachment). It holds that the universe is eternal and uncreated, and that reality can be viewed from multiple perspectives (syādvāda)."
 categories:
   - philosophies

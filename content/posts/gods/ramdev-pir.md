@@ -1,5 +1,6 @@
 ---
 title: "Ramdev Pir"
+date: 2024-12-01
 description: "A folk deity of Rajasthan, considered an incarnation of Vishnu."
 image: images/image_ramdev-pir.png
 categories:

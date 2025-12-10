@@ -1,5 +1,6 @@
 ---
 title: "Akshaya Tritiya"
+date: 2024-12-01
 description: "An auspicious day for beginning new ventures and purchasing gold, believed to bring prosperity and good fortune."
 image: images/image_akshaya-tritiya.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Sikh Philosophy – School of Divine Unity and Social Justice"
+date: 2024-12-01
 description: "Founded by Guru Nanak (15th-16th century CE) and developed by nine succeeding Gurus, Sikh philosophy teaches belief in one formless God (Ik Onkar), equality of all humans, and the importance of service (seva). It rejects caste distinctions and advocates a middle path between worldly responsibilities and spiritual pursuits."
 categories:
   - philosophies

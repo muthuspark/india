@@ -1,5 +1,6 @@
 ---
 title: "Hari"
+date: 2024-12-01
 description: "A name for Vishnu or Krishna, meaning 'the remover of sins'."
 image: images/image_hari.png
 categories:

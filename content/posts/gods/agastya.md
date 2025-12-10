@@ -1,5 +1,6 @@
 ---
 title: "Agastya"
+date: 2024-12-01
 description: "A revered sage who was instrumental in spreading Vedic knowledge to South India."
 image: images/image_agastya.png
 categories:

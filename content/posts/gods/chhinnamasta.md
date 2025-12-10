@@ -1,5 +1,6 @@
 ---
 title: "Chhinnamasta"
+date: 2024-12-01
 description: "A self-decapitated form of Goddess Parvati, representing sacrifice and life force."
 image: images/image_chhinnamasta.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Shakti"
+date: 2024-12-01
 description: "The primordial cosmic energy, divine feminine creative power."
 image: images/image_shakti.png
 categories:

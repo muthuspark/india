@@ -1,5 +1,6 @@
 ---
 title: "Mahakali"
+date: 2024-12-01
 description: "The supreme form of Goddess Kali, representing ultimate time and destruction."
 image: images/image_mahakali.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Vashista"
+date: 2024-12-01
 description: "One of the Saptarishis (seven great sages), mind-born son of Brahma."
 image: images/image_vashista.png
 categories:

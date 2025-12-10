@@ -1,5 +1,6 @@
 ---
 title: "Aravan"
+date: 2024-12-01
 description: "Also known as Iravat, a minor character from the Mahabharata, son of Arjuna and the Naga princess Ulupi, central god of the cult of Kuttantavar."
 image: images/image_aravan.png
 categories:

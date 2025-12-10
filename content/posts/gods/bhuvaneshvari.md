@@ -1,5 +1,6 @@
 ---
 title: "Bhuvaneshvari"
+date: 2024-12-01
 description: "The queen of the universe, a form of the Divine Mother."
 image: images/image_bhuvaneshvari.png
 categories:

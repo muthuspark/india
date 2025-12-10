@@ -1,5 +1,6 @@
 ---
 title: "Yamaduti"
+date: 2024-12-01
 description: "Female messengers of Yama who collect souls."
 image: images/image_yamaduti.png
 categories:

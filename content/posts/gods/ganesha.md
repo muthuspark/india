@@ -1,5 +1,6 @@
 ---
 title: "Ganesha"
+date: 2024-12-01
 description: "The elephant-headed god of beginnings, obstacle remover, son of Shiva and Parvati."
 image: images/image_ganesha.png
 categories:

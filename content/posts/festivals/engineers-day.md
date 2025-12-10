@@ -1,5 +1,6 @@
 ---
 title: "Engineer's Day"
+date: 2024-12-01
 description: "Celebrated on September 15 to commemorate the birth anniversary of Sir M. Visvesvaraya, an outstanding engineer and statesman."
 categories:
   - festivals

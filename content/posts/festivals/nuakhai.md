@@ -1,5 +1,6 @@
 ---
 title: "Nuakhai"
+date: 2024-12-01
 description: "An agricultural festival celebrated in Western Odisha and nearby areas of Simdega (Jharkhand) to welcome the new rice of the season."
 categories:
   - festivals

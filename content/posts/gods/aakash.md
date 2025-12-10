@@ -1,5 +1,6 @@
 ---
 title: "Aakash"
+date: 2024-12-01
 description: "A deity associated with the sky or space."
 image: images/image_aakash.png
 categories:

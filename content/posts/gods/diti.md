@@ -1,5 +1,6 @@
 ---
 title: "Diti"
+date: 2024-12-01
 description: "Mother of the Daityas (demons), sister of Aditi."
 image: images/image_diti.png
 categories:

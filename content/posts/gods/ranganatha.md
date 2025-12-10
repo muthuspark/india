@@ -1,5 +1,6 @@
 ---
 title: "Ranganatha"
+date: 2024-12-01
 description: "A reclining form of Vishnu, particularly worshipped in South India."
 image: images/image_ranganatha.png
 categories:

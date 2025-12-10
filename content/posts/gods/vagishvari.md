@@ -1,5 +1,6 @@
 ---
 title: "Vagishvari"
+date: 2024-12-01
 description: "A form of Saraswati representing mastery of speech and expression."
 image: images/image_vagishvari.png
 categories:

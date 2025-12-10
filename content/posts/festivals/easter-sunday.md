@@ -1,5 +1,6 @@
 ---
 title: "Easter Sunday"
+date: 2024-12-01
 description: "Celebrates the resurrection of Jesus Christ from the dead. Christians attend special church services and share festive meals."
 categories:
   - festivals

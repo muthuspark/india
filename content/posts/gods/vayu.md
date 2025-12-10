@@ -1,5 +1,6 @@
 ---
 title: "Vayu"
+date: 2024-12-01
 description: "The god of wind and air, father of Hanuman and Bhima."
 image: images/image_vayu.png
 categories:

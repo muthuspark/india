@@ -1,5 +1,6 @@
 ---
 title: "Ayyappan"
+date: 2024-12-01
 description: "A Hindu deity believed to be an incarnation of Dharma Sasta, offspring of Shiva and Vishnu (as Mohini), generally depicted in a yogic posture."
 image: images/image_ayyappan.png
 categories:

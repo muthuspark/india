@@ -1,5 +1,6 @@
 ---
 title: "Yaksheshvara"
+date: 2024-12-01
 description: "The lord of the Yakshas, another name for Kubera."
 image: images/image_yaksheshvara.png
 categories:

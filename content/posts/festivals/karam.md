@@ -1,5 +1,6 @@
 ---
 title: "Karam"
+date: 2024-12-01
 description: "A harvest festival celebrated in parts of Jharkhand, West Bengal, and Odisha, involving the worship of Karam Devta for prosperity."
 categories:
   - festivals

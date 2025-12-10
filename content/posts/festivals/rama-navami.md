@@ -1,5 +1,6 @@
 ---
 title: "Rama Navami"
+date: 2024-12-01
 description: "Celebrates the birth of Lord Rama, the seventh avatar of Vishnu and the protagonist of the epic Ramayana."
 categories:
   - festivals

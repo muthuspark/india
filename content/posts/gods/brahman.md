@@ -1,5 +1,6 @@
 ---
 title: "Brahman"
+date: 2024-12-01
 description: "The ultimate reality, the infinite, unchanging, eternal, absolute principlethe unchanging reality amidst and beyond the world."
 image: images/image_brahman.png
 categories:

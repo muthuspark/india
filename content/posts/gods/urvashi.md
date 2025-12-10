@@ -1,5 +1,6 @@
 ---
 title: "Urvashi"
+date: 2024-12-01
 description: "A celestial nymph (Apsara) known for her beauty and dance skills."
 image: images/image_urvashi.png
 categories:

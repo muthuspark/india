@@ -1,5 +1,6 @@
 ---
 title: "Skanda"
+date: 2024-12-01
 description: "Also known as Kartikeya, the god of war, son of Shiva and Parvati."
 image: images/image_skanda.png
 categories:

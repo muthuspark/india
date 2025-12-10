@@ -1,5 +1,6 @@
 ---
 title: "Diwali (Jainism)"
+date: 2024-12-01
 description: "Marks the attainment of moksha by Lord Mahavira. In Jainism, it's celebrated as a spiritual awakening rather than with fireworks and lights."
 categories:
   - festivals

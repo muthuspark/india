@@ -1,5 +1,6 @@
 ---
 title: "Kartik Purnima"
+date: 2024-12-01
 description: "A holy day celebrated on the full moon day of the Kartik month, associated with various legends including the Samudra Manthan."
 categories:
   - festivals

@@ -1,5 +1,6 @@
 ---
 title: "Vishvakarma Puja"
+date: 2024-12-01
 description: "A day when craftsmen worship their tools and machinery in honor of Vishvakarma, the divine architect and deity of all craftsmen and architects."
 categories:
   - festivals

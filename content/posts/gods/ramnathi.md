@@ -1,5 +1,6 @@
 ---
 title: "Ramnathi"
+date: 2024-12-01
 description: "A regional form of Rama worshipped in Goa and Konkan regions."
 image: images/image_ramnathi.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Vishu"
+date: 2024-12-01
 description: "Malayalam New Year celebrated in Kerala, characterized by the Vishukkani arrangement, a ritual display of auspicious items."
 categories:
   - festivals

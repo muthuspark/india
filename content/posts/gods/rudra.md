@@ -1,5 +1,6 @@
 ---
 title: "Rudra"
+date: 2024-12-01
 description: "The fierce form of Shiva, associated with storms and destruction."
 image: images/image_rudra.png
 categories:

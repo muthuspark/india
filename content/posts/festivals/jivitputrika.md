@@ -1,5 +1,6 @@
 ---
 title: "Jivitputrika"
+date: 2024-12-01
 description: "Also known as Jitiya, a festival where mothers observe rigorous fasting for the long life and well-being of their children."
 categories:
   - festivals

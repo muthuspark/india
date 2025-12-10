@@ -1,5 +1,6 @@
 ---
 title: "Chandra"
+date: 2024-12-01
 description: "The moon god, known for his influence over the mind and emotions."
 image: images/image_chandra.png
 categories:

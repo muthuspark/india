@@ -1,5 +1,6 @@
 ---
 title: "Varuna"
+date: 2024-12-01
 description: "The god of water, oceans, rivers, and aquatic creatures."
 image: images/image_varuna.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Vaishvanara"
+date: 2024-12-01
 description: "A form of Agni representing the cosmic digestive fire."
 image: images/image_vaishvanara.png
 categories:

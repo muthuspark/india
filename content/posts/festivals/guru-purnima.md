@@ -1,5 +1,6 @@
 ---
 title: "Guru Purnima"
+date: 2024-12-01
 description: "A day to honor spiritual and academic teachers, celebrated on the full moon day in the Hindu month of Ashadha."
 categories:
   - festivals

@@ -1,5 +1,6 @@
 ---
 title: "Ugratara"
+date: 2024-12-01
 description: "A fierce form of Tara worshipped in Tantric traditions."
 image: images/image_ugratara.png
 categories:

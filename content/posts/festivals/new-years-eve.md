@@ -1,5 +1,6 @@
 ---
 title: "New Year's Eve"
+date: 2024-12-01
 description: "Celebration marking the end of the year in the Gregorian calendar and the beginning of a new year."
 categories:
   - festivals

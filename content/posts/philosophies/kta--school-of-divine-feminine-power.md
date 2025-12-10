@@ -1,5 +1,6 @@
 ---
 title: "Śākta – School of Divine Feminine Power"
+date: 2024-12-01
 description: "Centered on worship of the Divine Mother (Devi/Shakti), Śākta philosophy views the ultimate reality as feminine. It teaches that Shakti is both the material and efficient cause of creation and emphasizes the active principle of divinity. Major texts include the Devi Mahatmya and various Tantras."
 categories:
   - philosophies

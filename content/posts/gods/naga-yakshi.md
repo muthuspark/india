@@ -1,5 +1,6 @@
 ---
 title: "Naga Yakshi"
+date: 2024-12-01
 description: "Female nature spirits associated with trees and fertility, with serpent qualities."
 image: images/image_naga-yakshi.png
 categories:

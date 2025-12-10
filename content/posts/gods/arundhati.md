@@ -1,5 +1,6 @@
 ---
 title: "Arundhati"
+date: 2024-12-01
 description: "Wife of the sage Vashista, identified with the morning star and also with the star Alcor which forms a double star with Mizar in Ursa Major."
 image: images/image_arundhati.png
 categories:

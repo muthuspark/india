@@ -1,5 +1,6 @@
 ---
 title: "Dyaus Pita"
+date: 2024-12-01
 description: "The sky father, an ancient Vedic deity."
 image: images/image_dyaus-pita.png
 categories:

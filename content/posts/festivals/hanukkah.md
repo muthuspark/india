@@ -1,5 +1,6 @@
 ---
 title: "Hanukkah"
+date: 2024-12-01
 description: "An eight-day Jewish festival of lights celebrated by lighting the menorah, playing dreidel, and eating oil-based foods."
 categories:
   - festivals

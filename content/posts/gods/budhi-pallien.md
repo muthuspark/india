@@ -1,5 +1,6 @@
 ---
 title: "Budhi Pallien"
+date: 2024-12-01
 description: "A regional tribal deity associated with wisdom and protection."
 image: images/image_budhi-pallien.png
 categories:

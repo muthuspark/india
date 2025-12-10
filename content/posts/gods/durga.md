@@ -1,5 +1,6 @@
 ---
 title: "Durga"
+date: 2024-12-01
 description: "A warrior form of goddess Parvati, who combats evils and demonic forces."
 image: images/image_durga.png
 categories:

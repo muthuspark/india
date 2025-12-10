@@ -1,5 +1,6 @@
 ---
 title: "Eid al-Fitr"
+date: 2024-12-01
 description: "A celebration marking the end of Ramadan, the month of fasting. It's a time for prayer, feast, charity, and spending time with family and friends."
 categories:
   - festivals

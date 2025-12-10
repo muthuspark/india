@@ -1,5 +1,6 @@
 ---
 title: "Deva"
+date: 2024-12-01
 description: "General term for divine beings or deities in Hinduism."
 image: images/image_deva.png
 categories:

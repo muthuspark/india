@@ -1,5 +1,6 @@
 ---
 title: "Jagannath"
+date: 2024-12-01
 description: "A form of Vishnu or Krishna, particularly worshipped in Odisha."
 image: images/image_jagannath.png
 categories:

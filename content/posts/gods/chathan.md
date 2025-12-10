@@ -1,5 +1,6 @@
 ---
 title: "Chathan"
+date: 2024-12-01
 description: "A regional guardian deity popular in Kerala."
 image: images/image_chathan.png
 categories:

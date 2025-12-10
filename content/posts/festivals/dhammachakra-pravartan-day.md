@@ -1,5 +1,6 @@
 ---
 title: "Dhammachakra Pravartan Day"
+date: 2024-12-01
 description: "Commemorates Dr. B.R. Ambedkar's conversion to Buddhism along with his followers, marking a significant moment in modern Buddhist history in India."
 categories:
   - festivals

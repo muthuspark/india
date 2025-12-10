@@ -1,5 +1,6 @@
 ---
 title: "Mīmāṃsā – School of Vedic Exegesis and Ritual"
+date: 2024-12-01
 description: "Founded by Jaimini (3rd century BCE), Mīmāṃsā (also called Pūrva Mīmāṃsā) focuses on the correct interpretation of Vedic rituals and texts. It developed hermeneutic principles, linguistic analysis, and a unique theory of intrinsic validity of knowledge (svataḥ prāmāṇya)."
 categories:
   - philosophies

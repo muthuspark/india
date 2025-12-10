@@ -1,5 +1,6 @@
 ---
 title: "Santoshi Mata"
+date: 2024-12-01
 description: "A relatively modern goddess of satisfaction and contentment."
 image: images/image_santoshi-mata.png
 categories:

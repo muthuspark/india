@@ -1,5 +1,6 @@
 ---
 title: "Adimurti"
+date: 2024-12-01
 description: "One of Vishnu's avatars, representing the primal form."
 image: images/image_adimurti.png
 categories:

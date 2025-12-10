@@ -1,5 +1,6 @@
 ---
 title: "Ratha Saptami"
+date: 2024-12-01
 description: "Also known as Surya Jayanti, celebrating the birth of the Sun God. Devotees take ritual baths at sunrise."
 categories:
   - festivals

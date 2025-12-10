@@ -1,5 +1,6 @@
 ---
 title: "Garuda"
+date: 2024-12-01
 description: "The eagle mount of Vishnu, enemy of serpents."
 image: images/image_garuda.png
 categories:

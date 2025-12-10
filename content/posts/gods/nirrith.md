@@ -1,5 +1,6 @@
 ---
 title: "Nirrith"
+date: 2024-12-01
 description: "The goddess of destruction and bad fortune."
 image: images/image_nirrith.png
 categories:

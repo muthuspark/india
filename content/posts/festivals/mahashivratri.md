@@ -1,5 +1,6 @@
 ---
 title: "Mahashivratri"
+date: 2024-12-01
 description: "The great night of Shiva, a Hindu festival celebrated annually in honor of Lord Shiva. Devotees stay awake all night in meditation and prayer."
 categories:
   - festivals

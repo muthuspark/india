@@ -1,5 +1,6 @@
 ---
 title: "Pusnâ"
+date: 2024-12-01
 description: "A tribal harvest festival celebrated in parts of Chhattisgarh, particularly by the Baiga tribe."
 categories:
   - festivals

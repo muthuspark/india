@@ -1,5 +1,6 @@
 ---
 title: "Narasimha"
+date: 2024-12-01
 description: "The man-lion avatar of Vishnu who came to destroy the demon Hiranyakashipu."
 image: images/image_narasimha.png
 categories:

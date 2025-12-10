@@ -1,5 +1,6 @@
 ---
 title: "Elephant Festival"
+date: 2024-12-01
 description: "Held in Jaipur, Rajasthan, this colorful festival features decorated elephants, elephant polo, and various cultural performances."
 categories:
   - festivals

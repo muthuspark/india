@@ -1,5 +1,6 @@
 ---
 title: "Dhara"
+date: 2024-12-01
 description: "One of the Vasus, associated with the earth."
 image: images/image_dhara.png
 categories:

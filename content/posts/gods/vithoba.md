@@ -1,5 +1,6 @@
 ---
 title: "Vithoba"
+date: 2024-12-01
 description: "A form of Krishna or Vishnu worshipped in Maharashtra."
 image: images/image_vithoba.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Vatuka Bhairava"
+date: 2024-12-01
 description: "A youthful form of Bhairava, particularly worshipped in Tantric traditions."
 image: images/image_vatuka-bhairava.png
 categories:

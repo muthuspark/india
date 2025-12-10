@@ -1,5 +1,6 @@
 ---
 title: "Hindi Diwas"
+date: 2024-12-01
 description: "Celebrated on September 14 to commemorate the adoption of Hindi as one of the official languages of India."
 categories:
   - festivals

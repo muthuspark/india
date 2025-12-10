@@ -1,5 +1,6 @@
 ---
 title: "Dhumavati"
+date: 2024-12-01
 description: "The widow form of goddess, representing disappointment and failure."
 image: images/image_dhumavati.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Subrahmanya"
+date: 2024-12-01
 description: "Another name for Kartikeya or Murugan, especially in South India."
 image: images/image_subrahmanya.png
 categories:

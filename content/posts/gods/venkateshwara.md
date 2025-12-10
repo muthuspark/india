@@ -1,5 +1,6 @@
 ---
 title: "Venkateshwara"
+date: 2024-12-01
 description: "A form of Vishnu particularly worshipped at Tirupati."
 image: images/image_venkateshwara.png
 categories:

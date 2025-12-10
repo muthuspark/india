@@ -1,5 +1,6 @@
 ---
 title: "Anila"
+date: 2024-12-01
 description: "One of the Vasus, gods of the elements of the cosmos. Equated with the wind god Vāyu."
 image: images/image_anila.png
 categories:

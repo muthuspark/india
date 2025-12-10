@@ -1,5 +1,6 @@
 ---
 title: "Onam"
+date: 2024-12-01
 description: "A harvest festival of Kerala celebrating the mythical King Mahabali's annual visit. Features elaborate flower carpets, boat races, and feasts."
 categories:
   - festivals

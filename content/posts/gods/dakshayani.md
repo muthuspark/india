@@ -1,5 +1,6 @@
 ---
 title: "Dakshayani"
+date: 2024-12-01
 description: "Another name for Sati, Shiva's first consort and Daksha's daughter."
 image: images/image_dakshayani.png
 categories:

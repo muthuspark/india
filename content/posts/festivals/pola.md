@@ -1,5 +1,6 @@
 ---
 title: "Pola"
+date: 2024-12-01
 description: "A bull worship festival celebrated in Maharashtra and parts of Madhya Pradesh, honoring the importance of bulls in agriculture."
 categories:
   - festivals

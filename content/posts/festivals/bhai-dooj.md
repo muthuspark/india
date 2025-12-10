@@ -1,5 +1,6 @@
 ---
 title: "Bhai Dooj"
+date: 2024-12-01
 description: "A festival celebrating the bond between brothers and sisters, where sisters pray for their brothers' long life and prosperity."
 categories:
   - festivals

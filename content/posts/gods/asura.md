@@ -1,5 +1,6 @@
 ---
 title: "Asura"
+date: 2024-12-01
 description: "Non-suras, a different group of power-seeking deities, sometimes considered naturalists or nature-beings, forces of chaos in constant battle with the Devas."
 image: images/image_asura.png
 categories:

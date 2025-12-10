@@ -1,5 +1,6 @@
 ---
 title: "Shaiva Siddhānta – School of Theistic Shaivism"
+date: 2024-12-01
 description: "Systematized by Meykandar (13th century CE) in Tamil Nadu, Shaiva Siddhānta posits three eternal entities: God (Pati/Shiva), souls (pashu), and bonds (pasha). It teaches that souls must remove the bonds of ignorance through Shiva's grace to achieve liberation (mukti)."
 categories:
   - philosophies

@@ -1,5 +1,6 @@
 ---
 title: "Ratha Yatra"
+date: 2024-12-01
 description: "Also known as the Chariot Festival, particularly famous at Puri, where deities are placed on elaborately decorated chariots and pulled through the streets."
 categories:
   - festivals

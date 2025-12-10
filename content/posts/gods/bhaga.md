@@ -1,5 +1,6 @@
 ---
 title: "Bhaga"
+date: 2024-12-01
 description: "One of the Adityas, associated with wealth, marriage, and prosperity."
 image: images/image_bhaga.png
 categories:

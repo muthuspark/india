@@ -1,5 +1,6 @@
 ---
 title: "Parasiva"
+date: 2024-12-01
 description: "The transcendent aspect of Shiva beyond all forms and attributes."
 image: images/image_parasiva.png
 categories:

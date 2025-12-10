@@ -1,5 +1,6 @@
 ---
 title: "Vasant Panchami"
+date: 2024-12-01
 description: "Marks the beginning of spring and is dedicated to Goddess Saraswati, the deity of knowledge, music, arts, and science."
 categories:
   - festivals

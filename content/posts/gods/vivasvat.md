@@ -1,5 +1,6 @@
 ---
 title: "Vivasvat"
+date: 2024-12-01
 description: "Another name for Surya, emphasizing his brilliant radiance."
 image: images/image_vivasvat.png
 categories:

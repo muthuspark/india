@@ -1,5 +1,6 @@
 ---
 title: "Zarizari"
+date: 2024-12-01
 description: "A folk deity from coastal regions associated with protection against disease."
 image: images/image_zarizari.png
 categories:

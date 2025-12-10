@@ -1,5 +1,6 @@
 ---
 title: "Carnival"
+date: 2024-12-01
 description: "A pre-Lenten festival celebrated mainly in Goa with parades, music, dance, and colorful costumes, reflecting Portuguese cultural influence."
 categories:
   - festivals

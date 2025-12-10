@@ -1,5 +1,6 @@
 ---
 title: "Anumati"
+date: 2024-12-01
 description: "Lunar deity and goddess of wealth, intellect, children, spirituality, and prosperity. Her vehicle is Blackbuck."
 image: images/image_anumati.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Ananta Chaturdashi"
+date: 2024-12-01
 description: "The final day of the Ganesh festival when idols are immersed in water. Also marks the worship of Lord Vishnu in his Ananta (infinite) form."
 categories:
   - festivals

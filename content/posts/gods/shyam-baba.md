@@ -1,5 +1,6 @@
 ---
 title: "Shyam baba"
+date: 2024-12-01
 description: "A regional name for Krishna, particularly worshipped in north India."
 image: images/image_shyam-baba.png
 categories:

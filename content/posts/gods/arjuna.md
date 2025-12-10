@@ -1,5 +1,6 @@
 ---
 title: "Arjuna"
+date: 2024-12-01
 description: "The third of the Pandavas, the sons and princes of Pandu, who with Krishna, is considered to be the hero of the Hindu epic Mahabharata."
 image: images/image_arjuna.png
 categories:

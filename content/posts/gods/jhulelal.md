@@ -1,5 +1,6 @@
 ---
 title: "Jhulelal"
+date: 2024-12-01
 description: "The river deity of Sindhi Hindus, associated with the Indus River."
 image: images/image_jhulelal.png
 categories:

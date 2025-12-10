@@ -1,5 +1,6 @@
 ---
 title: "Indian Republic Day"
+date: 2024-12-01
 description: "National holiday celebrated on January 26 to mark the day when the Constitution of India came into effect in 1950."
 categories:
   - festivals

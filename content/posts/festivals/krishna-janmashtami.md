@@ -1,5 +1,6 @@
 ---
 title: "Krishna Janmashtami"
+date: 2024-12-01
 description: "Another name for Janmashtami, celebrating the birth of Lord Krishna, the eighth avatar of Vishnu."
 categories:
   - festivals

@@ -1,5 +1,6 @@
 ---
 title: "Valli"
+date: 2024-12-01
 description: "A tribal princess who became the consort of Murugan (Kartikeya)."
 image: images/image_valli.png
 categories:

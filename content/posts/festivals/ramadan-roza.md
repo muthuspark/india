@@ -1,5 +1,6 @@
 ---
 title: "Ramadan (Roza)"
+date: 2024-12-01
 description: "The Islamic holy month of fasting, prayer, reflection, and community. Muslims fast from dawn until sunset."
 categories:
   - festivals

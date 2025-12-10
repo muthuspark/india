@@ -1,5 +1,6 @@
 ---
 title: "Hornbill Festival"
+date: 2024-12-01
 description: "Annual cultural festival in Nagaland showcasing the rich heritage and traditions of the diverse Naga tribes."
 categories:
   - festivals

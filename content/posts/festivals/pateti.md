@@ -1,5 +1,6 @@
 ---
 title: "Pateti"
+date: 2024-12-01
 description: "Parsi New Year marking the creation of fire and the defeat of evil. Celebrated with house cleaning, new clothes, and feasting."
 categories:
   - festivals

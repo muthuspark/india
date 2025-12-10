@@ -1,5 +1,6 @@
 ---
 title: "Parashurama"
+date: 2024-12-01
 description: "The axe-wielding warrior avatar of Vishnu."
 image: images/image_parashurama.png
 categories:

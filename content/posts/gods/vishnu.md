@@ -1,5 +1,6 @@
 ---
 title: "Vishnu"
+date: 2024-12-01
 description: "The preserver god in Hinduism, one of the Trimurti."
 image: images/image_vishnu.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Janmashtami"
+date: 2024-12-01
 description: "Celebrates the birth of Lord Krishna with fasting, singing, dancing, and the tradition of Dahi Handi (breaking a pot of curd)."
 categories:
   - festivals

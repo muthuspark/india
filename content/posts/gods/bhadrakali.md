@@ -1,5 +1,6 @@
 ---
 title: "Bhadrakali"
+date: 2024-12-01
 description: "A fierce but auspicious form of Goddess Kali."
 image: images/image_bhadrakali.png
 categories:

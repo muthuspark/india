@@ -1,5 +1,6 @@
 ---
 title: "Ahoi Ashtami"
+date: 2024-12-01
 description: "A festival observed by mothers for the well-being of their children, involving fasting and prayers to Goddess Ahoi."
 categories:
   - festivals

@@ -1,5 +1,6 @@
 ---
 title: "Perumal"
+date: 2024-12-01
 description: "A South Indian name for Vishnu, especially in Tamil traditions."
 image: images/image_perumal.png
 categories:

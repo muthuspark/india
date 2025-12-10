@@ -1,5 +1,6 @@
 ---
 title: "Cārvāka/Lokāyata – School of Materialism and Empiricism"
+date: 2024-12-01
 description: "Attributed to Brihaspati (6th century BCE), Cārvāka was a materialist and skeptical school that rejected supernatural elements, afterlife, karma, and religious rituals. It accepted only direct perception (pratyakṣa) as a valid means of knowledge and advocated hedonism as the purpose of life."
 categories:
   - philosophies

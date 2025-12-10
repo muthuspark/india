@@ -1,5 +1,6 @@
 ---
 title: "Sita"
+date: 2024-12-01
 description: "The consort of Rama, embodiment of wifely and feminine virtues in Hindu tradition."
 image: images/image_sita.png
 categories:

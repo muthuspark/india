@@ -1,5 +1,6 @@
 ---
 title: "Balaji"
+date: 2024-12-01
 description: "A popular name for Lord Venkateshwara, a form of Vishnu."
 image: images/image_balaji.png
 categories:

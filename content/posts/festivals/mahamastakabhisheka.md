@@ -1,5 +1,6 @@
 ---
 title: "Mahamastakabhisheka"
+date: 2024-12-01
 description: "The head anointing ceremony of the Jain statue of Lord Gommateshwara at Shravanabelagola, performed once every 12 years."
 categories:
   - festivals

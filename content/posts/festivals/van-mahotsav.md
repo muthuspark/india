@@ -1,5 +1,6 @@
 ---
 title: "Van Mahotsav"
+date: 2024-12-01
 description: "Annual tree-planting festival celebrated in July, raising awareness about forest conservation and the importance of trees."
 categories:
   - festivals

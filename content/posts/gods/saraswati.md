@@ -1,5 +1,6 @@
 ---
 title: "Saraswati"
+date: 2024-12-01
 description: "Goddess of knowledge, music, arts, wisdom, and learning."
 image: images/image_saraswati.png
 categories:

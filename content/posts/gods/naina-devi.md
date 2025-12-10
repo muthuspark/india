@@ -1,5 +1,6 @@
 ---
 title: "Naina Devi"
+date: 2024-12-01
 description: "A form of Goddess Sati, associated with her eyes that fell at the sacred site."
 image: images/image_naina-devi.png
 categories:

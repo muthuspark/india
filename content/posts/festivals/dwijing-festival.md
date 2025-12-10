@@ -1,5 +1,6 @@
 ---
 title: "Dwijing Festival"
+date: 2024-12-01
 description: "An annual river festival celebrated in Assam along the banks of the Aie River to promote tourism and local culture."
 categories:
   - festivals

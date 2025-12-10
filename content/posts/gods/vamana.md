@@ -1,5 +1,6 @@
 ---
 title: "Vamana"
+date: 2024-12-01
 description: "The dwarf avatar of Vishnu who humbled King Bali."
 image: images/image_vamana.png
 categories:

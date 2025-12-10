@@ -1,5 +1,6 @@
 ---
 title: "Parakram Diwas"
+date: 2024-12-01
 description: "Celebrated on January 23 to commemorate the birth anniversary of freedom fighter Netaji Subhas Chandra Bose."
 categories:
   - festivals

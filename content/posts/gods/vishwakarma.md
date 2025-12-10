@@ -1,5 +1,6 @@
 ---
 title: "Vishwakarma"
+date: 2024-12-01
 description: "The divine architect and craftsman, builder of gods' palaces."
 image: images/image_vishwakarma.png
 categories:

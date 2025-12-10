@@ -1,5 +1,6 @@
 ---
 title: "Mahavir Janma Kalyanak"
+date: 2024-12-01
 description: "Celebrates the birth of Lord Mahavira, the 24th Tirthankara and founder of modern Jainism."
 categories:
   - festivals

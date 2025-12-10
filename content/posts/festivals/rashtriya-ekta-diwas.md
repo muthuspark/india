@@ -1,5 +1,6 @@
 ---
 title: "Rashtriya Ekta Diwas"
+date: 2024-12-01
 description: "National Unity Day celebrated on October 31 to commemorate the birth anniversary of Sardar Vallabhbhai Patel."
 categories:
   - festivals

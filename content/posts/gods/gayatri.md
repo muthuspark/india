@@ -1,5 +1,6 @@
 ---
 title: "Gayatri"
+date: 2024-12-01
 description: "Personification of the Gayatri mantra, consort of Brahma."
 image: images/image_gayatri.png
 categories:

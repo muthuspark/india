@@ -1,5 +1,6 @@
 ---
 title: "Buddha"
+date: 2024-12-01
 description: "Considered an avatar of Vishnu in some Hindu traditions."
 image: images/image_buddha.png
 categories:

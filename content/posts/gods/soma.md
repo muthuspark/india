@@ -1,5 +1,6 @@
 ---
 title: "Soma"
+date: 2024-12-01
 description: "The deity of the Moon, plants, and inspiration."
 image: images/image_soma.png
 categories:

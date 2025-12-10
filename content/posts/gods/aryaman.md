@@ -1,5 +1,6 @@
 ---
 title: "Aryaman"
+date: 2024-12-01
 description: "An early Vedic deity, whose name signifies 'bosom friend'. The third son of Aditi, an Aditya, a solar deity, chief of the manes, and the Milky Way is supposed to be his path."
 image: images/image_aryaman.png
 categories:

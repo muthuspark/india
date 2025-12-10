@@ -1,5 +1,6 @@
 ---
 title: "Acyutah"
+date: 2024-12-01
 description: "Another name of Vishnu, meaning 'the infallible' or 'the imperishable'."
 image: images/image_acyutah.png
 categories:

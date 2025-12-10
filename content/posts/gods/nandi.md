@@ -1,5 +1,6 @@
 ---
 title: "Nandi"
+date: 2024-12-01
 description: "The sacred bull who serves as the mount and gatekeeper of Lord Shiva."
 image: images/image_nandi.png
 categories:

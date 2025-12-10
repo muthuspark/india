@@ -1,5 +1,6 @@
 ---
 title: "Yogeshvara"
+date: 2024-12-01
 description: "A form of Shiva as the lord of yoga and meditation."
 image: images/image_yogeshvara.png
 categories:

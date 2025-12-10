@@ -1,5 +1,6 @@
 ---
 title: "Ushas"
+date: 2024-12-01
 description: "The goddess of dawn."
 image: images/image_ushas.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Yamini"
+date: 2024-12-01
 description: "A goddess of night and darkness."
 image: images/image_yamini.png
 categories:

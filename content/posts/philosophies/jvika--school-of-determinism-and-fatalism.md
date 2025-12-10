@@ -1,5 +1,6 @@
 ---
 title: "Ājīvika – School of Determinism and Fatalism"
+date: 2024-12-01
 description: "Founded by Makkhali Gosala (6th century BCE), Ājīvika taught a doctrine of complete determinism and fatalism (niyati). It denied free will and karma, asserting that all beings progress through a predetermined cycle of 8.4 million rebirths before automatically attaining liberation."
 categories:
   - philosophies

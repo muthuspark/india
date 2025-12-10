@@ -1,5 +1,6 @@
 ---
 title: "Haldi Kumkum"
+date: 2024-12-01
 description: "A social gathering of women during Sankranti where they exchange haldi (turmeric) and kumkum (vermilion) as symbols of goodwill."
 categories:
   - festivals

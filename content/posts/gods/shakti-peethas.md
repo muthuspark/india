@@ -1,5 +1,6 @@
 ---
 title: "Shakti Peethas"
+date: 2024-12-01
 description: "Sacred sites where parts of Sati's body fell, each housing a form of the goddess."
 image: images/image_shakti-peethas.png
 categories:

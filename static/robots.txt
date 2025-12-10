@@ -1,0 +1,26 @@
+# robots.txt for india.muthu.co
+# https://india.muthu.co/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://india.muthu.co/sitemap.xml
+
+# Crawl-delay (optional, be gentle on server)
+Crawl-delay: 1
+
+# Disallow low-value pages to save crawl budget
+Disallow: /page/
+Disallow: /tags/
+Disallow: /categories/
+
+# Allow important assets
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+# Block search results pages
+Disallow: /*?q=
+Disallow: /*?s=
+Disallow: /*?search=

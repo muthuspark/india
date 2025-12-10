@@ -1,5 +1,6 @@
 ---
 title: "Daksha"
+date: 2024-12-01
 description: "One of the Prajapatis, father of Sati, Shiva's first consort."
 image: images/image_daksha.png
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Yama"
+date: 2024-12-01
 description: "The god of death and justice, who judges souls after death."
 image: images/image_yama.png
 categories:

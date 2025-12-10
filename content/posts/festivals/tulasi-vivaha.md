@@ -1,5 +1,6 @@
 ---
 title: "Tulasi Vivaha"
+date: 2024-12-01
 description: "A ceremonial marriage of the Tulasi plant (holy basil) to Lord Vishnu or his avatar Krishna, marking the end of monsoon and beginning of wedding season."
 categories:
   - festivals

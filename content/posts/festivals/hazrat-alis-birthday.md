@@ -1,5 +1,6 @@
 ---
 title: "Hazrat Ali's Birthday"
+date: 2024-12-01
 description: "Celebration of the birth of Hazrat Ali, cousin and son-in-law of Prophet Muhammad, particularly significant for Shia Muslims."
 categories:
   - festivals

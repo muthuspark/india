@@ -1,5 +1,6 @@
 ---
 title: "Tripura Sundari"
+date: 2024-12-01
 description: "One of the Mahavidyas, the beautiful goddess of the three worlds."
 image: images/image_tripura-sundari.png
 categories:

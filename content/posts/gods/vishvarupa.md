@@ -1,5 +1,6 @@
 ---
 title: "Vishvarupa"
+date: 2024-12-01
 description: "The universal form of Krishna or Vishnu revealing all of existence."
 image: images/image_vishvarupa.png
 categories:

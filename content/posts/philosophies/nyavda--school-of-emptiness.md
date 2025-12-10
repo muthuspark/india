@@ -1,5 +1,6 @@
 ---
 title: "Śūnyavāda – School of Emptiness"
+date: 2024-12-01
 description: "A Madhyamaka Buddhist philosophy expounded by Nagarjuna (2nd century CE), teaching that all phenomena are empty (śūnya) of inherent existence. It uses dialectical analysis to refute all metaphysical positions and reveal the middle way between eternalism and nihilism."
 categories:
   - philosophies

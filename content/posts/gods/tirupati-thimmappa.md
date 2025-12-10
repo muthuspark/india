@@ -1,5 +1,6 @@
 ---
 title: "Tirupati Thimmappa"
+date: 2024-12-01
 description: "Another name for Lord Venkateshwara at Tirupati."
 image: images/image_tirupati-thimmappa.png
 categories:

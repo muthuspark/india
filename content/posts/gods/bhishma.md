@@ -1,5 +1,6 @@
 ---
 title: "Bhishma"
+date: 2024-12-01
 description: "A noble character from the Mahabharata known for his oath of celibacy and loyalty."
 image: images/image_bhishma.png
 categories:

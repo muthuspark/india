@@ -1,5 +1,6 @@
 ---
 title: "Yakshini"
+date: 2024-12-01
 description: "Female nature spirits known for their beauty and association with trees and fertility."
 image: images/image_yakshini.png
 categories:

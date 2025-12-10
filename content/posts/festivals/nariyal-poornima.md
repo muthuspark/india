@@ -1,5 +1,6 @@
 ---
 title: "Nariyal Poornima"
+date: 2024-12-01
 description: "Also known as Coconut Day, a festival celebrated by the fishing communities to mark the beginning of the fishing season after monsoon."
 categories:
   - festivals
